@@ -111,7 +111,9 @@ fig.savefig(SORTIE / "comparaison_longueurs.png", dpi=150)
 pbr, pfr = lire_corpus(PAIRES["br"]), lire_corpus(PAIRES["fr"])
 paires = pbr[["id", "mots"]].merge(pfr[["id", "mots"]], on="id", suffixes=("_br", "_fr"))
 paires["rapport_br_fr"] = paires["mots_br"] / paires["mots_fr"]
-print(f"{len(paires)} paires ; l'article breton fait en médiane "
+print(f"{len(paires)} paires : {paires['mots_br'].sum()} mots en breton, "
+      f"{paires['mots_fr'].sum()} en français")
+print(f"L'article breton fait en médiane "
       f"{paires['rapport_br_fr'].median():.0%} de l'article français")
 print("Paires où le breton est plus long :",
       (paires["rapport_br_fr"] > 1).sum(), "\n")
@@ -127,15 +129,35 @@ fig.tight_layout()
 fig.savefig(SORTIE / "comparaison_paires.png", dpi=150)
 
 
-# %% 8. Écrire la synthèse en Markdown
+# %% 8. Avoir un équivalent n'est pas être dans l'autre corpus
+# Les versions françaises des paires sont-elles dans le corpus français ?
+# On compare les titres exacts, pris dans les fichiers de métadonnées.
+meta_paires = pd.read_csv(PAIRES["fr"].with_name(PAIRES["fr"].stem + "_metadonnees.csv"))
+titres_fr = set(articles.query("langue == 'fr'")["titre"])
+meta_paires["dans_corpus_fr"] = meta_paires["titre"].isin(titres_fr)
+n_dedans = int(meta_paires["dans_corpus_fr"].sum())
+print(f"Versions françaises des paires présentes dans le corpus français : "
+      f"{n_dedans} sur {len(meta_paires)}")
+absentes = sorted(meta_paires.loc[~meta_paires["dans_corpus_fr"], "titre"])
+print("Exemples d'absentes :", " ; ".join(absentes[:10]), "\n")
+
+
+# %% 9. Écrire la synthèse en Markdown
 with open(SORTIE / "comparaison_synthese.md", "w", encoding="utf-8") as f:
     f.write("# Synthèse de la comparaison\n\n## Taille des corpus\n\n")
     f.write(taille.to_markdown() + "\n\n## Équivalents dans l'autre langue\n\n")
     f.write(equiv.to_markdown() + "\n\n## Articles par terme de recherche\n\n")
     f.write(termes.to_markdown(index=False) + "\n\n## Longueur selon *equiv_\n\n")
     f.write(longueur.to_markdown() + "\n\n## Paires fr/br\n\n")
-    f.write(f"- {len(paires)} paires\n- rapport médian br/fr : "
-            f"{paires['rapport_br_fr'].median():.2f}\n")
+    f.write(f"- {len(paires)} paires : {paires['mots_br'].sum()} mots en breton, "
+            f"{paires['mots_fr'].sum()} en français\n- rapport médian br/fr : "
+            f"{paires['rapport_br_fr'].median():.2f}\n"
+            f"- paires où l'article breton est plus long : "
+            f"{(paires['rapport_br_fr'] > 1).sum()}\n"
+            f"- versions françaises présentes dans le corpus français : "
+            f"{n_dedans} sur {len(meta_paires)}\n")
+    f.write("\n## Versions françaises des paires absentes du corpus français\n\n")
+    f.write(" ; ".join(absentes) + "\n")
     if (pbr_non := articles.query("langue == 'br' and equivalent == 'non'")).shape[0]:
         f.write("\n## Articles bretons sans équivalent français\n\n")
         for _, a in pbr_non.sort_values("mots", ascending=False).iterrows():

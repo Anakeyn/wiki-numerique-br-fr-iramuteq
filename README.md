@@ -16,11 +16,11 @@ Ce dépôt accompagne l'article de blog du même nom. C'est le dernier d'une sé
 
 | Fichier | Contenu | Articles |
 |---|---|---|
-| `corpus/br/wikipedia_br_numerique_pret.txt` | Corpus breton, préparé pour le dictionnaire breton (UTF-8) | 156 |
-| `corpus/br/wikipedia_br_numerique_pret_windows.txt` | Le même, en Windows-1252 | 156 |
-| `corpus/fr/wikipedia_fr_numerique_nettoye.txt` | Corpus français nettoyé | 1 159 |
-| `corpus/paires/wikipedia_br_paires_pret.txt` | Articles bretons qui ont un équivalent français, préparés | 137 |
-| `corpus/paires/wikipedia_fr_aligne_sur_br_numerique_filtre.txt` | Leurs versions françaises (même `*id_`) | 137 |
+| `corpus/br/wikipedia_br_numerique_pret.txt` | **Analyse 1** : corpus breton, préparé pour le dictionnaire breton (UTF-8) | 123 |
+| `corpus/br/wikipedia_br_numerique_pret_windows.txt` | Le même, en Windows-1252 | 123 |
+| `corpus/paires/wikipedia_fr_aligne_sur_br_numerique_filtre.txt` | **Analyse 2** : versions françaises des articles bretons qui ont un équivalent (même `*id_`) | 109 |
+| `corpus/paires/wikipedia_br_paires_pret.txt` | Les 109 articles bretons correspondants, préparés | 109 |
+| `corpus/fr/wikipedia_fr_numerique_nettoye.txt` | Contexte : échantillon de la Wikipédia française sur le numérique, issu de sa propre recherche | 1 159 |
 | `resultats/comparaison_synthese.md` | Tableaux de comparaison des deux corpus | |
 | `resultats/comparaison_longueurs.png`, `comparaison_paires.png` | Graphiques | |
 
@@ -29,10 +29,10 @@ Les corpus bretons non préparés (`*_filtre.txt`) et tous les fichiers de méta
 **Pour récupérer un fichier :** sur GitHub, cliquez sur le fichier, puis sur *Download raw file*. Vous pouvez aussi récupérer tout le dépôt avec **Code → Download ZIP**.
 
 **Pour l'ouvrir dans IRaMuTeQ :** *Fichier → Ouvrir un corpus*.
-- Corpus breton : installez d'abord le dictionnaire breton, comme expliqué dans [Apertium2iramuteq-bretonV2](https://github.com/Anakeyn/Apertium2iramuteq-bretonV2), puis choisissez la langue **breton**.
+- Corpus breton : encodage **utf-8** (ou **cp1252** pour la version Windows), langue **autre**, dictionnaire **Autre** en désignant `lexique_br.txt` d'[Apertium2iramuteq-bretonV2](https://github.com/Anakeyn/Apertium2iramuteq-bretonV2), et décochez **Utiliser le dictionnaire des expressions** : les expressions sont déjà soudées. Si votre version d'IRaMuTeQ ne propose pas le dictionnaire « Autre », suivez la méthode B du dépôt du dictionnaire. Dans la description du corpus, vérifiez le chemin du lexique et que la ligne des expressions indique 0.
 - Corpus français : encodage **utf-8**, langue **français**.
 
-Chaque article porte la variable `*equiv_` : `*equiv_fr_oui/non` dans le corpus breton, `*equiv_br_oui/non` dans le corpus français. Elle indique si l'article existe aussi dans l'autre Wikipédia.
+Dans le corpus breton, la variable `*equiv_fr_oui/non` indique si l'article existe aussi dans la Wikipédia française ; dans le corpus français de contexte, `*equiv_br_oui/non` indique l'inverse. Les versions françaises des paires n'en ont pas besoin : elles ont toutes un équivalent breton, et partagent son `*id_`.
 
 ## 2. Nos choix
 
@@ -47,25 +47,28 @@ Les corpus ont été extraits le 20 octobre 2026 avec wiki2iramuteq, en **mode r
 
 En breton, il faut donner les formes mutées (`kenrouedad`, `genrouedad`), car la recherche ne gère pas les mutations.
 
-### Deux analyses séparées, plus les paires
+### Partir du breton, puis prendre les articles français correspondants
 
-Les deux corpus n'ont ni le même lexique ni le même dictionnaire. Une classification de Reinert sur un corpus commun séparerait donc surtout les langues, pas les thèmes. On fait plutôt trois analyses :
+Pour comparer les mêmes sujets, le périmètre est défini une seule fois, par la recherche en breton. On récupère ensuite la version française de chaque article breton retenu, avec le mode alignement de wiki2iramuteq (étape 5). Les deux langues ont des lexiques et des dictionnaires différents : une classification de Reinert sur un corpus commun séparerait surtout les langues, pas les thèmes. On fait donc deux analyses séparées, que l'on compare ensuite :
 
-1. le corpus breton, croisé avec `*equiv_fr` ;
-2. le corpus français, croisé avec `*equiv_br` ;
-3. les 137 paires : les mêmes articles dans les deux langues, pour voir comment chaque Wikipédia traite les mêmes sujets.
+1. **le corpus breton** (123 articles), croisé avec `*equiv_fr` : de quoi parle la Wikipédia bretonne, et ce qu'elle est seule à traiter ;
+2. **les versions françaises des 109 articles qui ont un équivalent** : comment la Wikipédia française traite les mêmes sujets.
+
+Le corpus breton des paires est le corpus 1 sans ses 14 articles sans équivalent : une analyse à part n'apporterait presque rien. Il est fourni pour qui voudrait comparer exactement les mêmes articles.
+
+Ce choix a un prix : le périmètre est celui des contributeurs bretons. On ne voit pas, dans les classifications, ce qui intéresse la Wikipédia française et que la bretonne n'a pas. Pour donner cet ordre de grandeur, on garde un corpus français issu de sa propre recherche, utilisé seulement pour les statistiques descriptives de `comparer_corpus.py` (voir plus bas pourquoi il n'est qu'un échantillon).
 
 ### Garder les articles sans équivalent
 
-On ne retire pas les articles bretons qui n'ont pas d'équivalent français : ils montrent ce qui n'intéresse que la Wikipédia bretonne. La variable `*equiv_fr_non` permet de les repérer dans IRaMuTeQ. Il n'y en a que 18 sur 156 (Treiñ e brezhoneg, Raktres Translate (brezhoneg), Genver 2006 e Breizh…).
+On ne retire pas les articles bretons qui n'ont pas d'équivalent français : ils montrent ce qui n'intéresse que la Wikipédia bretonne. La variable `*equiv_fr_non` permet de les repérer dans IRaMuTeQ. Il n'y en a que 14 sur 123 (Treiñ e brezhoneg, Raktres Translate (brezhoneg), Skoroù treuzkas, OSI…).
 
 ### Préparer le corpus breton
 
 IRaMuTeQ coupe les mots à l'apostrophe : « c'hoari » deviendrait « c » + « hoari ». Le script `preparer_corpus_breton.py` réécrit donc le trigramme en `c_h`, comme dans le dictionnaire, sépare les mots à trait d'union et soude les expressions (« en doa » → `en_doa`). On utilise la version 2 du dictionnaire, corrigée après le premier essai sur le corpus de test.
 
-### Nettoyer le corpus français : pourquoi pas un seuil plus fort
+### Nettoyer le corpus français de contexte : pourquoi pas un seuil plus fort
 
-Le corpus breton filtré compte 156 articles et 108 000 mots ; le corpus français filtré de wiki2iramuteq, 1 232 articles et 2,5 millions de mots. On a d'abord pensé à relever le seuil de densité (occurrences des termes de recherche pour 1 000 mots) :
+Avant l'harmonisation décrite plus bas, le corpus breton filtré comptait 156 articles et 108 000 mots ; le corpus français filtré de wiki2iramuteq, 1 232 articles et 2,5 millions de mots. On a d'abord pensé à relever le seuil de densité (occurrences des termes de recherche pour 1 000 mots) :
 
 | Densité minimale | Articles | Mots | Dont `*equiv_br_oui` |
 |---|---|---|---|
@@ -84,6 +87,28 @@ On a donc gardé le seuil de 2 ‰ et **exclu 73 articles à la main**, comme on
 On a en revanche gardé les articles qui parlent de la place du numérique dans la culture ou dans des disciplines voisines : des films et chansons sur l'ordinateur, Têtes à claques, Droit d'auteur, Chimie numérique… et *La grande question sur la vie, l'Univers et le reste*.
 
 Les listes complètes figurent dans `corpus/fr/exclure.txt` et `corpus/fr/garder.txt` (et `corpus/br/` pour le breton). Le résultat compte 1 159 articles et 2,34 millions de mots. Le corpus reste gros : on gagne en pertinence, pas en légèreté.
+
+### Appliquer les mêmes règles aux deux corpus
+
+Les exclusions manuelles doivent suivre la même règle dans les deux langues. Côté français, on avait écarté *Photographie*, *Télévision*, *Film (cinéma)*, *Dessin animé*, *Cartographie*, *ISBN* ou *Maison d'édition* : le numérique y a sa section, mais ce n'est pas le sujet de l'article. Le premier filtrage breton gardait pourtant leurs équivalents. On a donc repris le corpus breton avec la règle française : **on écarte un article quand son sujet n'est pas le numérique, même s'il lui consacre une section.** Cela fait 33 articles de plus :
+
+- **les mêmes sujets qu'en français** : Luc'hskeudennerezh et Arz al luc'hskeudennerezh (photographie), Skinwel et TV Breizh (télévision), Sinema, Tresadennoù-bev et Bliverezh (animation), Kartennouriezh et Bannerezh-kartenn (cartographie), ISBN, Embannerezh (édition), Holloueziadur (encyclopédie) et Kazetennerezh (journalisme) ;
+- **« niverel » au sens des nombres** : Lizherenneg hengirillek, où les lettres servent aussi de chiffres ;
+- **des articles qui ne citent le numérique qu'en passant** : les siècles et décennies (Eil milved, IIIe milved, XXvet kantved, Bloavezhioù 2000), les chroniques Genver et Meurzh 2006 e Breizh, la Deiziataer ijinadennoù Mab-den, les préfixes du SI (Kilo-, Mega, Giga, Tera, Rakgerioù unanennoù an SI) et le Hertz, le Go (c'hoari), des langues et la linguistique (Islandeg, Yezhoniezh, Nevezc'her), Joseph Loth et Skiantoù an Ditour hag al Levraouegoù.
+
+Holloueziadur et Kazetennerezh étaient gardés à la main malgré une densité inférieure à 2 ‰ : on les a retirés de `corpus/br/garder.txt`. Les autres sont dans `corpus/br/exclure.txt`. Le corpus breton passe de 156 à 123 articles et de 108 000 à 78 000 mots ; 14 articles n'ont pas d'équivalent français, au lieu de 18.
+
+On garde en revanche, comme en français, ce qui parle de la place du numérique dans la culture : Terminator (robotoù), Skynet, Battlestar Galactica, La Chanson du Dimanche, Scopitone, Matte painting… et l'Agence Bretagne Presse, agence de presse née sur le Web.
+
+Effet de bord : Tresadennoù-bev et Bliverezh renvoyaient tous deux à l'article français *Animation (audiovisuel)*. wiki2iramuteq n'écrit qu'une fois un même article cible : on avait 138 articles `*equiv_fr_oui` pour 137 paires. Les deux étant écartés, on a maintenant 109 `*equiv_fr_oui` et 109 paires.
+
+### Avoir un équivalent n'est pas être dans l'autre corpus
+
+`*equiv_` dit si l'article existe dans l'autre Wikipédia, pas s'il est dans l'autre corpus. Sur les 109 paires, seules 50 versions françaises figurent dans le corpus français. Les 59 autres n'ont pas été retenues : 54 n'ont jamais été ramenées par la recherche (Unix, Bitcoin, Facebook, Compilateur, Tim Berners-Lee…) et 5 ont été ramenées mais écartées par le seuil d'occurrences ou de densité (Transmission Control Protocol, Prix Turing…).
+
+Les deux extractions n'ont en effet pas les mêmes réglages. En breton, la recherche ramène sans doute presque tout ce qui contient les termes (plafond de 2 000 résultats par terme, 2 occurrences minimum). En français, on a limité la recherche à 500 résultats par terme et 5 occurrences minimum, sinon le corpus aurait été énorme. Le corpus breton est donc presque exhaustif, le corpus français est un échantillon : les 500 articles que le moteur de recherche de Wikipédia juge les plus pertinents pour chaque terme.
+
+C'est la raison principale pour laquelle on ne classe pas ce corpus français et que l'on part du breton : comparer un corpus presque exhaustif à un échantillon mesurerait autant la recherche que les Wikipédia. On s'en sert seulement pour des ordres de grandeur, à lire avec cette réserve.
 
 ### Corriger deux identifiants en double
 
@@ -138,7 +163,7 @@ python3 wiki2iramuteq.py --lang fr \
     --contact "votre@courriel" --sortie ./brut/num_fr
 ```
 
-**Étape 3 : filtrer le corpus breton** (156 articles sur 190)
+**Étape 3 : filtrer le corpus breton** (123 articles sur 190)
 
 ```bash
 python3 filtrer_corpus.py brut/num_br/wikipedia_br_numerique_metadonnees.csv --min-densite 2 \
@@ -157,7 +182,7 @@ cp brut/num_fr/wikipedia_fr_numerique_filtre_metadonnees.csv corpus/fr/wikipedia
 cp brut/num_fr/wikipedia_fr_numerique_filtre_criteres.txt corpus/fr/wikipedia_fr_numerique_nettoye_criteres.txt
 ```
 
-**Étape 5 : constituer les paires**, en récupérant la version française des articles bretons retenus
+**Étape 5 : constituer les paires**, en récupérant la version française des articles bretons retenus (109 paires)
 
 ```bash
 python3 wiki2iramuteq.py --lang fr \
@@ -183,7 +208,7 @@ python3 preparer_corpus_breton.py corpus/paires/wikipedia_br_numerique_filtre_al
 python3 comparer_corpus.py
 ```
 
-Le script suit sept étapes, repérées par des blocs `# %%` dans le code : lecture des corpus, taille, part des articles qui ont un équivalent, articles par terme de recherche, longueurs selon `*equiv_`, comparaison des 137 paires, écriture de la synthèse. Les résultats vont dans `resultats/`.
+Le script est découpé en neuf blocs `# %%` : chemins et bibliothèques, lecture des corpus, taille, part des articles qui ont un équivalent, articles par terme de recherche, longueurs selon `*equiv_`, comparaison des 109 paires, présence des paires dans le corpus français, écriture de la synthèse. Les résultats vont dans `resultats/`.
 
 ## 5. Licences
 

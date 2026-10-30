@@ -235,502 +235,6 @@ WebObjects
 FileMaker Pro
 LM= Lodennoù Marc_had
 
-**** *art_Bloavezhiou_2000 *id_Bloavezhiou_2000 *cat_recherche *prof_0 *terme_stlenneg *equiv_fr_oui *lang_br
-Gwalldaolioù an 11 a viz_gwengolo 2001
-Brezel Afghanistan
-Brezel Irak
-Sec_hor 2003
-Dispac_h orañjez en Ukraina
-Kren douar ar 26 Kerzu 2004 hag an Tsunami deuet d'e heul
-Kelc_hwidenn Katrina
-Breizh gouarnet a gleiz evit_ar_wech_kentañ
-José María Aznar, Spagn
-Ousama Bin Ladin
-Tony Blair, Breizh Veur
-George W. Bush, SUA
-Jean Yves Cozan, Breizh
-Jean Yves an Drian, Breizh
-Jacques Chirac, Frañs
-Vladimir Poutin, Rusia
-Josilin a Roc_han, Breizh
-Gerhard Schröder, Alamagn
-Lula da Silva, Brazil
-Yann Bêr Thomin, Breizh
-José Luis Zapatero, Spagn
-Emled al luc_hskeudennerezh niverel
-Demokratelerezh ar Genrouedad
-Emled ar pellgomz_hezoug
-Digoridigezh ar Stlenneg hiniennel (PDA, GPS, hag_all)
-Ofis ar Brezhoneg
-
-**** *art_Deiziataer_ijinadennou_Mab_den *id_Deiziataer_ijinadennou_Mab_den *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
-Ur renabl eus an ijinadennoù en urzh an amzer a vo kavet war ar bajenn mañ.
-Notenn : Alies e vez tabut en_dro_da zeiziad krouiñ an ijinadennoù. C_hoarvezout a ra d'an traoù bezañ bet ijinet gant tud disheñvel e tro an hevelep mare pe, a wechoù, bezañ bet rakijinet en un doare bennak a raok bezañ gwellaet ha lakaet da dalvezout da vat gant un den all bloavezhioù war lerc_h. Pa sav amjestregezh a zivout an deiziadoù ez_eus bet divizet lakaat amañ deiziad implij pleustrek kentañ an ijinadenn. 
-2.4 milion_a vloavezhioù zo : Ostilhoù maen en Afrika
-2 vilion_a vloavezhioù zo : Yezhoù (tabut zo - hennezh eo an deiziad gwirheñvelañ bepred)
-1 milion_a vloavezhioù zo : Kabestret an tan en Afrika
-400 mil bloaz zo : Enlivadurioù e Zambia
-60 mil bloaz zo : Bagoù implijet gant trevadennerien Ginea Nevez moarvat
-50 mil bloaz zo : Gwaregoù ha biroù e Tunizia
-43 mil bloaz zo : Maengleuzioù
-30 mil bloaz zo : Gwriat
-26 mil bloaz zo : Prierezh e Moravia
-12 mil bloaz zo : Poderezh Jōmon e Japan
-Labour douar er Greskenn strujus
-8700 kent JK: Metalouriezh (ispilhennoù kouevr en Iraq)
-Saverezh loened er Reter Kreiz
-6200 kent JK : Kartenn e Çatalhöyük
-Dilhad gwiadet diwar gwiennoù lin
-Gwin e Jiahu (Sina)
-Kanouc_helladurioù er Greskenn strujus
-Arar e Mezopotamia
-=== Vvet milved kt JK
-Bier e Sumer
-3800 kent JK : Hentoù kalvezel war Enez Vreizh
-3500 kent JK: Speurennoù koad en Egipt
-3500 kent JK: Skritur e Sumer
-3500 kent JK: Kartoù e Sumer
-Arem gant ar vMaikoped
-Seiz e Sina
-Simant en Egipt
-Bagoù stêr en Egipt
-2800 kent JK : Soavon e Babilon
-Stlejell - Skandinavia
-Implij goell da c_hoiñ bara
-Lizherenneg en Egipt
-Gwer en Egipt
-Kaoutchoug e Mezoamerika
-Skinoù rod karr er Reter Nesañ
-Eurier dre zour en Egipt
-Kloc_h e Sina
-Gwareg (savouriezh) e Gres
-600 kent JK: pezhioù_moneiz e Lidia
-400 kent JK: Bannerez vein e Sirakuza
-300 kent JK: Nadoz vor e Sina.
-300 kent JK: Ar Biñsoù : Archytas
-200 kent JK: Bannerez e Sina
-200 kent JK: Polez: Arc_himedes
-200 kent JK: Hentvuzulier : Arc_himedes ?
-150 kent JK: Steredlec_hier: Hipparchus
-100 kent JK: Parch e Pergamon
-Iañ kantved kt JK: Gwer c_hwezhet e Siria
-87 kent JK: Horolaj (Gwikefre Antikythera) : Posidonius ?
-Iañ kantved: Boullavel: Hero Aleksandria
-Iañ kantved: Stur sternet war an aros e Sina
-105: Paper: Cai Lun
-132: Douargrenvuzulier kentañ : Zhang Heng
-IIIe kantved
-Bloavezhioù 200 : Karigell: Zhuge Liang
-Bloavezhioù 200 : Hern kezeg en Alamagn
-IVe kantved
-Bloavezhioù 300 : Stleugoù e Sina
-Bloavezhioù 300 : Toaz dent en Egipt
-600: Arar gant ur soc_h e Reter Europa
-VIIvet kantved
-Bloavezhioù 600: Milin avel e Persia
-673: Tanioù Genoa: Kallinikos
-IXvet kantved
-Bloavezhioù 800: Poultr tarzh e Sina
-852: Harz lamm: Armen Firman
-900: Gwakol en Europa
-Moullañ war bezhioù koad e Sina
-Porselen e Sina
-Rod nezañ e Sina pe India
-Bloavezhioù 1040: Gwask gant pezhioù moull lem laka : Bi Sheng
-1128: Kanol (arm) e Sina
-Bloavezhioù 1280: Lunedoù e Norzh Italia
-1335: Horolaj mekanikel e Milano
-Akebutenn en Europa
-Bloavezhioù 1450: Gwask lizherennek gant pezhioù moull lem laka : Johannes Gutenberg
-1451: Ferennoù kleuziek evit al lunedoù: Nikolaz eus Kues
-1498: broust_dent e Sina
-1510: Eurier chakod: Peter Henlein
-1581: Momeder: Galileo Galilei
-1589: Mekanik stammañ: William Lee
-1593: Gwrezverker: Galileo Galilei
-Mousked en Europa
-1608: Teleskop: Hans Lippershey
-1609: Microskop: Galileo Galilei
-1620: Reolenn jediñ: William Oughtred
-1623: Jederez emgefre : Wilhelm Schickard
-1642: Mekanik jediñ: Blaise Pascal
-1643: Aerbouezer: Evangelista Torricelli
-1645: Riboul sunañ: Otto von Guericke
-1657: Horolaj: Christiaan Huygens
-1698: Mekanik dre vurezh: Thomas Savery
-1701: Haderez: Jethro Tull
-1705: Riboterez dre aezhenn: Thomas Newcomen
-1709: Piano: Bartolomeo Cristofori
-1710: Gwrezverker: René Antoine Ferchault de Réaumur
-1711: Tonreizher: John Shore
-1714: Gwrezverker dre vevargant: Daniel Gabriel Fahrenheit
-1730: Kadran mor: Thomas Godfrey
-1731: Sekstant: John Hadley
-1733: Bulzun nij: John Kay (Bulzun nij)
-1742: Fornigell Franklin: Benjamin Franklin
-1750: Gobar: Jacob Yoder
-1752: Diskuruner: Benjamin Franklin
-1762: Argerzherezh teuziñ an dir: Jared Eliot
-1767: Nezerez lieswerzhid: James Hargreaves
-1767: Dour nez: Joseph Priestley
-1769: Mekanik dre vurezh: James Watt
-1769: Nezerez dre zour: Richard Arkwright
-1775: Splujerez: David Bushnell
-1777: Inkarderez: Oliver Evans
-1777: Heskenn dro: Samuel Miller
-1779: Nezerez frapadek: Samuel Crompton
-1783: Kaoter lieskorzennek: John Stevens
-1783: Harz lamm: Jean Pierre Blanchard
-1783: Aervag diwar aer domm: Breudeur Montgolfier
-1784: Daousti: Benjamin Franklin
-1784: Obuz Shrapnel: Henry Shrapnel
-1785: Gwiaderez: Edmund Cartwright
-1785: Milin valañ emgefre: Oliver Evans
-1787: Keflusker uhelwask anc_hleborennek: Oliver Evans
-1790: Mekanik troc_hañ ha pennañ tachoù: Jacob Perkins
-1791: Lestr dre dan: John Fitch
-1791: Dent kalvezel: Nicholas Dubois De Chemant
-1793: Skriverez koton: Eli Whitney
-1793: Pellarouezerez: Claude Chappe
-1797: Arar houarn teuz: Charles Newbold
-1798: Vaksinerezh: Edward Jenner
-1798: Maengraverezh: Alois Senefelder
-1799: Haderez: Eliakim Spooner
-1800: Pil tredan: Alessandro Volta
-1801: Gwiaderez Jacquard: Joseph Marie Jacquard
-1802: Poulzer dre viñs tro al lestr dre dan Phoenix: John Stevens
-1802: Fornigell c_haz: Zachäus Andreas Winzler
-1805: Splujerez Nautilus: Robert Fulton
-1805: Yenerez: Oliver Evans
-1807: Lestr dre dan Clermont: Robert Fulton
-1808: Heskenn a serzh: William Newberry
-1811: Arm kilpourvezet: Thornton (?)
-1812: Mentvommer: Dietrich Nikolaus Winkel
-1813: Gwask voullañ dre zorn: George Clymer
-1814: Stlejerez dre dan (Blucher): George Stephenson
-1816: Kleuzeur surentez evit ar vengleuzerien: Humphry Davy
-1816: Mentvommer: Johann Nepomuk Maelzel
-1816: Ardivink Stirling: Robert Stirling
-1816: Stetoskop: Reun Teofil Sent Laenneg
-1817: Kaerigellerez: David Brewster
-1821: Keflusker tredan: Michael Faraday
-1823: Tredanwarell: William Sturgeon
-1826: Luc_hskeudennerezh: Joseph Nicéphore Niépce
-1826: Ardivink dre zeviñ diabarzh: Samuel Morey
-1827: Orjal difuet: Joseph Henry
-1827: Poulzer biñs tro: Josef Ressel
-1827: Alumetez dre rimiañ: John Walker
-1830: Touzerez: Edwin Beard Budding
-1831: Gwarell lieskanellek: Joseph Henry
-1831: Pellarouezerez magnetek hag akoustek: Joseph Henry
-1831: Mederez: Cyrus McCormick
-1831: Ganer tredan: Michael Faraday, Stefan Jedlik
-1835: Tredan luc_hskeudennus: William Henry Fox Talbot
-1835: Revolver: Samuel Colt
-1835: Kod Morse: Samuel Morse
-1835: Adkaser tredanmekanikel: Joseph Henry
-1836: Gwellaat ar poulzer biñs tro: John Ericsson
-1836: Gwrierez: Josef Madersberger
-1837: Luc_hskeudennerezh : Louis Jacques Mandé Daguerre
-1837: Arar dir: John Deere
-1837: Dilhad splujañ standard: Augustus Siebe
-1837: Ferenn zoumiñ: Jozef Maximilián Petzval
-1838: Pellarouezerez tredan: Charles Wheatstone
-1839: Vulkanerezh ar c_haoutchoug: Charles Goodyear
-1840: Fourgadenn gant mekanikerezh danvorel SS Princeton: John Ericsson
-1840: Strujusaer kalvezel: Justus von Liebig
-1842: Anesteziezh: Crawford Long
-1843: Skriverez : Charles Thurber
-1843: Pelleiler: Alexander Bain
-1843: Farder dienn skorn: Nancy Johnson
-1844: Pellgelaouer: Samuel Morse
-1845: Simant Portland: William Aspdin
-1845: Pneu divgorzennek: Robert Thomson (ijinadenner)
-1846: Gwrierez: Elias Howe
-1846: Gwask tro: Richard M. Hoe
-1849: Spilhenn alc_hwez: Walter Hunt
-1849: Troellrod Francis: James B. Francis
-1852: Aervag: Henri Giffard
-1852: Pignerez : Elisha Otis
-1852: Kornigell Foucault: Léon Foucault
-1853: Plaverez: Sir George Cayley
-1855: Beg Bunsen: Robert Bunsen
-1855: Treugenn Bessemer: Henry Bessemer
-1856: Kelluloidoù kentañ: Alexander Parkes
-1858: Fun pellarouezier danvorel: Fredrick Newton Gisborne
-1858: Gwrierezh koarelloù boteier: Lyman R. Blake
-1858: Boestoù Mason: John L. Mason
-1859: Talar tireoul: Edwin L. Drake
-1860: Linoleom: Fredrick Walton
-1860: Fuzuilh tennata : Benjamin Tyler Henry, Christopher Spencer
-1860: torpilhenn emlusk: Ivan Lupis Vukić
-1861: Hobregoner USS Monitor: John Ericsson
-1861: Forn azvuhezekaus: Carl Wilhelm Siemens
-1862: Mindrailherez : Richard J. Gatling
-1862: Splujerez: Narcís Monturiol i Estarriol
-1863: Piano emgefre: Henri Fourneaux
-1864: Gwir skriverez kentañ : Peter Mitterhofer
-1865: Gwaskerez skorn : Thaddeus Lowe
-1866: Dinamit : Alfred Nobel
-1867: Skriverez pleustrek : Christopher L. Sholes
-1868: Skriverez : Carlos Glidden, James Densmore ha Samuel Soule
-1868: Aerstarderez: George Westinghouse
-1868: Margarin: Mege Mouries
-1869: Sunerez: I.W. McGaffers
-1870: Banner al Lantern majik: Henry R. Heyl
-1870: Talvouderez: Thomas Alva Edison
-1870: Keflusker heloc_h dre strilheoul, Tangarrerezh: Siegfried Marcus
-1871: Fungarr: Andrew S. Hallidie
-1871: Talar maen dre aerwask: Simon Ingersoll
-1872: Kelluloid (gwelladenn): John W. Hyatt
-1872: Jederez : Edmund D. Barbour
-1873: Orjal draenek: Joseph F. Glidden
-1873: Gaolier hent houarn: Eli H. Janney
-1873: Keflusker tredan red eeun a_vremañ: Zénobe Gramme
-1874: Tramgarr tredan: Stephen Dudle Field
-1875: Tredanerez: William A. Anthony
-1875: Kelaouenn (?) Armoù: Benjamin B. Hotchkiss
-1876: Pellgomz: Alexander Graham Bell
-1876: Pellgomz: Elisha Gray
-1876: Naetaerez palennoù: Melville Bissell
-1876: Treloskell dre strilheoul: Daimler
-1877: Skrafennerez: Henry R. Heyl
-1877: Keflusker derenet: Nikola Tesla
-1877: Sonskriverez: Thomas Alva Edison
-1877: Soudañ tredan: Elihu Thomson
-1877: Neudennerez: John Appleby
-1878: Tuelenn gatodek: William Crookes
-1878: Koc_henn dreuzwelus: Eastman Goodwin
-1878: Aeradaozer: Henry Fleuss
-1878: Klogorenn dre gannded: Joseph Swan
-1879: Troellrod Pelton: Lester Pelton
-1879: Keflusker kirri: Karl Benz
-1879: Kefierez: James Ritty
-1879: Karr tan (Breou): George B. Seldon ... notenn n'eo ket gantañ eo bet ijinet ar c_harr
-1880: Pellgomzer : Alexander Graham Bell
-1880: Koc_henn filmoù: George Eastman
-1880: Aotenn suraet: Kampfe Brothers
-1880: Douargrenverker: John Milne
-1881: Souderez dredan: Elihu Thomson
-1882: Aveler tredan: Schuyler Skatts Wheeler
-1882: Fer tredan: Henry W. Seely
-1883: Keflusker karr dre waskenaouerezh: Gottlieb Daimler
-1883: Keflusker tredanlusk divwagennadek (Red dre zazeilad): Nikola Tesla
-1884: Linennlizherennerez: Ottmar Mergenthaler
-1884 : Poultr divoged : Paul Vieille
-1884: Kreion pluenn: Lewis Waterman Notenn: "n'eo ket gantañ eo bet ijinet ar c_hreion pluenn nag ar c_hreion pluenn implijadus kentañ zoken". Digoret e labouradeg gantañ e 1883.
-1884: Kartenn doull (jederezh): Herman Hollerith
-1884: Karrigell, (tredan): Frank Sprague, Karel Van de Poele
-1885: Tangarrerezh, herrgemmerez: Karl Benz
-1885: Mindrailherez Maxim : Hiram Stevens Maxim
-1885: Marc_h tan: Gottlieb Daimler ha Wilhelm Maybach
-1885: Tredan dre zazeilad treuzfurmer: William Stanley
-1886: Skaoterez: Josephine Cochrane
-1886: Keflusker dre strilheoul: Gottlieb Daimler
-1886: Gwellaat roll ar sonskrivererez: Tainter & Bell
-1887: Lizherennataerez: Tolbert Lanston
-1887: Ferennoù a stok: Adolf E. Fick, Eugene Kalt ha August Muller
-1887: Sonskriverez dre bladennoù: Emile Berliner
-1887: Tangarrerezh, (strilheoul): Gottlieb Daimler
-1888: Reizhiad tredan AC lieswagennadek: Nikola Tesla (30 breou stag.)
-1888: Luc_hskeudennerez dorn Kodak: George Eastman
-1888: Boulbluenn: John Loud
-1888: Bandenn rod pneumatek: John Boyd Dunlop
-1888: Mederez dornerez: Matteson (?)
-1888: Kinematograf: Augustin Le Prince
-1889: Tangarrerezh, (aezhenn): Sylvester Roper
-1890: Morzhol pneumatek: Charles B. King
-1891: Batiri daspugn evit ar c_hirri: William Morrison
-1891: Direnn: Whitcomb L. Judson
-1891: Karborundom: Edward G. Acheson
-1892: Luc_hskeudennerezh liv: Frederic E. Ives
-1892: Standard pellgomz emgefre (tredanmekanikel): Almon Strowger - ar c_hentañ en implij er gevredigezh.
-1893: Enroller hanterdon: Frederick Ives
-1893: Kehentiñ diorjal: Nikola Tesla
-1895: Banner fatoptek: Woodville Latham
-1895: Fantaskop: C. Francis Jenkins
-1895: Lavnennoù lem laka: King C. Gillette
-1895: Keflusker Diesel: Rudolf Diesel
-1895: Arhentoù radio: Guglielmo Marconi
-1895: Edaj: Henry Perky
-1896: Vitaskop: Thomas Armat
-1896: Troellrod dre aezhenn: Charles Curtis
-1896: Fornigell dredan: William S. Hadaway
-1897: Tangarrrezh (magneto): Robert Bosch
-1898: Pellurzhierezh: Nikola Tesla
-1899: Emenaouer kirri: Clyde J. Coleman
-1899: Sonenroller magnetek: Valdemar Poulsen
-1899: Troellrod dre c_haz: Charles Curtis
-1900: Aerlestr reut sturiadus: Ferdinand Graf von Zeppelin
-1901: Treuzkaser diorjal araokaet: Reginald Fessenden
-1901: Kleuzeur dre aezhenn vevargant: Peter C. Hewitt
-1901: Strobell: Johan Vaaler
-1902: Dinoer radiovagnetek: Guglielmo Marconi
-1902: Radio pellgomz: Poulsen Reginald Fessenden
-1902: Skin kelluloz ester: Arthur D. Little
-1903: Tredankalongraferez (EKG): Willem Einthoven
-1903: Nijerez dre dan: Wilbur Wright and Orville Wright
-1903: Boutailherez: Michael Owens
-1904: Trapig gwrezionek: John Ambrose Fleming
-1905: Diod korzenn radio: John Ambrose Fleming
-1906: Amplaer triod: Lee DeForest
-1907: Amplaer radio: Lee DeForest
-1907: Triod korzenn radio: Lee DeForest
-1907: Sunerez, (tredan): James Spangler
-1907: Kannerez, (tredan): Alva Fisher (Hurley Corporation)
-1909: Divaskelleg: Henry W. Walden
-1909: Bakelit: Leo Baekeland
-1909: Reduer son evit an armoù : Hiram Percy Maxim
-1910: Erlusker dre wrez: Henri Coandă
-1911: Kompas tro: Elmer A. Sperry
-1911: Emenaouer kirri (gwellaet): Charles F. Kettering
-1911: Aerreizhet: Willis Haviland Carrier
-1911: Kelofan: Jacques Brandenburger
-1911: Dournijerez: Glenn Curtiss
-1912: Luc_hskeudennerezh ;Luc_hskeudennerez pellamzer da implijout evit ar plant:Arthur C. Pillsbury
-1912: Amred radio advuhezekaus: Edwin H. Armstrong
-1913: Gerioù kroaz: Arthur Wynne
-1913: Skinoù X gwellaet: William D. Coolidge
-1913: Alc_hwez saoz: Robert Owen
-1913: Strakerezh treugenn evit an tireoul: William M. Burten
-1913: Stabilaer ar giroskop: Elmer A. Sperry
-1913: Konter Geiger: Hans Geiger
-1913: Resever radio: Ernst Alexanderson
-1913: Resever radio, heterodin: Reginald Fessenden
-1913: Dir distaen: Harry Brearley
-1914: Treuzkaser radio: Ernst Alexanderson
-1914: Fuc_hell gant trelosk liñvel: Robert Goddard
-1914: Tank milourel: Ernest Dunlop Swinton
-1915: Neudenn Tungsten: Irving Langmuir
-1915: Banner gouloù: Elmer A. Sperry
-1915: Luskeller kleuzeur radio: Lee DeForest
-1916: Arm Browning (pehini ?): John Browning
-1916: Kleuzeur c_haz dre c_hannded: Irving Langmuir
-1917 : Pistolenn vindrailher Thompson: John T. Thompson
-1917: Heklevlec_hiadur dre Sonar: Paul Langevin
-1918: Gourheterodin: Edwin H. Armstrong
-1918: Afell: Anton Fokker
-1918: Luskeller radio dre strinkennoù: A.M. Nicolson
-1918: Krazerez sank ha lamm: Charles Strite
-1919: An Theremin: Leon Theremin
-1919: Kentañ savlec_h radio prevez, KDKA AM, e Pennsylvania, SUA
-Diblusker avaloù douar mekanikel: Herman Lay
-1922: Radar: Robert Watson Watt, A. H. Taylor, L. C. Young, Gregory Breit, Merle Antony Tuve
-1922: Tekniliv: Herbert T. Kalmus
-1922: Dourski: Ralph Samuelson
-1922: Luc_hskeudennerezh : kentañ mekanik produet a yoc_h:Arthur C. Pillsbury
-1923: Kleuzeur warek: Ernst Alexanderson
-1923: Film son: Lee DeForest
-1923: Skinwel Elektronek: Philo Farnsworth
-1923: Riboul avel: Max Munk
-1923: Emdroerez: Juan de la Cierva
-1923: Kleuzeur flash ksenon: Harold Edgerton
-1925: Gourdronizherez: Theodor Svedberg - implijet evit didermeniñ ar pouez molekulel
-1925: Ikonoskop skinwel: Vladimir Zworykin
-1925: Reizhiad skinwel Nipkow: C. Francis Jenkins
-1925: Pellferenn: C. Francis Jenkins
-1926: Skanner mekanikel skinwel: John Logie Baird
-1926: Glizhenner: Rotheim
-1927: Dastumer koton mekanikel: John Rust
-1927: Luc_hskeudennerezh:Filmerez dre vikroskop kentañ: Arthur C. Pillsbury
-1928: Bara skejennet: Otto Frederick Rohwedder
-1928: Aotenn dredan sec_h: Jacob Schick
-1928: Enepbiotikoù: Alexander Fleming
-1929: Elektroenkefelograf (EEG): Hans Berger
-1929:Luc_hskeudennerezh Filmerez Skinoù X kentañ:Arthur C. Pillsbury
-1930: Neopren: Wallace Carothers
-1930: Nilon: Wallace Carothers
-1930: Luc_hskeudennerezh: Filmerez danzour: Arthur C. Pillsbury
-1931: Radioteleskop: Karl Jansky Grote Reber
-1932: Gwer Polaroid: Edwin H. Land
-1935: Radar korrwagennek: Robert Watson Watt
-1935: Trampolin: George Nissen ha Larry Griswold
-1935: Spektrofotometr: Arthur C. Hardy
-1935: Gwienn gasein: Earl Whittier Stephen
-1935: Organ Hammond: Laurens Hammond
-1937: keflusker dre erlusk: Frank Whittle Hans von Ohain
-1938: Gwiennoù gwer: Russell Games Slayter John H. Thomas
-1938: Urzhiataer: Konrad Zuse
-1939: Radio FM: Edwin H. Armstrong
-1939: Biñsaskell: Igor Sikorsky
-1939: View master: William Gruber
-1942: Bazouka Arm fuc_hellek: Leslie A. Skinner C. N. Hickman
-1942: Eoulsan danzour: Hartley, Saoz iranian, Siemens e pad Kefridi Pluto
-1942: Lammfrekañserezh: Hedy Lamarr ha George Antheil
-1943: Akwalung: Jacques Cousteau hag Emile Gagnan
-1943: Urzhiataer elektronek programmadus daouredel: Tommy Flowers [1]
-1944: Spektrometr dre elektron: Deutsch Elliot Evans
-1945: Arm atomek (notenn: teorienn an dazgwered chadennek: 1933)
-1946: Skinforn: Percy Spencer
-1947: Transistor: William Shockley, Walter Brattain, John Bardeen
-1947: Luc_hskeudennerez Polaroid: Edwin Land
-1948: Pladenn hirbad: Peter Goldmark
-1949: Eurier atomek
-1951: Paper liñvel: Bette Nesmith Graham
-1952: Bombezenn dre uniedigezh: Edward Teller ha Stanislaw Ulam
-1952: Dourrikler: Christopher Cockerell
-1953: Maser: Charles Townes
-1953: Ekografiezh vezegel
-1954: Transistor radio (deiziataet eus Regency TR1) (USA)
-1954: Dazgwereder nukleel kentañ
-1954: Bolz geodezek: Buckminster Fuller
-1955: Velkro: George de Mestral
-1957: Herrvag: William Hamilton
-1957: Topografiezh EEG: Walter Grey Walter
-1957: Golo klogorennek - Alfred Fielding ha Marc Chavannes eus Sealed Air
-1958: An amred kevanek: Jack Kilby eus Texas Instruments, Robert Noyce e Fairchild Semiconductor
-1959: Marc_h tan erc_h: Joseph Armand Bombardier
-1960s: Trec_haoliñ duilhoù: Donald Davies ha Paul Baran, c_hoarioù_video
-1960: Laseroù: Theodore Maiman, e Hughes Aircraft
-1962: Kehentiñ dre loarell: Arthur C. Clarke
-1962: Diod bann gouloù: Nick Holonyak
-1963: Logodenn (urzhiataer): Douglas Engelbart
-1965: Kasedig 8 forzh: William Powell Lear
-1968: Penell c_hoarioù_video: Ralph Baer
-1968: Videokendiviz: AT&T
-1969: An ARPANET, hendad ar Genrouedad
-1970: Gwiennoù optek
-1971: Postelerezh: Ray Tomlinson
-1971: Korrgewerier
-1971: Jederezig chakod
-1971: Lun dre zasson magnetek: Raymond V. Damadian
-1972: Tomografiezh dre urzhiataer: Godfrey Newbold Hounsfield
-1973: Eternet: Bob Metcalfe ha David Boggs
-1973: Skol veur Monash embann a ra skiantourien bezañ sevenet ar vrazezded kentañ er bed dre strujusadur in vitro
-1974: Scramjet: NASA ha Morlu SUA -- nijet eo ar prototip implijadus kentañ e 2002
-1974: Diñs Rubik: Ernő Rubik
-1975: Luc_hskeudennerez niverel: Steven Sasson
-1976: Gwiad Gore Tex ®: W. L. Gore
-1977: An urzhiataer hiniennel (deiziataet adal ar Commodore PET)
-1978: Embann a ra Philips al lenner pladennoù laser
-1978: Gwikefre grapat kammennek: Ray Jardine
-1978: Ar skouarn vionek kentañ lakaet en_ur c_hlañvour aostralian. Graeme Clark
-1979: Ar sonvaleeer: Akio Morita, Masaru Ibuka, Kozo Ohsone
-1979: Ar pellgomz kelligell (doare kentañ NTT e gwerzh)
-197x: C_hwezher delioù (bloavezh rik dianv)
-1970s: Treizhfuc_hell Tomahawk (fuc_hell dreizhañ kentañ pellurzhiet dre urzhiataer)
-1981: Ar Xerox Star, kentañ urzhiataer oc_h implijout un Etrefas implijer grafek WIMP
-1982: Embann a ra Sony ha Philips ar pladennoù arc_hant
-1983: Protokol ar Genrouedad, krouet eo ar Genrouedad evel anavezet ganeomp
-1983: Reizhiad Anv Domani (DNS): Paul Mockapetris
-1985: Argerzh chadennek polimer: Kary Mullis
-1985: Roudoù bizied dre TDN: Alec Jeffreys
-1985: Tetris: Alexey Pajitnov
-1986: Farder bara
-1989: Ar Genrouedad: Tim Berners Lee
-1991: Had soja kemmet o genoù a zegemer implij un dilouzaouer
-1993: Reizhiad Lec_hiañ Hollek (GPS)
-1995: Meziant wiki: Ward Cunningham
-1995: Diorroidigezh standur an DVD
-1996: Klonerezh ar bronneged: Ian Wilmut ha re all
-1997: Boued mir emdommañ
-1998: Lenner MP3 hezoug
-1998: Enroller video hiniennel
-1999: IEEE 802.11b
-1999: Dantglas
-2001: Radio niverel dre loarell
-2001: Kalon kalvezel.
-
 **** *art_Eizhbit *id_Eizhbit *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
 Ur pakad eizh bit eo a anver eizhbit en urzhiataerezh, da_lavaret_eo ul liesbit (byte e saozneg) 8 bit ennañ. 
 Unanenn ar sifroù en niveriñ diazez daou eo ar bit : 20 = 1, kentañ talvoudegezh goude 0 er reizhiad daouredel (diazez 2).
@@ -766,99 +270,6 @@ Ar chomlec_hioù IP (Internet Protocol) e ya 4 eizhbit d'o sevel. Unan (da nebeu
 Komz a rit eizhbiteg
 Kement tra a rit gant ho pellgomz_hezoug zo troet en eizhbitoù — ho mouezh zoken.
 Ar bit (20) a oa e_penn_kentañ ar bed niverel ; buan eo deuet re bounner da embregiñ, alese krouadur an eizhbit (23). Setu an eizhbit deuet re bounner d'e dro, pa ne baouez ket an ezhommoù ag eñvor hag a dizh da greskiñ, setu emeur o klask sevel ur reizhiad nevez a vije diazezet war ar c_hwezekbit (24) pe uheloc_h. Marteze ivez e tremenor d'ur reizhiad pevaredel pe uheloc_h.
-
-**** *art_Go_c_hoari *id_Go_c_hoari *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
-Ur c_hoari strategiezh kenstrollañ difetis eo ar c_hoari_go (碁 pe 囲碁 : igo e japaneg). Kozh tre eo, ar c_hoshañ c_hoari anavezet evit_ar_mare. A zaou e vez c_hoariet.
-Ijinet eo bet e Sina e tro 2000 bloaz kent JK. Hiziv e vez c_hoariet go e Sina dreist holl (ma vez graet 圍棋 pinyin : wéiqí, Wade Giles : wei ch'i anezhañ), e Korea (m'eo anvet 바둑 baduk pe paduk), hag e Japan (ma reer go, pe igo anezhañ). E Japan en_deus tapet brud ar go adarre e touez ar_re yaouank gras d'ar manga Hikaru No Go. Er peurrest eus ar bed eo aet brud ar c_hoari_go war gresk ingal 
-en dekvedoù diwezhañ. Berzh a ra abalamour d'an eeun m'eo reolennoù_ar_c_hoari ha_koulskoude eo lies tuioù ha troioù ar c_hoari. 
-Hervez ar c_hrennlavar n'eus ket bet c_hoariet biskoazh an hevelep abadenn div wech. Ha marteze eo gwir a walc_h : war ur goban warnañ 19 poent_kej dre 19 ez_eus e tro 4,63.10170 lec_hiadur posupl evit ur maen; Kalz brasoc_h c_hoazh eo eta an niver a abadennoù a c_haller c_hoari. Evel just, n'eo ket evel se emañ kont rak splann eo ez_eus taolioù c_hoari fall tre. a_benn_ar_fin eo kalz izeloc_h an niver a abadennoù a c_haller c_hoari, daoust_ma chom labour aner klask jediñ an niver rik anezho dre ar jedoniezh. 
-Ur skeul zo evit live ar c_hoarierien go a ya eus an 30vet Kyu (deskarded) betek ar 1añ kyu, ha goude_se eus ar 1añ dan betek an 8vet dan evit an amatourien. Ur briziadenn dre vras eo an 30vet kyu rak n'eus bevenn gwirion ebet d'al live izelañ, sklaer eo.
-Klotañ a ra live ur c_hoarier 1añ dan a vicher gant live ur 7vet dan amatour.
-Lakaet e vez taol_ijin ar go, ouzhpenn 4000 bloaz zo, pe war kont an Impalaer Yao (-2337 - -2258) pe war hini an Impalaer Shun; an daou anezho c_hoant ganto desevel o mab ha tresañ un hent dezhañ er vuhez. Lod all a soñj dezho eo ur gwaz, anvet U, en_dije ijinet ar c_hoari a benn dudiañ e Aotrou dindan_ren Ketsu en XVIIIvet kantved a raok ar marevezh kristen. 
-Diouzh vojenn ar pemp aerouant e voe divizet krouiñ ar c_hoari_go gant an daou aerouant Hei Tzu ha Bai Tzu, a veze oc_h en_em gannañ evit gouzout piv a oa ar c_hreñvañ anezho o daou. Evel se e vije tu d'o dispartiañ. Kaset e voe neuze gant an doueed un aerouant all a benn evezhiañ ar c_hoari, ha roet urzh dezhañ da zont en dro evit dezrevelliñ an abadenn dre_ar_munud pa vije bet echu ar c_hoari. Heñvel e oa ar reolennoù_c_hoari ouzh ar_re a_vremañ, nemet ne oa ket eus reolenn ar c_ho peogwir e oa divarvel an daou aerouant ha neuze difin o fasianted. O c_hoari emañ atav an daou aerouant abaoe milvedoù, ha bep milved e vez kaset gant an doueed un aerouant all da evezhiañ ar c_hoari. Evit poent ez_eus pemp aerouant o sellet ouzh an abadenn. Lavaret e vez e tlefe ar c_hwec_hvet bezañ kaset a_benn_un_nebeud_bloavezhioù ac_hann.
-Kavet e vez er yiking, an arz_divinout sinaat, heñveladurioù niverus gant ar go a c_hallje bezañ benveg danvezel an divinout.
-Er bloazlevrioù Nevezamzer ha Diskar amzer (etre -722 ha -481) emañ ar menegoù skrivet kentañ eus ar c_hoari_go. Diwezhatoc_h eo meneget ar go gant Konfusius en e gaozeadennoù. Skrivet eo bet an dornlevrioù go kentañ e Sina e tro dibenn an dierniezh Han (deroù an IIIe kantved). D'ar mare se e voe renket ar go e touez an "tri arz sakr" (livañ, sonerezh ha kaerskriverezh). Adal dibenn an Haned ha betek adsavidigezh an Impalaeriezh gant ar Suied e 589, e kouezh ar renkadoù_ren en arouaregezh hag en_em roont d'an daoegezh ha d'ar go.
-da_neuze e ra berzh bras ar go; ijinet e vez un doare renkañ ar c_hoarierien hervez o barregezh, savet e vez ensavadurioù go gant kargidi. Niverus eo al levrioù embannet diwar benn ar go : dastumadoù abadennoù, skridoù teorikel, roll c_hoarierien, hag_all. 
-Renket eo ar go etre an "tri arz sakr" pleustret warno gant an Impalaer ha tud_a_lez, betek dibenn an XIXvet kantved.
-Degouezhout a ra ar go (baduk e koreaneg) e Korea er Vvet kantved. Er VIIvet kantved emañ e Japan ma ra berzh diouzhtu e touez metoù ar vrientinien, levezonet kenañ gant Sina. ar_re_se a vir evito o unan ar gwir da c_hoari. Berzet eo ouzh ar venec_h c_hoari_go e dezveg lezennel 701.
-Diwezhatoc_h en_em ledo ar c_hoari_go e mesk ar voñzed hag ar samouraied a implije anezhañ evit pleustriñ war ar strategiezh vilourel. Gant ar venec_h nicherenat (skol voudaek japanat) e voe savet ar skol go kentañ : skol Honinbo.
-kent_da Japan bezañ unanet e 1603 emañ ar go en e varevezh klasel. Harpet eo gant ar vilourien hag ar shogun Tokugawa; teir skol vras nevez a vez o keveziñ a benn tapout evito ar postoù kargidi arc_hantaouet mat. bep_bloaz e vez bodet daou c_hoarier gwellañ Japan e kerzh un tournamant dirak an Impalaer hag ar shogun, betek adreizhadenn Meiji.
-En XVIIIvet kantved e kroger da venegiñ ar c_hoari evit_ar_wech_kentañ dre skrid e_bed_ar_c_hornôg. Kavet e vez e dezrevelloù ar veajourien evel hini ar Jezuist Matteo Ricci; dont a ra ar go da vezañ anavezet en Europa. Gant Leibnitz eo bet embannet ar pennad europat kentañ war ar go e 1710. Koulskoude n'eo nemet e dibenn an XIXvet kantved ma yeas ar go war raok, dreist holl en Alamagn hag en Aostria Hungaria. Krouet eo ar c_hlub kentañ e 1895 gant ofisourien eus ar morlu aostriat hungarat hag e 1909 e teu er maez ar gelaouenn gentañ.
-War ziorren eo aet ar go modern er_bed_a_bezh goude an eil brezel_bed, broudet gant lusk ar c_hevread japanat ha nerzh nevez ar c_hevreadoù korean ha sinaat.
-Ouzhpenn 40 milion_a c_hoarierien zo hiziv, en o zouez e tro 1 milion_a Europiz.
-Eeun eo reolennoù ar go ; setu an diverrañ anezho :
-C_hoari a ra ar_re Wenn hag ar_re Zu war un tablez m'emañ merket 19 linenn a hed ha 19 linenn a led a ya da sevel ur gael gant 361 poent_kej. Gant pep c_hoarier ez_eus un niver didermenet a jedoueroù (anvet mein) eus e liv. e_penn_kentañ ar c_hoari eo diac_hub (goullo) an holl poentoù_kej.
-Pal ar c_hoari : stummañ tiriadoù, anezho holladoù poentoù_kej goullo kontrollet gant ur c_hoarier. E fin an abadenn e vez lakaet ar brizonidi (mein tapet pe marv) war poentoù_kej tiriadoù an eneber. Goude e konter 1 poent dre boent kej diac_hub (se n'eo nemet un teknik kontañ : sañset e talvez 1 prizoniad pe un tiriad evit 1 poent). Trec_h eo ar c_hoarier gantañ ar muiañ a diriadoù.
-C_hoariet e vez pep_hini d'e dro; Du a grog atav. Pep c_hoarier a laka ur maen nevez eus e liv war unan eus poentoù_kej diac_hub an tablez.
-Lavaret e vez eus ar mein stok ha stok pa heulier linennoù an tablez ez int luget. Graet e vez strollad mein eus ur strobad_mein eus an hevelep liv luget kenetrezo.
-Bez' ez_eus, en_dro_da bep maen pe srollad mein, poentoù_kej stok diac_hub pa heulier linennoù an tablez. Frankizoù ar maen pe ar strollad mein ez int. Ma vez lamet kuit ar frankiz diwezhañ gant taol c_hoari ur c_hoarier e vez tennet ar maen pe ar strollad mein se eus an tablez (paket pe prizoniet ez int). Memes mod e vez graet evit mein pe strolladoù mein an eneber.
-Goude un taol prizoniañ eo difennet c_hoari un taol a adkroufe ur saviad heñvel ouzh an hini a raok er memes lec_h war an tablez.
-Ma laosk ur c_hoarier e dro, egile a c_hall c_hoari en dro.
-Pa laosk an daou c_hoarier o zro lerc_h ouzh lerc_h ez echu ar c_hoari.
-Goude klozañ an abadenn e vez priziet poentoù pep c_hoarier : an niver a boentoù kej ac_hubet pe kelc_hiet mik gant mein ur c_hoarier eo a gont. Kelc_hiet mik eo ur poent_kej goullo ma kej an holl hentoù a ya eus ar poent_kej se en_ur heuliañ ar gael gant mein ar c_hoarier se a raok en_em gavout gant re e eneber pe gant bevennoù an tablez.
-Trec_h eo an hini bet tapet ar muiañ a boentoù gantañ.
-Peurliesañ e vez implijet adstummoù a_bep_seurt diwar ar reolennoù se. A is emañ displeget an adstummoù all se na cheñchont ket doare ar c_hoari forzh_penaos.
-An tablez (goban e japaneg) zo anezhañ ur gael 19 linenn c_haranet dre 19 a ya da stummañ 361 poent_kej. Alies e c_hoari an deskarded war gobanoù bihanoc_h 13x13 pe 9x9, gant an hevelep reolennoù_c_hoari.
-Dasparzhet eo ar mein (go ishi e japaneg) e daou strollad difin o niver sañset met e gwirionez ez_eus 181 maen du ha 180 maen gwenn. C_hoariet e vez ar mein viheñvel war poentoù_kej ar garanoù a zalc_h anezho e plas. Evel se ne riklont ket war ar goban pa vez embreget ar mein.
-Peurliesañ e vez lakaet ar mein e barzh bolennoù (go ke e japaneg), unan dre c_hoarier. Aes eo ober gant golo ar volenn evit renkañ ar mein bet paket e kerzh an abadenn.
-A raok kregiñ gant un abadenn nevez e tiviz an daou c_hoarier pehini anezho a grogo ganti, dre an nigiri. Graet e vez nigiri eus ar fed evit ur c_hoarier da gemer un niver bennak a vein gwenn, tra_ma tap egile ur maen du pe zaou. Lakaat a ra da gompren evel se e soñj dezhañ eo par pe ampar an niver a vein gwenn zo e dorn e eneber. M'eo deuet a benn da zivinout mat e tap ar mein du hag e c_hoari da_gentañ.
-Dre zaou e vez c_hoariet go. Unan a ra gant ar mein gwenn hag egile gant ar_re zu. E deroù an abadenn eo goullo ar goban. Ar c_hoarier du eo a grog ganti pa vez c_hoariet hep dilañs (sellet a is evit an displegadennoù a denn d'ar c_hoari gant dilañsoù).
-C_hoariet e vez a bep eil; pep_hini a laka ur maen war unan eus poentoù_kej ar goban (gallout a reer c_hoari war ar poentoù_kej zo war ar bordoù pe war kornioù ar gael ivez). Ur wech bet lakaet war ar goban, ne vez ket cheñchet plas d'ur maen ken. Gallout a ra ur c_hoarier leuskel e dro pe dilezel an abadenn pa vez e dro.
-Lavaret e vez eo luget kenetrezo ar mein eus an hevelep liv zo stok ha stok (en_ur heuliañ linennoù ar gael). Mont a reont d'ober ur strollad. Frankizoù a reer eus ar poentoù_kej goullo
-en dro d'ur strollad pe d'ur maen. Pa ne chom frankiz ebet ken gant ur maen, pe ur strollad mein, eo paket (prizoniet). Tennet e vez kuit ar strollad a bezh eus ar goban neuze. Lakaet e vez gant ar bern prizonidi paket digant an tu enep.
-Kuit na vefe adc_hoariet an hevelep taol da_viken eo bet savet reolenn ar c_ho (Ur ger japanek a dalvez peurbadelezh eo ko). Berzet eo c_hoari un taol a adlakfe ar c_hoari en_ur stad bet gwelet dija e kerzh an abadenn.
-E gwirionez, peurliesañ ne vez implijet reolenn ar c_ho nemet evit ur maen, pe ur strollad mein, zo o paouez bezañ prizoniet ha_pa ne chom nemet ur frankiz gant ar maen eo bet c_hoariet an taol gantañ. Ma vez c_hoariet un taol a adkas an traoù d'ar stad ma oant just a raok ez eo ur c_ho. Difennet eo c_hoari aze eta. Ret eo d'ar c_hoarier c_hoari pelloc_h eta, ar_pezh_a grou ur c_hemm war ar goban. Evel se, ma ne vez ket leuniet ar c_ho gant ar c_hoarier all war lerc_h, eo posupl pakañ el lec_h se en dro .
-Efed ar c_ho eo lakaat ur saviad lec_hel (en dro d'ar c_ho) da vezañ kalz diouzh stad_an_traoù war peurrest ar goban. Ma fell d'an daou c_hoarier gounid ar c_ho e rankont c_hoari taolioù tag e lec_h all war ar goban, betek_ma tivizo unan eus ar c_hoarierien ober van eus ur gourdrouz e lec_h all a benn gellout gounit emgann ar c_ho.
-Pa vez c_hoariet ur maen e vez sellet da_gentañ ouzh frankizoù ar strolladoù enep tro dro dezhañ. Ma n'eus frankiz ebet ken da lod anezho e vezont tennet kuit ha kontet evel prizonidi. Ma n'eus bet paket strollad enep ebet e studier frankizoù ar strollad m'emañ ar maen zo o paouez bezañ lakaet war ar goban (a wechoù, eñ hepken). Ma n'eus frankiz ebet ken gant ar strollad ez eo un emlazh. Difennet eo.
-Echuiñ a ra ar c_hoari pa laosk daou c_hoarier o zro lerc_h ouzh lerc_h. Tennet e vez neuze ar mein marv (ar_re chomet war ar goban hag a vo paket dre ret) e giz pa vijent bet prizoniet. 
-An tabutoù evit gouzout ha bev pe varv eo ur maen a vez diskoulmet en_ur genderc_hel da c_hoari betek_ma vefe a du an daou c_hoarier. E Japan ez_eus ur roll degouezhioù hir a ra dave da abadennoù c_hoariet e kerzh tournamantoù. Dister dra eo se evit an darn_vrasañ eus ar c_hoarierien.
-Ur wech tennet ar mein marv e konter ar poentoù a benn gouzout piv zo bet trec_h, da_lavaret_eo piv zo aet gantañ an tiriad brasañ war ar goban. Daou zoare zo evit_se :
-Mod Japan, hini "an tiriadoù"; pep c_hoarier a gont an niver a boentoù kej goullo kontrollet gantañ (kelc_hiet penn_da_benn gant e vein dezhañ e unan) ha tennañ a ra an niver a vein bet pakaet digantañ (aes eo d'en ober en_ur lakaat ar mein enep war ar poentoù_kej kontrollet goullo a benn bihanaat ar skor).
-Mod Sina, hini ar gorreadoù; ne gont ket ar brizonidi met kontet e vez an holl boentoù kej kontrollet gant ur c_hoarier, da_lavaret_eo an holl boentoù m'en_deus lakaet ur maen hag an holl boentoù goullo zo kelc_hiet penn_da_benn gant e vein dezhañ e unan (pa n'hall ket ar c_hoarier enep c_hoari enno hep c_hoari ur c_ho pe hep en_em lazhañ).
-Ne vern an doare kontañ, trec_h eo an hini a zastum ar muiañ a boentoù. Peurliesañ en_em gaver gant an hevelep trec_hour, pe gant mod Sina pe gant hini Japan.
-evit_ma c_hallfe c_hoari a gevret c_hoarierien dezho liveoù disheñvel e c_haller leuskel un tamm lañs d'ar c_hoarier gwanañ. Hennezh, hag a c_hoari gant Du, a c_hall kaout un nebeud mein ouzhpenn lakaet war ar goban a_raok_na krogfe an abadenn.
-Peurliesañ, e vez lakaet meiñ lañs ar c_hoarier gwanañ war ar goban war poentoù_kej kendivizet anvet hoshi.
-War ur goban 19x19, ez eo an 9 foent da heul :
-4 da (4,4) eus ur c_horn
-4 da (4,10) etre ar poentoù a raok
-1 poent e kreiz (10,10) anvet an tengen
-Alies eo rakverket al lec_hioù se war ar goban dre ur poent brasaet en dro d'ar poent_kej.
-Du a c_hall lakaat etre 2 ha 9 maen dilañs hervez diforc_h live an daou c_hoarier. Ma ne sav ket an diforc_h live en_tu_all d'ur maen hepken, du a c_hoari da_gentañ, ar_pezh_a ro un tamm lañs bihan ma c_haller drezañ gounit e tro 5 pe 6 foent.
-Pa gevez daou c_hoarier ken kreñv ha ken kreñv ez_eus ul lañs dre ret gant ar c_hoarier a grog evel m'eo bet gwelet a us. E pad kantvedoù ez_eus bet c_hoariet go hep teuler nemeur_a fed d'an digempouez mañ. goude_se eo bet istimet gounid an du war ar gwenn da 5 poent hanter. Bremañ e roer ar poentoù se d'ar_re wenn e pad an abadennoù kevatal. Komi a reer eus ar poentoù digoll se.
-Abaoe un_nebeud_bloavezhioù eur tuet da lakaat kreskiñ talvoudegezh ar c_homi. Tremenet eo da 6 poent hanter e Korea hag e Japan ha da 7 poent e Sina.
-Elfennoù diazez ar strategiezh er c_hoari_go zo : 
-Lugañ
-Pa vez miret e vein stag ez_eus nebeutoc_h_a strolladoù da zifenn.
-Troc_hañ
-Disrannañ mein an eneber a redi anezhañ da zifenn muioc_h_a strolladoù.
-Bevañ
-Barregezh ar mein da chom hep bezañ paket eo. Peurliesañ en_deus ezhomm ur strollad eus div lagadenn evit bevañ
-Mervel
-Marv eo ur strollad ma n'haller ket mirout outañ a vezañ prizoniet war verr, krenn pe hir dermen.
-Pennad pennañ: An urzhiataerioù hag ar go
-Daoust d'an araokadennoù eo pell ar goulevioù c_hoari_go da vezañ ken mat ha goulevioù an echedoù. Ar goulevioù barrekañ ne dapont ket live ur c_hoarier_klub etre c_hoazh hag aes e vefent pilet gant ur c_hoarier ampart gantañ un dilañs 9 maen. E 1997 eo bet trec_het ar goulev HandTalk gant Janice Kim, shodan a vicher, daoust d'un dilañs a 25 maen. E 1998 eo bet trec_het Many Face of Go gant Martin Müller, 6vet dan amatour gant 29 maen dilañs. Displegañ a c_haller kement mañ dre doareoù liesseurt ar c_hoari, en o zouez :
-natur saviad an trec_h,
-lec_hiadur koulz_lavaret diniver pep maen war ar goban,
-ment vras ar goban (ar_pezh ne dalvez ket eo gwelloc_h an urzhiataerioù gant gobanoù bihanoc_h),
-natur anlec_hel reolenn ar c_ho,
-al live uhel empleget evit anavezout furmoù.
-setu_perak e soñj da imbourc_herien zo war ar speredegezh kalvezel e kinnig ar go ur muzul gwelloc_h eus barregezh an urzhiataerioù eget an echedoù.
-D'an 17 a viz_c_hwevrer 1996, ar c_hoarier echedoù Gary Kasparov a c_hounezas 4 c_hrogad enep an urzhiataer Deep Blue savet gant ar gompagnunezh IBM, a c_hounezas 2 grogad evelato.
-Bloaz goude, d'an 11 a viz_mae 1997, e voe trec_het Kasparov gant Deeper Blue : 3,5 evit an urzhiataer ouzh 2,5 evit an den. En deiz se e voe diskouezet splann e c_hall un urzhiataer jediñ ur wezennad a 10120 kedaozad bewech ma vez e dro da c_hoari.
-D'an 9 a viz_here 2015, e Londrez, an urzhiataer AlphaGo a faezhas Fan Hui, kampion Europa ar c_hoari_go, dre 5 krogad ouzh 2. Goude bezañ prouet e c_hall jediñ 10170 kenaozad ar c_hoari_go e vo kaset AlphaGo dirak gwellañ c_hoarier ar bed 2015.
-Evit gouzout penaos e ya Alphago en dro : Nature (en)
-Stankoc_h stankañ eo ar c_hoari_go dre ar Genrouedad. Gallout a ra ar c_hoarierien kejañ, eskemm war abadennoù ha c_hoari an eil ouzh egile. Koulskoude n'eo ket_ken priziet hag ar c_hoari gwir. Tu zo da c_hoari gant kalz servijerioù ha meziantoù. Gwelet C_hoari war ar Genrouedad ha Meziantoù c_hoari_go.
-E Seoul, d'an 9 a viz_meurzh 2016 e krogas an urzhiataer Google DeepMind, gant ar meziant AlphaGo, da c_hoari enep Lee Sedol ( 2 a viz_meurzh 1983), gwellañ c_hoarier denel 2015. 
-meur_a wech dija ez eo aet ar maout gant ur meziant e tal un den.
-1979 : ar meziant backgammon BKG 9.8 a c_hounezas 7 ouzh 1 e tal kampion nevez ar bed, an Itaian Luigi Villa.
-1994 : kampion ar bed e voe ar meziant damez saoz Chinook e tal an Amerikan Marion Tinsley, a embannas emdenn en abeg ma oa klañv ; bloaz war lerc_h e voe Chinook kampion ar bed adarre.
-1997 : ar meziant echedoù Deep Blue a drec_has Gary Gasparov, evel m'eo bet meneget amañ_a_us.
-"N'eo ar bed nemet ur c_hoari_go zo bet luziet e reolennoù hep abeg" (krennlavar sinaat).
-Ken mistr, organek ha ken poellek eo reolennoù ar go. sur_a_walc_h ma'z eus stummoù buhez speredel un_tu_bennak en egor e tleont c_hoari_go" (Emanuel Lasker, bet kampion ar bed war an echedoù).
-Tri lankad zo d'un abadenn go : ar fuseki, kreiz ar c_hoari, hag an dilez"
-Atari zo un taol fall
-Marteze zo divskouarn gant ar c_had met ne vez ket atav daoulagad"
-A raok embann eo fall un taol, bezit sur n'eo ket bet c_hoariet gant un navvet dan"
 
 **** *art_Linux *id_Linux *cat_recherche *prof_0 *terme_stlenneg *equiv_fr_oui *lang_br
 Ur reizhiad korvoiñ diazezet war UNIX eo Linux ha diskarg a wirioù dindan al lanvaz GPL. Krouet e oa bet e 1991 gant Linus Torvalds.
@@ -1547,24 +958,6 @@ Dre ar forc_hoù ez_eus bloc_hoù emzevat, a c_hell bezañ orin hedadoù bloc_ho
 Krouet e voe teknologiezh an hedadoù bloc_hoù kentañ e 2008 gant un den pe gant ur strolladig tud dianav emanvet "Satoshi Nakamoto", pa oant o klask sevel ur marilh dasparzhet foran evit ur c_hriptomoneiz, ar bitcoin. Diwar labourioù Stuart Haber, W. Scott Stornetta ha Dave Bayer ez eo bet savet an dra se.
 Dre hedadoù bloc_hoù e c_heller herzel ouzh enskrivañ div wezh un eskemm moneiz hep kaout ur greizenn kontrolliñ, ur bank, pe ur servijer kreiz. Diwar ar framm se ez eo bet ijinet servijoù all estreget ar moneizioù niverel, evel dasparzhañ videoioù enlinenn, da skouer.
 
-**** *art_Eil_milved *id_Eil_milved *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
-Kregiñ a ra an eil milved d'ar 1añ Genver 1001 hag echuiñ a ra d'an 31 Kerzu 2000.
-ar Grennamzer izel
-ar vosenn zu
-an Azginivelezh en Europa
-an industrieladur
-an Impalaerezhioù trevadennel
-an daou vrezel_bed
-Ar moullañ gant Johannes Gutenberg
-Al liamm etre Europa hag Amerika ha kartennoù klok kentañ ar blanedenn
-Dizoloadenn an tredan
-Dizoloadenn doareoù kehentiñ nevez (pellarouezerezh diorjal, pellgomzerezh diloc_h hag hezoug, ar Genrouedad...)
-Dizoloadenn an teknologiezhioù_nevez (skinwel, urzhiataer, ardivinkoù titredannerezh)
-Deroù ergerzhadeg an Egor hga eroù ar c_hlonañ en eil lodenn eus an XXvet kantved
-en_em stewiñ a ra Danvez Breizh en Europa e pad ar Grennamzer (mojenn ar Roue Arzhur, Tristan hag Izold...), o tegas temoù nevez evel ar marc_hegiezh, ar garantez kourtes, an hudouriezh, etc, ha doareoù all da skrivañ evel ar romant, pe er varzhoniezh. Addizoloet eo mojennerezh Henc_hres ha Roma gant Europa adalek an Azginivelezh, o tont da vezañ un eienenn awen vras.
-en_em ziorren a ra fonnus an arzoù en eil milved, en_holl dachennoù : al livadur, ar savouriezh, ar gizelladur, al lennegezh, ar sonerezh, etc.
-en_em strewiñ a ra ar relijionoù bras : ar gristeniezh, an islam, an hindouegezh, ar voudaegezh. E 1054 eo dispartiet ar gatoligiezh hag an ortodoksiezh gant Skism Kornôg Reter. Krouet eo ar brotestantiezh er XVIvet kantved.
-
 **** *art_Elon_Musk *id_Elon_Musk *cat_recherche *prof_0 *terme_stlenneg *equiv_fr_oui *lang_br
 Elon Reeve Musk, ganet d'an 28 a viz_mezheven 1971 e Pretoria (Suafrika), zo un embreger stadunanat, e penn meur_a embregerezh, Tesla ha SpaceX en o zouez. Talvezout a rae e sammad kement_ha 328 miliard a zollaroù d'ar 7 a viz_mae 2025, ar_pezh e laka anezhañ da binvidikañ den ar bed. e_miz_ebrel 2022 e prenas Twitter evit 43 miliard a zollaroù.
 Elon Musk zo bet ganet d'an 28 a viz_even 1971 e Pretoria. E vamm May Musk a oa bet top model hag arbennigourez war ar boued mat evit ar yec_hed. E Kanada e oa bet ganet May, hogen desavet e oa bet e Suafrika. Tad Elon Musk, Errol Graham Musk, a oa un ijinour war an tredantreloc_herezh hag ur penngaser tiez. Kenberc_henn e oa war ur vengleuz emrodez. Bugel henañ ar familh eo Elon Musk ; ur breur, Kimbal hag ur c_hoar, Tosca, en_deus. Pinvidik a walc_h e oa stad e familh, dilennet e oa e dad e Pretoria City Council (kuzul kêr Pretoria), eus tuadur an araokourien, enep apartheid, da_lâret_eo e oa un c_houlzelour d'ar mare se. Dispartiañ a reas kerent Elon e 1980, pa oa 9 bloaz ; diouzh pezh_a gont e vamm war e zivout, er skol e vefe bet ur bugel « lent, amparfal, gant diaesterioù sokial, troet warnañ e unan eta ». Da zek vloaz dija e oa troet gant bed ar stlenneg hag ar c_hoarioù_video, desket en_doa programmiñ drezañ e unan gant un urzhiataer Commodore VIC 20. Da zaouzek vloaz en_doa gwerzhet evit 500 dollar ur c_hoari_video en_doa ijinet ha fardet e unan. Ur paseporzh kanadian a c_houlennas a raok mont da di ur c_henderv dezhañ ha stagañ gant e studi eno e 1989. Graet en_doa micherioù all e giz labourat en un ti feurm hag un heskennerezh. Un aotreegezh war ar fizik a dapas e skol veur Pennsylvania, koulz_hag unan war an armerzh. Gantañ e voe skrivet ur steuñv embregañ evit niverelaat levrioù, heñvel a walc_h bremañ ouzh ar reizhiad Google Books. Degemeret e oa bet d'ober enklaskoù gant ur programm doktorelezh war un danvez skiantel, hogen gwell e voe dezhañ treiñ war zu an Internet, a oa o tarzhañ da_neuze.
@@ -1764,37 +1157,6 @@ Pixelnest Studio
 Ur c_hoari_video anvet Steredenn (c_hoari) ur c_hoari tenn egor a gaver an tu da brenañ dre an Humble Store hag a zo bet troet e Brezhoneg dre c_hoant ar studio.
 Un Humble Bundle a oa bet savet a benn sikour gouzañverien Gwalldaolioù an 13 a viz_du 2015 e Pariz. Anv ar Bundle a oa Humble Bundle GiveForFrance , an embregerezh e liamm a oa Focus Home interactive.
 
-**** *art_IIIe_milved *id_IIIe_milved *cat_recherche *prof_0 *terme_niverel *equiv_fr_oui *lang_br
-Kroget en_deus an IIIe milved d'ar 1añ Genver 2001 hag echuiñ a raio d'an 31 Kerzu 3000, da_lavaret_eo eus an XXIvet kantved betek an XXXvet kantved.
-kenderc_hel a ra an Dispac_h niverel da cheñch buhez pemdez an dud voutin, koulz war an dachenn brevez ha micherel,
-krouet eo an holloueziadur digor Wikipedia e 2001,
-lañset eo an iPhone gant Apple, ar "poellgomz" kentañ, e 2007
-kentradet eo ur gaouad sponterezh e 2001 gant Al Qaida ha Gwalldaolioù an 11 a viz_gwengolo e SUA,
-kreñvaat a ra tommadur ar blanedenn, o tegas anadennoù direizh an hin er bed.
-steuñv Unaniezh Europa eo da izelaat dilaoskadennoù gaz efed ti gwer dre 55% e 2030,
-raktresañ a ra an NASA da gas tud en_ur gefridi da Veurzh etre 2031 ha 2035,
-pal an ONU eo e vefe alfabetakaet holl annezidi ar bed ha gallout a reont holl mont war ar Genrouedad e 2030.
-19 a viz_genver 2038 : un draen a vo evit kalz sistemoù niverel loc_het e 1970.
-2041 : fin labourioù dispennadur kreizenn nukleel Brenniliz programmet gant ar Stad gall.
-2047 : d'ar 1añ a viz_gouere e vo war an echu an emglev "ur vro, daou sistem" etre Hong Kong ha Republik Pobl Sina. Skoulmet eo bet d'ar 1añ a viz_gouere 1997 gant Deng Xiaoping evit ober war dro adunvaniezh Hong Kong gant Sina, ha diferet e oa bet e Disklêriadur Boutin Breizh Veur Sina e 1984. N'eo ket resisaet e teuliad ebet petra vo graet goude. (Lod a lavar eo bet torret ar sistem e 2020 gant al Lezenn diwar benn ar Surentez Broadel.)
-2048: d'ar 14 a viz_genver e teuio Protokol Madrid diwar benn Antarktika d'e dermen, hag e vo adwelet.
-2049:
-d'ar 1añ a viz_here e tle bezañ echuet Hentoù Nevez ar Seiz hag a gloto gant 100vet deiz ha bloaz diazezadenn Republik Pobl Sina.
-d'an 20 a viz_kerzu e vo echu an emglev "ur vro, daou sistem" gant Makao, kroget 50 bloaz araok d'an 20 a viz_kerzu 1999.
-2345 : lid 1500 bloaz ar vroad vreizhat diazezet gant Nevenoe.
-2453: 1000 bloaz zo abaoe diskar Impalaeriezh roman ar Reter
-2464 : 1000 bloaz ar C_hatholicon skrivet gant Jehan Lagadeuc : geriadur brezhoneg kentañ, geriadur gallek kentañ, ha geriadur liesyezhel kentañ embannet er bed.
-2476: 2000 bloaz zo abaoe diskar Impalaeriezh roman ar C_hornôg
-31 a viz_mae 2068 : c_hoarvezhout a raio ur fallaenn war an Heol,
-miz_eost 2113 : tizhet e vo he afelienn gant ar gorrblanedenn Ploudon evit_ar_wech_kentañ abaoe e oa bet dizoloet e 1930
-miz_gwengolo 2231 - miz_here 2245 : tostoc_h e vo Ploudon ouzh an Heol eget Neizhan evit_ar_wezh_kentañ abaoe ar bloazh 1999,
-2265: distro Kometenn Vras 1861.
-tri tostadur a c_hoarvezo etre an Douar ha Meurzh :
-55 688 405,2 km a vo etrezo d'ar Sul 28 a viz_eost 2287,
-55 651 582,118 km d'an 3 a viz_gwengolo 2650,
-55 651 033,122 km d'an 8 a viz_gwengolo 2729.
-2562 : echuiñ a raio ar gorrblanedenn Eris he reveulzienn gentañ tro dro d'an Heol abaoe eo bet dizoloet e 2005.
-
 **** *art_Inkscape *id_Inkscape *cat_recherche *prof_0 *terme_stlenneg *equiv_fr_oui *lang_br
 Inkscape zo ur meziant krouiñ pe gemmañ skeudennoù sturiadel. Digoust eo, ha digor eo e vammenn dindan aotre GPL. Galloudus eo Inkscape, pa'z eo kenglotus gant skouerioù XML, SVG ha CSS ar W3C.
 Ur poellad lies savenn eo, a c_heller implijout dre Microsoft Windows, Mac OS X (dindan X11), Linux ha FreeBSD.
@@ -1829,193 +1191,6 @@ Leuniañ dre abladennoù livioù, dinaouiñ, gwiadoù ha tresoù, gant kanol alf
 Dinaouiñ livioù dre zornelloù reoliñ
 Dinaouiñ linennek hag a skin
 Bevennoù dre boentigoù ha "merkerioù" (traezoù SVG peget ouzh skoulmoù ha pennoù ar c_hrommennoù)
-
-**** *art_Islandeg *id_Islandeg *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
-Ur yezh c_hermanek eus skourr yezhoù skandinavek ar c_hornôg eo an islandeg (íslenska), komzet en Island dreist holl. Un nebeud islandegerien a gaver ivez e Kanada hag e Stadoù Unanet Amerika.
-An islandeg eo ar yezh skandinavek emdroet an nebeutañ e keñver an henyezh. Furmoù disheñvel o_devez an anvioù evit ezteurel o c_harg yezhadur : gant morfemoù e vez merket an troadoù, ar reizh hag an niver, evel_ma veze graet en henskandinaveg. 
-en_abeg_da se n'eo ket re ziaes da Islandiz hiziv_an_deiz lenn testennoù eus ar Grennamzer, evel sagaoù ar Vikinged, bet savet tremen seizh kantved zo. 
-Skrivet e vez an islandeg gant al lizherenneg latin, gant un nebeud lizherennoù dibar evel : Á/á, É/é, Í/í, Ó/ó, Ú/ú, Ý/ý, Ð/ð (distaget evel an "th" saoznek er ger this), Þ/þ (distaget evel an "th" saoznek er ger thin pe evel ar <z> spagnolek er ger cabeza), Ö/ö hag Æ/æ. Ne reer ket gant al lizherennoù <c>, <q>, <w> ha <z>.
-Evezh bras a daol an islandegerien ouzh « glanded » o yezh ; ne fell ket dezho e vefe gerioù estren enni. abalamour_da se e reer en islandeg gant gerioù disheñvel mat diouzh re ar yezhoù indezeuropek all, evit ar meizadoù nevez a vez anvet e kalz yezhoù alies gant gerioù amprestet digant al latin pe ar gresianeg.
-Un nebeud skouerioù
-urzhiataer = tölva (savet diwar tala, "niver", ha völva, "divinourez", "urisinourez").
-burev = skrifstofa ("kambr skrivañ")
-c_hoariva = leikhús ("ti c_hoari")
-paseporzh = vegabréf ("tremen hent")
-pouezventer = loftvog ("mentel an aer")
-margarin = smjörlíki ("tra heñvel ouzh amann")
-kenrouedad = veraldarvefurinn ("rouedad bedel")
-geiser, diwar Geysir, ar geiser anavezetañ en Island
-saga
-
-**** *art_Kartennouriezh *id_Kartennouriezh *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
-Gant ar c_hlask Sevel kartennoù e tegouezher amañ.
-Kartennouriezh a reer eus ar studi hag ar pleustr da sevel kartennoù.
-Dre genstrollañ ar skiant, ar genedelezh hag an teknik e talc_h ar gartennouriezh da gas an traoù gwelus da stlennoù egorel gant un aozadur grafek pe stlennel. Pan eo ar gartennouriezh hollad an hentennoù da sevel ar c_hartennoù, ar sevel kartennoù e unan eo an disoc_h, ha "kartenniñ" a c_hall bezañ kevatal d'an dro lavar. Gallus eo lakaat ar gartennouriezh d'ur skiant a c_hell bezañ kelennet e_pep_lec_h, met er skolioù sevel kartennoù e veze pleustret warni gwechall ha bremañ e vez kelennet dre hentadoù arbennik er skolioù meur.
-Goude kavet ar mammennoù, da_lavaret_eo tresadennoù, luc_hskeudennoù pe stlennoù (savleoù, skridoù, restroù...) e stager gant ar sevel kartennoù dre bemp pazenn.
-Sevel listenn an traoù da vezañ kartennet ha dibab an traezennoù da vezañ diskouezet. An traezennoù a c_hell bezañ traou fetis evel an hentoù hag an torosennadur, pe difetis (lec_hanvioù, harzoù politikel).
-Diskouez un hollad douaroù digompez war ur skor plat ; setu_perak e tleer ober gant bannerezhioù kartennel.
-Lemel elfennoù an traezennoù mar n'emaint ket el listenn a zo da gartenniñ.
-Krennañ lod perzhioù a denn d'an traezennoù da vezañ kartennet, betek mont d'an hollekadur.
-Kempenn an elfennoù treset ken e c_hell ar gartenn kas ur gemennadenn efedus d'an dud, ar_pezh_a zo pal pennañ pep kartennour·ez : ret eo d'ur gartenn bout resis hag aes da lenn war_un_dro.
-An tresañ hag ar moullañ e oa diazezoù koshañ ar gartennouriezh ; bremañ avat ez eo skiant ar stlenn douaregorel. Diwar se e vez savet reizhiadoù stlenn douaroniel (RSD) a endalc_h ar stlennoù douaregorel evit o c_hemm er restroù prest da vezañ moullet, luc_hvannet pe ginniget enlinenn.
-meur_a skiant hag a ziskiblezh a ya da fardañ ar stlennoù douaregorel : douaroniezh, steredoniezh, mentoniezh, matematik, urzhiataerezh, aerlunerezh hag_all ; ha kartennoù zo rekis e meur_a skiant ivez : douarouriezh, bevoniezh, skiantoù sokial (keraozouriezh, kevredadouriezh hag_all) da skouer. Evit bastañ d'o ezhommoù ez eo ret implijout elfennadur ar stlennoù.
-nevez_zo ez eo bet ouzhpennet ar gartennouriezh 2.0 hag ar gartennouriezh kelaouiñ. Ijinet ez_eus bet ur ger nevez evit kenskejadur ar gartennouriezh hag an urzhiataerezh : ar geomatik, gant geomatikourien o pleustriñ warnañ.
-Eus an henc_hresianeg e teu ar ger kartenn, dre an emdroadur (el) khartês "skor ur skrid" → (la) charta "paperenn", "skrid" → (fr) charte & carte → (br) kartenn ("carten" e 1633).
-N'eo ket aes kavout kenasant diwar benn koshañ kartenn ar bed, pan eo disklaer ar_pezh_a zo bet livet pe gizellet milvedoù zo.
-E Çatal Höyük e seblant bezañ livet skeudenn ar geoded anatoliat en Henamzer war un voger savet e kerzh ar 7vet milved kent Jezuz Krist.
-Asambles gant roc_helloù kizellet er Ragistor e weler e Menez Bego (Bro C_hall) hag e Val Camonica (Italia) ez_eus tresadennoù lunioù mentoniel eno, ha deveizet e vezont alies evel skeudennadurioù ar parkoù gounid, pevar mil bloaz zo, e deroù ar gounezerezh en Alpoù.
-Ur voger livet a weler e Ti an Amiral e Knosos (Mare ar Minoidi) a zispak ur gêriadenn war vord ar mor (IXvet kantved KJK).
-War dro ar mare se e voe skeudennet keoded Nippur, tost_da Vabilon e Mezopotamia. Dre zaveiñ d'ar bed babiloniat ez_eus bet kavet skeudennadurioù ar bed anavezet gant o zreserien. Kreizennet war geoded Babilon war ribl an Eufrates eo ar gartenn, a ziskouez ur seurt kantenn gant tresadennoù meur_a gêr ; ur stêr a weler ivez tro dro dezho : ur meurvor emichañs. Ur gartenn all a ziskwel Babilon e Norzh ar bed.
-Kavet ez_eus bet deouezadurioù lec_h kizellet e kerzh Oadvezh an houarn. Ar gartenn anavezetañ zo anvet kartenn Bedolina, bet kavet e Val Camonica, en Alpoù adarre.
-En Henc_hres ha Henroma ez_eus heklevioù war labourioù ar skiantour Anaksimandros (Ἀναξίμανδρος, ~610 – ~546 KJK), met brudetoc_h eo oberoù Klaudios Ptolemaios a skrivas an arnodskrid Geōgraphikḕ Hyphḗgēsis ("Stulevr da dresañ an Douar", IIvet kantved KJK), kartenn an οἰκουμένη oikouménē "[ar bed]]annezet" enni. Ar gartenn mañ a chomas un daveenn a bouez e pad kantvedoù. A drugarez d'an Arabed a zalc_has da dreiñ labourioù an douaroniourien c_hresianek e voent miret.
-E Sina gozh ez_eus bet miret roudoù labourioù douaroniel er Vvet kantved KJK, met n'anavezer kartenn ebet a raok ar IVvet kantved KJK, dindan paeroniezh an dierniezh Qin e Marevezh ar Stadoù Brezelour. Kantvedoù war lerc_h ec_h embannas ar skiantour Su Song (1020 1101) un dornlevr horolajerezh, Xiangfayao Xinyi (新仪.象法要, 1092) e ditl, hag a endalc_he kartenn ar stered savet dre ur bannerezh kranennek, ar gartenn voullet koshañ (1094). Koulskoude e seblant bezañ bet kartennoù merdeiñ, sterenn an Norzh enno, e deroù an Amzervezh kumun.
-En IXvet kantved e veze savet gant ar c_hloer gristen kartennoù ar bed kreizennet war Jeruzalem, a ziskouez Afrika an Norzh, Azia hag Europa, hag aozet diwar ar Bibl. Kartennoù speredel evit prezegenniñ e oant, kartennoù evit beajiñ ne oant ket. N'eus kartenn ebet savet diwar un deouezadur a raok an XIvet kantved, darn anezho harpet war an Tabula Peutingeriana a eilade sturlevrioù an Impalaeriezh roman diwezhat.
-Er bloaz 1154 ec_h embannas an douaroniour arab Muhammad Al Idrisi un atlas anvet Tabula Rogeriana (diwar anv Ruggero II, roue Sikilia) a enlakae anaoudegezhioù e keñver Afrika, broioù ar Meurvor Indian hag ar Reter Pellañ dastumet gant ar varc_hadourien arab ha kenstrollet gant oberoù ar gartennerien c_hresian ha roman. Evel se se e savas ar gartenn resisañ evit e amzer hag an tri c_hantved war lerc_h.
-E diwezh an XIIIvet kantved e voe ijinet kartennoù arbennik evit ar verdeerien, ar portulanoù, anvet diwar ar ger italianek portulano, "dornlevr merdeiñ". Ne ziskouezent nemet ar porzhioù, ar merkoù, linenn an aodoù, an enezennoù ha pep traezenn a c_hellfe bezañ emsavus evit ar merdeadurezh. Evit sevel kartennoù merdeiñ e voe staliet skolioù kartennouriezh e lod porzhioù : e Spagn da_gentañ, ma voe savet ar portulan koshañ e 1344 e Mallorca, hag e Portugal (Lisbon) ha pelloc_h e Dieppe ha Konk Leon. E skol Mallorca e voe savet an Atles català ("Atlas katalan", 1375) a zo bet kaset da levraoueg ar roue Karl V an Impalaeriezh Santel. Ur portulan kartenn ar bed warnañ eo.
-War dro 1 100 kartenn fardet er Grennamzer zo deuet betek ennomp, an darn_vrasañ anezho enlakaet e dornskridoù enlivet, hag ur c_hantad en o unan.
-Pa voe troet Geōgraphikḕ Ptolemaios e latin e diwezh ar Grennamzer, goude bezañ bet troet gant an Arabed, kartennoù ar bed anavezet d'e vare a vroudas goulennoù diwar benn ar_pezh_a c_hellfe bezañ kavet dre ar meurvorioù.
-En Amzer an Ergerzerezh pe Amzer an Dizoloadennoù (XVvet kantved XVIIvet kantved), ar gartennourien europat o_deus implijet parzhioù kavet er c_hartennoù diaraok ha savet kartennoù aozet diwar arselladurioù an ergezhourien ha dre an teknikoù nevez. Gwellaet a galz e voe ar spisted dre an ostilhoù nevez iijinet evel an nadoz vor, an teleskop hag ar c_hwedant. Ar gartenn goshañ a zispak an Douar en_e_bezh a voe aozet e 1492 gant an Alaman Martin Behaim (1459 1507).
-Johannes Werner (1468 1522) a ginnigas ar bannerezh Werner, hag e 1507 e fardas Martin Waldseemüller (1472 1520) koulz ar bellenn Douar gentañ hag ar gartenn voger gentañ, Universalis Cosmographia (embannet e 1507), ar ger America warni.
-E 1513, ur c_hartennour otoman, Piri Reis (~1480 1554), a dresas douaroù eus Amerika ivez. Ar Portugalad Diego Ribero († 1533) a dresas linenn ar c_heheder war ur blanisferenn. An Italian Battista Agnese (c. 1500 1564) zo bet oberour 71 atlas dornskrivet, kartennoù merdeiñ ennañ.
-Ne oa ket boas (nag aes, a wezhioù) skrivañ war gostez ar c_hartennoù da be zen e oa bet amprestet darn eus ar mammennoù. Da skouer, p'en_doa ar Saoz Herman Moll (1654 1732) embannet e 1715 The Beaver Map ("Kartenn an Avank"), koshañ kartenn Amerika a hervez, e voe kavet da_c_houde ne oa nemet eiladur ar gartenn savet e 1698 gant ar Gall Nicolas de Fer (1647 1720), met hemañ en_doa kavet kalz elfennoù e labourioù ar Belgiad Louis Hennepin (1626 1704) hag ar Gall François du Creux (1596 1666).
-Estreget ar c_hartennoù merdeiñ paeet gant ar varc_hadourien e veze aozet ha kellidet kartennoù gant ar galloudoù politikel evit difenn tiriadoù pe o zagañ. Kalz kartennoù a veze lakaet da draezennoù kuzh, hag ar gartennourien a c_helle kaout goproù uhel dre en_em werzhañ d'ur Stad amezek.
-Holl Stadoù Europa a glaskas staliañ skolioù kartennouriezh ha kas kartennourien guzh da bep lec_h. Roma, Firenze ha Venezia zo bet al lec_hioù ma veze bodet un niver bras a gartennourien.
-E Sina, ergerzhadennoù ar merdeer Zheng He (1371 1433) er Meurvor Indian betek aodoù Afrika a vouetas ar c_hartennoù savet er XVIvet kantved gant kaelioù ha deouezadurioù an traezennoù, met ne voe ket kendalc_het gant an traoù nevez se.
-Ma 'z eo bet bannerezh ar Flandrezad Gerard De Kremer (Gerardus Mercator, 1512 1594) un araokadenn dispar evit ar verdeerien, ezhomm a oa eus bannerezhioù all evit kartenniñ an douaroù. An Alaman Matthäus Seutter (167 1757) a voe an hini kentañ e 1740 oc_h ober gant ur bannerezh gant diarsell a serzh hag, e 1743, Joseph Nicolas Delisles (1688 1768) a ginnigas ar bannerezh kernennek keit_ha keit.
-Ar matematikour suis Johann Heinrich Lambert (1728 1777) a bledas gant kudenn ar bannerezh (penaos plaenaat un dra bellennek evit e dresañ war ur follenn_baper ?). Kavout a reas 7 doare da ober bannerezhioù, met daou anezho a chom implijet kenañ : ar bannerezh kernennek kevatal hag ar bannerezh azimutel kevatal.
-Ken pouezhus eo al liamm krouet etre ar gartennouriezh hag ar c_hlennadurezh (skiant ar muzuliañ un dachenn kent he zresañ) pe skiant kozh ar gwalennata, a veze implijet evit muzuliañ gorread an Douar hag e ziskouez war baper. Ar benveg kentañ a oa ar c_hard kelc_h arwellaet. Ur bazenn belloc_h e voe muzuliañ uhelderioù al lec_hioù da vezañ kartennet. Kaout muzulioù resis an hedoù evit sevel an deouezad kenstag a zeuas gant teknikoù an tric_hornegadur.
-Ur skiant all a zeuas da reiñ harp d'ar gartennourien : ar steredoniezh, a bled gant muzulioù an egor, ken war an Douar hag en oabl. Pa voe termenet hedredenn Pariz e 1663 ha diazezet Arsellva Pariz e 1667 e voe raktreset sevel kartenn Bro C_hall diwar urzh Loeiz XIV ; ar gartennourien a zlee jediñ tres resis un darn eus an hedredenn bennañ, koulz e Norzh hag e Su Pariz. Kroget al labourioù tric_hornegañ e 1700, ne voe ket echu sevel tres an hedredenn a raok 1718. da_c_houde e voe jedet tresoù seizh linenn a serzh ha re an harzoù hag an aodoù. Jedet e voe 814 tric_horn evit goleiñ tiriad ar rouantelezh a bezh ha lec_hiadurioù ar c_hêrioù hag ar c_hêriadennoù, koulz_ha re an elfennoù douaroniel (dourredennoù, menezioù hag_all). War an dachenn e voe dastumet ar muzulioù gant daou ijinour douaroniour. E 1744 e voe kinniget ur gartenn a ziskoueze an tric_hornioù.
-Kinniget e voe kartenn hollek Bro C_hall d'ar roue Loeiz XV e 1747, met pa ne veze roet arc_hant publik ebet evit he c_henderc_hel e tivizas ar c_hartennour gall César François Cassini (1714 1784) sevel ur embregerezh prevez gant aotre ar roue. Daou vil tric_horn a voe treset (ar 814 kent enno) evit produiñ kartennoù lec_hel 1 linenn evit 1 tezad Pariz o skeul (1/86 400, pa ya 864 tezad Pariz en ul linenn ; 1 tezad Pariz = 1,959576 m). Etre 1747 ha 1793 e voe embannet ha lakaet e gwerzh.
-Rakjedet e oa bet embann 180 follenn kartenn, met 165 a oa bet moullet pa voe divizet ma vijent deoget gant ar Republik ha kaset eus boniad an Arsellva d'an Dépôt de la Guerre (dastumlec_h an dafar milourel), pa ne zlee mui enebourien ar vro anavezout tres spis an tiriad.
-Pa voe krouet Akademiezh roueel ar Skiantoù Pariz (Académie royale des Sciences de Paris) e 1666 e voe sachet evezh an izili war kraf al lun m'he_deus an Douar (la figure de la Terre), rak ur bellenn beurvat e oa hervez diskibled René Descartes hag unan pladet e takad ar pennoù ahel hervez diskibled Isaac Newton). Evit diskoulmañ ar gudenn e voe divizet kas ur skipailh skiantourien renet gant ar steredoniour breizhat Pierre Louis Moreau de Maupertuis (1698 1759) da Norzh Finland evit keñveriañ hed un derez gwarenn war an hedred gant an hini a oa bet jedet nepell_diouzh Pariz. Pa oa an hini kentañ an hini hirañ e voe kadarnaet teorienn Newton.
-Divizet e voe gant Akademiezh ar Skiantoù kas ur skipailh all evit muzuliañ 1° gwarenn war un hedredenn a droc_h ar c_heheder e Suamerika, en Ecuador. Ar steredoniour gall Charles Marie de la Condamine (1701 1774), ar matematikour breizhat Pierre Bouguer (1698 1758) hag al louzawour gall Joseph de Jussieu (1704 1779) a voe an tri skiantour pennañ.
-Pep Stad er bed a glaskas sevel kartennoù ar spisañ ma c_helled rak diorroadur an armerzh hag an deskadurezh a zouge an holl da c_houzout penaos e oa aozet ar bed ha penaos e c_helled beajiñ, ober kenwerzh hag eskemm divizoù. Dre ar wask hag al levrioù skeudennet e veze degaset deskrivadurioù ar broioù pell, ha gwell_a_se ma veze degaset kartennoù ouzhpenn.
-E 1818 e krogas an Dépôt de la Guerre da sevel kartennoù sturvod 1/80 000 o skeul, met ar savleoù a veze graet evit ar skeul 1/20 000. Pep kartenn a veze goloet gant kartoñs tev evit bezañ implijet gant an ofiserien dindan an amzer. E 1887 e voe dispartiet ar Service géographique des armées (SGA) diouzh ar Service historique des armées hag an SGA a yeas da vezañ an Institut géographique national (IGN) e 1940.
-Etre 1799 ha 1804 e veajas an douaroniour alaman Alexander von Humbolt (1769 1859) e Spagn Nevez (Mec_hiko hiziv) evit dastum ditouroù skiantel. Sevel a reas kartenn vras ar vro se diwar labourioù lec_hel kempennet o hedredennoù hag o ledredennoù.
-E Stadoù Unanet Amerika, daou amsez kevredel a bledas gant ar c_hartennouriezh : an US Coast Geodetic Survey hag an US Geological Survey.
-E 1884 e voe bodet e Washington, D.C. Kuzuliadeg etrebroadel an Hedredennoù, a zivizas lakaat hedredenn Greenwich d'an hedredenn orin evit_an_holl gartennoù merdeiñ hag an holl gartennoù a_vremañ erziwezh.
-Luc_hskeudenniñ an douaroù diwar ur c_harbed nij a c_hell dibradañ diouto a c_helljod, da_gentañ gant aerlistri, da_c_houde gant nijerezioù. Implijet e voe ar mekanikoù se er brezel_bed kentañ evit ober nijadennoù reizhet gant nijerezioù arbennik.
-Gant an urzhiataerezh e voe eilpennet teknikoù ar gartennouriezh, koulz ar savleoù hag ar sevel kartennoù e unan. Pep luc_hskeudenn tennet diwar nij a c_hell bezañ reizhet en doare da vezañ e giz ma vije plaen (reizhluc_hskeudenn), ha goude 1978 (loarelloù Transit ha Spot) e voe gallus implijout al lunerezh dre loarell, un diarunusted dindan 5 metrad ganti. "Aerlunerezh" a reer eus ar sevel skeudennoù niverel diwar an uhel.
-Pan eo bet gallus amestezañ lestrazoù loarelloù e voe ijinet gant al lu stadunanat ma vije eskemmet arhentoù lec_hiañ hollbad ken e oa anavezet lec_hiadur forzh pe resever/kaser forzh pelec_h. Evel se e vez goloet ar bed a bezh gant 6 reizhiad douarlec_hiadur dre loarell (DLL). Goude ar Stadoù Unanet (Global Positioning System / GPS, 1996 2000), Rusia (GLONASS, 1996 2010), Sina (BeiDou Navigation Satellite System, 2003), Unaniezh Europa (Galileo, 2011), Japan (Quasi Zenith Satellite System / QZSS, 2021) hag India (Indian Regional Navigation Satellite System / IRNSS, 2023), meur_a reizhiad a c_hell bezañ resevet war ur benveg boutin tre evel ur poellgomzer.
-P'eo bet lakaet asambles ar gartennouriezh dre loarell hag ar reizhiad douarlec_hiadur dre loarell e c_hellas embregerezhioù urzhiataerezh bras embann reizhiadoù kartennouriezh enlinenn evit ar bed a bezh (evit al Loar ivez). Google, Yandex, Here, Tom Tom, Apple, BeiDou : ken implijet int deuet da vezañ ma ne ra mui lod tud gant ar c_hartennoù paper. Dispaket e vez war skrammoù ar c_harbedoù ur sell war gartennnig al lec_hioù m'o_deus c_hoant da vezañ.
-Google Maps a voe disklêriet e 2003 hag a reas berzh pa ginnige tammoù kartenniñ evit ar beajiñ hag an dezougen a c_heller implijout war pep urzhiataer pe boellgomzer, koulz_ha tammoù aerlunioù, met ur reizhiad henchañ hag un etrefas evit atersiñ ha kavout lec_hioù, straedanvioù, stalioù a_bep_seurt, hag_all, eo ivez. Deuet eo kenderc_hadoù ar gartennouriezh da vezañ un dra voutin tre.
-E 2004 e voe lañset an embregenn OpenStreetMap, dezhi ar pal kartenniñ an holl vroioù, a stroll hag a_youl_vat, diwar an arselloù war_al_lec_h pe diwar mammennoù stlennoù douaregorel frank. Embregerezhoù digor pe brevez all a ya d'ober ar_pezh_a vez anvet ar gartennouriezh 2.0.
-Brezelekaat eo talvoudegezh pennañ an douaroniezh, hervez an douaroniour Yves Lacoste. Efedus tre eo bet ar c_hartennoù e touez an ostilhoù savet diwar ar skiant se. Savet int bet gant skiantourien a laboure evit ar galloudoù, hag en XIXvet kantved e voe roet d'al luioù unpiaou ar sevel kartennoù bras o skeul.
-Er Rouantelezh Unanet, servij an dafarioù milourel (Board of Ordnance) a gavas e vije aesoc_h difenn Bro Skos goude emsavadeg ar Jakobidi (Jacobites) (1688–1746) dre sevel kartenn an Uheldirioù. E 1790, ur servij sevel kartennoù a voe diazezet, an Ordnance Survey e anv. Eilañ a reas teknikoù gall an tric_hornegadur evit embann follennoù kartenn vras ar rouantelezh. E Spagn ivez e voe ar c_hartennoù bras o skeul savet gant al lu, a raok bezañ fiziet en Instituto Geografico Nacional.
-Met dispartiet eo bet ar servijoù stlenn douaroniel, an darn vuiañ da vezañ un ensavadur trevourel ; chom a ra servijoù milourel (e Bro C_hall, ar Service géographique de l'État major hiziv), ur egorlestraz loarelloù dezho.
-Pep morlu a savas ur servij sevel kartennoù merdeiñ, ken n'hell ket e vagoù bezañ en arvar nag en dourioù broadel nag en dourioù estren. E Bro C_hall e voe diazezet an Dépôt des cartes et plans de la Marine e 1720 ha deuet eo da vezañ ar Service hydrographique et océanographique de la Marine (SHOM), pemp ensavadur ennañ, hini Brest en o zouez.
-Er c_hantvedoù kent ar XIVvet kantved, teknikoù ar sevel kartennoù a denne da vinvioù ar skrivañ : pluennoù, broustoù, barroù livañ, perzhioù ar parchoù… Nebeut tre a skouerennoù a veze fardet, hepken evit ar vegenn bolitikel pe gefredel.
-Dre implijout binvioù evit muzuliañ an hedoù, ar c_hornioù ha saviadoù ar c_horfoù egor e voe kaset ar sevel kartennoù trema ar matematikoù ha rannoù ar skiant se evel ar ventoniezh hag an tric_hornegadur ; da skouer kartenn Bro C_hall (Gallia), embannet e 1525 gant ar matematikour gall Oronce Fine (1494 1555).
-Pelloc_h e teuas araokadennoù ar mekanikoù : ar waskerell er XIVvet kantved ; ar c_hard kelc_h e kreiz ar XVvet kantved ; an nonius ijinet gant ar Portugalad Pedro Nunes (1502 1578) evit jediñ lec_hiadurioù resis. En XVIIIvet kantved e voe ijinet ar padventer evit jediñ an amzer merdeiñ ha dezastum lec_hiadur ar vag dre geñveriañ gant hini ar stered. War an douar e voe ijinet benvegoù hezoug a_bep_seurt evit muzuliañ an hedoù hag ar c_hornioù.
-Kemmoù bras a zeuas e keñver ar skor ma vez lakaet al labour warnañ pa zeuas amzer ar wask, a c_helle degemer koadengravadurioù, krafengravadurioù (engravadurioù war vetal) hag arouezennoù. Pa greske barregezhioù ar grafengraverien e teuas ar c_hartennoù da vezañ aesoc_h da lenn ha kemplesoc_h. Pelloc_h, en XIXvet kantved, ijinadenn ar maendreserezh a zegasas un doare da fardañ kartennoù marc_had mat da vezañ dasparzhet a viliadoù gant ar moullerezhioù herrek. Araokadennoù graet e barzh al luc_hgimiezh a zegasas moulladennoù spisoc_h ha stabiloc_h.
-Un emdroadur war daou lamm eo degouezh an tresañ leviet gant an urzhiataerezh, en_deus degaset an treselloù emgefreek evit sevel kartennoù bras. Ur bazenn ouzhpenn, ha pep moullerez hiniennel a c_hall moullañ kartennoù. Erziwezh ez eo deuet da vezañ boutin studiañ kartennoù war ur skramm.
-Teir familh teknologiezhioù zo deuet da vezañ pileroù ar gartennouriezh : computer aided design (CAD ; "tres ameilet dre urzhiataerezh" - TAU), ar reizhiadoù stlenn douaroniel hag ar meizantoù skeudenniñ arbennik. Boniet e vez ar stlennoù douaregorel en urzhiataerioù ken e vez adtapet diwar_c_houlenn. Pep stlenn a c_hell bezañ implijet evit sevel war_ar_prim kartennoù oberiant hag etreoberiat. Ken heloc_h ha ken efedus eo an dafar teknikel evit ar savleoù war an dachenn (urzhiatarerioù kaletaet, roudennerioù, ardivinkoù laser) ma 'z eo aet ar sevel kartennoù da vezañ un ober prim.
-Daou rummad kartennoù zo : ar_re hollek hag ar_re zodennek. ar_re gentañ a endalc_h kalz elfennoù gant ditouroù a zivout al lec_hiadur ha daveennoù all. Produet e vezont a yoc_h evit an dud. En o zouez emañ ar c_hartennoù bras o skeulioù evel tresoù kêrioù ha kartennoù evit ar c_henkadennoù (troiadoù bale). Mar diskouezont ditouroù a zivout un nebeud dodennoù e c_hall ar c_hartennoù lakaat war wel ditouroù perzhek evel ar_pezh_a vez gounezet en un takad pe harzoù politikel ur bastell vro pe ur vro a bezh. Bez' ez_eus kartennoù hollek ha dodennek war_un_dro : ar c_hartennoù reteriñ da slouer, pa 'z eo hollek deouezadur ar strujerezh ha dodennek meur_a elfenn enno.
-Dre zeouezañ spisoc_h al lec_hioù gant o ferzhioù torosennadurel ez eo deuet da vezañ glennadurel (topografek) meur_a gartenn savet adalek an XIXvet kantved. Mar ne zegas nemet un nebeud eus perzhioù an takad e lavarer ez eo loadoniel (topologek) ar gartenn, ken e vez graet un tres (tres ur gêr, da skouer) eus ar gartenn eeunaet se. Savet e vez tresoù an dezougerezhioù (trenioù, kirri boutin…) hep mirout ur skeul unvan ha gant linennoù eeunaet. Azasaet eo an tres diwar ar mennad degas ditouroù bevennet mat d'an dud o_deus ezhomm kompren buan penaos e c_heller mont ag ul lec_h d'egile. Ar c_hartennoù hentoù zo ur skouer vat eus ar c_hartennoù loadoniel.
-Lakaat an dud da intent ar mennad pennañ eo pal ar c_hartennour ken eo bet savet ar c_hartennoù gant ur mennad pe un nebeud mennadoù atav. Ar mennad a rank bezañ intentet dindan verramzer ha hep koll evezh. Dre splannded an ditouroù ha sklaerded an tresañ e c_heller tizhout ar palioù ha seveniñ ul labour talvoudus.
-Kartennoù kempenn ha brav a laka an dud da grediñ start ez eo diles an traoù dispaket. da_gentañ_holl ez eo ret dibab un titl a feson a grou ul liamm etre an arouezennoù hag ar meiz ken e ro lañs d'an dielfenniñ.
-Gant ar gartennouriezh a_vremañ e c_heller kavout ur gartenn diwar benn dodennoù diniver, evel diabarzh ar c_horfoù koulz_hag ar c_hiberegor.
-Pennad pennañ : Lec_hanvadurezh
-An darn vuiañ eus ar c_hartennoù a zispak elfennoù lizherennet : lec_hanvioù, anvioù_boutin, alc_hwezioù ha notennoù ne c_hell ket al lennerien tremen hepto. Fardet e vezont evit bezañ komprenet gant implijerien ur yezh pe meur_a hini. Gwashoc_h e vez an diaesterioù pa vez lizherennegoù ha ne vezont ket anavezet gant an holl. A wezhioù ne vez ket kempoell an anvadur pa vez mesket doareoù hengounel ur yezh gant stummoù lec_hel. Da skouer, kinniget e vez d'ar c_hallegerien kartennoù Rusia gant treuzskrivadurioù diwar al lizherenneg kirillek, met an doare hengounel a chom merket evit lod kêrioù bras (Москва Moskva → "Moskva", "Moscou"). An treuzskrivadur diwar ar skritur arabek a degas diforc_hioù evit lec_hanvioù treuzyezhet (المخا Al Mukha → "Moka", "Mocha", "Mokha", "Mokka", e Yemen). Pa vez un adreizhadur en doare da dreuzskrivañ e weler an anvioù o kemmañ, evel Beijing (北京, Běijīng), kêr benn Sina, a zo bet Pekin evit ar c_hallegerien (reizhiad an École française d'Extrême Orient / EFEO) ha Peking evit ar saoznegerien (reizhiad Wade Giles).
-Kartennoù liesyezhek a vez savet pa vez meur_a yezh ofisiel en_ur vro : e Suis e weler kartennoù gant peder yezh (alamaneg, galleg, italianeg ha romañcheg).
-Peogwir ez eo pep kartenn un deouezad bihanaet a galz eus un dachenn ez_eus ur c_heñver a fed ment ar gartenn ha ment an tiriad ma tenn dezhañ. Ur skeul a vez jedet evit an derc_hennad, a vez diskouezet dindan stumm ar rann diwar unan dre ar gevatalenn :
- S
- k
- e
- u
- l
- =
- ment manat
- ment gwerc_hel
- {\displaystyle Skeul={\frac {\text{ment manat}}{\text{ment gwerc_hel}}}}
-Da skouer, mard eo 6 cm (0,06 metr) an hed etre Loudieg ha Pondivi war ar gartenn (ment manat) evit diskouez 15 km (15 000 metr, ment gwerc_hel), ar skeul zo 
- 0.06
- 15 000
- =
- 0.000004
- {\displaystyle {\frac {\text{0.06}}{\text{15 000}}}=0.000004}
- (da_lavaret_eo 1/250 000, 1 cm evit 2,5 km).
-Dibab skeul ar gartenn eo ar pep pouezusañ rak ret eo azasaat gorread an takad a glasker kartenniñ, spisted an traezennoù dispaket ha ment ar gartenn. Pa vez bras ar skeul (ur rann eo) e vez bihan ar ranner ha_pa vez bihan e c_hell tizhout 80 000 ha muioc_h.
-Ar c_hartennoù kenkañ a vez embannet ingal gant an Institut géographique national a zo 1/25 000 o skeul. Kavet e vez kartennoù Breizh war paper a zo 1/250 000 o skeul.
-Ar c_hartennoù enlinenn o_deus perzhioù dibar e keñver ar_re war baper : kartennoù link int, pa c_heller kemmañ ar bastell vro a vez diskouezet, hag un ugentad skeulioù d'an nebeutañ a c_heller lakaat da zibunañ evit bihanaat ar_pezh_a weler war ar skramm (evit gwelet un dachenn vrasoc_h) pe e vihanaat (evit gwelet un dachenn vihanoc_h, muioc_h_a vunudoù enni).
-Pennad pennañ : Arouezskrivadur
-Kempennet e tle bezañ ar gartenn evit_ma c_hellfe un den diboullañ kement ditour a zo dedennus evitañ, dre ur stellad arouezioù a gas war eeun d'ar c_healioù. Ezhomm zo eus un alc_hwez a zispak keit_ha keit an arouezioù hag o displegadennoù. Titl ar gartenn eo an alc_hwez pennañ, distag pe_get, ma vez meneget pe zachenn a zo aroueziet ha deouezet.
-War gostez ar gartenn peurliesañ e kaver roll an arouezioù gant o displegadennoù ; diret eo un nebeud anezho : ar reteradur (dre ur bir pe rod an avelioù), skeul an hedoù, bannerezh ar gartenn. Ditouroù all zo ivez : mammennoù, gwirioù miret, embanner ha notennoù teknikel.
-A bouez bras eo dibab ha kempenn al livioù pa vez un niver divent anezho : 16 777 216 (224) dre urzhiataerezh. Ret eo heuliañ reolennoù war gempenn al livioù evit_ma ne vo ket takadoùigoù harz ouzh harzh a liv an_eil_gant_egile. Harpet e vez al labour gant an urzhiataerioù, a c_hell jediñ ar_pezh_a vez gwelloc_h evit al lennerien.
-Pennad pennañ : Hollekadur kartennel
-Sevel ur gartenn zo kemer divizoù resis a zivout ar_pezh_a vo diskouezet, ha plegañ dirak ar fed ma ne c_heller ket silañ pep traezenn aroueziet betek_ma vije re leun ar gartenn ha diaes da lenn, pe zistummet gant arouezioù kuzhet dindan reoù all. Seul vihanoc_h ar skeul, seul nebeutoc_h_a draezennoù dispaket. "Hollekadur kartennel" a vez graet eus ar c_hempenn a zle bezañ graet pe gant an dorn pe gant jedadennoù an urzhiataer evit digreskiñ an arouezioù d'o azasaat da vent ur gartenn bihanoc_h e skeul pe evit ar c_hontrol.
-meur_a hentenn a c_hell bezañ dibabet : eeunaat, dilemel, kendeuziñ, skañvaat, kreñvaat, kenstrollañ, ha krouiñ arouezioù arbennik.
-Pennad pennañ : Bannerezh kartennel
-Hentennoù evit diskouez tachennoù kromm war ur skor plat eo ar bannerezhioù ; seul vrasoc_h an dachenn a venner kartenniñ, seul grommoc_h eo. Ret eo neuze ober un treuzvarc_had etre pellennegezh ar Voul Douar ha plaended ar gartenn, ha kalz bannerezhioù zo bet ijinet adalek an Azginivelezh. Ne ra ket dave d'ur bannerezh mentoniel, d'un treuzfurmadur plaen e ra e gwirionez. Ar gartennourien a rank dibab ar bannerezh hervez ledander ar gartenn hag ar mennad pennañ. Hiziv e vez implijet kalz ar bannerezh Winkel Tripel evit sevel kartennoù, met meur_a vannerezh a vez implijet evit ar skeulioù uhelañ. E Bro C_hall ez eo bet dibabet ar bannerezh Lambert93 evit ar c_hartennoù a zo aotreet gant ar Stad.
-Estreget ar fazioù a zeu eus savleoù direizh pe ziglok e kaver fazioù dre youl, anvet Easter eggs "vioù Pask" e saozneg, e tresoù ar c_hêrioù peurliesañ : ur straed pe ur gêriadenn ha n'eus ket anezhi, da skouer, ken e c_hall servijout da brouiñ ez eo bet eilet ar gartenn a enep al lezenn. Oberennoù kefredel eo ar c_hartennoù hervez Emglev Bern (1886). Ritennoù a vez silet er c_hartennoù evit klask mirout outo a vezañ eilet, evel_ma vez graet er bilhedoù bank.
-Pa c_hell ar c_hartennoù bezañ un afer Stad pe vilourel ez_eus bet fazioù lakaet a ratozh ha tresoù dilec_hiet evit abegoù politikel.
-
-**** *art_Kazetennerezh *id_Kazetennerezh *cat_recherche *prof_0 *terme_niverel *equiv_fr_oui *lang_br
-Kazetennerezh a reer eus un hentenn enklask hag ur stumm danevellañ eo o fal seveniñ ur garg a wazerezh foran dre zastum, gwiriañ, lec_hiañ er c_hemperzh, urzhasaat, dielfennañ, skridaozañ ha skignañ keleier ha ditouroù arall a zoare. Arabat eo droukveskañ "kazetennerezh" ha "kehenterezh" eta.
-dre_ma 'z eo deuet pouezus perzh ar c_hazetennerezh e meur_a gevredigezh ez_eus bet aozet un dleadouriezh vicherel a c_hoarvez eus reolennoù hag eus deverioù divezel evit heñchañ ar gazetennerion en o labour. Gant c_hweluniadoù e vez embannet ar reolennoù se – er broioù ma c_haller en ober, rak unan eus ar reolennoù diazez eo e vefe ar c_hazetennerezh dizalc_h diouzh pep galloud politikel hag armerzhel. Disheñvel krenn ivez diouzh an daranverezh eo ar c_hazetennerezh.
-Gant diorren ar rouedadoù sokial e vez lakaet diaes ar gazetennerezh gant ar falskeloù.
-Dre skridoù war baper, dre_gomz er skingomz hag er skinwel e vez skignet disoc_hoù ar c_hazetennerezh, ha dre zoareoù elektronek ivez abaoe un_nebeud_bloavezhioù. abalamour_da ziorroadur an Internet hag al luc_hskeudennerezh niverel ez_eus dre ar bed kazetennerion n'int ket tud_a_vicher, a reer "kazetennerion geodedour" anezho alies : gouest eo an dud se da skignañ skridoù ha skeudennoù hep tremen dre ar media ensavadel.
-Pennad pennañ : Istor ar c_hazetennerezh
-Kent donedigezh ar mareadegoù kentañ er gouloù e oa dija eus un doare kazetennerezh, rak pep sevenadurezh he_deus bet ezhomm da embann keleier a hed Istor ar bed.
-En Henc_hres e voe skriverion ha kronikerion gopret gant Aleksandr Veur evit enrollañ e gurioù, hag en Impalaeriezh roman, adalek 59 K.J K., e veze engravet an Acta Diurna, a oa deizlevr ofisiel an Impalaeriezh, ha lakaet a wel d'an holl el lec_hioù foran diwar urzh an impalaer Caius Julius Caesar.
-E Sina ez_eus bet embannet follennadoù keleier abaoe an trede kantved K.J K., hag e Beijing e voe krouet ar c_hannadigoù prevez kentañ e 1582.
-En Europa ar Grennamzer e veze skrivet kronikoù a gonte an darvoudoù pouezus, hag eilskrivet e vezent en_ur vout distummet tamm_ha_tamm.
-Gant donedigezh ar moullerezh en XIIIvet kantved e voe skignet ar c_heleier dre vroioù a bezh.
-Etre ar XVvet kantved hag ar XVIIvet kantved e voe moullet mareadegoù titlet na lakaer ket e rann ar c_hazetennoù abalamour ma vezent skignet nemet e metoù ar pennadurezhioù.
-tamm_ha_tamm e voe reoliekoc_h an embann, deiziadet ha niverennet e voe ar c_hannadigoù, ha fonnusaet e voe o danvez kazetennel.
-E 1556 e voe embannet ar mizieg kentañ, e Venezia, hag e 1605 ar sizhunieg kentañ, e Strossburi.
-E Leipzig e voe krouet ar pemdezieg kentañ e1650.
-E deroù an XVIIIvet kantved e oa ar c_hazetennoù an doare boutinañ da embann keleier a dreuz Europa. Sizhuniegoù peder fajenn enno e oant peurliesañ, a embanne keleier berr a denne d'ar politikerezh ha d'an darvoudoù milourel.
-Gant pennadurezhioù ar Stadoù e vezent embannet peurliesañ, hag alies e veze miret ouzh ar c_hazetennerezh prevez da greskiñ. Dre harp ha stourm ar pobloù avat e teuas frankiz ar wask a benn d'en_em staliañ, daoust dezhi bout mouget a vareadoù e Stad pe Stad gant galloudoù politikel hollveliour.
-E 1835 e voe diazezet e Pariz ar stal gelaouiñ gentañ, an Agence Havas, gant ar Gall Charles Louis Havas ; diwezhatoc_h, e 1944, e voe kemmet hec_h anv en Agence France Presse gant ar Rezistañs.
-Adal dibenn an XIXvet kantved e teuas ar c_hazetennerezh da vout ur greanterezh en_em strewas er_bed_a_bezh. Pouezusoc_h pouezusañ e teuas an elfennoù armerzhel e ganedigezh, tuadur ha diorroadur ar c_hazetennoù.
-En XXvet kantved ez eas da get trec_hded ar c_hazetennerezh skrivet a c_houde diorroadur ar sinema, ar skingomz hag ar skinwel.
-hiziv_an_deiz e tro ar c_hazetennerezh skivet war du an Internet, diwar diaesterioù arc_hantel peurgetket.
-Adalek ganedigezh ar vicher e voe diforc_hioù etre ar c_hazetennerezh europat hag an hini amerikan.
-En Europa e voe krouet ar c_hazetennoù kentañ evit levezoniñ soñjoù politikel al lennerion : gant strolladoù politikel pe rannoù anezho e voent krouet peurliesañ ; "kazetennerezh politikel" a reer eus kement se.
-Disheñvel e voe an traoù e Stadoù Unanet Amerika, ma voe "kazetennerezh ar c_helaouiñ" o ren adalek ar penn_kentañ, a hed ar brezel_diabarzh da skouer. E dibenn an XIXvet kantved, kent donedigezh ar c_hazetennoù poblek anvet tabloïds, e oa ar c_hazetennerezh ur c_henwerzh evit perc_henned an titloù, koulz_hag un arm galloudus etre daouarn ar gouarnamantoù ha re ar gronnoù armerzhel.
-En SUA e voe termenet reolennoù diazez ar c_hazetennerezh evel ar Five W and one H, a vije "ar C_hwec_h P" e brezhoneg, a framm pep keloù kent e skignañ :
-Who? What? Where? When? Why? How? — Piv ? Petra ? Pelec_h ? Pegoulz ? Perak ? Penaos ?
-En SUA ivez e voe staliet rannoù ar c_hazetennerezh : ar c_heleier, an teulioù, ar menoioù, an etreweloù, ar c_hronikoù, hag arall.
-Da vare an Eil brezel_bed e krogas an daou zoare kazetennerezh da gendeuziñ, pa voe degemeret an doareoù amerikan gant kazetennerion Europa tra_ma yae ar c_hazetennoù rannbolitikel da get a_feur_ma koshae ar c_hantved. Gant diorroadur ar media nevez e voe kelaouerion kentoc_h eget abostolidi eus ar gazetennerion europat.
-hiziv_an_deiz avat, dre an Internet, e c_haller gwelet an abostolidi o tistreiñ, koulz war an dachenn relijiel hag an hini bolitikel.
-Abaoe dibenn an Eil brezel_bed ez eo arbenikaet ar c_hazetennerezh, pa 'z eus bremañ kazetennoù diwar benn kement tachenn a c_haller termeniñ e buhez ur gevredigezh : an armerzh, ar politikerezh, ar sevenadur, ar skiantoù, ar sportoù, an dudi, hag arall. Neuze ez_eus ivez kazetennerion arbennik war an tachennoù se, a gemer perzh ivez en abadennoù kelaouiñ er skingomz hag er skinwel, a zo troc_het bremañ e rannoù dodennel.
-Gant diorroadur ar c_halvezoniezh e kaver kazetennoù arbennik tre diwar benn benveg pe venveg, meziant pe veziant zoken. Kenwerzhel hepken eo ar pal alies, pa venn an embannerion tizhout ar muiañ eus an dud a zo dedennet gant un dachenn strizh tre ; ouzhpenn se e c_haller bepred distreiñ diouzh ar paper koustus ha kavout war an Internet an ditouroù a glasker a douez milionoù_a zitouroù arall war kement tachenn a zo.
-Hep mont ken pell ganti avat e c_haller termeniñ un nebeud tachennoù ma'z eus ur c_hazetennerezh arbennik en doare ma 'z eus anezhañ ur stumm nevez eus ar c_hazetennerezh hengounel.
-Kazetennerezh e korf un oberenn lennegel eo ar gazetennerezh se, bet ganet er bloavezhioù 1960, pa ra ar skrivagnerion ul labour_kelaouiñ hep delc_her da stumm boas ar c_hazetennerezh. N'eo ket romantaat ar beziadoù a reont, hogen o deskrivañ pizh dre vevañ ha kemer pezh enno.
-Ar skrivagner kolombian Gabriel García Márquez (1927 2014) zo unan eus ar gazetennerion lennegel vrudetañ, dre e romant Noticia de un secruestro "Keloù diwar benn ur skrapadenn" bet embannet e 1996 diwar benn darvoudoù a c_hoarvezas er bloavezhioù 1990 e Kolombia e metoù an drafikerion drammoù.
-E 1997 ez embannas ar skrivagner japanat Murakami Haruki(1949–) e enklask アンダーグラウンド Andāguraundo "danzouar", bet troet er_bed_a_bezh dindan an talbenn saoznek Underground, a zo ul labour kazetennerezh lennegel a zivout heuliadoù bredoniel ar gwalldaol a voe graet gant aezhenn sarin e metro Tōkyō d'an 2 a viz_meurzh 1995.
-Pal an doare kazetennerezh se eo dielfennañ an enkadennoù hag ar brezelioù a c_hoarvez er bed en_ur glask termeniñ o orin, o abegoù, o argerzh hag o heuliadoù. Alies e kinnig diskoulm pe ziskoulm evit gwanaat skog an enkadennoù ha brezelioù se war buhez ar peurrest eus ar bed.
-En doare kazetennerezh se e furch ar gazetennerion a benn kavout ditouroù diwar benn un dodenn resis hag a bouez bras, evel torfedoù euzhus, ar goubrenerezh politikel pe dizonestiz un embregerezh.
-Mizvezhoù pe vloavezhoù e c_hall an enklask padout kent_ma vefe bet dastumet hag etrekennasket trawalc_h a ditouroù sirius na c_haller ket nac_h. Andonioù diazez eo ar gazetennerion enklask eta, rak dianav da nep den arall eo frouezh o labour abalamour ma c_hoarvez diwar kendastum ditouroù strewet hep liamm anat etrezo d'ar c_hentañ gwel.
-Ar Gall Albert Londres (1884 1932) a voe unan eus diazezerion ar c_hazetennerezh enklask, gant e labour Au bagne "Er galeoù" (1923). En e goun e voe krouet ar Priz Albert Londres e 1932 evit enoriñ gwellañ kazetennerion Bro C_hall.
-Nevesoc_h zo, e 1993, e voe an teulfilm Voleur d'yeux "Laeron daoulagad" gant ar gazetennerez enklaskerez Marie Monique Robin (1960-) ul labour skouerius a fed kazetennerezh enklask diwar benn trafikerezh organoù er_bed_a_bezh ; ar priz Albert Londres a yeas ganti e 1995, goude_ma voe bet klasket diskar he labour.
-Un teulfilm arall gant Marie Monique Robin eo Le monde selon Monsanto – De la dioxine aux OGM, une multinatinale qui vout veut du bien (2008) diwar benn doareoù an embregerezh etrebroadel Monsanto.
-Kazetennerezh "elektronek", "liesvedia", "niverel" a reer c_hoazh eus an doare se da arverañ an Internet evit dastum, gwiriañ, dibab, stummañ ha skignañ keleier. Resisoc_h eo "kiberkazetennerezh" avat, pa c_hall an anvioù gwan ober dave da vedia klev gwel arall n'int ket kazetennerezh gwirion, evel an daranverezh.
-Ouzhpenn bout ur benveg kehentiñ ez eo an Internet ur patrom eus an darempredoù a vez etre an dud, a c_hall kas kemennadennoù a_hed_an_amzer hag eus forzh pe lec_h er_bed_a_bezh. Diouzhtu e c_hall ar c_heleier tizhout un niver bras a dud, dre bostel panaveken.
-er_bed_a_bezh emañ an Internet, hogen kalz tud ne c_hallont ket kevreañ c_hoazh – ar_pezh na vir ket ouzh ar Genrouedad a vout ur benveg a bouez evit ar c_hazetennerezh, rak war wanaat ez a ar wask, da get pe_dost ez ar c_hazetennerezh er chadennoù skinwel, fellout a ra d'an dud kaout keleier gwirion diouzhtu p'o_deus ezhomm anezho, ha n'eus ket skeudennoù er skingomz. Ouzhpenn se e ro an Internet an tu da wiriañ pep keloù buan, dre groaziañ ar c_heleier hag an andonioù.
-Kemmoù zo bet degaset er c_hazetennerezh gant kement se holl, en_abeg_da dizh ar c_helaouiñ dreist holl, hag abalamour ma n'eo mui trawalc_h skignañ keleier : respont a ra an dud d'ar_pezh_a resevont, degas kemmoù ha resisadennoù a reont, ha fellout a ra dezho kemer perzh er c_helaouiñ dre addisplegañ ar c_heleier.
-A benn azasaat ouzh an doare nevez se e ra ar c_hiberkazetennerezh gant ereoù gourskrid, e ver an etrewezhierezh, ar binvioù liesvedia hag an diellaouiñ. Kemmoù zo bet en doare da aozañ skridoù ar c_heleier ivez, pa ranker ober gant frazennoù berr hag aes da gompren en_ur zisplegañ keleier klok ha sklaer.
-Un den pe ur strollad_tud a gemer perzh en dastum, dibab, dielfennañ, stummañ ha skignañ keleier. An Internet c_hoazh eo benveg ar c_hazetennerezh perzhiadek, a zo bet anvet "kazetennerezh 2.0" ivez a wechoù.
-Dre lec_hiennoù bet savet a ratozh e labour ar c_hazetennerezh perzhiadek, a_drugarez_da dud_a_youl_vat peurliesañ. Ar pal eo didoueziañ red ar cheleier evit klask ar wirionez ha degas kemmoù er gevredigezh hep gortoz na vije graet gant ar pennadurezhioù, ha hep an arbennigourion emanvet a lenner, a glever hag a weler er media kefridiel pe amgefridiel.
-petra_bennak ma vez etrewezhierezh a wechoù etre ar c_hazetennerezh perzhiadek hag an hini hengounel ez_eus kazetennerion a vicher a glask diskar an doare nevez se en abeg ma vez digoust pe_dost ar c_henlabour keodedour pa rank ar c_hazetennerezh micherel mont_en_dro evel un embregerezh greantel ha goprañ ar gazetennerion evit an hevelep labour.
-Buhezek eo bet ar c_hazetennerezh perzhiadezh e kerzh ar bloavezhioù 2000, pa hañval mont war wanaat hiziv_an_deiz.
-Evel "pevare galloud" ar demokratelezhioù kornôgel e vez lakaet ar c_hazetennerezh alies, e kichen an tri galloud klasel : ar galloud erounit, ar galloud lezenniñ hag ar galloud barn. En abeg d'ar sell se e vez risklus bout kazetenner(ez) e lod broioù, pa c_haller bout muntret en abeg d'ar vicher se end eeun.
-Daou zoare pennañ zo da dermeniñ perzh ar c_hazetennerezh er gevredigezh.
-Hanterourion etre ar pennadurezhioù hag an dud voutin eo ar gazetennerion. Pa gomz an uhelidi e vezont selaouet hag enrollet gant ar gazetennerion, a labour war ar_pezh_a zo bet disklêriet a benn e dreiñ en doare ma vefe komprenet gant ar braz eus an dud.
-Goulakaat n'eo ket gouest an dud da veizañ kudennoù kemplesoc_h kempleshañ ar c_heveredigezhioù a_vremañ eo termeniñ perzh ar c_hazetennerezh en doare se, marteze, hogen gwir eo n'o_devez ket an dud, sorbet ma vezont gant kudennoù niverus o buhez pemdez, amzer da brederiañ a zevri war krefen a seblant bout pell diouto ; ouzhpenn se, gwall luziet hag arbennik e vez c_hoarioù ha yezh ar pennadurezhioù alies, setu ez eo ar c_hazetennerezh ur benveg dispar evit eeunaat ha displegañ ar_pezh_a zo o c_hoarvezout.
-Ne labour ket ar c_hazetennerezh eus ar pennadurezhioù betek ar werin hepken, diouzh an tu arall e labour ivez, pa seven ur c_hefridi a gannad ar bobl davet ar vegenn a vez o ren a c_houde mouezhiadegoù.
-dre_ma vez desketoc_h desketañ an dud er_bed_a_bezh e vez mui ouzh mui a vreudoù kenetrezo, hag aliesoc_h aiesañ e vez kemeret disentezioù gant ar bobl kent rediañ an uhelidi da azasaat outo : ar c_hazetennerezh eo an hanterour adarre en argerzh se.
-En doare se e wana an urzhaz etre ar pennadurezhioù hag an dud voutin. Kreñvoc_h eo goueziadur kenlodennet kalz tud eget hini un nebeud uhelidi, neuze ez eo gouest an dud da gavout an diskoulm gwellañ – evit ur mare – da gement kudenn a sell outo. Dreist an displegañ keleier eo perzh ar c_hazetennerezh en degouezh se, pa rank displegañ kement heuliad a vefe da bolitikerezh an uhelidi keñveriet gant hini ar werin.
-bezet_pe_vezet e rank ar c_hazetennerezh bout feal d'an dud kent d'an uhelidi ; ret eo d'ar gazetennerion dispakañ ar wirionez, ha chom neptuek pa zisplegont obererezhioù an dud voutin hag an uhelidi e_diabarzh ur gevredigezh ; pourchas keleier solius ha gwiriekaet d'an dud eo kefridi pennañ ar c_hazetennerezh.
-Liesdoare eo emzalc_h Stadoù ar bed da geñver ar c_hazetennerezh : lod anezho o_deus lakaet frankiz ar wask da lezenn, lod arall a reoilh pizh labour ar gazetennerion dre vestroniañ ar_pezh_a c_hallont enklask, skrivañ hag embann.
-Kalz Stadoù a ro brientoù d'ar gazetennerion, evel ar gwir da arvestiñ bodadegoù foran a zo berzet d'an dud voutin, da enrollañ arvest un torfed pe c_hoazh da atersiñ uhelidi ha tud vrudet.
-En e vell 19 e stailh Disklêriadur Hollvedel gwirioù_mab_den reolioù a fed frankiz eztaoliñ ha frankiz ar wask.
-Alies e vez taget, minellet, bac_het pe lazhet kazetennerion pa vez brezel pe zispac_h e Stad pe Stad.
-1 054 c_hazetenner a voe lazhet abaoe 1992.
-Abaoe 1992 ivez, 617 kazetenner a voe lazhet hep na vije bet kondaonet an dorfedourion.
-211 kazetenner zo bac_het abaoe 2013.
-E kentañ trimiziad 2014 ez_eus bet lazhet 16 kazetenner dre vicher ha 9 c_hazetenner keodedour ; 168 kazetenner dre vicher ha 164 c_hazetenner keodedour zo bet bac_het.
 
 **** *art_Leet_speak *id_Leet_speak *cat_recherche *prof_0 *terme_stlenneg *equiv_fr_oui *lang_br
 Al Leet speak (e leet speak : 1337 5| 34|<), eus ar saozneg "elite speak" ("yezh ar_re wellañ"), a zo ur skritur oc_h implij an arouezennoù alphanumerel ASCII en un doare digomprenus evit an dud n'int ket boaziet (a wechoù anvet noob (pe n00b) ganto) evit kaout un doare eskemm spesius. Ar priñsip a zo implij arouezennoù a seblant tost d'al lizherennoù boaz, da skouer, 5 e plas S, 7 e plas T hag evit an tu pellañ |_| e plas U pe |< e plas K, hep klask doujañ d'ar reizhskrivañ pe d'ar pennlizherennoù.
@@ -2173,48 +1348,6 @@ Ur rodell zidermen, da_lavaret_eo un eskemm dizehan etre servijerioù, zo bet di
 An arval en_deus gourc_hemennet groñs e talbenn ar goulenn ma vefe implijet un astenn HTTP ha n'emañ ket er servijer.
 511 – Network Authentication Required • Rekis eo kevreañ ouzh ar rouedad
 Ret eo d'an arval kevreañ ouzh ar rouedad evit e implijout. Gant proksioù e vez ganet ar c_hod se mard int karget da verañ ar moned d'ur rouedad. Lod perc_henned war ur rouedad a c_hall goulenn kevreañ goude en devout asantet da ziferadennoù, en un aerborzh pe un ostaleri, da skouer.
-
-**** *art_Luc_hskeudennerezh *id_Luc_hskeudennerezh *cat_recherche *prof_0 *terme_niverel *equiv_fr_oui *lang_br
-Ar luc_hskeudennerezh (pe ar fotografiezh) zo ur rummad teknikoù da enrollañ skeudennoù hag un arz, ur skourr eus Arzoù ar Gweled ; ur skiant hag a implij an teknikoù se eo ivez.
-Krouet ma oa bet gant danvez ha teknikoù eeun e c_hellas al luc_hskeudennerezh tennañ splet eus nevezadurioù a leizh : teknologiezhioù ha teknikoù war tachennoù an optik, ar gimiezh, ar mekanikerzh, an tredan, an elektronik hag ar stlennegezh.
-Abaoe pell e oa anavezet an div anadenn a oa ezhomm evit kaout luc_hskeudennoù. Da vare Aristoteles e ouied lakaat ar gwirvoud en_ur voest ; trawalc_h e oa ober un toull bihan (stenop) en_ur « gambr du » (camera obscura) evit gwelet ur skeudenn eilpennet war foñs gwenn ar voest. Gouzout a ouie an alkimiourien ivez ez a ar gloridenn argant (AgCl) da zuañ abalamour d'ar gouloù. War du 1780 e teuas Jacques Charles, anavezetoc_h p'en_doa ijinet an aerlestr c_hwezet gant hidrogen, a benn da sonnañ, met un doare dibad, un drolinenn a veze lakaet da zont war wel gant argerzh ar gambr du war un tamm paper spluiet a gloridenn argant. Thomas Wedgwood (1771 1805) a reas arnodennoù peuzheñvel gant an nitrat argant) (AgNO3 ; sevel a reas ur c_hounskrid diwar benn an dra se e 1802. Evit John Herschel, deskrivañ a reas perzhioù an hiposulfit natriom (Na2S2O3, 5H2O), deuet da vezañ ar stabilaer, e 1819.
-Joseph Nicéphore Niépce, ur ijinadennour eus Chalon sur Saône, a veskas an tri doare_ober se evit stabilaat skeudennoù (a galite etre) war blakennoù staen goloet a der douar Judea, ur seurt koultron naturel a galeta ouzh ar gouloù (1826 pe 1827) ; Al luc_hskeudenn gentañ a ziskouez unan eus kazelioù e di e Saint Loup de Varennes (Saône et Loire). Gwelet e vez al luc_hskeudenn se e Skol veur Austin (Texas) abaoe 1963, pa oa bet roet gant Helmut Gernsheim d'an ensavadur se. Ma vez sellet mat ouzh ar skeudenn mañ e weler eo dibar ar sklêrijennañ warni. meur_a eurvezh, evit gwir, e oa padet ar paouezadenniñ (etre 14 ha 18 eurvezh evit doare) ; gant an heol e oa bet sklêrijennet ar voger war an tu dehoù da_gentañ, ar voger war an tu kleiz diwezhatoc_h en devezh.
-Pa oa aet N. Niépce d'an Anaon e 1833 e kendalc_has Louis Jacques Mandé Daguerre da wellaat an doare_ober. Kavet e oa bet gantañ pennaenn diskuliañ ar skeudenn da zont. Kavout a reas Daguerre an tu da verraat ar frapad paouezadenniñ. War dro dek munuennt a oa trawalc_h neuze. E 1839 en_doa lakaet ar gouzieg ha kannad François Arago da anavezout e ijinadenn. Hemañ a zegasas e damm skoazell dezhañ.
-E 1839 ivez e oa bet kinniget ijinadenn Daguerre, an dagerskeudenniñ, da Akademiezh skiantoù Bro C_hall. Er bloaz se eo e vez lavaret neuze e oa bet krouet al luc_hskeudennerezh. Gwellaet e oa bet ijinadenn Niépce, evit gwir, ha netra ken. Dont a reas ar Stad c_hall da vezañ perc_hennez war an ijinadenn dre baeañ ul leve bevañ bloaziek a 6 000 lur da Zaguerre hag a 4 000 lur da Isidore Niépce, mab da Nicéphore, ha reiñ a reas an ijinadenn e donezon d'ar bed da_c_houde.
-Gant an dagerskeudenniñ e teued a benn da gaout skeudennoù goude un hantereurvezh paouezadenniñ « hepken » pa veze digoumoul an oabl. abalamour_da se eo un_tammig arvarus tapout luc_hskeudennoù : ar straedoù e Pariz a seblant bezañ didud, ha_pa vefe tud a leizh enno pa oa bet tapet al luc_hskeudennoù. Krouet e oa bet al luc_hskeudennerezh avat. Al luc_hskeudenn gentañ o taolenniñ tud a voe graet diwezhatoc_hik : ur c_hoarer straed o koarañ botoù un tremeniad. Difiñv ha diflach e oa chomet an daou zen e pad un nebeud munutennoù.
-Buan kenañ ec_h emdroas al luc_hskeudennerezh da_c_houde. Disoc_h an enklaskoù, evit gwir, a voe akuitizet gant ar Stad c_hall ha pep_hini en_doa gallet buan kentañ gwellaat al luc_hskeudennerezh.
-Teir lodenn zo en araokadennoù :
-berraat ar frapad paouezadenniñ dre greskiñ elfenn ar roll niverennet, kizidigezh al lurelloù kizidik ha goulaouusted al lagadoù ;
-gwelaat stabilted an tennadennoù ;
-eeunaat an implij eus al luc_hskeudennerezioù, dre grouiñ luc_hskeudennoù skañvoc_h skañvañ ha marc_hamatoc_h marc_hadmatañ, dileizhadoù stabil, ar_pezh_a vire ouzh an dud da zornata produioù kimiek, ha kregiñ da implijout an urzhiataerezh, gant niverelaat ar skeudennoù, da_lavaret_eo al « luc_hskeudennoù niverel ».
-William Henry Fox Talbot (1800 1877) a reas enklaskoù ivez adalek 1833, pa oa N. Niépce]] ha J. Daguerre oc_h ober kemend all. E 1840 en_doa krouet ar « c_halotip, un argerzh ginel ha mat a roe an tu da liesskignañ skeudennoù.
-Enklaskoù all a oa bet graet da_c_houde hag e se e oa bet gwellaet perzhioù ar skeudennoù tamm_ha_tamm, kizidigezh al lurelloù tener, hag eeunaat ar skeudtapañ : 1847 « argerzh an albumin » (Claude Félix Abel Niépce de Saint Victor, ur c_henderv da Nicéphore), 1850 « argerzh gant kolodion gleb » ha 1851 « ambrotip » (Frederick Scott Archer), 1852 « ferotip » (Adolphe Alexandre Martin).
-Félix Tournachon, anavezet gwelloc_h dre e lesanv « Nadar », a reas un implij kenwerzhel anezhañ. Poltredoù eus pennoù bras ar mare se a reas, hag e 1858 al luc_hkeudenn gentañ dre nij e Bièvres : ul luc_hskeudenn eus Pariz a dapas diwar bourzh un aerlestr.
-Al luc_hskeudennoù gentañ (gwenn ha du pe emliv) a veze graet war plakennoù gwer bras, pounner ha bresk mat. E 1884 ez ijinas George Eastman lurelloù kizidik ha gwevn : ar film e keluloid. Gallout a raed mirout meur_a skeudenn warnañ e barzh ar benveg_luc_hskeudenniñ. Distroadet e voe ar plakennoù gwer neuze. Gant ar binvioù_luc_hskeudenniñ a oa deuet da vezañ bihanoc_h e oa aesoc_h tapout skeudennoù (hogos) e_pep_lec_h hag e_kement_degouezh_zo.
-Ar C_hodak a voe ar benveg_luc_hskeudenniñ kentañ a oa bet aozet gant ar gompagnunezh Eastman. Gallout a raed enrollañ ur c_hant skeudenn bennak war ur skor gwevn. Ur wech louc_het ar filmoù, ar binvioù a veze adkaset da Rochester (NY) ma vezent diskuliet. Ur wech tennet al luc_hskeudennoù e vezent adkaset d'o ferc_henn, asambles gant ar benveg adkarget.
-E 1909 e oa bet ar Gall Étienne Mollier gant ar soñj da implijout ar film 35 mm en e venveg_luc_hskeudenniñ lesanvet ar Cent Vues, un benveg « godell » a dape kant luc_hskeudenn 18/24 mm diouzh renk. Ar Cent Vues a voe produet e 1910 ha garedonet e oa bet gant ar vedalenn_aour er Genstrivadeg Lépine. Kenwerzhekaet e oa bet met ne reas ket berzh kaer. E 1913 e savas Oskar Barnack kentpatrom kentañ al Leica, a voe kenwerzhekaet adalek 1925 hag a oa voe an hini kentañ eus ar binvioù a rae er furmad 35 mm|24 x 36 mm]], a voe implijet peurliesañ betek dibenn an Patrom:XXvetkantved.
-War dro 1948 e savas an doktor Edwin H. Land ar benveg kentañ da ziskuliañ war_ar_prim, ar Polaroid, hag e 1962 e azasaas ar argerzh ouzh al liv.
-Ar stummoù kentañ eus ar Polaroid a oa un etregineg enno. Er bloavezhioù 1980 e voe gwellaet an teknik evit chom hep ober gantañ hag evit kaout un tu mat eeun gwirion.
-Unan eus an enklaskoù kentañ war al luc_hskeudennerezh eo koulskoude. Labourat a reas ar Gall Bayard war an dra se war dro 1838 139, e_keit_ma oa N. Niépce ha J. Daguerre o plediñ gant an dagerskeudenner. Anavezout a reer H. Bayard peogwir en_doa graet an emboltred kentañ, Autoportrait en noyé, dre implijout an teknik se.
-dre_ma oa bet ijinet ar stereoskopiezh a raok al luc_hskeudennerezh (Wheatstone, 1838), o_doa kroget luc_hskeudennerien da dapout luc_hskeudennoù bosek adalek 1841. Graet e veze daou baouezadur diouzh renk met gortozet e veze ur pennadig etre an daou skeudtapadur.
-Evit ar poltredoù ne c_helled ket ober an daou skeudtapadur dre ziv wech, hag evit_se e oa bet savet luc_hskeudennerezioù gant daou lagad adalek ar {{bloavezhioù 1850]].
-Gant an teknikoù urzhiataerezh e c_haller treuzfurmiñ ur skeudenn en un heuliad poentoù skedus, ar pikseloù, a vez dewerzhet o ferzhioù dre sifroù. Gant an niverelaat e c_heller adsevel ar skeudennoù diouzh an druilh war trobarzhioù urzhiataerezh azasaet : gallout a reer evel se tretañ anezho gant meziantoù tennañ hag eilaozañ ha goude moullañ pe skignañ anezho er furmad niverel.
-Diaes eo plediñ gant an deknologiezh se, zo disheñvel mik diouzh an argerzhoù fizik ha kimiek kentañ, abalamour_da empentiñ kaptorioù elektronek ar skeudenn a gemer lec_h ar film. Emdreiñ a ra buan kenañ diarunusted ar pikseloù, da_lavaret_eo an niver a bikseloù a c_haller genel dre skeudenn hag ar gizidigezh. N'eo ket dister dra an niver a fotositoù dre vilimetr karrez, ha_pa vefe perzhded ar skeudenn, evel evit an teknikoù kozh, diouzh arventennoù niverus all, evel ment ar c_haptor, a glot gant galloud disrannañ al lagadoù implijet. en_ur implijout un hevelep lagad ec_h eo gwelloc_h perzhded al luc_hskeudennoù graet gant ur c_haptor 12 milion_a bikseloù furmad leun eget ar_re a vez graet gant kaptor ur benveg niverel, dezhañ an hevelep niver a bikseloù.
-Gant al luc_hskeudennerezh niverel e c_haller eiltretañ hag eilaozañ ar skeudennoù gant un urzhiataer hag ur meziant tretañ niverel. Gant ar meziantoù se e c_haller krouiñ diouzh ar c_hoant, adalek reizhañ ar gouloù, an dargemm pe al liv betek an eilaozañ pe ar c_henaozañ skeudennoù.
-Gant ar rouedadoù_kehentiñ, an Internet hag ar servijoù kumuniezhel a luc_hskeudennoù en linenn a oa deuet war wel e 2003 e vez implijet al luc_hskeudennerezh niverel e meur_a zoare. Gant ar blogoù hag ar servijoù rannañ luc_hskeudennoù evel Pikeo pe Flickr e c_hall al luc_hskeudennerienn verdeerien kaout binvioù ha servijoù evit kehentiñ, eskemm pe diskouez o luc_hskeudennoù niverel d'o familh, d'o mignoned, da dud o c_humuniezh pe d'an dud er bed ed a bezh. Gant ar servijoù e vez kinniget doareoù korvoiñ en linenn a leizh : merañ an darempredoù, kinnigoù luc_hvannoù, lec_hiadur douaroniel, hag_all. An arzourien hag ar vichereien a gav o c_hont peogwir e vez muioc_h_a dud o selaou pe o welet anezho, kalz muioc_h_eget ma vefent dirak tud en ul lec_h bennak.
-Er steredoniezh, un teknik pouezus eo p'eo bet graet dizoloadennoù diniver dre luc_hskeudenniñ ar[[korf egor|c_horfoù egor.
- Bro C_hall
-Arle : Emgavioù etrebroadel al luc_hskeudennerezh
-Fournels : Emgavioù Lunerezh Natur
-Pariz : Miz al luc_hskeudennoù, bep daou vloaz ; Pariz Luc_hskeudennoù ; Saloñs ADPS ; Saloñs al luc_hskeudennoù
-Perpinyà : Visa pour l'image, festival etrebroadel ar fotokazetennerezh
-Vilafranca de Mar : Festimago
- Kanada
-Montréal : Mizvezh al luc_hskeudennoù
- Mali
-Bamako : Emgavioù al luc_hskeudenerezh
- Suis
-Vevey : Festival al luc_hskeudennoù
 
 **** *art_Matte_painting *id_Matte_painting *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
 Ar matte painting a zo un doare da filmañ en_ur livañ ur c_hinkladur en_ur leuskel lec_hioù goullo, e_lec_h_ma vo lakaet unan pe veur a leurenn bet filmet en_a_raok.
@@ -2547,51 +1680,6 @@ An niverennoù all a c_hell bezañ korvoet gant an arloadoù a vez oc_h arverañ
 Galloud a reer gwareziñ an urzhiataerioù war ar rouedadoù o verzañ an haeziñ war porzhioù 'zo ha neuze da arloadoù 'zo.
 Lavaret e vez neuze eo digoret pe serret ur porzh.
 
-**** *art_Tresadennou_bev *id_Tresadennou_bev *cat_recherche *prof_0 *terme_stlenneg *equiv_fr_oui *lang_br
-Tresadennoù bev a reer eus filmoù graet diwar un heuliad tresadennoù ; disheñvel int diouzh ar blivadennoù, a c_hall bout graet diwar margodennoù, delwennoù pri pe doaz_merat, karton, hag_all.
-En Henoadvezh ar maen dija e klaskas an dud tresañ fiñvadennoù war mogerioù ar c_hevioù, pa weler loened livet gant lies izili treset an eil re war ar_re_all, pep unan gant un emzalc_h disheñvel diouzh hini ar_re_all.
-En XIXvet kantved e voe graet meur_a daol arnod a benn blivañ skeudennoù :
-An tomatrop e 1824 gant ar Breizhveurad John Ayrton Paris. Ur skeudenn dreistlakaet ouzh unan all e oa.
-Ar zoetrop e 1834, gant ar Saoz William George Horner ; un doare a oa bet ijinet abretoc_h gant ar Sinaad Ting Huan war dro ar bloavezh 180 GJK.
-Ar fenakistoskop e 1841, gant ar Belgiad Joseph Plateau.
-Ar folioskop e 1868 gant ar Saoz John Barnes Linnett, anvet kineograph gantañ.
-Ar praksinoskop e 1877 gant ar Gall Charles Émile Reynaud ; par d'ar zoetrop e oa.
-Ar zoopraksiskop e 1879 gant ar Saoz Eadweard Muybridge.
-An elektrotakiskop e 1887 gant an Alaman Ottomar Anschütz.
-Ar mutoskop e 1894 gant an Amerikan Herman Casler.
-D'an 28 a viz_du 1892 e voe bannet an dresadenn vev gentañ war ur skramm dirak arvesterien, e Mirdi Grévin e Pariz, gant Charles Émile Reynaud hag e braksinoskop. Pauvre Pierrot eo hec_h anv ; pemp_kant skeudenn livet war ur film trebarzhet a ya d'he sevel, ha war dro 15 munutenn e pad. Tremen 500 000 a dud o_devoa he gwelet e 1900.
-E 1906 e voe bannet an dresadenn vev gentañ bet graet dre luc_hskeudenniñ tresadennoù : Humorous Phases of Funny Faces ("Pazennoù fentus eus dremmoù ebat"), gant an treser J. Stuart Blackton.
-Gwelet a reer penn ur gwaz ha hini ur vaouez, treset gant kleiz war un daolenn zu : mousc_hoarzhin a reont, ha luc_hadennoù, kent koshaat ha dont divalav ; ar gwaz neuze a vann moged e segalenn war dremm ar vaouez, ha dorn an treser a ziverk an div dudenn ; goude_se, ur furlukin a laka ur c_hi da lammat dre ur c_helc_h.
-Teir munutenn hepken e pad Humorous Phases of Funny Faces, hogen an dresadenn vev gentañ eo hervez lod istorourien ar sinema.
-An darn_vrasañ anezho avat a laka Fantasmagorie, gant ar Gall Émile Cohl e 1908, da_gentañ film tresadennoù bev en Istor : pa oa oberenn J. S. Blackton un heuliad tresadennoù luc_hskeudennet ez eo Fantasmagories savet diwar 700 tresadenn filmet div wech. Ur vunutenn ha 40 eilenn eo padelezh ar fim, evit diskouez 1400 tresadenn.
-Kendelc_her a reas É. Cohl gant e labour : Le cauchemar du fantoche, a zo bet kollet, hag Un drame chez les fantoches, e 1908 o div.
-E 1914 e voe berzh bras gant ur film tresadennoù bev arall anvet Gertie the Dinosaur ha savet gant an Amerikan Windsor McCay. Ar wech kentañ eo ma weled un dudenn (hag un dinosaor war an dro) o fiñval en_un_doare_naturel.
-Da heul war an daolenn a enor e voe Felix the Cat gant an Aostralian Pat Sullivan hag an Amerikan Otto Messner e 1919, hag Oswald the Lucky Rabbit gant Walt Disney e 1927. E gwenn ha du e oa an holl filmoù se.
-Adal neuze ha betek ar bloavezhioù 1960 e voe kenderc_het un niver bras a filmoù tresadennoù bev, a veze diskouezet er salioù kent an hirfilmoù.
-Etre pemp ha dek munutenn e padent. Kompagnunezhioù bras divent a voe savet evit o fardañ, er Stadoù Unanet pergen : Walt Disney Animation Studios zo anavezet er_bed_a_bezh, koulz_ha Warner Bros Cartoons da skouer.
-E 1926 e voe bannet My Old Kentucky Home gant an Amerikan Max Fleischer, ar film tresadennoù bev kentañ gant trouzioù ennañ ; siwazh, dre wall an teknik bet implijet ne oa ket ar son kempred rik gant ar skeudennoù.
-Reizhet e voe an traoù e 1928 gant Walt Disney hag e film Steamboat Willie ; gant ur son disi e voe gwelet Mickey Mouse evit_ar_wech_kentañ.
-Livioù a oa bet dija e filmoù tresadennoù bev, met Walt Disney adarre a stalias ar skouer gant Flowers and Trees e 1932, pa voe ar filmaozer kentañ oc_h ober gant teknik an Technicolor evit ur film tresadennoù bev.
-Skouerioù all a voe staliet gant Walt Disney, evel ar c_hamera liestalenn a ro un doare bos d'ar film dre lakaat taolennoù da fiñval a dreñv ar skeudenn bennañ ; The Old Mill (1937) zo ur bennoberenn er c_heñver se. E 1937 ivez e voe ti Disney oc_h embann an hirfilm kentañ e tresadennoù bev, e Technicolor ha gant son, Snow White and the Seven Dwarfs ; 83 munutenn e pad "Gwenn erc_h hag ar Seizh Korr".
-Pelloc_h e voe Fantasia (1940) an tresadennoù bev kentañ gant ur son stereofonek, Lady and the Tramp (1955) a voe intentet evit ar skrammoù ledan. Ret eo ivez menegiñ Lumber Jack Rabbit (1953), ur film tresadennoù bev ma weler Bugs Bunny e teirment hag e Technicolor bepred.
-Adalek dibenn ar bloavezhioù 1950 e krogas ar skinwel da c_houllonderiñ ar salioù sinema, ha nebeutoc_h_a filmoù tresadennoù bev a voe kenderc_het evito. Evit ar skinwel dreist holl e farder tresadennoù bev hiziv, petra_bennak ma vez c_hoazh hirfilmoù o tremen dre ar salioù.
-Kentañ stirad tresadennoù bev oc_h ober berzh er skinwel amerikan e voe The Flintstones gant an Amerikaned William Hanna ha Joseph Barbera, a voe skignet war ar chadenn ABC eus an 30 a viz_gwengolo 1960 betek ar 1añ a viz_ebrel 1966.
-Klask a reas ar chadennoù all skignañ stiradoù tresadennoù bev ivez, met hini anezho ne badas pelloc_h eget bloaz war bouez Scooby Doo, a badas tost_da 40 bloaziad. Berzh a voe evelato gant an tresadennoù bev skignet abred da veure kent mont d'ar skol, ha diwezhatoc_h e voe krouet chadennoù skinwel gouestlet d'an tresadennoù bev, evel Disney Channel ha Cartoon Network.
-Ne voe ur berzh par da_hini The Flintstones nemet gant stirad Matt Groening, The Simpsons, a zo war ar skrammoù abaoe ar 17 a viz_du 1989.
-Buan ez_eus bet tennet splet eus berzh an tresadennoù bev gant ar bruderezh war ar skinwel. Lod tudennoù bet krouet evit merkoù kenwerzhel a bad c_hoazh goude bout war ar skrammoù e pad degadoù a vloaziadoù.
-Tex Avery, marteze an aozer filmoù tresadennoù bev brudetañ e kichen (pe a enep, kentoc_h) Walt Disney, e voe ar filmaozour kentañ o labourat vit ar bruderezh war ar skinwel, e 1966.
-Hengounel ha greantel war_un_dro eo kalvezerezh ar filmoù tresadennoù bev : hengounel, pa vez treset pep skeudenn war karton, paper ha kelluloid, ha greantel peogwir e vez rannet al labour etre meur_a zen, ar_pezh en_deus kaset da sevel tiez bras evel Walt Disney Studios" (tremen 800 implijad) pe Studio Ghibli ar Japaniz Hayao Miyazaki hag ISao Takahata (~300 implijad).
-En darn_vrasañ eus an tiez e vez treset ha livet ar c_hinkladur war karton tev gant gouach, dourlivadur pe c_hoazh liv akrilek. War baper e vez treset an tudennoù a vo blivet, gant ur c_hreion da_gentañ ; goude_se e vezont huzet kent bout lakaet war follennoù kelluloid treuzwelus ma vezont livet gant gouach.
-Rannet e vez ar blivadur etre meur_a bazenn hag a zen. Gant ar pennbliver e vez treset an emzalc_hioù pouezusañ (ar "skeudennoù alc_hwez" e yezh ar vicher), gant tud all e vez graet an emzalc_hioù etre, gant tud all c_hoazh ar skeudennoù a vank evit flouraat ar blivadur.
-E deroù ar filmoù tresadennoù bev greantel e veze treset 18 skeudenn evit bannañ un eilenn eus ar film ; gant donedigezh ar son e voe treset 24 skeudenn dre eilenn. Gant an amzer e voe merzet e chom flour a walc_h ar blivadur gant 12 skeudenn hepken.
-Donedigezh ar skinwel a gemmas an traoù, pa ranker skignañ 25 pe 30 skeudenn bep eilenn hervez ar broioù gant ar mediom se. Gant 24 skeudenn dre eilenn eo chomet ar genderc_herion filmoù tresadennoù bev koulskoude, ha teknikoù zo bet ijinet evit azasaat o labour ouzh ar skinwel : buanaat ar film a benn lakaat 25 skeudenn e lec_h 24 en un eilenn, meskañ div skeudenn evit tizhout 30 skeudenn pe, evel_ma reas Japaniz er bloavezhioù 1970, ober gant un dresadenn hepken evit teir skeudenn ha skignañ an hevelep skeudenn meur_a wezh e kerzh ar film.
-|
-Abaoe ar bloavezhioù 1990 ez eo deuet ar stlenneg e bed an tresadennoù bev. hiziv_an_deiz ez_eus muioc_h_a filmoù gant lod skeudennoù graet dre urzhiataer eget a re fardet gant an dorn hepken. Gant an dorn avat e vez graet an darn vuiañ eus ar skeudennoù, rak n'eo ket gouest c_hoazh an urzhiataerioù da sevel o unan ar skeudennoù a vank etre div skeudenn alc_hwez.
-meur_a gemm pouezus zo bet degaset gant ar stlenneg avat :
-al livañ dreist holl zo bet aesaet gant ar stlenneg, n'eus ket ezhomm ken a gelluloid hag a bodadoù liv, pa c_haller labourat ar skeudennoù war ar skramm goude bout o niverelet ;
-gant gwiskadoù follennoù kelluloid treuzwelus e vez graet ar filmoù hengounel, hogen n'int ket treuzwelus a walc_h evit_ma c_hallfed berniañ kalz anezho hep na deufe ar bloc_had da vezañ demer ; diniver eo an niver a wiskadoù blivañ a c_haller berniañ a drugarez d'ar meziantoù ;
-tu zo bremañ da rakwelet ar film en_e_bezh war ar skramm, hag e reizhañ kent e lakaat er c_henwerzh.
-
 **** *art_Treterezh_emgefre_al_lavar *id_Treterezh_emgefre_al_lavar *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
 Treterezh emgefre al lavar a zo ur skourr etrediskiblezh eus an urzhiataerezh hag eus ar c_hlaskerezh roadoù. E bal pennañ eo klask degas d'an urzhiataerioù barregezhioù evit tretiñ hag embregañ lavar an den. Gantañ e c_heller ober war dro restroù roadennoù, korpusoù testennoù pe korpusoù komzoù, evit sevel un deskoni ardivinkel fardet diwar hentennoù a c_hell bezañ reolluniet pe tebegourel. Reiñ d'un urzhiataer ar ouestoni da dizhout ur seurt komprenezon eus an endalc_hioù, eus an arlivioù kemperzhel staget outo, eo an disoc_h da gaout. Pennaennoù hag a zeu eus ar yezhoniezh a vez implijet evit diboullañ ar stlenn arveradus, asambles gant ar_pezh_a c_hell degas spiswel ha perzhegezh, koulz_ha rummata hag aozañ an unpezhioù stlenn o unan. Gant naouerezh ar gomz, komprenezon al lavar naturel ha krouidigezh al lavar naturel e ya diazezoù treterezh al lavar.
 Er bloavezhioù 1950 e krog ar studi efedus eus treterezh al lavar gant ardivinkoù, ar_re savet evit an urzhiataerezh o tiwan, da_gentañ_holl. Sellet a reer ouzh ar studiadenn embannet gant Alan Turing, Computing machinery and intelligence (e brezhoneg : "Ardivinkoù urzhiataerezh ha naouegezh"), evel an destenn damkaniel diazez. En e bennad e kinnige un doare da briziañ kalite an naouegezh ardivinkel a voe graet Prouad Turing anezhañ diwezhatoc_h. 
@@ -2739,34 +1827,6 @@ Arc_hwelioù liesvedia : Pa vez kevannet gant an alc_houez USB ul lugell tokarn 
 
 **** *art_Amiga *id_Amiga *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
 An Amiga a oa un heuliad urzhiataerezioù ti gwerzhet gant an embregerezh Commodore International etre 1985 ha 1994. Savet e oa bet diwar ar familh mikroprosesor Motorola 68000. Ar savenn implijet a oa an AmigaOS. An Amiga en_devoa degaset gwelladennoù da geñver an urzhiataerezioù ti 8 bit, e touez anezho ar Commodore C64.
-
-**** *art_Bannerezh_kartenn *id_Bannerezh_kartenn *cat_recherche *prof_0 *terme_niverel *equiv_fr_oui *lang_br
-E kartennouriezh, ar bannerezh kartenn zo unan eus an treuzfurmadurioù implijet evit diskouez gorread kromm divvent ur bellenn war ur blaenenn. Goude pep a vannerezh eus ur bellenn war zu ur plaenenn e vez dispaket distummadurioù ar gorread en un doare pe un all. Kavet e vez bannerezhioù all e meur_a dachenn eus ar matematik pur, en o zouez ar mentoniezh orgemmel, ar mentoniezh vannadel, hag ar seurtadoù, ''met ar ''bannerezh kartenn'' a zo un obererezh arbennik.
-Ez istorel ez_eus kaoz eus mont da gartenniñ war ur gorread plaen diouzh hini ur bellenn peurvuiañ. An Douar hag ar c_horfoù egor all bras a vez delvanet gwelloc_h evel kelc_htreiñ pe elipsoidoù oblat, padal traezennoù bihan evel an asteroidoù o_deus stummoù digompes alies. Gorreadoù ar c_horfoù planedel a c_hell bezañ kartennet ha_pa 'z int re ziblaen evit bezañ delvanet mat gant ur bellenn pe un elipsoid.
-Hervez pal ar c_hartennour e c_heller degemerout un nebeud distummadurioù ha lezel reoù all a gostez ha diouzh se e tibaber bannerezhioù kartenn disheñvel evit mirout perzhioù zo eus ar sferenn nemetken. Studi ar bannerezhioù kartenn a zo dreist holl diwar benn deskrivadur o distummadurioù. N'eus bevenn ebet d'an niver a vannerezhioù kartenn posubl.
-Hag, en despet d'e ster diarlenn, n'eo ket bevennet ar bannerezh d'ar bannerezhioù diawelad, evel re_a zeu eus un skeudenn war ur skramm, pe ar skeudenn eunregennek produet gant ur gambr zu war ur blakenn film plaen. Kement fonksion matematik a dreuzfurm daveennoù eus ar gorread kromm en un doare distag ha flour war ar plaen a zo ur bannerezh. nebeut_a vannerezhioù implijet a zo diawelad.
-Ar bannerezh kartenn anavezetañ eo ar « bannerezh Mercator » hag e vez lakaet da vezañ kewir peogwir e vez miret an ankloù. Koulskoude, a hed an [[XXvet kantved]], eo bet rebechet dezhañ brasaat an takadoù a feur m'emaint pelloc_h eus ar c_heheder. Enebet ouzh an dra se, ar bannerezhioù kevatal gorre evel ar bannerezh sinuzoidel hag ar bannerezh « Gall–Peters » a ziskouez mentoù reizh ar broioù an eil e keñver egile, met ne miront ket mat an ankloù. Dispakañ a reont an National Geographic Society hag ar pep brasañ eus an atlasoù bannerezhioù kartenn a ro un disoc_h etre e kenver torgemm ar gorreadoù, evel ar bannerezh « Robinson » hag ar bannerezh « Winkel tripel ».
-Da vannerezh « Robinson » eo hêr ar bannerezh « Douar par euun » hag a zo aet da vannerezh ofisiel kartennoù ar bed embannet gant Aozadur ar Broadoù Unanet e 2026.
-meur_a berzh a c_hell bezañ muzuliet war gorread an Douar hep tennañ kont eus an tachenn .
-Gorread
-Stumm
-Durc_hadur
-Azimut
-Hed
-Ar bannerezhioù kartenn a c_hell bezañ savet evit mirout un nebeud eus ar perzhioù se en o c_heñver re all ha peogwir ne ya ket da vezañ izometrik gorread kromm an Douar d'ur blaenenn e tle ar stummoù kaout ur skeul cheñch ha, da heul, bezañ dispaket a c_hinfeur ouzh ar gorreadoù. Heñveldra, ma vez miret gorreadoù gwir ne c_hell ket ar bannerezh bezañ kewir, ha da heul e vez distummet ar stummoù hag an azimutoù e darn_vrasañ eus an takadoù war ar gartenn. Gant doareoù disheñvel e vez miret pe lakaet en etre pe greñvaet perzhioù metrek zo. Pa vez liesseurt mennadoù ar c_hartennourien e tleer kaout bannerezhioù liesseurt. 
-P'eo aet ar c_hartennoù eus an tresañ war baper (ha moullet da_c_houde) da vezañ restroù en urzhiateerioù e vezont savet diwar jedadennoù kemplez.
-Ret eo sevel kefluniadur ar bannerezh en_ur lakaat da glenglotañ ar roadennoù geodnouroniel eus un tu hag patrom niverel an Douar a zo bet dibabet, un datum eo anv ar patrom se, dezhañ da endalc_h ur seurt eilad niverel an Douar a bezh. Pa n'eus diforc_hioù re vras etre an datumoù evit ar sevel kartennoù a skeul vihan e tleer dibab datumoù a blom gant ar roadennoù pa ya ar skeul da vezañ bras.
-Sevel ur bannerezh kartenn a ya gant daou lankad :
-Dibab peseurt stumm a zo gant skeudenn an Douar, da vezañ bannet pe ur bellenn, pe un elipsoidenn, met pa n'eo ket reoliek (kewir gant ar seurt kelluniadur) an Douar e vo lezet titouroù a gostez forzh_penaos.
-Treuzfeurmiñ an daveennoù douaroniel, hedred ha ledred, pe d'ar reizhiad daveennoù kartezel (x, y, z), pe d'an daveennoù plaen a ya gant ar reizhiad daveennoù bleinel (r, θ) . Er reizhiad kartezel e vez dreistellet ar c_harrezioù kartezel war elfennoù ar gartenn, ken e tispak ur gael.
-Ober a reer gorreadoù dispakadus eus ar_re ne ta ket ganto bezañ displeget pe dirodellet pa vezont treuzlakaet war un blaenenn, ar granenn hag ar gernnenn da_gentañ_holl. N'eo posubl hen ober gant ur bellenn pe un elipsoidenn, ken n'eus ket bannañ anezho hep meur_a dorgamm, pa n'o_deus tamm takad a vije lakaet war ur blaenenn war euun.
-Ma klasker kas bannerezh an Douar war ur gorread dispakadus, kranenn pe gernenn, ne c_heller ket ober hep meur_a dorgemm.
-Bannerezh Douar par eeuneun]]
-Bannerezh kewir
-Bannerezh Mercator
-Daveenn douaregorel
-Daveenn gartezel
-Mentoniezh vannadel
 
 **** *art_Battlefield_heuliad_c_hoariou_video *id_Battlefield_heuliad_c_hoariou_video *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
 Ur ger saoznek eo Battlefield hag a dalvez tachenn emgann.
@@ -2925,16 +1985,6 @@ La ville évènement, dastumad "La ville en débat", PUF, 2010
 Evénements et sécurité. Les professionnels des climats urbains, Paris, Les Presses des Mines, 2012 (asambles gant Stéphane Chevrier ha Stéphane Juguet)
 Opinion mining et sentiment analysis. Méthodes et outils, Open Press Éditions (dastumad Sciences Po médialab) (asambles gant Audrey Lohard) a c_haller kaout e freemium
 
-**** *art_Embannerezh *id_Embannerezh *cat_recherche *prof_0 *terme_niverel *equiv_fr_oui *lang_br
-An embannerezh a zo stagañ gant aozañ ditour, lennegezh, sonerezh, poelladoù ha dafaroù all ken ez eont da vezañ dibrez evit an dud diwar prenañ pe reiñ digoust. Krouet eo bet ar ger brezhonek e doug ar XXvet kantved, met en Europa e vez implijet a gozh e gensterioù evit ar fardañ hag ar skignañ levrioù, kelaouennoù ha skorioù moullet, met, adal ma 'z eo deuet reizhiadoù ar stlenn niverel e vez astennet evit envel ar_pezh_a denn da lakaat war ar marc_had levrioù ha pladennoù niverel fetis pe difetis, kelaouennoù niverel, lec_hiennoù war ar Web, mediaoù war ar rouedadoù sokial hag ar c_hoarioù_video. N'eo ket ar paper duet gant ar skritur ar skor pennañ m'eo bet araok diwezh an XXvet kantved, pa eo aet ar mekanikoù lusket gant kodoù stlennel da gevezañ outi.
-Embann a dalveze gwezhall gozh da lakaat an dud da c_houzout keloù pe dre huchal pe dre skritelloù. Embanner a voe anv an den a huche anvioù an dud pa 'z eont da weladenniñ tud a renk uhel tre.
-E Devri (geriadur treadegel ar brezhoneg) e kaver embann (verb), dezhañ ster lakaat da vezañ embannet, da fardañ levrioù evit ar gwerzh hag e barzh an Dictionnaire français breton de poche, savet gant Taldir hag ermaezhiet e 1914, e kaver embanner, dezhañ ster rener un ti embann evit al levrioù. Ne ouzer ket pegoulz e voe silet embannerezh er yezh goude_se. Embannadur, dezhañ ster embannadenn (ermaezhiadenn) a vez kavet er Grand dictionnaire français breton aozet gant Frañsez Vallée e 1931. M'eo embannerezh ar ger hollek e chom ar ger embann da dalvezout evit an oberiantiz war dro al levrioù gwerzhet el levrdioù, alese an embann brezhoneg.
-Ur gennad greantel a bouezh eo deuet da vezañ an embannerezh pa gaver kenvredadoù etrebroadel (News Corp, Pearson, Penguin Random), chadennoù magazennoù hag embannerien vihan dizalc_h a viliadoù ivez. Embanner a c_hell bezañ graet eus un embregerezh embann (anvet ti embann peurvuiañ) pe eus un den a ren un ti embann pe a ren ur gelaouenn. Atav ez_eus bet gwelet tud a laka o oberennoù da vezañ embannet ganto o unan.Emembannerien e vezont.
-Rannet eo an oberiantizoù dre isgennadoù arbennik, evel kenwerzh a vras hag a vunut, faltazi pe nann faltazi, embannerezh evit ar skolioù, ar skolioù meur hag embannerezh skiantel. 
-An embannerezh a c_hell bezañ embreget gant ar gouarnamantoù, ar melestradurezhioù, an embregerezhioù prevez hag ar c_hevredigezhioù keodedel hervez ezhommoù o tennañ d'al laz foran, d'an aferioù ha d'an imbourc_h. Diouzh se e vez produet danevelloù oberiantiz, danevelloù raktresañ, danevelloù imbourc_h, enklaskoù war ar marc_had ha danevelloù teknel.
-Kavet e vez ivez un embannerezh kuzh pa wask ar pennoù bras war pep eztaoladur n'int ket evit e asentiñ. 
-Un argezh eo an embannerezh a c_hell bezañ holl embreget gant un hinienn pe dasparzhet etre meur_a den en un aozadur savet a ratozh pe rannet etre meur_a aozadurioù pe embregerezhioù.
-
 **** *art_Enbonegan_daouredel *id_Enbonegan_daouredel *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
 En difin ar bloavezhioù 1930 e oa bet anataet gant Claude Shannon e oa lank efediñ gwezhiadurioù vezoniel (pe boelloniel jedoniekaet) gant enstokerioù (trec_haolerioù) serret da "gwir" ha digoret da "gaou". Ne oa ken 'met neuze da gevrediñ an niver "1" da "gwir" hag an niver "0" da "gaou".
 An areg se (pe al lavar se) a vez anvet areg daouredel (lavar daouredel). Gant an areg se 'ni eo e vez an urzhiataerioù oc_h arc_hwelañ (o vont_en_dro). Dre benn dezhañ e c_heller implijañ 2 niver hepken (0 hag 1) d'enbonegañ an holl sifrennoù. Boazet omp ni d'ober gant dek niver (0,1,2,3,4,5,6,7,8,9) da skrivañ an holl niveroù all ; an diazez dekredel eo pe degel.
@@ -3078,14 +2128,6 @@ Rouedad sokial
 Trombi.com
 Twitter
 
-**** *art_Giga *id_Giga *cat_recherche *prof_0 *terme_stlenneg *equiv_fr_oui *lang_br
-Giga-, aroueziet dre G, zo ur rakger eus an SI (Système international d'unités) a dalv da lieskementiñ un niver bennak dre 109, da_lavaret_eo dre ur milmilion ; da skouer : 1 G€= 1 000 000 000 a euroioù.
-Eus ar gresianeg γίγας gígas "ramzel" e teu an anv. E 1960 e voe degemeret gant ar Bureau International des Poids et Mesures (BIPM). 
-Er stlenneg e reer gant gigabitoù (Gbit) ha gigaeizhbitoù (GB, eus ar saozneg gigabyte) ; daou ster zo d'an unanennoù se, hervez ma vuzulier dre niveroù en diaz 10 (10n) pe en diaz 2 (2n).
-An SI a laka ar rakger giga- da dalvezout rik kement_ha lieskementiñ dre ur milmilion ; neuze, 1 Gbit = 1 milmilion a vitoù hag 1 MB = 1 milmilion a eizhbitoù (8 milmilion a vitoù). Ne c_heller neuze implijout ar rakger giga- nemet pa gomzer eus pakadoù 1 milmilion a vitoù pe 1 milmilion a eizhbitoù, da skouer evit muzuliañ kas ul liamm etre daou ardivink : ul liamm 1 Gbit/s a dreuzkas 1 000 000 000 bit dre eilenn, unan 5 GB a dreuzkas 40 000 000 000 bit/s. En diaz 10 e vez ar c_hementadoù se.
-En diaz 2 eo e vuzulier endalc_h ur bladenn galet pe ment ur restr stlennegel. En degouezh se e talvez giga- kement_ha 1 073 741 824 (230) e lec_h 1 000 000 000 (109). Neuze : 1 Gbit = 1 000 000 000 bit en diaz 10 ha 1 073 741 824 bit en diaz 2 ; 1 GB = 8 000 000 000 bit en diaz 10 ha 8 589 934 592 bit en diaz 2.
-Evit diskoulmañ ar gudenn se ez eo bet kinniget gant an International Electrotechnical Commission (IEC), a gevret gant an SI, erbediñ ur rummad rakgerioù spesadel ouzh ar stlenneg ; gibi- (Gi) eo ar rakger a dalv evit giga- er stlenneg ; eus gibibitoù (Gibit) ha gibieizhbitoù (GiB) e komzor neuze.
-
 **** *art_Google_Play *id_Google_Play *cat_recherche *prof_0 *terme_niverel *equiv_fr_oui *lang_br
 Google Play, brudet ivez evel Google Play Store, Play Store, pe a wechoù Android Store (hag anavezet da_gentañ evel Android Market), zo ur servij dasparzh niverel perc_hennet ha sevenet gant Google. Servijout a ra evel app store ofisiel evit ardivinkoù gant Android hag ar savennoù deveret, kement_ha ChromeOS, o reiñ an tu d'an implijerien da glask pe da bellgargañ arloadoù sevenet gant kit diorren Android ha ledet gant Google. Google Play a servij ivez evel stal media niverel, en_ur ginnig pourchas mediaioù (ha lod all hag a zo digoust) evel levrioù, filmoù, singleioù sonerezh, programmoù skinwel, ha c_hoarioù_video.
 
@@ -3096,42 +2138,9 @@ Gellout a reomp kavout meur_a zoare labour : an embannadur, web, liesvedia, skeu
 Ganet eo micher grafour er XXvet kantved. A raok e veze implijet an dresourion bruderezh evit ober bruderezh. Disheñvel e oa pep_tra : int, a rae arz dre al lagad, al lizherennourion a rae pajennaozadur ha war dro an testennoù. Hiziv en_deus ar grafour, kemeret plas an dresourion bruderezh er c_hevredigezhioù, labourat a reont evit ar vruderezh en un sevel kinnigadenn ar c_hazetennoù. Betek fin an XIXvet kantved e oa moullet arz ar grafour e gwenn ha du ha war paper. Bremañ e vez livioù, mentoù a_bep_seurt. Memes ma vez gant ar c_hazetennoù, magazinoù, levrioù, kaieroù pe skritelloù a_bep_seurt, implijet un dañvez fizik e chom ar paper an dañvez implijetañ.
 hiziv_an_deiz e tremen ar grafour e devezh dirak un urzhiataer. Implijet e vez getañ an EMbann Ameilet dre Urzhiataer (EMAU). EMAU a servij da grouiñ dielloù d'ar voulidigezh dre an urzhiataer. Gantañ e vez implijet poelladoù evel Photofiltre, Photoshop evit an tresañ pe c_hoazh InDesign, OpenOffice evit ar pajennadur. Kalz reoù all e vez c_hoazh, ha pep_hini e vez gant Macintosh pe Windows.
 
-**** *art_Hertz *id_Hertz *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
-An hertz (arouez : Hz) eo an unanenn deveret eus ar Reizhiad unanennoù etrebroadel (SI) evit muzuliañ an talmoù, da_lavarout_eo an niver a luskelladoù dre eilenn. Kevatal eo an hertz gant 1 talm dre eilenn (s−1, 1/s).
-Diwar anv ar fizikour alaman Heinrich Rudolf Hertz (1857–1894) en_deus kaset labourioù skiantel a bouez war dachenn an elektromagnetegezh ez eo bet anvet an unanenn.
-50 Hz eo talm red pebeilat rouedad an tredan 230V en Afrika, en Azia hag en Europa, da_lavarout_eo e vez tuginet bleinegezh (+ pe -) ar bonnoù 50 gwezh bep eilenn. Un talm a 50 Hz a dalv ez_eus 100 kemm dre eilenn, pep bonn a vez muiel (+) 50 gwezh ha leiel (-) 50 gwezh bep eilenn.
-Muzuliet e vez uhelder ar sonioù gant an niver a zaskrenoù dre eilenn (e touez traoù all). An notenn sonerezh La4 dave a dalm da 440 Hz ; ar frekañs se eo a vez roet gant ar bondon, ar c_hentonerioù elektronek ha gant ton ur pellgomzer.
-Gouest eo divskouarn un den yac_h da glevout sonioù en_ur skalfad ker boud ha 20 Hz ha ker skiltr ha 20 kHz (20 000 Hz).
-Skignet e vez ar gwagennoù skingomz dre e gouluz talm war ur vandenn etre 80 MHz ha 108 MHz (80 x 106 – 108 x 106 Hz).
-e_penn_kentañ ar bloavezhioù 1980, kewerier un urzhiataer hiniennel a dalme etre 1 MHz hag 8 MHz. hiziv_an_deiz (2021), un urzhiataer hezoug boutin a dalm da 2 GHz (2 x 1012 Hz), da lavarout ur c_helchiad diazez 0,5 ns.
-Etre 400 THz (400 x 1012Hz) ha 484 THz (480 x 1012Hz eo talm ar gouloù ruz zo ).
-Etrebroadel eo an anvioù ivez.
-
 **** *art_Hewlett_Packard *id_Hewlett_Packard *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
 An Hewlett Packard Company (berraet en HP, pe hp) simplaet en Hewlett Packard a oa un embregerezh treuzvroadel stadunanat teknologiezhoù staliet en Palo Alto, Kalifornia. Produiñ a rae lodennoù urzhiataer lies koulz_ha meziantoù liammet ouzh servijoù evit ar guzumerien hag an embregerezhioù bihan pe bras. Savet e oa bet an embregerezh en_ur c_harrdi bihan e Palo Alto gant Bill Hewlett ha David Packard. da_gentañ_penn e veze produet dafar test elektronek. HP e oa ar saver urzhiataerioù pennañ er bed etre 2007 ha 2013, betek_ma voe kemeret e lec_h gant Lenovo.
 Hewlett Packard en_deus ledanaet ar servijoù kinniget gant an embregerezh dindan an anv Hewlett Packard Enterprise d'ar 1añ a viz_du 2015. Hewlett Packard, an embregerezh diazez, zo chomet war tachenn ar sevel urzhiataerioù ha moullerezioù gant an adanv HP Inc.
-
-**** *art_Holloueziadur *id_Holloueziadur *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
-Un holloueziadur (pe kelc_hgeriadur) a lavarer e brezhoneg eus ul levr a glasker lakaat muiañ ma c_haller a zeskamant pe gouiziegezh ennañ, diwar benn danvezioù a_bep_seurt.
-Gellout a ra un holloueziadur bezañ arbennikaet par pled gant un dachenn hepken, da skouer pa ne denn nemet d'ar skiantoù. Alies e vez renket an danvez dre urzh al lizherenneg. e_pad_pell eo bet embannet an holloueziadurioù e stumm levrioù. Bremañ en o c_haver ivez enrollet war pladennoù ha muioc_h muiañ dindan stumm ul lec_hienn Web.
-Koulskoude, daoust d'ar strivoù, met ne c_hell an holloueziadur enklozañ an holl ouiziegezh. 
-Savet eo ar ger holloueziadur diwar ar gerioù holl, ha gouez-, ur wrizienn a gaver er verb gouzout hag en anv gouiziegezh, gant al lostger -adur a gaver e barzh geriadur pe yezhadur. Tost eo d'ar ger gwyddoniadur a gaver e kembraeg evit envel ar seurt oberenn ha d'ar ger kernevek godhonyador.
-Ur ger all a zo bet e brezhoneg evit_se : kelc_hgeriadur, zo savet diwar ar gerioù geriadur ha kelc_h, evit treiñ ar gresianeg Enkuklopaideia, a dalveze deskamant lakaet en_ur c_helc_h, peogwir e vez enklozet ennañ deskamant an oberour(ien) betek o harzoù diwezhañ skeudennaouet gant ar c_helc_h. Ouzhpenn se ne c_heller ket implij un holloueziadur urzhiet dre zanvezioù hep brassellout ouzh ur meneger hag a zo stumm eeunañ ur geriadur. 
-Doareoù all da envel an dra se a gaver c_hoazh. Frañsez Favereau a ra gant geriadur a ouiziegezh (Geriadur brezhoneg a_vremañ, 1992). Frañsez Vallée en_doa kinniget levr kelc_houiziegez ha kelc_houiziegezadur. An termen kelc_hgeriadur zo bet kavet e_pad_pell e geriadurioù brezhoneg galleg Roparz Hemon.
-Ret eo lavarout eo gant tud ar wikipedia brezhonek e vez implijet ar ger holloueziadur dreist holl, rak n'eus nemet un holloueziadur e brezhoneg evit_ar_poent, ha hemañ eo.
-Savet eo ar ger holloueziadur da dreiñ ar ger latin encyclopædia eta, ur ger latin savet da vare an Azginivelezh, er XVIvet kantved eta, hag a deu eus un droienn e henc_hresianeg Ploutarc_hos, enkuklios paideia (εγκύκλιος παιδεία), da_lavarout_eo littéralement « kelc_h ar gouiziegezhioù » pe « chadenn ar gouiziegezhioù » (en: en, kuklios : kelc_h, ha paideia : deskadurezh). 
-P'eo ar geriadur astennet da vezañ un holloueziadur, ledan pe arbennig he falioù, ez_eus bet savet hollouezadurioù hentennek ivez. 
-Holloueziadurioù gant ur framm ennañ rummoù urzhiet hervez ur poell savet a ratozh ez int. Dre vras e vez bodet an deskamant dindan anvioù ar c_helennoù bras evit_ma reas Aristoteles (Poellouriezh, Politikouriezh, Barzhegezh, Aritmetik, Oablouriezh, Fizik hag ar_pezh_a zo "goude" ar Fizik, ar Metafizik (Trabedoniezh e brezhoneg).
-Ar patrom koshañ eo an holloueziadur hentennek evel_ma weler gant ar Speculum Majus savet e latin gant Vincent de Beauvais, un oberenn a ziskouez sammad ar ouiziegezh a c_helle dastum en XIIvet kantved e Europa.
-Er XVIIvet kantved e teuas e soñj al lederien deskamant implij al lizherenneg evit dispakañ pennadoù ha ne oant ket urzhiet dre o zemoù, met liammet etrezo gant adkasoù. Sellet ouzh skouerioù roet er rannbennad istorel izeloc_h.
-En Henamzer e voe savet holloueziadurioù gant ar C_hresianed. Oberennoù Aristoteles ha Demokritos a yae pep_hini anezho d'ober meni holloueziadurioù hag ar_pezh_a chom eus oberenn ar c_hentañ a c_hell bezañ gwelet evel an holloueziadur koshañ. Ar Roman Plinius kozh, er Iañ kantved, en_deus savet un "Istor naturel" (Naturalis historia) a oa ennañ meur_a levr ha 37 anezho (diwar 160) a zo bet miret. Ennañ e oa anv eus fedoù gwir ha traoù faltazius. Sellout a reer ouzh an oberenn se evel mammenn an holloueziadurioù zo deuet war lerc_h.
-En IIIe kantved e teuas er maez an holloueziadur sinaek kentañ, dindan an anv Melezour an Impalaer. An holloueziadurioù e Sina a oa un harp evit ar studierien en o arnodennoù. Lod anezho a voe savet a hed meur_a gantved. Ar Statudoù Ledan da skouer a voe savet da_gentañ gant Du Yu en 801 hag a voe kendalc_het da skrivañ betek an XXvet kantved.
-Cheng Zu, an impalaer eus Sina eus rummad ar roueed Ming a lakaas sevel an holloueziadur Yongle, an oberenn vrasañ eus ar seurt se. Echuet e oa bet er bloavezh 1408 hag ennañ e oa 11 000 levrenn dornskrivet a chom war dro 400 anezho. 
-En IXvet kantved e voe embannet an holloueziadur arabek kentañ, savet gant Ibn Qutayba. Dek levrenn a oa en oberenn, ha plediñ a rae gant an danvezioù mañ : ar galloud, an noblañs, an temz spered, ar c_hloer, ar garantez, ar boued, ar maouezed…, oc_h ober gant krennlavarioù, barzhonegoù…
-Lavarout a reer peurvuiañ ez eo gant ar Saoz John Harris e voe savet ar c_hentañ holloueziadur modern, e stumm ul levr ennañ pennadoù renket hervez urzh al lizherenneg. E 1704 e teuas er maez e Lexicon technicum. E dibenn an XVIIIvet kantved e teuas er maez an Encyclopaedia Britannica, e stumm teir levrenn embannet etre 1768 ha 1771. hiziv_an_deiz c_hoazh ez eo an holloueziadur brudetañ ha pouezusañ er bed saoznek. D'an hevelep mare e voe embannet e Bro C_hall an Encyclopédie gant Diderot. E 1772 e voe echuet. Ennañ e oa pennadoù gant Voltaire, Rousseau, d'Alembert ha Montesquieu, kefredourien vras d'ar mare se. Gant an Iliz katolik ha gant lez ar Roue e voe gwelet Encyclopédie Diderot evel un oberenn awenet gant ur spered disuj koulz_lavaret. D'ar mare se ivez e voe savet en Alamagn holloueziadur Brockhaus.
-An holloueziadurioù, anezho oberennoù ledañ deskamant e stumm pennadoù a ra dave an eil re d'ar_re_all, a c_hell mat tre bezañ lakaet war un urzhiataer. Kalz aesoc_h ha buanoc_h e kaver ar_pezh_a glasker evel se. Ouzhpenn se e c_heller lakaat war un urzhiataer traoù ouzhpenn ar_pezh_a vezer boas da gavout el levrioù : sonioù, videoioù ha kement danvez liesvedia a c_heller ijinañ. Ur roll brasoc_h brasañ zo gant an holloueziadurioù se war dachenn an deskadurezh elektronek.
-E brezhoneg n'eus bet embannet holloueziadur ebet war baper morse betek henn. Bremañ, gant Wikipedia, ha gant kenlabour an holl vrezhonegerien a_youl_vat, emeur o klask sevel ur benveg par d'ar_pezh_a gaver e yezhoù all, ha kaout deskamant war a_bep_seurt traoù en hor yezh.
-Koulskoude ez_eus bet un seurt holloueziadur savet e Breizh hag e oa kalz_a vrezhoneg ennañ daoust dezhañ bezañ skrivet e galleg. Geriadur Pierre Joseph de Coëtanlem de Rostiviec an hini eo, savet e doug an Dispac_h gall ha chomet diembann e zornskrid betek dibenn 2008. Un astenn da c_heriadur Loeiz ar Pelleter eo gant addisplegoù gouiziek da bep ger.
 
 **** *art_IRC *id_IRC *cat_recherche *prof_0 *terme_stlenneg *equiv_fr_oui *lang_br
 IRC pe Internet Relay Chat (e brezhoneg "kaozeadeg a eilek dre Internet") a zo ur protokol daremprediñ ger ha ger war Internet. Servij a ra da eskemm e amzer wirion; implijet eo dreist holl evit kaozeal gant strolladoù implijerien, met implijet e vez ivez evit eskemm etre hiniennoù.
@@ -3140,44 +2149,6 @@ Echuet e_fin_miz_eost 1988, IRC a zo deskrivet e barzh RFC 1459, hag adwelet gou
 e_miz_meurzh 2009 e c_helle rouedadoù brasañ IRC liammañ muioc_h evit 500000 implijer en un taol, gant miliadoù a ganolioù disheñvel gant sikour tro dro 1500 servijer er bed.
 Ar protokol daremprediñ se a zo deskrivet evel ur rouedad stlennegel diazezet war meur_a servijer stlennegel kevredet, warno meur_a kliant IRC oc_h eskemm drezo. 
 IRC a zo ur protokol hag a implij an TCP hag a wechoù an TLS.
-
-**** *art_ISBN *id_ISBN *cat_recherche *prof_0 *terme_stlenneg *equiv_fr_oui *lang_br
-ISBN (International Standard Book Number, "niverenn levr reolatet etrebroadel" zo un niverenn anaout etrebroadel a vez roet abaoe 1970 da gement embannadur kement levr a zo embannet. Evit eeunaat ar c_heñveriañ dre urzhiataerezh ec_h eo bet ijinet, ma vije simploc_h labour al levrierien, al levrouaegerien, an dasparzherien levrioù, hag al lennerien pa glaskont ul levr en un embannadur hag ur skor resis.
-Dek sifr a oa en un ISBN betek miz_kerzu 2006, eus ISBN 10 e komzer neuze ; trizek sifr zo abaoe ar 1añ a viz_genver 2007, alese an anv ISBN 13.
-E 1965, ar skigner levrioù W. H. Smith & Son Ltd. e Swindon (Bro Saoz) a glaskas stlennekaat e labour dre reiñ un niverenn anaout unel da gement embannadur eus kement levr a vere. Gant ar c_helenner iwerzhonat Gordon Foster (1921 2010) e Coláiste na Tríonóide e Baile Átha Cliath e voe ijinet e 1966 ur reizhiad urzhiañ dre stlenneg, 9 sifr ennañ, a anvas Standard Book Numbering (SBN) System. E 1967 e voe lakaet an SBN e pleustr e Breizh Veur a bezh.
-Buan e klaskas an International Organization for Standardization (ISO) azasaat an SBN evit_ma vije arveret er_bed_a_bezh. Goude bodadegoù etrebroadel e London e 1968, e Berlin ha Stockholm e 1969, e voe degemeret an ISBN gant an ISO e 1970 hag anvet ISO 2108.
-Digemm eo chomet stumm an niverennoù ISBN 13 abaoe 2006, azasaet eo bet d'ar media nevez, ha tremen 150 bro a ra ganto. E London emañ an International ISBN Agency a ver adtioù er_bed_a_bezh.
-Pemp rann a ya da sevel un niverenn ISBN 13, a vez jedet dre ur formulenn vatematikel arbennik ha kadarnaet dre un alc_hwez gwiriañ evit_ma ne vefe ket roet an hevelep niverenn da zaou dra :
-ar rakniverenn, an 3 sifr kentañ, na c_hall bezañ nemet 973 pe 979 ;
-niverenn ar strollad, betek 5 sifr ennañ, da verkañ ar vro, ar rannvro pe ar yezhva a zo ezel eus ar reizhiad ISBN ;
-niverenn an embanner, betek 7 sifr, evit an embanner pe ar merk ;
-niverenn an oberenn, betek 6 sifr, da verkañ embannadur pe stumm an oberenn mañ oberenn ;
-an alc_hwez gwiriañ : ar sifr diwezhañ atav, a vez jedet evit kadarnaat an 12 sifr all ; eus 0 da 10 e c_hall bezañ, 10 o vezañ skrivet X.
-Er stlenneg hepken e vez skrivet an ISBN 13 en_ur bomm : 9782916745312 ; esaouiioù pe barrenigoù stagañ pe esaouioù a lakaer etre ar rannoù evit_ma vije aesoc_h d'an dud lenn un ISBN 13 : 978 2 916745 31 2 pe 978 2 916745 31 2 neuze, m'emañ 2 evit Bro C_hall (ha Breizh), 916745 evit an embanner (Al Lanv), 31 evit kentañ embannadur al levr "Torkad" war baper, ha 2 da ziwezhañ evit kadarnaat an ISBN 13.
-Ret eo da bep embannadur ul levr bezañ merket gant un ISBN, ne vern war be skor e vez skignet : war baper, dre levreloù (levrioù elektronek), dre levr klevet, dre Restr stlennegel hag_all.
-Arabat eo droukkemer an ISBN evit an ISSN (International Standard Serial Number, "niverenn steudad reolatet etrebroadel", na vez roet nemet d'ar mareadegoù : ar c_helaouennoù, ar c_hazetennoù, ha d'an dastumadegoù levrioù.
-A wezhioù avat e vez deroet un ISBN d'ur pennad hepken tennet eus ur gazetenn pe eus ul levr pe eus ur stirad skridoù, gant_ma vo embannet ar pennad se en e unan.
-Ur reizhiad merañ an embann hag ar skignañ an an ISBN, ne c_hall ket talvezout da warez lezennel evit mirout gwirioù un oberenn.
-An embannerien (emembanner, embanner, embregerezh, aozadur hag_all) eo a rank goulenn un ISBN; un mouller, da skouer, ne c_hall ket goulenn unan e lec_h un embanner.
-E Breizh e ranker goulenn digant an Agence francophone pour la numérotation internationale du livre (AFNIL).
-Evit menegiñ un ISBN 10 pe un ISBN 13 goude deskrivadur reoliataet un teul, n'eus nemet arverañ ar patrom {{ISBN|xxx}} ; da skouer, evit Geriadur Ménard (embannadur 2012), skrivañ {{ISBN|978 2 35678 069 0}} a ro (ISBN 978 2 35678 069 0).
-
-**** *art_Joseph_Loth *id_Joseph_Loth *cat_recherche *prof_0 *terme_niverel *equiv_fr_oui *lang_br
-Joseph Loth (1847 er Gemene 1934 e Pariz), a oa kentañ kelenner yezhoù keltiek e Skol veur Roazhon. N'en_deus ket skrivet nemeur e brezhoneg (n'anavezer diwar e zorn nemet raklavar adembannadur Ar en deulin, oberenn Yann Bêr Kalloc_h e 1935). Er skridoù gouiziek e kaver meneg aliezik eus al "Linenn Loth" a verkfe bevenn bellañ emled ar brezhoneg war zu ar reter.
-Botaouer koad e oa e dad e Berne, war harzoù koad Pont Kalleg, hag eus ar Gemene e oa e vamm. Ganet e voe Jozef d'ar 27 a viz_kerzu 1847, er Gemene. Mont a reas da gloerdi bihan Santez Anna Gwened kent mont da Bariz da genderc_hel e studioù. Goude e voe anvet da gelenner e lise Kemper, en_ur skolaj e Pariz, hag e lise Pondi. E 1883 e voe anvet da gelenner war ar c_heltieg e skol veur Roazhon. Gantañ e voe savet an Annales de Bretagne ha renet e voe gantañ betek 1910. Er bloavezh se e voe anvet e Skolaj Bro C_hall, e Pariz. Degemeret e voe da ezel en Académie des inscriptions et belles lettres e 1919, hag e meur_a ensavadur all ivez : Akademiezh Roueel Norvegia, London Philological Society... Anvet e voe da zoktor gant skol veur Glasc_hu, gant hini Kembre...
-En Annales de Bretagne, er Revue Celtique hag e kelaouennoù all c_hoazh, e embannas ur bern pennadoù diwar benn ar brezhoneg hag ar yezhoù keltiek. War lerc_h Henri d'Arbois de Jubainville ez eas e penn ar Revue Celtique ha da_eil renerien e oa Georges Dottin, Émile Ernault ha Joseph Vendryes, kelenner en École pratique des hautes études. Pa varvas Georges Dottin e voe lakaet Marie Louise Sjoestedt en e lec_h. 
-meur_a levr a savas ivez ha meur_a skrid a voe adembannet gantañ, evel da skouer geriadur Pierre de Châlons. 
-Mervel a reas e Pariz d'ar 1añ a viz_ebrel 1934, met beziet e voe er Gemene.
-E 1947 e voe roet e anv da lise Pondi, anvet bremañ lise Joseph Loth.
-L'Émigration Bretonne en Armorique du Ve au VIIe siècle de notre ère. Roazhon, 1883. Adembannet gant Slatkine Reprints, Paris Genève Gex 1980. Da lenn e levraoueg niverel skol veur Roazhon 2
-Vocabulaire vieux breton, 1884. Da lenn e levraoueg niverel skol veur Roazhon 2
-Remarques sur le bas vannetais, 1886
-Le Mabinogi de Kulhwch et Olwen, tiré à part de la Revue de Bretagne et de Vendée, mars / avril / mai 1888, Éd. Prud'homme, Saint Brieuc. Da lenn e levraoueg niverel skol veur Roazhon 2
-Le Dialecte de l'Île aux Moines, 1893.
-Adembannet ha reizhet gant Patrick Le Besco, Ar Skol vrezoneg/Emgleo Breiz, Brest, 1999)
-Contributions à l'étude des romans de la Table ronde avec une carte. Paris, Champion, 1912.
-Chrestomathie bretonne, 1890
-De vocis Aremoricae usque ad sextum post Christum natum saeculum forma atque significatione : Facultati Litterarum Parisiensi thesim proponebat, 1833. Da lenn e levraoueg niverel skol veur Roazhon 2
 
 **** *art_Kartenn_rouedad *id_Kartenn_rouedad *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
 E barzh un urzhiataer e vez ar roadennoù o redek dindan stumm bitoù e vezer o skeudenniñ gant 0 pe 1. Treuzfurmet e vez al liveoù se gant ur gartenn rouedad e arhentoù ("signals") e vo tu treuzdougen anezhe hag o zreuzkas a ziabarzh an urzhiataer. Redek a ra an arhentoù se gant skoroù treuzkas (funioù, rouedad hep fun).
@@ -3210,15 +2181,6 @@ Dre ar c_hetal arveriad, pe etrefas implijer, e c_hell unan_bennak implij un urz
 Dre vras e ra un etrefas daou dra : lakaat a ra an implijer da c_houzout ar_pezh e fell dezhañ gouzout diwar benn an ardivnk, ha reiñ a ra dezhañ tu da gemmañ peadra a c_hell bezañ kemmet.
 En etrefas un urzhiataer e vez kavet peurliesañ boutonioù a c_heller klikañ warno gant ul logodenn ha lec_hioù ma c_heller skrivañ gant ur c_hlavier evit lakaat an urzhiataer da ober un_dra_bennak.
 Da skouer, en etrefas Wikipedia e c_heller klikañ war al liamm « Kemmañ » evit degas kemmoù en_ur pennad.
-
-**** *art_Kilo *id_Kilo *cat_recherche *prof_0 *terme_stlenneg *equiv_fr_oui *lang_br
-Kilo-, aroueziet gant k, eus ar gresianeg χίλιοι chilio "mil", zo ur rakger eus an SI (Système international d'unités) a dalv da lieskementiñ an unanenn m'eo lakaet dirazi dre 103, da_lavaret_eo dre vil (1 000). Da skouer : ur c_hilometr zo mil metr : 1 km = 1 000 m.
-Abaoe 1795 e veze implijet ar rakger kilo- e galleg, eus ar gresianeg ἑκατόν hekatón "kant". E 1960 e voe degemeret gant ar Bureau International des Poids et Mesures (BIPM). 
-Paot eo komz eus hedoù gant ar ger kilometr er yezh pemdez, hogen berraet e vez kilogram e "kilo" hepken peurliesañ.
-Er stlenneg e reer gant kilobitoù (kbit) ha kiloeizhbitoù (kB, eus ar saozneg kilobyte) ; daou ster zo d'an unanennoù se, hervez ma vuzulier dre niveroù en diaz 10 (10n) pe en diaz 2 (2n).
-An SI a laka ar rakger kilo- da dalvezout rik kement_ha lieskementiñ dre 1 000 ; neuze, 1 kbit = 1 000 bit hag 1 kB = 1 000 eizhbit (8 000 bit). Ne c_heller neuze implijout ar rakger kilo- nemet pa gomzer eus pakadoù 1 000 bit pe 1 000 eizhbit, da skouer evit muzuliañ kas ul liamm etre daou ardivink : ul liamm 900 kbit/s a dreuzkas 900 000 bit dre eilenn, unan 900 kB a dreuzkas 7 200 000 bit/s. En diaz 10 e vez ar c_hementadoù se.
-En diaz 2 eo e vuzulier endalc_h ur bladenn galet pe ment ur restr stlennegel. En degouezh se e talvez kilo- kement_ha 1 024 (210) e lec_h 1 000 (103). Neuze : 1 kilobit = 1 000 bit en diaz 10 ha 1 024 bit en diaz 2 ; 1 kiloeizhbit = 8 000 bit en diaz 10 ha 8 192 bit en diaz 2.
-Evit diskoulmañ ar gudenn se ez eo bet kinniget gant an International Electrotechnical Commission (IEC), a gevret gant an SI, erbediñ ur rummad rakgerioù spesadel ouzh ar stlenneg ; kibi- (Ki) eo ar rakger a dalv evit 1 024 : 1 kibibit (Kibi) = 210 bit = 1 0241 bit = 1 024 bit hag 1 kibieizhbit (KiB) = 1 024 eizhbit = 8192 bit.
 
 **** *art_Komenad_kehentin *id_Komenad_kehentin *cat_recherche *prof_0 *terme_stlenneg *equiv_fr_oui *lang_br
 An dafar diazez implijet evit ar c_hehentiñ a zo frammet tro_dro_da drevnadoù a ro al lank da dreuzkas elfennoù daouredel eus ur poent d'un all. Koulskoude e tenn arver an dafar se ouzh ar gouleviñ (pe ar programmiñ) e daoured : un hentenn pounner ha nann hebleustr.
@@ -3300,14 +2262,6 @@ An asteroidoù (9793) Torvalds ha (9885) Linux a zo bet anvet en enor dezhañ: d
 **** *art_Macintosh *id_Macintosh *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
 Ar Macintosh (Mac nemetken abaoe 1998) zo ur familh urzhiataerioù personel ijinet, savet ha gwerzhet gant Apple Inc. abaoe Genver 1984. Ar Macintosh kentañ a oa bet ar c_hentañ urzhiataer evit_an_holl gant un etrefas grafik gant ar skramm hag ul logodenn. Apple en_doa gwerzhet ar Macintosh war ar memes tro hag ar familh urzhiataerioù brudet Apple II e pad dek vloaz a_raok_ma vefe paouezet ar gwerzh e 1993.
 
-**** *art_Mega *id_Mega *cat_recherche *prof_0 *terme_stlenneg *equiv_fr_oui *lang_br
-Mega-, aroueziet dre M, zo ur rakger eus an SI (Système international d'unités) a dalv da lieskementiñ un niver bennak dre 106, da_lavaret_eo dre ur milion. ; da skouer : 1 M€= 1 000 000 a euroioù.
-Abaoe 1873 e veze implijet ar rakger mega-, eus ar gresianeg μέγας mégas "bras". E 1960 e voe degemeret gant ar Bureau International des Poids et Mesures (BIPM). 
-Er stlenneg e reer gant megabitoù (Mbit) ha megaeizhbitoù (MB, eus ar saozneg megabyte) ; daou ster zo d'an unanennoù se, hervez ma vuzulier dre niveroù en diaz 10 (10n) pe en diaz 2 (2n).
-An SI a laka ar rakger mega- da dalvezout rik kement_ha lieskementiñ dre 1 000 000 ; neuze, 1 Mbit = 1 000 000 bit hag 1 MB = 1 000 000 eizhbit (8 000 000 bit). Ne c_heller neuze implijout ar rakger mega- nemet pa gomzer eus pakadoù 1 000 000 bit pe 1 000 000 eizhbit, da skouer evit muzuliañ kas ul liamm etre daou ardivink : ul liamm 5 Mbit/s a dreuzkas 5 000 000 bit dre eilenn, unan 5 MB a dreuzkas 40 000 000 bit/s. En diaz 10 e vez ar c_hementadoù se.
-En diaz 2 eo e vuzulier endalc_h ur bladenn galet pe ment ur restr stlennegel. En degouezh se e talvez mega- kement_ha 1 048 576 (220) e lec_h 1 000 000 (106). Neuze : 1 megabit = 1 000 000 bit en diaz 10 ha 1 048 576 bit en diaz 2 ; 1 kiloeizhbit = 8 000 000 bit en diaz 10 ha 8 388 608 bit en diaz 2.
-Evit diskoulmañ ar gudenn se ez eo bet kinniget gant an International Electrotechnical Commission (IEC), a gevret gant an SI, erbediñ ur rummad rakgerioù spesadel ouzh ar stlenneg ; mibi- (Mi) eo ar rakger a dalv evit 1 048 576 : 1 Mibibit (Mibi) = 220 bit = 1 0242 bit = 1 048 576 bit hag 1 Mibieizhbit (MiB) = 1 048 576 eizhbit = 8 388 608 bit.
-
 **** *art_Memor_bev *id_Memor_bev *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
 Ar memor bev, pe memor vresk zo ur ur memor elektronek gouest da zerc_hel roadennoù tra_ma vez voltet. Graet e vez anezhañ RAM (Random Access Memory). Implijet e vez en urzhiataeroù evit derc_hel roadennoù ar programmoù pa vezont o labourat.
 Daou rummad meur_a vemor vev a zo :
@@ -3381,21 +2335,6 @@ War an arlun "Stael labour", klikit war afell dehoù al logodenn. Diuzit "perzhi
 Ur c_homenad didres eo NetBIOS hag eo ouzhpenn nebeut liper gant loazoù an urzhiataer. Setu perrak eo c_hoazh arveret kenañ (kenderc_hadoù Microsoft, IBM, Novell).
 en_em ziorret o_deus an APIoù (Application Programming Interface) NetBIOS war an urzhiataerioù PC (Personnal Computer) da gevaraezañ un dizalc_hted diouzh komenad al liveoù a is.
 Hegerz eo NetBIOS e genidik bolc_hennet e barzh iriennoù LLC (802.2), pe volc_hennet e barzh IPX pe TCP/IP. E mod se e c_hell an iriennoù NetBIOS bezañ dezouget gant ar c_homenadoù TCP/IP, IPX/SPX ha NetBEUI.
-
-**** *art_Nevezc_her *id_Nevezc_her *cat_recherche *prof_0 *terme_stlenneg *equiv_fr_oui *lang_br
-Un nevezc_her (drevezadenn troet diwar ar galleg néologie, néologisme, savet diwar an henc_hresianeg néos (νέος) « nevez» ha lógos (λόγος) « ger ») zo ur ger pe ur rannfrazenn nevez krouet peurliesañ evit ober dave da veizadoù pe anadennoù nevez, pe c_hoazh evit kemmañ ster termenoù a oa bet anezhe dija evit o lakaat da glotaat gant ar bed a_vremañ. Gallout a reer goût, dre vras, gant piv pe gant peseurt aozadur e oa bet krouet an nevezc_her mañ nevezc_her hag ivez ar mare ma oa bet krouet pe implijet evit_ar_wezh_kentañ.
-meur_a zoare zo da grouiñ nevec_herioù hervez framm morfologel pep yezh resis, met alies e vezont savet dre ouzhpennañ kengerioù (lostgerioù ha rakgerioù) da wrizioù pe bonnoù diazez, pe dre ober gant gerioù kevrennek, da skouer : pellgomz, bevoniezh, pellgehenterezh.
-E brezhoneg e vez amprestet ivez gerioù ha gwrizioù diouzh yezhoù keltiek kar evel ar c_hembraeg dreist holl), da skouer : meziant, kevandir .
-Alies e vez savet meur_a nevec_her disheñvel dre implijout hentennoù termenadurezh disheñvel evit an hevelep meizad, o lakaat alies pep stumm da glotañ gant un ideologiezh resis e keñver an doare d'ober war dro ar yezh skiantel, da skouer : urzhiataerezh, stlenneg, kompoderezh hag informatik ; geografiezh ha douaroniezh ; meziant ha poellad.
-A wechoù avat e vez krouet nevezc_herioù peuzheñvel, met disheñvel o ster resis, da skouer : heñvelrevelezh hag heñvelreizhouriezh ; homofobiezh hag arallrevouriezh ; divreizhadezh ha divrevelezh.
-Stankoc_h e vez kavet seurt nevezc_herioù e yezhoù liammet ouzh sevenadurioù ha kevredigezhioù hag a gemm buan ha buan evel ar saozneg, hag ivez, stankoc_h c_hoazh marteze, e yezhoù evel ar brezhoneg ma vank dezhe kalz_a dermenadurezh teknikel war meur_a dachenn ma veze graet war o zro e galleg peurgetket betek nevezik zo.
-Gallout a ra an nevezc_herioù dont da vezañ gerioù boas mar bezont implijet alies gant ar media ha mar bezont degemeret gant aozadurioù yezh ofisiel pe brudet gant implijer·ion·ezed ar yezh, da skouer ar skolioù_diwan, Ofis ar Brezhoneg pe tiez embann ha kazetennoù evel Bremañ, Al Liamm e Breizh, hag ivez dre_ma vezont implijet war Internet evel e pennadoù ar Wikipedia.
-Alies e teu an nevezc_herioù da vezañ degemeret ken gant implijer·ion·ezed ar yezh o unan ken gant an aozadurioù a ra war dro ar yezh betek_ma vezont implijet gant gerioù boas penn_da_benn hag ankounac_haet e vez alies zoken e oa anezhe gerioù bet ijinet nevezik zo. Gwechoù all avat e vez implijet un nevezc_her resis gant un nebeudig tud e pad ur prantadig berr ha neuze e vez paouezet d'ober gantañ, peurliesañ peogwir e vez implijet en e lec_h gerioù all hag a blij muioc_h d'an implijer·ion·ezed pe d'an aozadurioù yezh.
-Renkañ an nevezc_herioù e tri bloc_had pennañ a c_heller ober, evel henn :
-distabil : gerioù nevez flamm implijet gant nebeut tre a dud ;
-damstabil : gerioù implijet muioc_h mui met hep_ma vijent bet degemeret da vat pe gant an implijer·ion·ezed en o fezh pe gant an aozadurioù yezh;
-stabil: bet degemeret da vat gant an holl, implijet evel gerioù boas ha tonket da_badout a_hed_ar_wezh en dazont.
-Setu an deiziad ma oa bet krouet un nebeud nevezc_herioù e saozneg anavezet mat bremañ : radar e 1941, homophobia (homofobiezh) e 1969, genocide (gouennlazh) e 1943 evit ober dave d'ar Shoah.
 
 **** *art_Pennwal *id_Pennwal *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
 Lodenn bennañ un urzhiataer eo ar bennwal ("mainboard" pe "motherboard" e saozneg). Ar skor o kevaraezañ kennaskañ hollad an elfennoù pennañ an urzhiataer eo ar bennwal. Un amred kevanek bras eo o kaout warni kennaskerioù evit ar c_hartennoù askouezh, ar memor sonn ha bresk, ar c_hewerier, ar c_hennaskerioù evit ar c_hantennoù kalet hag ar c_hantennoù lem laka....
@@ -3479,22 +2418,6 @@ Ar porzh EPP (Ehanced Parallel Port - Porzh A stur Arwellet) a zo bet roet an tu
 Ar porzh ECP (Ehanced Capabilities Port - Porzh a Varr Arwellet) ergrafet gant Hewlett Packard ha Microsoft. An hevelep aroueziadurioù en_deus hag hini EPP oc_h ouzhpennañ an arc_hwel Plug and Play eleze e ro al lank d'an urzhiataer da anavezout an drobarzhell kennasket outañ.
 Kenstaget e vez ar porzhioù a stur ouzh ar bennwal peurliesañ, ar c_hennasker DB25 marc_het ouzh talbenn a dreñv an urzhiataer. Peurliesañ e vez kennasket moullerezioù ouzh porzhioù a_seurt_se daoust dezhze da vezañ gorrek a walc_h ha da vezañ erlerc_hiet muioc_h muiañ ouzh kennaskerioù USB pe Ethernet.
 
-**** *art_Rakgeriou_unanennou_an_SI *id_Rakgeriou_unanennou_an_SI *cat_recherche *prof_0 *terme_stlenneg *equiv_fr_oui *lang_br
-Er Reizhiad unanennoù etrebroadel (Système international d'unités / SI) ez_eus rakgerioù a c_hell bezañ lakaet dirak_an_holl unanennoù evit o lieskementiñ dre c_halloudadoù 10 muiel (10n) pe leiel (10 n).
-setu_amañ listenn ar rakgerioù a vez erbedet gant an SI hervez Burev Etrebroadel ar Pouezioù hag ar Muzulioù
-Hedoù
-0,0135 metr = 13,5 x 10 2 m = 13,5 cm (distaget : kantimetr).
-Gorreadoù
-1 ar (a) = 100 m² ; 3,8 ha (skrivet : hektar) = 3,8 x 100 x 102 m² = 38 000 m².
-Galloudoù
-0,7 x 106 Watt = 700 000 W = 0,7 MW (megawatt).
-Er stlenneg e reer gant bitoù (bit eo an arouez ; 0 pe 1 eo talvoudegezh ur bit) ha eizhbitoù (pakadoù 8 bit, aroueziet dre B evit diforc_hañ diouzh "b", a vez arveret alies evit aroueziañ ar bit) ; daou ster zo d'an unanennoù se, hervez ma vuzulier dre niveroù en diaz 10 (10n) pe en diaz 2 (2n).
-An SI a laka e rakgerioù da dalvezout evit lieskementiñ en diaz 10 hepken ; da skouer, 1 kbit = 103 bit = 1 000 bit hag 1 MB = 106 eizhbit = 1 000 000 eizhbit (8 000 000 bit). Er stlenneg ne vez implijet rakgerioù an SI nemet pa gomzer eus pakadoù 10n bit pe 10n eizhbit, da skouer evit muzuliañ kas ul liamm etre daou ardivink : ul liamm 900 kbit/s a dreuzkas 900 000 bit dre eilenn, unan 900 kB a dreuzkas 7 200 000 bit/s.
-En diaz 2 avat eo e vuzulier endalc_h ur bladenn galet pe ment ur restr stlennegel. En degouezh se e talvez kilo- kement_ha 1 024 (210) e lec_h 1 000 (103). Neuze : 1 kilobit = 1 000 bit en diaz 10 ha 1 024 bit en diaz 2 ; 1 kiloeizhbit = 8 000 bit en diaz 10 ha 8 192 bit en diaz 2.
-Evit diskoulmañ ar gudenn se ez eo bet kinniget gant an International Electrotechnical Commission (IEC), a gevret gant an SI, erbediñ ur rummad rakgerioù spesadel ouzh ar stlenneg ; kibi- (Ki) eo ar rakger a dalv evit 1 024 : 1 kibibit (Kibi) = 210 bit = 1 0241 bit = 1 024 bit hag 1 kibieizhbit (KiB) = 1 024 eizhbit = 8 192 bit. 
-Merkit n'eus ket a rakgerioù leiel (deci ↘ quecto) er stlenneg, peogwir n'eus kementad ebet bihanoc_h eget 1 bit. Ar rakgerioù muiel a implijer adalek kilo d'an izelañ.
-daoust_da erbedadennoù an IEC hag an SI e kendalc_her da vuzuliañ endalc_had ar memorioù dre rakgerioù en diaz 10 : pladennoù kalet 1 TB (terabyte) a vez e kinniget er c_henwerzh, padal e rankfed o envel 1 GiB (gibibyte).
-
 **** *art_Rootkit *id_Rootkit *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
 Ur rootkit, berraet a wechoù e kit a vez graet eus un hollad teknikoù implijet gant ur programm pe meur_a hini evit dont a benn da gaout un hent padus etrezek un urzhiatar. Dre vras ez eo un hent kuzh hag hep aotre.
 Ar pal n'eo ket dre ret distrujañ ar programmoù pe an urzhiataer met gellet tennañ gounid eus an hent kuzh evit furchal, laerezh titouroù.
@@ -3549,18 +2472,6 @@ ouzhpenn 30 000 arvester en_holl,
 Ar Fraost Niverel, ul lec_h gant meur_a ziskiblezh (staliadurioù arz niverel, abadennoù, stalioù_labour…), frank e vont e barzh e pad ar pemp deizh, en_deus degemeret ouzhpenn 8 000 gweladenner ha 500 skoliad,
 An nozioù elektro a oa leun gant 5600 den
 
-**** *art_Sinema *id_Sinema *cat_recherche *prof_0 *terme_niverel *equiv_fr_oui *lang_br
-Ar sinema a zo un arz eus ar_re garetañ, ur greanterezh eus ar_re c_halloudusañ hag unan eus diduamantoù prizietañ ar bed. Dre ar skeudennoù, ar son, an istorioù, an aergelc_h krouet gant ar filmoù, e c_hall ar sinema reiñ soñjoù ha fromoù a_bep_seurt d'an arvesterien.
- Evit gouzout muoioc_h, kit da_welet ar pennad Istor ar Sinema.
-Ijinet e fin an XIXvet kantved, ar sinematograf a denn d'ar gweled, met gant ar son ouzhpennet d'ar skeudennoù fiñvus e kreiz ar bloavezhioù 1920 eo deuet da vezañ un arz ar c_hleweled.
-Produiñ ha dasparzhañ ur film a goust arc_hant. Abalamour d'ar c_houstoù ha d'ar riskloù n'eus nemet daou zoare d'ober filmoù : o c_hounit arc_hant o korvoiñ ar film (gwerzhañ plasoù er salioù sinema, gwirioù d'ar skinweloù, stummoù nevez da sellout ouzh ar film gant ardivinkoù niverel) - da skouer sinema Hollywood, ar sinema indian, ar sinema korean, pe o vezañ skoaziadennet gant arc_hant publik - da skouer ar sinema gall.
-Tri frantad a zo evit krouiñ ur film : ar produerezh, an dasparzerezh, ar c_horvoiñ.
-Sevennet e vez ar film gant ur filmaozer. Evit hen ober e ren ar skipailh teknikel. An aktourien eo ar_re a vez filmet, ha ret eo dezho personekaat tudennoù ar senario. Er sinema e komzer eus aktourien kentoc_h eget komedianed hag a denn d'ar c_hoariva ha da arz an arvestoù dre vras.
-Lesanvet eo ar sinema "ar seizhvet arz" met anv zo eus ul lodenn eus ar filmoù rak an holl anezho n'int ket savet gant un degerzh arzel atav. Ur film a c_hall diduiñ, kelenn, sklêrijennañ ar speredoù, awenañ an arvesterien, met ivez touellañ an dud a wechoù. 
-Reiñ a ra un teulfilm tirouroù diwar benn un tem bennak. N'eo ket ar sinema un arz amañ, met un benveg evit kelaouiñ an dud war forzh peseurt sujed a c_hall bezañ.
-Filmet e vez ur film gant ur c_hamera hag a enroll kalz skeudennoù buan kenañ. Gallout a reer ouzhpennañ efedoù arbennik ha teknikoù niverel.
-Gant teknik ar frammañ e vez lakaet asambles lodennoù eus ar film evit krouiñ ur rann nevez eus ar film.
-
 **** *art_Sistem_Titourin_war_an_Armou *id_Sistem_Titourin_war_an_Armou *cat_recherche *prof_0 *terme_niverel *equiv_fr_oui *lang_br
 Ar Sistem Titouriñ war an Armoù (e galleg, en_ur mod ofisiel : SIA, Système d'information sur les armes) zo ur benveg niverel bet lakaet e plas e Bro C_hall gant an SCAE (Service central des armes et explosifs, "Servij kreiz an armoù hag an danvezioù tarzh"), dindan beli Ministrerezh an Diabarzh, adalek 2020.
 E bal eo renabliñ armoù ar rummadoù A1, B ha C e Bro C_hall hag o ferc_henned. Gellet a ra bezañ implijet gant :
@@ -3570,63 +2481,10 @@ aozadurioù Stad : servijoù surentez (polis, archeriezh), prefetioù, servijoù
 Lakaet eo bet e plas adalek 2020 tamm_ha_tamm evit kemer plas fichennaouegoù all evel AGRIPPA. Un diaz roadennoù, ennañ renablet an doareoù armoù hag o ferzhioù teknikel, hag ul levr polis niverel (Livre de police numérique) hag a gemer plas marilh paper an armeurerien, zo stag ouzh an SIA.
 e_miz_meurzh 2026 ez_eus bet laeret en SIA ur roll 62 511 arm_tan, gant anvioù ha chomlec_hioù o ferc_henned, goude_ma oa deuet torfedourien a benn da vont tre er sistem en_ur breizhañ ur gont implijet gant un armerezh. Ministrerezh an Diabarzh en_deus kemennet e vije ret d'ar stalioù implijout un dilesadur doubl evit mont tre en diaz diwar_neuze.
 
-**** *art_Skiantou_an_Ditour_hag_al_Levraouegou *id_Skiantou_an_Ditour_hag_al_Levraouegou *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
-Graet e vez gant Skiantoù an Ditour hag al Levraouegoù (SDL) eus an holl anaoudegezhioù hag ar chemoù hag e tle bezañ meret gant an dud karget gant ul levraoueg pe gant un greizenn ditouriñ.
-Savet eo bet al lavarenn diwar a saozneg "Library and Information Science" (LIS).
-meur_a dalvegezhioù a zo dindan al talbenn peogwir un dachenn e kenver. Kaoz ez_eus merañ an ditour ha n'eo ket heñvel ouzh an hentennoù a zo perzh meur_a Skiantoù an Den.Bez'ez_eus temoù teorikel (pe damkanel) koulz_hag temoù diwar benn an ensavadurioù hag ar pleustriñ war treuzkas an Ditour.Dre vras e vez kavet e Skiantoù an Ditour hag al Levraouegoù an tachennoù mañ.
-levrouegouriezh (merañ al levraouegoù)
-levrrollouriezh (enklask teuliaouiñ
-katalogañ (deskrivadur an dastumadoù)
-levroniezh (anaoudegezh war al levr, an embannerezh hag pep seurt a deulioù)
-teuliaouiñ (pe d/teuliouriezh)
-Koulskoude ez_eus diforc_hioù etre an dud_a_vicher diwar benn endalc_h hag harzhoù an dachenn skiantel mañ.
-Al lavarenn "Skiant an Ditour" a zo bet krouet er bloavezhioù 1960 er Stadoù Unanet hag er bloavezhioù 1970 e Bro C_hall.
-Studiañ perzhioù hollek an ditour (natur, krouiñ, efedoù) eo danvez pennañ skiantoù an ditour hag a zo renket bremañ e skiantoù ar gevredigezh hag evelto e klaskont tennañ frouezh eus kelennoù evel ar prederouriezh, ar psikologiezh, ar politikerezh, , an armezh, ar yezhoniezh, ar sokiologiezh, ar matematik, an urzhiataerezh,, ar gwir hag_all. Evel ar skiantoù sokial, o fal a zo kompren ar fedoù sokial ha sevenadurel ha lakaat war wel ezhommoù darempred a ya gant ar vuhez gevredigezhel. <br<
-Stummoù an ditour a vez lieseurt (testenn, skeudenn, son) ha a vez kavet war paronoù liesseurt ivez (mouladurioù, filmoù, pladennoù, fichennaouegoù niverel). En ditouroù e vez kavet prosessusoù a denn d'ar gomz koulz_ha d'ar c_hleweled.
-N'eo ket degemeret gant an holl lakaat asambles an Ditour hag al Levraouegoù p'eo ivez ar C_hemmennadur hag an Teuliaouerezh nes dezho.
-Er broioù diavaez eus ar Frañs ne vezont ket nag un neudennerez skolveuriek o vodañ an Ditour hag ar C_hemennadur nag un troc_h etre an Teulierezh hag al Levraouegouriezh.
-Pa vez ar C_hreizennoù ditouriñ ur seurt levraoueg arbennig, n'eus ket un estonn o weled ez_eus ur library and information science er Rouantelezh Unanet hag er Stadoù Unanet.
-Dre vras, ar vitologiezh a ya gant ar meizad "Levraoueg" (Bibliothèque) en_deus pouezet ken kreñv n'eo ket gwelet an ensavadurioù se evel modern ha gouest evit skignañ an Ditour (ha_koulskoude e vezont modernoc_h modernañ).
-setu_perak, an deuliaouerien o_deus klasket sevel ur c_helenn dezho hag e vez kavet an Institut national des techniques de la documentation koulz_hag an École nationale supérieure des sciences de l'information et des bibliothèques. An hini kentañ a stumm meur_a deuliaouer er gennad prevez hag an eil un tregontad a gargidi hag un nebeud estranjourien.
-
 **** *art_Skingomz_war_ar_Genrouedad *id_Skingomz_war_ar_Genrouedad *cat_recherche *prof_0 *terme_genrouedad *equiv_fr_oui *lang_br
 Evel m'eo posupl kas programmoù ar skingomzoù war ar pellgomz e c_heller ober memestra war ar genrouedad dre ar protokol UDP. meur_a skingomzoù a vez kaset dre wagennoù koulz_ha dre an Internet. Pa vezont kaset nemet dre ar genrouedad e vez anv eus Webradios e saozneg. Kinnig a reont programmoù liesdoare ha dreistordinal a wechoù.
 Perzhded ar son a zo hervez ar red, perzhded ar c_henstagadur pe c_hoazh perzhded an teuliad a orin.
 Gallout a reer selaou dre ur merdeer pe ur meziant evel VLC.
-
-**** *art_Skinwel *id_Skinwel *cat_recherche *prof_0 *terme_niverel *equiv_fr_oui *lang_br
-Ar skinwel a zo un teknik dezhañ e bal treuzkas, dre orjal pe dre wagennoù skindredanel, skeudennoù fiñv pe arvestoù bev, a gevret gant ur son peurvuiañ, da vezañ gwelet war_ar_prim war ur skramm, keñver un ardivink resever a reer skinweler anezhañ.
-skin + gwel evit treuzskrivañ ar galleg radio(télé)vision. Kavet e vez ivez an televizion hag ar bellwelerez. Gerioù nes : skignerezh, skingaser, skingasadenn, skingomz, skinpeul.
-Ret e voe kavout un tu da dreuskas, dre ur red tredan pe dre ur skin, elfennoù ur skeudenn lerc_h ouzh lerc_h goude bezañ o dezrannet poent ha poent, linenn ha linenn.
-En deroù e voe embreget ur wikefre a benn ergerzhet un teskad marellek a gelloù fototredanek, met kavet e voe un doare efedusoc_h en_ur skannañ anezho gant ur feskennig elektronioù.
-Ar marelladur a zo bet deskrivet gant George R. Carey (Amerikan) e 1877.
-Ar skannañ a zo bet deskrivet gant Constantin Senlecq (Gall) e 1879 en_ur "télectroscope" gant ur holldreser (pantograf) a dreñv d' ur skramm treuzwelus. .
-1884, un ijinour alaman a zisklaer un breou e lec_h m'eo deskrivet un teleskop tredan (elektrische Teleskop) ennañ ur pladenn toullet hervez tres un droellenn o treiñ evit elfennañ pep a linenn war ur skeudenn deuet eus un werenn pal.
-1905 Lee de Forest, ur stadunanat, a grou ar gorzenn elektronek
-1907 Boris Rosing, ur Rusian, a ziskouez eo posupl implijout un gorzenn gatodik (krouet araozañ) evit elfennañ ar skeudennoù dre ar gwagennoù elektromagnetek
-1908 Ar Saoz Campbell a ginnig ma vo implijet ur gorzenn gatodik aozet evel ur skramm evit an elfennañ koulz_hag an eilañ
-1923 Ar Rusian Wladimir Kosma Zworykin a zeskriv ur skinweler hollelektronek a c_hellfe produiñ skeudennoù fiñvus, met ne vo ket krouet a raok ur pemzek bloavezh bennak
-1928 John Logie Baird, ur Saoz, a labour war ur skinwel e liv
-1929 Skingasadennoù kentañ ha skignet ingal e Bro Saoz
-1930 Skingasadennoù kentañ e Bro Alamagn (skramm 30 linenn)
-1934 E Bro C_hall ez_eus etre 400 ha 500 skinweler evit an arnodoù. Anvet eo an doare_ober se ar radiovision
-1935 Skingasadenn gentañ diwar skingaser an Tour Eiffel e Pariz
-1938 Skeudennoù e 445 linenn kaset diwar an Tour Eiffel e Pariz
-1944 Kentañ skingasadennoù e liv e Bro C_hall
-1948 Skeudennoù e 819 linenn e Pariz evit kantadoù a skinwelerioù arnod
-1951 E New York ez_eus bet diskouezet ur skinwel e liv
-1954 An embregerezh RCA a grog gant produiñ ur skinweler e liv (skramm : 30 cm)
-1956 Kentañ ardivinkoù enrollañ ar video
-1962 Kaset eo bet d'an neñv al loarell Telstar evit ar skingasadennoù treuzatlantel
-1967 Skingasadennoù kentañ e liv e Bro C_hall hervez an doare_ober SECAM
-1976 Skeudenrollerioù kentañ a zo bet fardet (enrollañ war gasedoù)
-1977 Arnodoù kentañ an doare_ober Antiope evit ar teletext
-1978 Skeudenrollerien gwerzhet e Bro C_hall
-1980 Ar reolad MAC (reolad) ijinet ganr ar Saozon evit ar skinwel niverel dre loarelloù
-1989 Degemeret eo ar ment 16/9 evit ar skrammoù
-1993 Kentañ boked skinwel er Stadoù Unanet
-1996 Kentañ boked skinwel e Bro C_hall
-2005 Skinwel niverel douarel e Bro C_hall
 
 **** *art_Skinwel_niverel_douarel *id_Skinwel_niverel_douarel *cat_recherche *prof_0 *terme_niverel *equiv_fr_oui *lang_br
 Ur reizhiad skignañ niverel eo ar skinwel niverek douarel (berraet e SND), implijout a ra ar reoladoù DVB T, ISDB hag ATSC ha skignet e vez war bandennoù miret evit ar skinwel VHF III / UHF V implijet dija evit skignañ ar chadennoù hertzel peusheñvel.
@@ -3649,114 +2507,7 @@ lavar Dielfennadur rekedoù gant ur yezh wir: e pad ur prantad ez_eus bet sellet
 Naouegezh alvezel
 Yezhoniezh kognitivel
 
-**** *art_TV_Breizh *id_TV_Breizh *cat_recherche *prof_0 *terme_niverel *equiv_fr_oui *lang_br
-TV Breizh, bet krouet d'ar c_hentañ a viz_gwengolo 2000, a zo ur chadenn skinwel war loarell, ar «chadenn rannvroel prevez kentañ» (e Bro C_hall). En Oriant e oa he sez da_gentañ. Bremañ emañ e Boulogne Billancourt dre m'eo perc_hennet gant ar strollad TF1. N'eus tamm abadenn brezhonek ebet ken abaoe 2009. 
-Ar chadenn a oa bet krouet d'ar c_hentañ a viz_gwengolo 2000 diwar intrudu PDG ar chadenn TF1, Patrick Le Lay, evit reiñ ur skeudenn vroadel d'e rannvro orin, Breizh. Ar raktres a voe heuliet gant tud vrudet Breizhiz a galon, e giz Charles Biétry pe Patrick Poivre d'Arvor.
-Reiñ a reas lañs ar chadenn d'un industriezh eilmouezhiañ tresadennoù bev ha filmoù e brezhoneg gant skoazell Kuzul Rannvro Breizh.
-Adalek 2003 e voe fiziet al labour se er gevredigezh Dizale a gendalc_has gant an hent se hep skoazell TV Breizh da_c_houde. 341 eurvezh tresadennoù bev ha 60 eurvezh filmoù ha seriennoù a voe advouezhiet e Brezhoneg etre 2000 ha 2008 diwar_c_houlenn TV Breizh. Filmoù brudet ha liesseurt en o zouez evel Shakespeare in Love, The Untouchables, Apollo 13, Beethoven hag_all.
-Adalek 2002 e krogas ar chadenn da skignañ bep_noz keleier diwar benn Breizh Istorel. Ar media nemetañ o c_holoiñ Breizh en he fezh e oa. E 2004 e voe ehanet gant an abadennoù keleier se evit kinnig en o flas keleier berroc_h gant skeudennoù hepken ha nebeutoc_h_a livioù breizhek dezho.
-E pad an hañv 2003 e voe anv da serriñ ar chadenn pa ne wele ket ar gevrannerien penaos e vije tu paouez d'ober koll. a_benn_ar_fin e prenas TF1 ar muiañniver eus ar c_hevrannoù ha divizout a reas eilpennañ politikerezh ar programmoù ha skarzhañ Rozenn Milin, ar renerez. D'an 8 a viz_gwengolo 2003 e tisplegas pennoù TF1 ha pennoù nevez TV Breizh e vije digresket an amzer gouestlet d'ar programmoù rannvroel dre_ma veze kollet arc_hant ganto. Cheñchet e voe ar gael abadennoù evit dont da vezañ nebeutoc_h breton ha hollekoc_h, a benn gounit sellerien ha dont da vezañ ampletus. E pad ar bloavezh 2004 2005 e voe anv da unvaniñ TV Breizh ha TV Match dindan ar memes chadenn. Serret e voe an eil d'an 31 a viz_eost 2005 hep na yafe ar raktres betek penn.
-Pennoù TV Breizh a glaskas en_em gannañ e_pad_pell ouzh ar "Conseil supérieur de l'audiovisuel" (CSA) evit tapout ur frekañs hertzian analogel lec_hel e Breizh. Atav o_doa nac_het izili CSA kement mañ. Padal en_deus CSA roet unan evit ur raktres skinwel lec_hel e Naoned, hini ar Socpresse evit Nantes 7. Eus an evelep doare en_doa klasket tud TV Breizh kaout ur frekañs war an SND (Skinwel Niverek Douarel pe TNT) e 2004, ur wech ouzhpenn e voe nac_het gant CSA. Ar bec_h a oa lakaet gant Patrick le Lay war ar CSA d'ar poent se evit daleañ donidigezh ar skinwel niverel douarel a zo bet unan eus an abegoù e voe nac_het ar frekañsoù goulennet.
-e_miz_even 2008 e oa chomet a sav ar chadenn da skignañ abadennoù e Brezhoneg. Al liamm nemeto a chome etre Breizh hag ar chadenn a oa al lec_h ma chom diazezet e savadur an Oriant, hag anv ar chadenn a voe dalc_het dre_ma oa hiviziken hini ur raktres ekonomikel a rae berzh, hag en arvar e vije bet lakaet ma vije bet cheñchet anv.
-Prezidant : Laurent Solly
-Renerien hollek : Rozenn Milin (2000 2004) ha Gaël Desgrées du Lou (2004 2009)
-e_karg_eus ar prenidigezhioù hag eus ar programoù : Armand Dubruel
-Adalek An Oriant, en diazezlec_h arme evit al listri spluj kozh, e veze skignet c_hwec_h chadenn eus strollad TF1. Abadennoù TV Breizh (Tro War Dro) a veze graet en Oriant. E Boulogne Billancourt emañ ar sez abaoe 2013.
-er_penn_kentañ e veze ul lodenn vras a brogrammoù rannvroel war TV Breizh (keleier, abadennoù e brezhoneg) hag o_doa skignet kalz_a ouelioù keltiek, e giz Gouelioù etrekeltiek an Oriant pe an Nozvezhioù Keltiek er « Stade de France » gant tud e giz Ronan Manuel, Irène Frain pe Yvon Etienne o tisplegañ anezho. Da heul adaozadur ar chadenn e 2003 e teuas da vezañ hollekoc_h ar programmoù hag e voe skignet muioc_h_a brogrammoù amerikan bet prenet o gwirioù gant TF1 e giz Columbo pe Arabesque, pe filmoù hag abadennoù faltazi. Deuet eo tamm_ha_tamm da vezañ ur chadenn hollek broadel war ar c_habl hag al loarell o tilezel ar programmoù breizhek. Bep Sul noz e vez adskignet abadennoù kozh strollad Les Enfoirés. Ne vez ket_mui enrollet abadennoù nevez, met skingaset e vez atav ar programmoù asambles gant chadennoù skinwel all ar strollad TF1.
-Hollad kenlodennoù ar chadenn TV Breizh a zo gant strollad TF1 abaoe ar bloavezh 2007.
-Mediaset, strollad Silvio Berlusconi, en_deus gwerzhet e lodenn (14% eus an arc_hant sol) eus TV Breizh d'ar produour gall ha tunizian Tarak Ben Ammar. Hervez titouroù eus ar bankoù e vefe bet an eskemm gant un dalvoudegezh a 5 milion_a euroioù.
-Ar genlodeien a orin a oa (da vare krouadur ar chadenn)a oa Artemis (holding François Pinault, 27%), TF1 (22%), Crédit Agricole de Bretagne (15%), Rupert Murdoch (13%), Silvio Berlusconi (13%), Jean Claude Darmon (bruderezh sport, 6%), Panavi (René Ruello, 4%).
-Analogel : Ket
-Niverel : Ket
-CanalSat : Chadenn niv. 26
-TPS : Chadenn niv. 25
-Numericable : Chadenn niv. 45
-Noos : Chadenn niv. 22
-MC Cable : Chadenn niv. 174
-VOO (e niverel)
-ADSL Belgacom TV, en dibab select.
-
-**** *art_Tera_rakger *id_Tera_rakger *cat_recherche *prof_0 *terme_stlenneg *equiv_fr_oui *lang_br
-Tera-, aroueziet dre T, zo ur rakger eus an SI (Système international d'unités) a dalv da lieskementiñ un niver bennak dre 1012 (1 000 000 000 000), da_lavaret_eo 1 000 milmilion.
-Eus ar gresianeg τέρας teras "eurzhvil" e teu an anv. E 1960 e voe degemeret gant ar Bureau International des Poids et Mesures (BIPM). 
-Er stlenneg e reer gant terabitoù (Tbit) ha teraeizhbitoù (TB, eus ar saozneg terabyte) ; daou ster zo d'an unanennoù se, hervez ma vuzulier dre niveroù en diaz 10 (10n) pe en diaz 2 (2n).
-An SI a laka ar rakger tera- da dalvezout rik kement_ha lieskementiñ dre 1 000 milmilion ; neuze, 1 Tbit = 1 000 milmilion a vitoù hag 1 TB = 1000 milmilion a eizhbitoù (8 000 milmilion a vitoù). Ne c_heller neuze implijout ar rakger giga- nemet pa gomzer eus pakadoù 1000 milmilion a vitoù pe 8 000 milion_a eizhbitoù, da skouer evit muzuliañ kas ul liamm etre daou ardivink : ul liamm 1 Tbit/s a dreuzkas 1 000 000 000 000 bit dre eilenn, unan 5 GB a dreuzkas 40 000 000 000 000 bit/s. En diaz 10 e vez ar c_hementadoù se.
-En diaz 2 eo e vuzulier endalc_h ur bladenn galet pe ment ur restr stlennegel. En degouezh se e talvez giga- kement_ha 1 099 511 627 776 (240) e lec_h 1 000 000 000 000 (109). Neuze : 1 gigabit = 1 000 000 000 000 bit en diaz 10 ha 1 099 511 627 776 bit en diaz 2 ; 1 gigaeizhbit = 8 000 000 000 000 bit en diaz 10 ha 8 796 093 022 208 bit en diaz 2.
-Evit diskoulmañ ar gudenn se ez eo bet kinniget gant an International Electrotechnical Commission (IEC), a gevret gant an SI, erbediñ ur rummad rakgerioù spesadel ouzh ar stlenneg ; Tibi- (Ti) eo ar rakger a dalv evit tera- er stlenneg ; eus tibibitoù (Tibit) ha tibieizhbitoù (TiB) e komzor neuze.
-
 **** *art_Thermaltake *id_Thermaltake *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
 Thermaltake Technology Co., Ltd (sinaeg: 曜越科技; pinyin: Yàoyuè Kējì) zo un embregerezh sevel dafar urzhiataer (pourvezadurioù tredan, avelerezioù ha boestoù urzhiataer) eus Taiwan. Lec_h pennañ an embregerezh a zo lec_hiet e Taipei, e Taiwan. meur_a uzin eus ar merk a zo e Sina Kevandirel, dreist holl unan e Dongguan.
 Thermaltake a oa bet savet e Taiwan e 1999. Al lec_h penn stadunanat a oa bet savet er memes koulz e su Kalifornia.
-
-**** *art_XXvet_kantved *id_XXvet_kantved *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
-Kregiñ a ra an XXvet kantved d'ar 1añ Genver 1901 hag echuiñ a ra d'an 31 Kerzu 2000.
-Dispac_h Rusia
-Brezelioù :
-Brezel ar Boers
-brezel_bed kentañ : (1914 1918)
-Brezel Spagn (1936 1939), aloubidigezh Mandchouria (1931)
-Eil brezel_bed : (1939 1945)
-Brezel Aljeria : (1954 1962)
-Brezelioù Indezsina, Korea, etre India ha Pakistan, Vietnam, Biafra, e Mozambik, en Angola, e Republik Demokratel Kongo, el Liberia, brezel Kippour
-Brezel Iran Iraq : (1979 1988)
-Brezel Vietnam : (1961 1975)
-Brezel yen, brezelioù Bosnia, Kosovo, Koweit, ha brezel Iañ ar Pleg mor
-Didrevadenniñ
-Ar c_hresk armerzhel
-Dizoloidigezh an egor
-Loarell galvezadel gentañ
-den_kentañ en egor
-den_kentañ war al loar
-Roald Amundsen, Youri Gagarin, Neil Armstrong
-Albert Einstein, Kurt Gödel, Hannah Arendt, John von Neumann, Niels Bohr, David Hilbert
-Gandhi, Nasir, Yann Baol II
-Winston Churchill, Richard Nixon, Franklin Delano Roosevelt, Mikhail Gorbatchev, Gro Harlem Brundtland
-Lenin, Adolf Hitler, Pol Pot, Jozef Stalin, Mao Zedong, Che Guevara
-John Maynard Keynes, Henry Ford, Milton Friedman
-Pablo Picasso, Franz Kafka, James Joyce, William Faulkner, Marcel Proust, Charlie Chaplin, Federico Fellini, Walt Disney, Samuel Beckett, Agatha Christie, Igor Stravinsky
-Elvis Presley, Beatles, Rolling Stones, James Brown, Madonna, Michael Jackson, Pink Floyd, Jimi Hendrix, Bob Marley
-Roll ijinadennoù an XXvet kantved
-Ar c_hirri
-An nijerezh
-Ar vombezenn atomek
-Ar sinema
-An urzhiataer
-An tranzistor
-Al laser
-An TDN
-Tektonik ar plakennoù
-Bevennoù ar meiz : c ha bevenn tizh emled ar stlenn, pennaenn an diasurded, diglokted ar reizhiadoù poell, kaos, problemoù an divizouradusted hag ar jedusted.
-D'an 10 a viz_c_hwevrer 1996 e kollas Garri Kasparov ur c_hrogad echedoù enep an urzhiataer stadunanat Deep Blue bet savet gant IBM. Ar wech kentañ en Istor ma voe trec_h un ardivink war ur Mestr etrebroadel.
-Age of Extremes gant Eric Hobsbawm
-
-**** *art_Yezhoniezh *id_Yezhoniezh *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
-Ar yezhoniezh eo studi ar yezhoù en un doare ledan.
-Deskrivañ ha dielfennañ mont_en_dro ar yezhoù eo kefridi ar yezhoniezh, da_lavarout_eo deskrivañ ar yezhoù, en un doare objektivel, dres ma vezont implijet gant an dud, hep klask barnañ pe 'mat' pe 'fall' eo an implijoù anezhe a vez graet er yezhoniezh a_vremañ.
-Ar yezhoniezh gourc_hemenn diouzh he zu a fell dezhi lakaat reolennoù implij mat ar yezh daoust d'an doareoù ma vez implijet ger pe c_her gant an dud.
-Bez' e c_heller isrannañ ar yezhoniezh evel hen:
-yezhoniezh sinkronel pe yezhoniezh ziakronel
-gant ar yezhoniezh sinkronel e vez studiet ur yezh evel m'emañ d'ur mare resis ha gant ar yezhoniezh ziakronel e vez studiet an doar ma kemm ur yezh pe ur strollad yezhoù a_hed_an_amzer. hiziv_an_deiz e tenn an darn_vrasañ eus ar studioù yezhoniel d'ar yezhoniezh sinkronel, peurliesañ o plediñ gant stad ur yezh hag he mont_en_dro en amzer a_vremañ.
-yezhoniezh teorikel ha yezhoniezh pleustrek
-ar yezhoniezh teorikel a bled gant an doare da zeskrivañ mont_en_dro ar yezh mañ'r yezh pe c_hoazh an doare da frammañ damkanoù donoc_h a benn displegañ darvoudoù hollek e yezhoù mab den. Ar yezhoniezh pleustrek, avat, a denn d'an doareoù ma c_heller lakaat ar ouiziegezh teorikel se e pleustr, d.s. dre grouiñ binviji yezh. hiziv_an_deiz e tenn meur_a dachenn bleustrek dreist holl d'implij an urzhiataerezh, da skouer an treiñ dre urzhiataer. D'o zro e tegasas ganti ar skiant bet prenet war seurt tachennoù pleustrek doareoù nevez da gompren ar gevreadurezh pe ar semantik gant un diazez matematikel resisoc_h.
-yezhoniezh kenarroudel ha yezhoniezh zizalc_h
-Ar yezhoniezh kenarroudel a bled gant an doareoù ma vez implijet er bed: he ferzh er gevredigezh (yezhoniezh kevredel pe 'sokialyezhoniezh') ; penaos e vez desket ar yezhoù er_penn_kentañ, h.a. Ar yezhoniezh zizalc_h, diouzh he zu, a denn d'ar studi ar yezhoù eviti o unan hep derc_hel kont eus faktorioù all.
-Peurliesañ e vez isrannet ar yezhoniezh teorikel e meur_a dachenn_studi resis pe resisoc_h :
-fonetik
-studi ar sonioù a vezont implijet e yezhoù ar bed ;
-fonologiezh
-studi mont_en_dro sonioù ur yezh ;
-morfologiezh
-studi an doare da sevel gerioù, da skouer implij ar rakgerioù, al lost gerioù hag ar gerioù kevrennek ;
-kevreadurezh
-('sintaks') studi ar frazennadur, d.e. an doare da sevel frazennoù reizh ;
-semantik
-studi ster ar gerioù (semantik gerva) hag an_doare_ma vez savet ster ar frazennoù diwar ar gerioù a implijer ;
-pramatik
-studi implij pleustrek ar yezh gant an dud en o darempredoù
-yezhoniezh istorel
-studi al liammoù etre ar yezhoù dre zielfennañ ar c_hemmoù yezhoniel a_hed_an_amzer ;
-yezhoniezh tipologel
-studi ar familhoù yezh hervez ar perzhioù boutin kenetreze ;
-stiloniezh
-studi stiloù implij ar yezhoù
 

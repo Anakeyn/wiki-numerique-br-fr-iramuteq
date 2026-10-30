@@ -4,25 +4,25 @@
 
 | langue   |   articles |    mots |   mediane |   moyenne |
 |:---------|-----------:|--------:|----------:|----------:|
-| br       |        156 |  108536 |       438 |       696 |
+| br       |        123 |   78238 |       414 |       636 |
 | fr       |       1159 | 2342607 |      1164 |      2021 |
 
 ## Équivalents dans l'autre langue
 
 | langue   |   non |   oui |   total |   % avec équivalent |
 |:---------|------:|------:|--------:|--------------------:|
-| br       |    18 |   138 |     156 |                88.5 |
+| br       |    14 |   109 |     123 |                88.6 |
 | fr       |  1057 |   102 |    1159 |                 8.8 |
-| total    |  1075 |   240 |    1315 |                18.3 |
+| total    |  1071 |   211 |    1282 |                16.5 |
 
 ## Articles par terme de recherche
 
 | langue   | terme          |   articles |
 |:---------|:---------------|-----------:|
-| br       | urzhiataer     |         77 |
-| br       | stlenneg       |         38 |
-| br       | niverel        |         29 |
-| br       | genrouedad     |         11 |
+| br       | urzhiataer     |         66 |
+| br       | stlenneg       |         28 |
+| br       | niverel        |         18 |
+| br       | genrouedad     |         10 |
 | br       | kenrouedad     |          1 |
 | fr       | numerique      |        334 |
 | fr       | ordinateur     |        308 |
@@ -34,30 +34,32 @@
 
 |               |   count |   median |   mean |
 |:--------------|--------:|---------:|-------:|
-| ('br', 'non') |      18 |      378 |    514 |
-| ('br', 'oui') |     138 |      458 |    719 |
+| ('br', 'non') |      14 |      350 |    429 |
+| ('br', 'oui') |     109 |      422 |    663 |
 | ('fr', 'non') |    1057 |      997 |   1752 |
 | ('fr', 'oui') |     102 |     3938 |   4814 |
 
 ## Paires fr/br
 
-- 137 paires
-- rapport médian br/fr : 0.22
+- 109 paires : 72230 mots en breton, 444238 en français
+- rapport médian br/fr : 0.20
+- paires où l'article breton est plus long : 10
+- versions françaises présentes dans le corpus français : 50 sur 109
+
+## Versions françaises des paires absentes du corpus français
+
+.bzh ; Agence Bretagne Presse ; American National Standards Institute ; An Drouizig ; Appareil photographique compact ; Arène de bataille en ligne multijoueur ; Battlefield (série de jeux vidéo) ; Battlefield 3 ; Battlestar Galactica (mini-série) ; Bitcoin ; Brezhoweb ; Carte réseau ; CompactFlash ; Compilateur ; Cooler Master ; Countryball ; Courrier électronique ; Dominique Boullier ; Elon Musk ; Eroge ; Fable III ; Facebook ; Festival Scopitone ; Geek ; Go (langage) ; Google Play ; Graphiste ; Humble Bundle ; Imprimante ; Index terminologique ; Inkscape ; Interface utilisateur ; Jeu à la demande ; La Chanson du dimanche ; Leet speak ; Liste des codes HTTP ; Massachusetts Institute of Technology ; Matte painting ; Multicopieur ; NetBIOS ; OpenStreetMap ; Pair-à-pair ; Photocopieur ; Port parallèle ; Prix Turing ; Protocole de communication ; Rançongiciel ; Rootkit ; Skynet (Terminator) ; Steam ; Système d'information sur les armes ; Tetris ; Thermaltake Technology ; Tim Berners-Lee ; Transmission Control Protocol ; Télécopieur ; Unicode ; Unix ; Webradio
 
 ## Articles bretons sans équivalent français
 
-- Arz al luc'hskeudennerezh (1853 mots)
 - Treiñ e brezhoneg (1034 mots)
 - Skoroù treuzkas (863 mots)
 - Terminator (robotoù) (857 mots)
 - OSI (827 mots)
-- Genver 2006 e Breizh (719 mots)
 - Snake (c'hoari video) (451 mots)
 - Luc'hreüser (389 mots)
 - Raktres Translate (brezhoneg) (387 mots)
-- Meurzh 2006 e Breizh (370 mots)
 - Porzh a-steud (312 mots)
-- Lizherenneg hengirillek (305 mots)
 - Ardivink (301 mots)
 - Kevreizhenn (197 mots)
 - Imran Awan (104 mots)
