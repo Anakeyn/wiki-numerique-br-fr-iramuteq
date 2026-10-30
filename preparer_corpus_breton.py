@@ -8,6 +8,10 @@ dictionnaire, et harmonise les autres apostrophes (’ ʼ ‘ -> ').
 Par défaut, il sépare aussi les mots à trait d'union (« an den-se » ->
 « an den se », « a-raok » -> « a raok ») : le dictionnaire couvre chaque
 élément, et l'on évite des milliers de formes composées inconnues.
+Avant de couper aux tirets, il soude les mots-outils et adverbes à trait
+d'union connus du dictionnaire (« e-barzh » -> « e_barzh », « dreist-holl » ->
+« dreist_holl ») : coupés, ils donneraient des mots pleins trompeurs (« barzh »,
+le poète). Seule la graphie avec tiret est soudée.
 Enfin, il soude les expressions du fichier dictionnaire/expression_br.txt
 (« a-benn ma » -> « a_benn_ma », « en doa » -> « en_doa ») en respectant les
 limites de mots, ce que ne fait pas le remplacement d'IRaMuTeQ.
@@ -31,11 +35,15 @@ import re
 APOSTROPHES = "’ʼ‘`"
 
 
-def normaliser(ligne, couper_tirets=True):
-    if couper_tirets:
-        ligne = re.sub(r"(?<=\w)-(?=\w)", " ", ligne)
+def normaliser(ligne, couper_tirets=True, tirets=None):
     ligne = re.sub(r"([cC])[" + APOSTROPHES + r"']([hH])", r"\1_\2", ligne)
     ligne = re.sub(r"[" + APOSTROPHES + r"]", "'", ligne)
+    if tirets:
+        # « e-barzh » -> « e_barzh » ; un mot à tiret inconnu reste tel quel
+        ligne = re.sub(r"\w+(?:-\w+)+",
+                       lambda m: tirets.get(m.group(0).lower(), m.group(0)), ligne)
+    if couper_tirets:
+        ligne = re.sub(r"(?<=\w)-(?=\w)", " ", ligne)
     ligne = ligne.replace(" ", " ").replace(" ", " ")
     return ligne
 
@@ -45,13 +53,17 @@ class Soudeur:
 
     def __init__(self, chemin):
         self.expressions = {}
+        self.tirets = {}           # mots à trait d'union : « e-barzh » -> « e_barzh »
         with open(chemin, encoding="utf-8") as f:
             for ligne in f:
                 champs = ligne.rstrip("\n\r").split("\t")
                 if len(champs) >= 2 and " " in champs[0]:
                     self.expressions[champs[0]] = champs[1]
+                elif len(champs) >= 2 and "-" in champs[0]:
+                    self.tirets[champs[0]] = champs[1]
         self.max_mots = max((len(c.split()) for c in self.expressions), default=0)
         self.nb = 0
+        self.nb_tirets = 0
 
     def souder(self, ligne):
         # mots, séparateurs (espaces ou trait d'union seul) et ponctuation
@@ -114,7 +126,11 @@ def main():
     tirets = not a.garder_tirets
 
     def preparer(ligne):
-        ligne = normaliser(ligne, tirets)
+        if soudeur:
+            soudeur.nb_tirets += sum(1 for m in re.finditer(r"\w+(?:-\w+)+",
+                                                            normaliser(ligne, False))
+                                     if m.group(0).lower() in soudeur.tirets)
+        ligne = normaliser(ligne, tirets, soudeur.tirets if soudeur else None)
         return soudeur.souder(ligne) if soudeur else ligne
 
     with open(a.entree, encoding="utf-8-sig") as f:
@@ -141,7 +157,8 @@ def main():
     n_ch = sum(l.count("c_h") + l.count("C_h") + l.count("C_H") for l in sortie)
     message = f"{a.sortie} écrit ({n_ch} « c'h » réécrits en « c_h »"
     if soudeur:
-        message += f", {soudeur.nb} expressions soudées"
+        message += (f", {soudeur.nb_tirets} mots à trait d'union et "
+                    f"{soudeur.nb} expressions soudés")
     print(message + ").")
 
 

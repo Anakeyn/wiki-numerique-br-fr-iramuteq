@@ -71,6 +71,211 @@ a youl vat	a_youl_vat	ADJ
 a zeiz da zeiz	a_zeiz_da_zeiz	ADV
 a ziàr benn	a_ziàr_benn	PRE
 a zoug e gamm	a_zoug_e_gamm	ADV
+a-bann	a_bann	ADV
+a-barfeted	a_barfeted	ADV
+a-barzh	a_barzh	PRE
+a-beban	a_beban	ADV
+a-belec_h	a_belec_h	ADV
+a-bell	a_bell	ADV
+a-bell-da-bell	a_bell_da_bell	ADV
+a-benn	a_benn	PRE
+a-benn-bouzell	a_benn_bouzell	ADV
+a-benn-herr	a_benn_herr	ADV
+a-benn-kaer	a_benn_kaer	ADV
+a-bep-eil	a_bep_eil	ADV
+a-berzh	a_berzh	PRE
+a-berzh-kefridi	a_berzh_kefridi	ADV
+a-berzh-stad	a_berzh_stad	ADV
+a-bevaroù	a_bevaroù	ADV
+a-bezh	a_bezh	ADV
+a-bik	a_bik	ADV
+a-bil	a_bil	ADV
+a-blad	a_blad	ADV
+a-blaen	a_blaen	ADV
+a-blom	a_blom	ADV
+a-boan	a_boan	ADV
+a-bouez-bras	a_bouez_bras	ADV
+a-bouez-penn	a_bouez_penn	ADV
+a-builh	a_builh	ADV
+a-c_haoliad	a_c_haoliad	ADV
+a-c_houde	a_c_houde	PRE
+a-c_houdevezh	a_c_houdevezh	ADV
+a-c_hwen	a_c_hwen	ADV
+a-dal	a_dal	ADV
+a-dal-penn	a_dal_penn	ADV
+a-dammigoù	a_dammigoù	ADV
+a-dammoù	a_dammoù	ADV
+a-daol	a_daol	ADV
+a-daol-trumm	a_daol_trumm	ADV
+a-denn-askell	a_denn_askell	ADV
+a-dizh	a_dizh	ADV
+a-dost	a_dost	ADV
+a-douez	a_douez	PRE
+a-drak	a_drak	ADV
+a-drek	a_drek	ADV
+a-dreuz	a_dreuz	PRE
+a-dreuz-da-dreuz	a_dreuz_da_dreuz	ADV
+a-dreuz-didreuz	a_dreuz_didreuz	ADV
+a-dreuz-jou	a_dreuz_jou	ADV
+a-dreuz-skoaz	a_dreuz_skoaz	ADV
+a-dreuzkiz	a_dreuzkiz	ADV
+a-dreñv	a_dreñv	PRE
+a-dro	a_dro	ADV
+a-dro-choug	a_dro_choug	ADV
+a-dro-jouez	a_dro_jouez	ADV
+a-dro-war-dro	a_dro_war_dro	ADV
+a-drugarez	a_drugarez	PRE
+a-druilh-drast	a_druilh_drast	ADV
+a-du	a_du	ADV
+a-du-krenn	a_du_krenn	ADV
+a-eilpenn	a_eilpenn	ADV
+a-enep	a_enep	PRE
+a-engroaz	a_engroaz	ADV
+a-ere	a_ere	PRE
+a-fed-noz	a_fed_noz	ADV
+a-fell	a_fell	ADV
+a-feson	a_feson	ADV
+a-fet	a_fet	PRE
+a-fetepañs	a_fetepañs	ADV
+a-flav	a_flav	ADV
+a-forzh	a_forzh	ADV
+a-frapadoù	a_frapadoù	ADV
+a-galz	a_galz	ADV
+a-gantoù	a_gantoù	ADV
+a-gaouadoù	a_gaouadoù	ADV
+a-geflen	a_geflen	ADV
+a-gent	a_gent	ADV
+a-gentaou	a_gentaou	ADV
+a-gevret	a_gevret	ADV
+a-geñver	a_geñver	ADV
+a-gil	a_gil	ADV
+a-gleiz	a_gleiz	ADV
+a-gor	a_gor	ADV
+a-gostez	a_gostez	ADV
+a-goulzadoù	a_goulzadoù	ADV
+a-goulzoù	a_goulzoù	ADV
+a-gozh	a_gozh	ADV
+a-grap	a_grap	ADV
+a-greiz	a_greiz	PRE
+a-greiz-holl	a_greiz_holl	ADV
+a-greiz-pep-kreiz	a_greiz_pep_kreiz	ADV
+a-grenn	a_grenn	ADV
+a-guzh	a_guzh	ADV
+a-hed	a_hed	PRE
+a-hed-amzer	a_hed_amzer	ADV
+a-heligentañ	a_heligentañ	ADV
+a-hend-all	a_hend_all	ADV
+a-herr	a_herr	ADV
+a-hervez	a_hervez	ADV
+a-holl-viskoazh	a_holl_viskoazh	ADV
+a-is	a_is	ADV
+a-ispilh	a_ispilh	ADV
+a-lamm	a_lamm	ADV
+a-lamm-kaer	a_lamm_kaer	ADV
+a-lamm-plom	a_lamm_plom	ADV
+a-led	a_led	ADV
+a-leizh	a_leizh	ADV
+a-lodennoù	a_lodennoù	ADV
+a-nebeudigoù	a_nebeudigoù	ADV
+a-nebeudoù	a_nebeudoù	ADV
+a-nerzh	a_nerzh	PRE
+a-nerzh-brec_h	a_nerzh_brec_h	ADV
+a-nerzh-penn	a_nerzh_penn	ADV
+a-neuze	a_neuze	ADV
+a-ouenn	a_ouenn	ADV
+a-ramp	a_ramp	ADV
+a-raok	a_raok	PRE
+a-ratozh	a_ratozh	ADV
+a-ratozh-kaer	a_ratozh_kaer	ADV
+a-ratre	a_ratre	ADV
+a-razailh	a_razailh	ADV
+a-rekin	a_rekin	ADV
+a-resed	a_resed	ADV
+a-rez	a_rez	PRE
+a-rod-laosk	a_rod_laosk	ADV
+a-ruilh	a_ruilh	ADV
+a-ruilhoù	a_ruilhoù	ADV
+a-rummadoù	a_rummadoù	ADV
+a-ruz	a_ruz	ADV
+a-ruz-kof	a_ruz_kof	ADV
+a-ruz-korf	a_ruz_korf	ADV
+a-ruzoù	a_ruzoù	ADV
+a-sav	a_sav	ADV
+a-serzh	a_serzh	ADV
+a-skij	a_skij	ADV
+a-skizh	a_skizh	ADV
+a-skouer	a_skouer	ADV
+a-sonn	a_sonn	ADV
+a-spin	a_spin	ADV
+a-stlabez	a_stlabez	ADV
+a-stlej	a_stlej	ADV
+a-stok	a_stok	ADV
+a-strew	a_strew	ADV
+a-strob	a_strob	ADV
+a-stroll	a_stroll	ADV
+a-stroñs	a_stroñs	ADV
+a-uc_h	a_uc_h	ADV
+a-unvouezh	a_unvouezh	ADV
+a-us	a_us	ADV
+a-vaez-bro	a_vaez_bro	ADV
+a-vareadoù	a_vareadoù	ADV
+a-varelladoù	a_varelladoù	ADV
+a-vareoù	a_vareoù	ADV
+a-vern	a_vern	ADV
+a-vernioù	a_vernioù	ADV
+a-veskell	a_veskell	ADV
+a-vihan	a_vihan	ADV
+a-vihanik	a_vihanik	ADV
+a-vihanoc_h	a_vihanoc_h	PRE
+a-vil-vern	a_vil_vern	ADV
+a-viskoazh	a_viskoazh	ADV
+a-viziez	a_viziez	ADV
+a-vole-vann	a_vole_vann	ADV
+a-vordilh	a_vordilh	ADV
+a-vouezh	a_vouezh	ADV
+a-vouilhad	a_vouilhad	ADV
+a-vozadoù	a_vozadoù	ADV
+a-vras	a_vras	ADV
+a-walc_h	a_walc_h	ADV
+a-wechall	a_wechall	ADV
+a-wechoù	a_wechoù	ADV
+a-werso	a_werso	ADV
+a-wezhall	a_wezhall	ADV
+a-wezhioù	a_wezhioù	ADV
+a-youl	a_youl	ADV
+a-youl-gaer	a_youl_gaer	ADV
+a-zaou	a_zaou	ADV
+a-zarn	a_zarn	ADV
+a-zegoù	a_zegoù	ADV
+a-zehou	a_zehou	ADV
+a-zerezioù	a_zerezioù	ADV
+a-zevri	a_zevri	ADV
+a-zevri-kaer	a_zevri_kaer	ADV
+a-ziabell	a_ziabell	ADV
+a-ziagent	a_ziagent	ADV
+a-ziavaez	a_ziavaez	ADV
+a-ziavaez-bro	a_ziavaez_bro	ADV
+a-zinaou	a_zinaou	ADV
+a-zindan-guzh	a_zindan_guzh	ADV
+a-zioc_h	a_zioc_h	ADV
+a-ziouzh	a_ziouzh	ADV
+a-zivout	a_zivout	PRE
+a-ziwar	a_ziwar	PRE
+a-ziwar-dro	a_ziwar_dro	ADV
+a-ziwar-lerc_h	a_ziwar_lerc_h	ADV
+a-ziwarnañ	a_ziwarnañ	PRE
+a-ziwarni	a_ziwarni	PRE
+a-ziwarno	a_ziwarno	PRE
+a-ziwarnoc_h	a_ziwarnoc_h	PRE
+a-ziwarnomp	a_ziwarnomp	PRE
+a-ziwarnon	a_ziwarnon	PRE
+a-ziwarnout	a_ziwarnout	PRE
+a-zoare	a_zoare	ADV
+a-zornadoù	a_zornadoù	ADV
+a-zoug	a_zoug	ADV
+a-zoug-kamm	a_zoug_kamm	ADV
+a-zruilh	a_zruilh	ADV
+a-zruilh-drast	a_zruilh_drast	ADV
 abadenn c_hoariva	abadenn_c_hoariva	NOM
 abadennoù c_hoariva	abadennoù_c_hoariva	NOM
 abalamour da	abalamour_da	PRE
@@ -334,7 +539,10 @@ bep sizhun	bep_sizhun	ADV
 bep taol	bep_taol	ADV
 bep tro	bep_tro	ADV
 bep tro ma	bep_tro_ma	CON
+berr-ha-berr	berr_ha_berr	ADV
 beseurt mod	beseurt_mod	ADV
+bete-gouzout	bete_gouzout	ADV
+bete-goût	bete_goût	ADV
 betek arc_hoazh	betek_arc_hoazh	ADV
 betek bremañ	betek_bremañ	ADV
 betek fin ar bloaz	betek_fin_ar_bloaz	ADV
@@ -345,6 +553,10 @@ betek na	betek_na	CON
 betek penn kentañ	betek_penn_kentañ	PRE
 betek re	betek_re	ADV
 betek warc_hoazh	betek_warc_hoazh	ADV
+betek-gouzout	betek_gouzout	ADV
+betek-goût	betek_goût	ADV
+betek-hen	betek_hen	ADV
+betek-henn	betek_henn	ADV
 bevar c_hant	bevar_c_hant	ADJ:num
 bezet pe vezet	bezet_pe_vezet	ADV
 bezh arrebeuri	bezh_arrebeuri	NOM
@@ -782,9 +994,14 @@ da lâret eo	da_lâret_eo	CON
 da lârout eo	da_lârout_eo	CON
 da neuze	da_neuze	ADV
 da re	da_re	PRO:pos
+da skouer	da_skouer	ADV
 da viken	da_viken	ADV
 da welet	da_welet	ADV
 da zigentañ	da_zigentañ	ADV
+da-dal	da_dal	PRE
+da-geñver	da_geñver	PRE
+da-gichen	da_gichen	PRE
+da-heul	da_heul	PRE
 dachenn labour	dachenn_labour	NOM
 dachenn mell droad	dachenn_mell_droad	NOM
 dachenn sport	dachenn_sport	NOM
@@ -838,10 +1055,12 @@ daolioù kehentiñ	daolioù_kehentiñ	NOM
 daolioù krenn	daolioù_krenn	NOM
 daolioù oberata	daolioù_oberata	NOM
 daou c_hant	daou_c_hant	ADJ:num
+daou-ha-daou	daou_ha_daou	ADV
 daoust da	daoust_da	PRE
 daoust ha	daoust_ha	PRO:ind
 daoust hag eñ	daoust_hag_eñ	PRO:ind
 daoust ma	daoust_ma	CON
+daoust-pe-zaoust	daoust_pe_zaoust	ADV
 darempred diavaez	darempred_diavaez	NOM
 darempred rev	darempred_rev	NOM
 darempredoù diavaez	darempredoù_diavaez	NOM
@@ -1000,6 +1219,8 @@ diwar netra	diwar_netra	ADV
 diwar neuze	diwar_neuze	ADV
 diwar varc_h houarn	diwar_varc_h_houarn	ADV
 diwar vremañ	diwar_vremañ	ADV
+diwar-benn	diwar_benn	PRE
+diwar-goust	diwar_goust	PRE
 dizh al luc_h	dizh_al_luc_h	NOM
 dizhoù al luc_h	dizhoù_al_luc_h	NOM
 doare bevañ	doare_bevañ	NOM
@@ -1045,6 +1266,12 @@ dre heg	dre_heg	ADV
 dre heg pe dre gaer	dre_heg_pe_dre_gaer	ADV
 dre ma	dre_ma	CON
 dre nerzh an aloubiñ	dre_nerzh_an_aloubiñ	ADV
+dre-dal	dre_dal	PRE
+dre-gichen	dre_gichen	PRE
+dre-holl	dre_holl	ADV
+dre-lizher	dre_lizher	ADV
+dre-vras	dre_vras	ADV
+dreist-holl	dreist_holl	ADV
 dren tizh bras	dren_tizh_bras	NOM
 drenioù tizh bras	drenioù_tizh_bras	NOM
 dreujenn c_haol	dreujenn_c_haol	NOM
@@ -1063,6 +1290,9 @@ dro spered	dro_spered	NOM
 droioù spered	droioù_spered	NOM
 du gwan	du_gwan	NOM
 du kreñv	du_kreñv	NOM
+du-hont	du_hont	ADV
+du-mañ	du_mañ	ADV
+du-se	du_se	ADV
 dud a iliz	dud_a_iliz	NOM
 dud a lez	dud_a_lez	NOM
 dud a vicher	dud_a_vicher	NOM
@@ -1230,6 +1460,41 @@ e pep lec_h er bed	e_pep_lec_h_er_bed	ADV
 e re	e_re	PRO:pos
 e ruz	e_ruz	ADV
 e skoaz da	e_skoaz_da	PRE
+e-barzh	e_barzh	PRE
+e-doug	e_doug	PRE
+e-giz	e_giz	PRE
+e-giz-se	e_giz_se	ADV
+e-karg	e_karg	ADV
+e-keit	e_keit	PRE
+e-kentel	e_kentel	ADV
+e-kerz	e_kerz	PRE
+e-kerzh	e_kerzh	PRE
+e-keñver	e_keñver	PRE
+e-kichen	e_kichen	PRE
+e-korf	e_korf	PRE
+e-krec_h	e_krec_h	ADV
+e-kreiz	e_kreiz	PRE
+e-kreizig-kreiz	e_kreizig_kreiz	ADV
+e-kreizik-kreiz	e_kreizik_kreiz	PRE
+e-kuzh	e_kuzh	ADV
+e-lec_h	e_lec_h	PRE
+e-leizh	e_leizh	ADV
+e-liamm	e_liamm	ADV
+e-maez	e_maez	PRE
+e-mesk	e_mesk	PRE
+e-metoù	e_metoù	PRE
+e-pad	e_pad	PRE
+e-pleustr	e_pleustr	ADV
+e-se	e_se	ADV
+e-ser	e_ser	ADV
+e-skoaz	e_skoaz	PRE
+e-tailh	e_tailh	ADV
+e-tal	e_tal	PRE
+e-touesk	e_touesk	PRE
+e-touez	e_touez	PRE
+e-tro	e_tro	PRE
+e-unan-penn	e_unan_penn	ADV
+e-zoug	e_zoug	ADV
 ec_h eus	ec_h_eus	AUX
 ehan mammelezh	ehan_mammelezh	NOM
 ehanoù mammelezh	ehanoù_mammelezh	NOM
@@ -1303,7 +1568,9 @@ en tu all da	en_tu_all_da	PRE
 en tu mañ	en_tu_mañ	ADV
 en un doare naturel	en_un_doare_naturel	ADV
 en ur	en_ur	ADV:sup
+en-dro	en_dro	ADV
 end eeun da	end_eeun_da	PRE
+end-eeun	end_eeun	ADV
 enezad ar c_hab	enezad_ar_c_hab	NOM
 enezadez ar c_hab	enezadez_ar_c_hab	NOM
 enezadezed ar c_hab	enezadezed_ar_c_hab	NOM
@@ -1342,6 +1609,7 @@ er sizhun mañ	er_sizhun_mañ	ADV
 er sizhun paseet	er_sizhun_paseet	ADV
 er skol vamm	er_skol_vamm	ADV
 er skol veur	er_skol_veur	ADV
+er-maez	er_maez	ADV
 eur noz	eur_noz	NOM
 eur vintin	eur_vintin	NOM
 eurioù noz	eurioù_noz	NOM
@@ -1363,6 +1631,11 @@ evel pa	evel_pa	CON
 evel rakwelet	evel_rakwelet	CON
 evel se bezet graet	evel_se_bezet_graet	ONO
 evel zo dleet	evel_zo_dleet	ADV
+evel-henn	evel_henn	ADV
+evel-hont	evel_hont	ADV
+evel-just	evel_just	ADV
+evel-mañ	evel_mañ	ADV
+evel-se	evel_se	ADV
 evit a sell ouzh	evit_a_sell_ouzh	PRE
 evit al lod brasañ	evit_al_lod_brasañ	ADV
 evit al lodenn vrasañ	evit_al_lodenn_vrasañ	ADV
@@ -1399,6 +1672,7 @@ ezhomm stummañ	ezhomm_stummañ	NOM
 ezhommoù stummañ	ezhommoù_stummañ	NOM
 fad rakwelet	fad_rakwelet	NOM
 fadoù rakwelet	fadoù_rakwelet	NOM
+falloc_h-fallañ	falloc_h_fallañ	ADV
 fanell hent	fanell_hent	NOM
 fanell heñchañ	fanell_heñchañ	NOM
 fanellerezh hent	fanellerezh_hent	NOM
@@ -1571,6 +1845,7 @@ gentel noz	gentel_noz	NOM
 gentelioù noz	gentelioù_noz	NOM
 ger ebet	ger_ebet	ADV
 ger evit ger	ger_evit_ger	ADV
+ger-ha-ger	ger_ha_ger	ADV
 gevrat didermen	gevrat_didermen	NOM
 gevrat labour	gevrat_labour	NOM
 gevrat studiañ	gevrat_studiañ	NOM
@@ -1791,6 +2066,7 @@ gwalinier fesketa	gwalinier_fesketa	NOM
 gwalinier pesketa	gwalinier_pesketa	NOM
 gwarez sokial	gwarez_sokial	NOM
 gwarezioù sokial	gwarezioù_sokial	NOM
+gwashoc_h-gwashañ	gwashoc_h_gwashañ	ADV
 gwazh eo ar vevenn eget ar vezherenn	gwazh_eo_ar_vevenn_eget_ar_vezherenn	ADV
 gwech ebet	gwech_ebet	ADV
 gwech ha gwech all	gwech_ha_gwech_all	ADV
@@ -1799,6 +2075,7 @@ gweladennoù heñchet	gweladennoù_heñchet	NOM
 gwell a se	gwell_a_se	ADV
 gwellañ soñjoù	gwellañ_soñjoù	ADV
 gwelloc_h c_hoazh	gwelloc_h_c_hoazh	ADV
+gwelloc_h-gwellañ	gwelloc_h_gwellañ	ADV
 gwener kreisteiz	gwener_kreisteiz	NOM
 gwenn da ved	gwenn_da_ved	ONO
 gwenn ho ped	gwenn_ho_ped	ONO
@@ -1846,6 +2123,7 @@ he doa	he_doa	AUX
 he doe	he_doe	AUX
 he hini	he_hini	PRO:pos
 he re	he_re	PRO:pos
+hed-da-hed	hed_da_hed	PRE
 hemañ diwezhañ	hemañ_diwezhañ	ADV
 hentad divyezhek	hentad_divyezhek	NOM
 hentad prevez	hentad_prevez	NOM
@@ -1899,6 +2177,7 @@ ijinoù krouiñ mab den	ijinoù_krouiñ_mab_den	NOM
 impalaeriezh roma	impalaeriezh_roma	NOM
 impalaeriezhioù roma	impalaeriezhioù_roma	NOM
 impalaeriezhoù roma	impalaeriezhoù_roma	NOM
+ingal-ingal	ingal_ingal	ADV
 istor karantez	istor_karantez	NOM
 istorioù karantez	istorioù_karantez	NOM
 istr berlez	istr_berlez	NOM
@@ -1936,6 +2215,7 @@ kalon dit	kalon_dit	ONO
 kalz a	kalz_a	PRE
 kalz re	kalz_re	ADV
 kalzik a	kalzik_a	PRE
+kammed-ha-kammed	kammed_ha_kammed	ADV
 kamp tolpañ	kamp_tolpañ	NOM
 kampoù tolpañ	kampoù_tolpañ	NOM
 kan ha diskan	kan_ha_diskan	NOM
@@ -1956,14 +2236,17 @@ kargidi a ziorren	kargidi_a_ziorren	NOM
 kargoù merañ	kargoù_merañ	NOM
 kargoù verañ	kargoù_verañ	NOM
 karr tos tos	karr_tos_tos	NOM
+kazel-ha-kazel	kazel_ha_kazel	ADV
 kazetenn liv	kazetenn_liv	NOM
 kazetennoù liv	kazetennoù_liv	NOM
 keit evel	keit_evel	CON
 keit ha	keit_ha	CON
 keit ha ma	keit_ha_ma	CON
+keit-se	keit_se	ADV
 kelennadurezh divyezhek	kelennadurezh_divyezhek	NOM
 kelennadurezhioù divyezhek	kelennadurezhioù_divyezhek	NOM
 kelennadurezhoù divyezhek	kelennadurezhoù_divyezhek	NOM
+kemend-all	kemend_all	ADV
 kement a	kement_a	PRE
 kement all	kement_all	ADV
 kement ha	kement_ha	CON
@@ -2054,6 +2337,7 @@ kevredigezhioù dihun	kevredigezhioù_dihun	NOM
 kevredigezhioù div yezh	kevredigezhioù_div_yezh	NOM
 kevrenn geodedel	kevrenn_geodedel	NOM
 kevrennoù geodedel	kevrennoù_geodedel	NOM
+kichen-ha-kichen	kichen_ha_kichen	ADV
 kig kanol	kig_kanol	NOM
 kilhoroù douarañ	kilhoroù_douarañ	NOM
 kinean ar c_heheder	kinean_ar_c_heheder	NOM
@@ -2311,6 +2595,7 @@ lec_hioù labour	lec_hioù_labour	NOM
 lec_hioù selaou	lec_hioù_selaou	NOM
 lec_hioù skignañ	lec_hioù_skignañ	NOM
 lemmen faraon	lemmen_faraon	NOM
+lerc_h-ouzh-lerc_h	lerc_h_ouzh_lerc_h	ADV
 lestr brezel	lestr_brezel	NOM
 lestroù brezel	lestroù_brezel	NOM
 letrin c_hoari	letrin_c_hoari	NOM
@@ -2351,6 +2636,7 @@ logelloù fellgomz	logelloù_fellgomz	NOM
 logelloù pellgomz	logelloù_pellgomz	NOM
 logelloù pleinañ	logelloù_pleinañ	NOM
 logelloù vleinañ	logelloù_vleinañ	NOM
+lost-ouzh-lost	lost_ouzh_lost	ADV
 louzeier enepviruz	louzeier_enepviruz	NOM
 louzou enepviruz	louzou_enepviruz	NOM
 louzoù enepviruz	louzoù_enepviruz	NOM
@@ -2404,6 +2690,7 @@ merk frank	merk_frank	NOM
 merk marilhet	merk_marilhet	NOM
 merkoù frank	merkoù_frank	NOM
 merkoù marilhet	merkoù_marilhet	NOM
+mesk-ha-mesk	mesk_ha_mesk	ADV
 meteier kevredigezhel	meteier_kevredigezhel	NOM
 metou kevredigezhel	metou_kevredigezhel	NOM
 metoù kevredigezhel	metoù_kevredigezhel	NOM
@@ -2454,12 +2741,16 @@ mizoù koskor	mizoù_koskor	NOM
 mizoù lojañ	mizoù_lojañ	NOM
 mod kozh	mod_kozh	ADV
 mod pe vod	mod_pe_vod	ADV
+mod-all	mod_all	ADV
+mod-se	mod_se	ADV
 mont en dro	mont_en_dro	NOM
 mui pe vui	mui_pe_vui	ADV
+mui-ouzh-mui	mui_ouzh_mui	ADV
 muioc_h a	muioc_h_a	PRE
 muioc_h eget	muioc_h_eget	PRE
 muioc_h eget biskoazh	muioc_h_eget_biskoazh	ADV
 muioc_h mui a	muioc_h_mui_a	PRE
+muioc_h-mui	muioc_h_mui	ADV
 na mui na maez	na_mui_na_maez	ADV
 naer biton	naer_biton	NOM
 naer fiton	naer_fiton	NOM
@@ -2480,9 +2771,12 @@ naon du	naon_du	NOM
 nav c_hant	nav_c_hant	ADJ:num
 nebeudik a	nebeudik_a	PRE
 nebeut a	nebeut_a	PRE
+nebeut-ha-nebeut	nebeut_ha_nebeut	ADV
 nebeutoc_h a	nebeutoc_h_a	PRE
 nebeutoc_h eget	nebeutoc_h_eget	PRE
 nebeutoc_h nebeutañ a	nebeutoc_h_nebeutañ_a	PRE
+nebeutoc_h-nebeut	nebeutoc_h_nebeut	ADV
+nebeutoc_h-nebeutañ	nebeutoc_h_nebeutañ	ADV
 neblec_h all	neblec_h_all	ADV
 nedeleg laouen	nedeleg_laouen	ONO
 nedeleg laouen deoc_h	nedeleg_laouen_deoc_h	ONO
@@ -2503,6 +2797,7 @@ noz vat	noz_vat	ONO
 noz vat deoc_h	noz_vat_deoc_h	ONO
 noz vat deoc_h holl	noz_vat_deoc_h_holl	ONO
 noz vat dit	noz_vat_dit	ONO
+noz-deiz	noz_deiz	ADV
 nozvezh eskemm	nozvezh_eskemm	NOM
 nozvezh vat	nozvezh_vat	ONO
 nozvezh vat deoc_h	nozvezh_vat_deoc_h	ONO
@@ -2544,6 +2839,7 @@ ouennoù fesked	ouennoù_fesked	NOM
 ouennoù pesked	ouennoù_pesked	NOM
 ouzhpenn an dra se	ouzhpenn_an_dra_se	ADV
 ouzhpenn da se	ouzhpenn_da_se	ADV
+ouzhpenn-se	ouzhpenn_se	ADV
 pad rakwelet	pad_rakwelet	NOM
 padoù rakwelet	padoù_rakwelet	NOM
 pag bezhina	pag_bezhina	NOM
@@ -2580,6 +2876,7 @@ paotoù mor	paotoù_mor	NOM
 paotoù vor	paotoù_vor	NOM
 paper adaozet	paper_adaozet	NOM
 paperioù adaozet	paperioù_adaozet	NOM
+par-ouzh-par	par_ouzh_par	ADV
 para krazet	para_krazet	NOM
 paraoù krazet	paraoù_krazet	NOM
 parrenn houarn	parrenn_houarn	NOM
@@ -2589,6 +2886,7 @@ pask laouen	pask_laouen	ONO
 pask laouen deoc_h	pask_laouen_deoc_h	ONO
 pask laouen deoc_h holl	pask_laouen_deoc_h_holl	ONO
 pask laouen dit	pask_laouen_dit	ONO
+pazenn-ha-pazenn	pazenn_ha_pazenn	ADV
 pazh skiañ	pazh_skiañ	NOM
 pazh taboulin	pazh_taboulin	NOM
 pe dost	pe_dost	ADV
@@ -2634,6 +2932,7 @@ pep tra	pep_tra	PRO:ind
 peseurt mod	peseurt_mod	ADV
 petra bennak	petra_bennak	CON
 pevar c_hant	pevar_c_hant	ADJ:num
+pevar-ha-pevar	pevar_ha_pevar	ADV
 pezh a	pezh_a	PRO:rel
 pezh arrebeuri	pezh_arrebeuri	NOM
 pezh moneiz	pezh_moneiz	NOM
@@ -2757,6 +3056,7 @@ pragou sport	pragou_sport	NOM
 pragoù berr	pragoù_berr	NOM
 pragoù jean	pragoù_jean	NOM
 pragoù sport	pragoù_sport	NOM
+pred-ha-pred	pred_ha_pred	ADV
 prezel bed	prezel_bed	NOM
 prezel diabarzh	prezel_diabarzh	NOM
 prezelioù bed	prezelioù_bed	NOM
@@ -2768,6 +3068,7 @@ programmoù eskemm	programmoù_eskemm	NOM
 puoc_h laezh	puoc_h_laezh	NOM
 puoc_hed laezh	puoc_hed_laezh	NOM
 puoc_henned laezh	puoc_henned_laezh	NOM
+rag-eeun	rag_eeun	ADV
 raktres embann	raktres_embann	NOM
 raktresoù embann	raktresoù_embann	NOM
 rannig verb	rannig_verb	NOM
@@ -2911,6 +3212,7 @@ steuñv diorren	steuñv_diorren	NOM
 steuñv stummañ	steuñv_stummañ	NOM
 steuñvoù diorren	steuñvoù_diorren	NOM
 steuñvoù stummañ	steuñvoù_stummañ	NOM
+stok-ha-stok	stok_ha_stok	ADV
 strobad mein	strobad_mein	NOM
 strobadoù mein	strobadoù_mein	NOM
 strollad tud	strollad_tud	NOM
@@ -2939,6 +3241,7 @@ takad moullañ	takad_moullañ	NOM
 takad tresañ	takad_tresañ	NOM
 takadoù moullañ	takadoù_moullañ	NOM
 takadoù tresañ	takadoù_tresañ	NOM
+tal-ouzh-tal	tal_ouzh_tal	ADV
 tamm ebet	tamm_ebet	ADV
 tamm ha tamm	tamm_ha_tamm	ADV
 tamm ha tamm e vez graet e vragoù da yann	tamm_ha_tamm_e_vez_graet_e_vragoù_da_yann	ADV
@@ -3147,10 +3450,13 @@ treujoù c_haol	treujoù_c_haol	NOM
 treujoù gaol	treujoù_gaol	NOM
 treujoù kaol	treujoù_kaol	NOM
 tri c_hant	tri_c_hant	ADJ:num
+tri-ha-tri	tri_ha_tri	ADV
 tric_horn serzh	tric_horn_serzh	NOM
 tric_hornioù serzh	tric_hornioù_serzh	NOM
 tro dro da	tro_dro_da	PRE
 tro spered	tro_spered	NOM
+tro-dro	tro_dro	ADV
+tro-war-dro	tro_war_dro	ADV
 troioù spered	troioù_spered	NOM
 trugarez da	trugarez_da	PRE
 trugarez deoc_h	trugarez_deoc_h	ONO
@@ -3470,10 +3776,24 @@ war un dro	war_un_dro	ADV
 war un ton bras	war_un_ton_bras	ADV
 war var da	war_var_da	PRE
 war varc_h houarn	war_varc_h_houarn	ADV
+war-bouez	war_bouez	PRE
+war-dro	war_dro	ADV
+war-du	war_du	PRE
+war-eeun	war_eeun	ADV
+war-gelc_h	war_gelc_h	ADV
+war-gil	war_gil	ADV
+war-giz	war_giz	PRE
+war-lerc_h	war_lerc_h	PRE
+war-nes	war_nes	PRE
+war-raok	war_raok	ADV
+war-sav	war_sav	ADV
+war-se	war_se	ADV
+war-zu	war_zu	PRE
 warez sokial	warez_sokial	NOM
 warezioù sokial	warezioù_sokial	NOM
 weladenn heñchet	weladenn_heñchet	NOM
 weladennoù heñchet	weladennoù_heñchet	NOM
+well-wazh	well_wazh	ADV
 wener kreisteiz	wener_kreisteiz	NOM
 werennad dour	werennad_dour	NOM
 werennadoù dour	werennadoù_dour	NOM
@@ -3736,3 +4056,4 @@ zuriadenn koz	zuriadenn_koz	NOM
 zuriadennoù c_hoz	zuriadennoù_c_hoz	NOM
 zuriadennoù goz	zuriadennoù_goz	NOM
 zuriadennoù koz	zuriadennoù_koz	NOM
+àr-lerc_h	àr_lerc_h	PRE

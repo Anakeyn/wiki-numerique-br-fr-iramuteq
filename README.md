@@ -2,7 +2,7 @@
 
 Le numérique vu par les Wikipédia bretonne et française : comparer deux corpus avec [IRaMuTeQ](https://pratinaud.gitpages.huma-num.fr/iramuteq-website/).
 
-Ce dépôt accompagne l'article de blog du même nom. C'est le dernier d'une série : il réutilise les corpus constitués avec [wiki2iramuteq](https://github.com/Anakeyn/wiki2iramuteq) et le dictionnaire breton corrigé d'[Apertium2iramuteq-bretonV2](https://github.com/Anakeyn/Apertium2iramuteq-bretonV2).
+Ce dépôt accompagne l'article de blog du même nom. C'est le dernier d'une série : il réutilise les corpus constitués avec [wiki2iramuteq](https://github.com/Anakeyn/wiki2iramuteq) et le dictionnaire breton d'[Apertium2iramuteq-bretonV3](https://github.com/Anakeyn/Apertium2iramuteq-bretonV3), dont la version 3 corrige des erreurs révélées par ce corpus.
 
 ## Sommaire
 
@@ -21,7 +21,7 @@ Ce dépôt accompagne l'article de blog du même nom. C'est le dernier d'une sé
 | `corpus/paires/wikipedia_fr_aligne_sur_br_numerique_filtre.txt` | **Analyse 2** : versions françaises des articles bretons qui ont un équivalent (même `*id_`) | 109 |
 | `corpus/paires/wikipedia_br_paires_pret.txt` | Les 109 articles bretons correspondants, préparés | 109 |
 | `corpus/fr/wikipedia_fr_numerique_nettoye.txt` | Contexte : échantillon de la Wikipédia française sur le numérique, issu de sa propre recherche | 1 159 |
-| `dictionnaire/lexique_br.txt` | Dictionnaire breton pour IRaMuTeQ (version 2), à désigner à l'ouverture du corpus breton | |
+| `dictionnaire/lexique_br.txt` | Dictionnaire breton pour IRaMuTeQ (version 3), à désigner à l'ouverture du corpus breton | |
 | `resultats/comparaison_synthese.md` | Tableaux de comparaison des deux corpus | |
 | `resultats/comparaison_longueurs.png`, `comparaison_paires.png` | Graphiques | |
 
@@ -30,7 +30,7 @@ Les corpus bretons non préparés (`*_filtre.txt`) et tous les fichiers de méta
 **Pour récupérer un fichier :** sur GitHub, cliquez sur le fichier, puis sur *Download raw file*. Vous pouvez aussi récupérer tout le dépôt avec **Code → Download ZIP**.
 
 **Pour l'ouvrir dans IRaMuTeQ :** *Fichier → Ouvrir un corpus*.
-- Corpus breton : encodage **utf-8** (ou **cp1252** pour la version Windows), langue **autre**, dictionnaire **Autre** en désignant `dictionnaire/lexique_br.txt` (copie de la version 2 d'[Apertium2iramuteq-bretonV2](https://github.com/Anakeyn/Apertium2iramuteq-bretonV2)), et décochez **Utiliser le dictionnaire des expressions** : les expressions sont déjà soudées. Si votre version d'IRaMuTeQ ne propose pas le dictionnaire « Autre », suivez la méthode B du dépôt du dictionnaire. Dans la description du corpus, vérifiez le chemin du lexique et que la ligne des expressions indique 0.
+- Corpus breton : encodage **utf-8** (ou **cp1252** pour la version Windows), langue **autre**, dictionnaire **Autre** en désignant `dictionnaire/lexique_br.txt` (copie de la version 3 d'[Apertium2iramuteq-bretonV3](https://github.com/Anakeyn/Apertium2iramuteq-bretonV3)), et décochez **Utiliser le dictionnaire des expressions** : les expressions sont déjà soudées. Si votre version d'IRaMuTeQ ne propose pas le dictionnaire « Autre », suivez la méthode B du dépôt du dictionnaire. Dans la description du corpus, vérifiez le chemin du lexique et que la ligne des expressions indique 0.
 - Corpus français : encodage **utf-8**, langue **français**.
 
 Dans le corpus breton, la variable `*equiv_fr_oui/non` indique si l'article existe aussi dans la Wikipédia française ; dans le corpus français de contexte, `*equiv_br_oui/non` indique l'inverse. Les versions françaises des paires n'en ont pas besoin : elles ont toutes un équivalent breton, et partagent son `*id_`.
@@ -65,7 +65,13 @@ On ne retire pas les articles bretons qui n'ont pas d'équivalent français : il
 
 ### Préparer le corpus breton
 
-IRaMuTeQ coupe les mots à l'apostrophe : « c'hoari » deviendrait « c » + « hoari ». Le script `preparer_corpus_breton.py` réécrit donc le trigramme en `c_h`, comme dans le dictionnaire, sépare les mots à trait d'union et soude les expressions (« en doa » → `en_doa`). On utilise la version 2 du dictionnaire, corrigée après le premier essai sur le corpus de test.
+IRaMuTeQ coupe les mots à l'apostrophe : « c'hoari » deviendrait « c » + « hoari ». Le script `preparer_corpus_breton.py` réécrit donc le trigramme en `c_h`, comme dans le dictionnaire, soude les mots-outils à trait d'union (« e-barzh » → `e_barzh`), sépare les autres mots à trait d'union et soude les expressions (« en doa » → `en_doa`).
+
+### Corriger le dictionnaire avant la classification : la version 3
+
+On a d'abord préparé le corpus avec la version 2 du dictionnaire. Les statistiques textuelles d'IRaMuTeQ ont alors montré, parmi les formes actives les plus fréquentes, des lemmes absurdes pour un corpus sur le numérique : *unaniñ* (unir, 159 occurrences), *kell* (cellule, 135), *barzh* (poète, 127), *touiñ* (jurer, 62). Ils venaient de *unan* (« un »), *c'hell* (« peut »), *e-barzh* (« dedans », coupé au tiret) et *e-touez* (« parmi »). Ces formes auraient pesé sur la classification de Reinert.
+
+On les a corrigées dans une version 3 du dictionnaire, [Apertium2iramuteq-bretonV3](https://github.com/Anakeyn/Apertium2iramuteq-bretonV3), qui détaille les corrections. La version 2 reste conforme à son article. Le corpus breton de ce dépôt est préparé avec la version 3 : 1 721 occurrences changent de lecture ; *ober* passe de 563 à 739 occurrences et *gallout* de 346 à 480.
 
 ### Nettoyer le corpus français de contexte : pourquoi pas un seuil plus fort
 
@@ -128,7 +134,7 @@ Tous les scripts utilisés sont dans le dépôt, pour qu'il se suffise à lui-m�
 | `wiki2iramuteq.py` | [wiki2iramuteq](https://github.com/Anakeyn/wiki2iramuteq) | Extrait les articles de Wikipédia au format IRaMuTeQ |
 | `filtrer_corpus.py` | wiki2iramuteq, avec un ajout | Refiltre un corpus sans rien retélécharger. Ajout : `--exclure @fichier.txt` lit la liste dans un fichier, un titre par ligne |
 | `corriger_identifiants.py` | Ce dépôt | Rend les `*id_` uniques |
-| `preparer_corpus_breton.py` | [Apertium2iramuteq-bretonV2](https://github.com/Anakeyn/Apertium2iramuteq-bretonV2) | Prépare un texte breton pour le dictionnaire IRaMuTeQ ; utilise `dictionnaire/expression_br.txt` |
+| `preparer_corpus_breton.py` | [Apertium2iramuteq-bretonV3](https://github.com/Anakeyn/Apertium2iramuteq-bretonV3) | Prépare un texte breton pour le dictionnaire IRaMuTeQ ; utilise `dictionnaire/expression_br.txt` |
 | `comparer_corpus.py` | Ce dépôt | Compare les deux corpus et écrit `resultats/` |
 
 `wiki2iramuteq.py`, `filtrer_corpus.py`, `corriger_identifiants.py` et `preparer_corpus_breton.py` n'utilisent que la bibliothèque standard de Python. `comparer_corpus.py` a besoin de `pandas`, `matplotlib` et `tabulate` :
@@ -213,4 +219,4 @@ Le script est découpé en neuf blocs `# %%` : chemins et bibliothèques, lectur
 
 ## 5. Licences
 
-Code sous licence GNU GPL v3 (voir `LICENSE`). Textes des corpus issus de Wikipédia, sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) ; la liste des articles et leurs révisions figurent dans les fichiers `*_metadonnees.csv`. Les fichiers `dictionnaire/lexique_br.txt` et `dictionnaire/expression_br.txt`, copiés d'Apertium2iramuteq-bretonV2, sont dérivés d'`apertium-bre`, le module breton d'[Apertium](https://www.apertium.org/), distribué sous licence GNU GPL v3.
+Code sous licence GNU GPL v3 (voir `LICENSE`). Textes des corpus issus de Wikipédia, sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) ; la liste des articles et leurs révisions figurent dans les fichiers `*_metadonnees.csv`. Les fichiers `dictionnaire/lexique_br.txt` et `dictionnaire/expression_br.txt`, copiés d'Apertium2iramuteq-bretonV3, sont dérivés d'`apertium-bre`, le module breton d'[Apertium](https://www.apertium.org/), distribué sous licence GNU GPL v3.
