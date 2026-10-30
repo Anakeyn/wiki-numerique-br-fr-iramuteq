@@ -21,6 +21,7 @@ Ce dépôt accompagne l'article de blog du même nom. C'est le dernier d'une sé
 | `corpus/paires/wikipedia_fr_aligne_sur_br_numerique_filtre.txt` | **Analyse 2** : versions françaises des articles bretons qui ont un équivalent (même `*id_`) | 109 |
 | `corpus/paires/wikipedia_br_paires_pret.txt` | Les 109 articles bretons correspondants, préparés | 109 |
 | `corpus/fr/wikipedia_fr_numerique_nettoye.txt` | Contexte : échantillon de la Wikipédia française sur le numérique, issu de sa propre recherche | 1 159 |
+| `dictionnaire/lexique_br.txt` | Dictionnaire breton pour IRaMuTeQ (version 2), à désigner à l'ouverture du corpus breton | |
 | `resultats/comparaison_synthese.md` | Tableaux de comparaison des deux corpus | |
 | `resultats/comparaison_longueurs.png`, `comparaison_paires.png` | Graphiques | |
 
@@ -29,7 +30,7 @@ Les corpus bretons non préparés (`*_filtre.txt`) et tous les fichiers de méta
 **Pour récupérer un fichier :** sur GitHub, cliquez sur le fichier, puis sur *Download raw file*. Vous pouvez aussi récupérer tout le dépôt avec **Code → Download ZIP**.
 
 **Pour l'ouvrir dans IRaMuTeQ :** *Fichier → Ouvrir un corpus*.
-- Corpus breton : encodage **utf-8** (ou **cp1252** pour la version Windows), langue **autre**, dictionnaire **Autre** en désignant `lexique_br.txt` d'[Apertium2iramuteq-bretonV2](https://github.com/Anakeyn/Apertium2iramuteq-bretonV2), et décochez **Utiliser le dictionnaire des expressions** : les expressions sont déjà soudées. Si votre version d'IRaMuTeQ ne propose pas le dictionnaire « Autre », suivez la méthode B du dépôt du dictionnaire. Dans la description du corpus, vérifiez le chemin du lexique et que la ligne des expressions indique 0.
+- Corpus breton : encodage **utf-8** (ou **cp1252** pour la version Windows), langue **autre**, dictionnaire **Autre** en désignant `dictionnaire/lexique_br.txt` (copie de la version 2 d'[Apertium2iramuteq-bretonV2](https://github.com/Anakeyn/Apertium2iramuteq-bretonV2)), et décochez **Utiliser le dictionnaire des expressions** : les expressions sont déjà soudées. Si votre version d'IRaMuTeQ ne propose pas le dictionnaire « Autre », suivez la méthode B du dépôt du dictionnaire. Dans la description du corpus, vérifiez le chemin du lexique et que la ligne des expressions indique 0.
 - Corpus français : encodage **utf-8**, langue **français**.
 
 Dans le corpus breton, la variable `*equiv_fr_oui/non` indique si l'article existe aussi dans la Wikipédia française ; dans le corpus français de contexte, `*equiv_br_oui/non` indique l'inverse. Les versions françaises des paires n'en ont pas besoin : elles ont toutes un équivalent breton, et partagent son `*id_`.
@@ -212,4 +213,4 @@ Le script est découpé en neuf blocs `# %%` : chemins et bibliothèques, lectur
 
 ## 5. Licences
 
-Code sous licence GNU GPL v3 (voir `LICENSE`). Textes des corpus issus de Wikipédia, sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) ; la liste des articles et leurs révisions figurent dans les fichiers `*_metadonnees.csv`. Le fichier `dictionnaire/expression_br.txt` est dérivé d'`apertium-bre`, le module breton d'[Apertium](https://www.apertium.org/), distribué sous licence GNU GPL v3.
+Code sous licence GNU GPL v3 (voir `LICENSE`). Textes des corpus issus de Wikipédia, sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) ; la liste des articles et leurs révisions figurent dans les fichiers `*_metadonnees.csv`. Les fichiers `dictionnaire/lexique_br.txt` et `dictionnaire/expression_br.txt`, copiés d'Apertium2iramuteq-bretonV2, sont dérivés d'`apertium-bre`, le module breton d'[Apertium](https://www.apertium.org/), distribué sous licence GNU GPL v3.
