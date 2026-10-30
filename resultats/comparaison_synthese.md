@@ -5,15 +5,15 @@
 | langue   |   articles |    mots |   mediane |   moyenne |
 |:---------|-----------:|--------:|----------:|----------:|
 | br       |        156 |  108536 |       438 |       696 |
-| fr       |       1236 | 2554502 |      1179 |      2067 |
+| fr       |       1159 | 2342607 |      1164 |      2021 |
 
 ## Équivalents dans l'autre langue
 
 | langue   |   non |   oui |   total |   % avec équivalent |
 |:---------|------:|------:|--------:|--------------------:|
 | br       |    18 |   138 |     156 |                88.5 |
-| fr       |  1116 |   120 |    1236 |                 9.7 |
-| total    |  1134 |   258 |    1392 |                18.5 |
+| fr       |  1057 |   102 |    1159 |                 8.8 |
+| total    |  1075 |   240 |    1315 |                18.3 |
 
 ## Articles par terme de recherche
 
@@ -24,10 +24,10 @@
 | br       | niverel        |         29 |
 | br       | genrouedad     |         11 |
 | br       | kenrouedad     |          1 |
-| fr       | numerique      |        380 |
-| fr       | ordinateur     |        318 |
-| fr       | internet       |        272 |
-| fr       | informatique   |        238 |
+| fr       | numerique      |        334 |
+| fr       | ordinateur     |        308 |
+| fr       | internet       |        258 |
+| fr       | informatique   |        231 |
 | fr       | logiciel_libre |         28 |
 
 ## Longueur selon *equiv_
@@ -36,8 +36,8 @@
 |:--------------|--------:|---------:|-------:|
 | ('br', 'non') |      18 |      378 |    514 |
 | ('br', 'oui') |     138 |      458 |    719 |
-| ('fr', 'non') |    1116 |     1018 |   1772 |
-| ('fr', 'oui') |     120 |     3938 |   4803 |
+| ('fr', 'non') |    1057 |      997 |   1752 |
+| ('fr', 'oui') |     102 |     3938 |   4814 |
 
 ## Paires fr/br
 

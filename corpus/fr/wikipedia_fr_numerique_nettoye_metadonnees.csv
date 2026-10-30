@@ -28,7 +28,7 @@ Analyste_informatique,Analyste (informatique),https://fr.wikipedia.org/wiki/Anal
 Animation_2D_numerique,Animation 2D numérique,https://fr.wikipedia.org/wiki/Animation_2D_num%C3%A9rique,recherche,0,239054911,414,18,1
 Appareil_informatique,Appareil informatique,https://fr.wikipedia.org/wiki/Appareil_informatique,recherche,0,239871558,1421,56,1
 Application_mobile,Application mobile,https://fr.wikipedia.org/wiki/Application_mobile,recherche,0,240352791,1261,8,1
-Arthur_C_Clarke,Arthur C. Clarke,https://fr.wikipedia.org/wiki/Arthur_C._Clarke,recherche,0,239832141,2047,5,1
+Arthur_C_Clarke,Arthur C. Clarke,https://fr.wikipedia.org/wiki/Arthur_C._Clarke,recherche,0,239832141,2047,5,0
 BIOS_informatique,BIOS (informatique),https://fr.wikipedia.org/wiki/BIOS_%28informatique%29,recherche,0,238793618,1785,14,1
 Base_de_donnees,Base de données,https://fr.wikipedia.org/wiki/Base_de_donn%C3%A9es,recherche,0,239341172,4879,26,1
 Berkeley_Open_Infrastructure_for_Network_Computing,Berkeley Open Infrastructure for Network Computing,https://fr.wikipedia.org/wiki/Berkeley_Open_Infrastructure_for_Network_Computing,recherche,0,237788252,1101,23,1
@@ -74,7 +74,7 @@ Logiciel_malveillant,Logiciel malveillant,https://fr.wikipedia.org/wiki/Logiciel
 Login_informatique,Login (informatique),https://fr.wikipedia.org/wiki/Login_%28informatique%29,recherche,0,240548524,791,13,1
 Loi_informatique_et_libertes,Loi informatique et libertés,https://fr.wikipedia.org/wiki/Loi_informatique_et_libert%C3%A9s,recherche,0,239830027,4619,25,1
 Machine_outil_a_commande_numerique,Machine-outil à commande numérique,https://fr.wikipedia.org/wiki/Machine-outil_%C3%A0_commande_num%C3%A9rique,recherche,0,240219787,1995,35,1
-Mathematiques,Mathématiques,https://fr.wikipedia.org/wiki/Math%C3%A9matiques,recherche,0,240345834,7558,20,1
+Mathematiques,Mathématiques,https://fr.wikipedia.org/wiki/Math%C3%A9matiques,recherche,0,240345834,7558,20,0
 Messagerie_instantanee,Messagerie instantanée,https://fr.wikipedia.org/wiki/Messagerie_instantan%C3%A9e,recherche,0,240151104,1687,10,1
 Michael_Dell,Michael Dell,https://fr.wikipedia.org/wiki/Michael_Dell,recherche,0,240176755,792,9,1
 Micro_informatique,Micro-informatique,https://fr.wikipedia.org/wiki/Micro-informatique,recherche,0,231412492,893,26,1
@@ -95,7 +95,7 @@ Processus_informatique,Processus (informatique),https://fr.wikipedia.org/wiki/Pr
 Programmation_informatique,Programmation informatique,https://fr.wikipedia.org/wiki/Programmation_informatique,recherche,0,240505226,3244,28,1
 Proxy,Proxy,https://fr.wikipedia.org/wiki/Proxy,recherche,0,237318619,1404,15,1
 Peripherique_informatique,Périphérique informatique,https://fr.wikipedia.org/wiki/P%C3%A9riph%C3%A9rique_informatique,recherche,0,233830274,661,14,1
-Radio_television_belge_de_la_Communaute_francaise,Radio-télévision belge de la Communauté française,https://fr.wikipedia.org/wiki/Radio-t%C3%A9l%C3%A9vision_belge_de_la_Communaut%C3%A9_fran%C3%A7aise,recherche,0,240133702,4095,14,1
+Radio_television_belge_de_la_Communaute_francaise,Radio-télévision belge de la Communauté française,https://fr.wikipedia.org/wiki/Radio-t%C3%A9l%C3%A9vision_belge_de_la_Communaut%C3%A9_fran%C3%A7aise,recherche,0,240133702,4095,14,0
 Reglement_general_sur_la_protection_des_donnees,Règlement général sur la protection des données,https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es,recherche,0,240406447,4826,9,1
 Reseau_prive_virtuel,Réseau privé virtuel,https://fr.wikipedia.org/wiki/R%C3%A9seau_priv%C3%A9_virtuel,recherche,0,237655005,1443,14,1
 Reseau_social_Internet,Réseau social (Internet),https://fr.wikipedia.org/wiki/R%C3%A9seau_social_%28Internet%29,recherche,0,240498473,15453,72,1
@@ -188,7 +188,7 @@ A_Michael_Noll,A. Michael Noll,https://fr.wikipedia.org/wiki/A._Michael_Noll,rec
 ACIS,ACIS,https://fr.wikipedia.org/wiki/ACIS,recherche,0,232698959,103,3,0
 AMANDA_informatique,AMANDA (informatique),https://fr.wikipedia.org/wiki/AMANDA_%28informatique%29,recherche,0,237245287,81,3,0
 AMPS_informatique,AMPS (informatique),https://fr.wikipedia.org/wiki/AMPS_%28informatique%29,recherche,0,130900543,35,1,0
-AO,AO,https://fr.wikipedia.org/wiki/AO,recherche,0,238554809,308,5,1
+AO,AO,https://fr.wikipedia.org/wiki/AO,recherche,0,238554809,308,5,0
 API_Platform,API Platform,https://fr.wikipedia.org/wiki/API_Platform,recherche,0,224736356,276,1,0
 AR24,AR24,https://fr.wikipedia.org/wiki/AR24,recherche,0,238702578,441,9,1
 ARIANE_autorite_francaise,ARIANE (autorité française),https://fr.wikipedia.org/wiki/ARIANE_%28autorit%C3%A9_fran%C3%A7aise%29,recherche,0,240401235,528,10,1
@@ -240,10 +240,10 @@ Aleph_lettre,Aleph (lettre),https://fr.wikipedia.org/wiki/Aleph_%28lettre%29,rec
 Alessandro_Barbero,Alessandro Barbero,https://fr.wikipedia.org/wiki/Alessandro_Barbero,recherche,0,239505785,1145,2,0
 Alexa_Internet,Alexa Internet,https://fr.wikipedia.org/wiki/Alexa_Internet,recherche,0,240059183,1008,8,1
 Alexandre_Oliva_informaticien,Alexandre Oliva (informaticien),https://fr.wikipedia.org/wiki/Alexandre_Oliva_%28informaticien%29,recherche,0,230419240,66,2,0
-Alfa_Mist,Alfa Mist,https://fr.wikipedia.org/wiki/Alfa_Mist,recherche,0,239899238,308,10,1
+Alfa_Mist,Alfa Mist,https://fr.wikipedia.org/wiki/Alfa_Mist,recherche,0,239899238,308,10,0
 Algorithme,Algorithme,https://fr.wikipedia.org/wiki/Algorithme,recherche,0,238547740,2852,15,1
 Algorithme_quantique,Algorithme quantique,https://fr.wikipedia.org/wiki/Algorithme_quantique,recherche,0,236355583,3086,30,1
-Algebre_lineaire_numerique,Algèbre linéaire numérique,https://fr.wikipedia.org/wiki/Alg%C3%A8bre_lin%C3%A9aire_num%C3%A9rique,recherche,0,234294800,2465,32,1
+Algebre_lineaire_numerique,Algèbre linéaire numérique,https://fr.wikipedia.org/wiki/Alg%C3%A8bre_lin%C3%A9aire_num%C3%A9rique,recherche,0,234294800,2465,32,0
 Alibaba_Group,Alibaba Group,https://fr.wikipedia.org/wiki/Alibaba_Group,recherche,0,240378618,1758,3,0
 Alice_Bob,Alice & Bob,https://fr.wikipedia.org/wiki/Alice_%26_Bob,recherche,0,236920075,410,6,1
 Alice_ordinateur,Alice (ordinateur),https://fr.wikipedia.org/wiki/Alice_%28ordinateur%29,recherche,0,236614930,445,7,1
@@ -266,7 +266,7 @@ Amiga_500,Amiga 500+,https://fr.wikipedia.org/wiki/Amiga_500%2B,recherche,0,2399
 Amstrad_CPC,Amstrad CPC,https://fr.wikipedia.org/wiki/Amstrad_CPC,recherche,0,235091709,2047,14,1
 Amstrad_CPC_664,Amstrad CPC 664,https://fr.wikipedia.org/wiki/Amstrad_CPC_664,recherche,0,239977202,261,4,0
 Amenagement_numerique,Aménagement numérique,https://fr.wikipedia.org/wiki/Am%C3%A9nagement_num%C3%A9rique,recherche,0,234324886,1259,17,1
-Analyse_numerique,Analyse numérique,https://fr.wikipedia.org/wiki/Analyse_num%C3%A9rique,recherche,0,239945935,1889,31,1
+Analyse_numerique,Analyse numérique,https://fr.wikipedia.org/wiki/Analyse_num%C3%A9rique,recherche,0,239945935,1889,31,0
 Analyseur_differentiel_numerique,Analyseur différentiel numérique,https://fr.wikipedia.org/wiki/Analyseur_diff%C3%A9rentiel_num%C3%A9rique,recherche,0,208952665,150,1,0
 Android,Android,https://fr.wikipedia.org/wiki/Android,recherche,0,240261608,9321,15,1
 Andre_Truong_Trong_Thi,André Truong Trong Thi,https://fr.wikipedia.org/wiki/Andr%C3%A9_Truong_Trong_Thi,recherche,0,240265690,1109,15,1
@@ -334,7 +334,7 @@ Appareil_electronique,Appareil électronique,https://fr.wikipedia.org/wiki/Appar
 Appel_informatique,Appel (informatique),https://fr.wikipedia.org/wiki/Appel_%28informatique%29,recherche,0,210560160,111,1,0
 Appel_selectif_numerique,Appel sélectif numérique,https://fr.wikipedia.org/wiki/Appel_s%C3%A9lectif_num%C3%A9rique,recherche,0,236618471,629,4,0
 Apple,Apple,https://fr.wikipedia.org/wiki/Apple,recherche,0,239668396,13361,44,1
-Apple_homonymie,Apple (homonymie),https://fr.wikipedia.org/wiki/Apple_%28homonymie%29,recherche,0,209940945,307,5,1
+Apple_homonymie,Apple (homonymie),https://fr.wikipedia.org/wiki/Apple_%28homonymie%29,recherche,0,209940945,307,5,0
 Apple_I,Apple I,https://fr.wikipedia.org/wiki/Apple_I,recherche,0,238805938,666,5,1
 Apple_Lossless,Apple Lossless,https://fr.wikipedia.org/wiki/Apple_Lossless,recherche,0,235112977,240,1,0
 Apple_M1_Ultra,Apple M1 Ultra,https://fr.wikipedia.org/wiki/Apple_M1_Ultra,recherche,0,232687861,169,1,0
@@ -416,7 +416,7 @@ Bazaar_logiciel,Bazaar (logiciel),https://fr.wikipedia.org/wiki/Bazaar_%28logici
 Bell_Internet,Bell Internet,https://fr.wikipedia.org/wiki/Bell_Internet,recherche,0,233646493,742,9,1
 Belle_ordinateur_d_echecs,Belle (ordinateur d'échecs),https://fr.wikipedia.org/wiki/Belle_%28ordinateur_d%27%C3%A9checs%29,recherche,0,155174895,185,4,0
 Belle_Delphine,Belle Delphine,https://fr.wikipedia.org/wiki/Belle_Delphine,recherche,0,238073410,2782,7,1
-Benjamin_auteur_chinois,Benjamin (auteur chinois),https://fr.wikipedia.org/wiki/Benjamin_%28auteur_chinois%29,recherche,0,237047670,909,6,1
+Benjamin_auteur_chinois,Benjamin (auteur chinois),https://fr.wikipedia.org/wiki/Benjamin_%28auteur_chinois%29,recherche,0,237047670,909,6,0
 Benjamin_Mako_Hill,Benjamin Mako Hill,https://fr.wikipedia.org/wiki/Benjamin_Mako_Hill,recherche,0,238270004,62,2,0
 Benoit_Thieulin,Benoît Thieulin,https://fr.wikipedia.org/wiki/Beno%C3%AEt_Thieulin,recherche,0,240236664,605,17,1
 Beonex_Communicator,Beonex Communicator,https://fr.wikipedia.org/wiki/Beonex_Communicator,recherche,0,159134008,93,3,0
@@ -427,7 +427,7 @@ Betacam_numerique,Betacam numérique,https://fr.wikipedia.org/wiki/Betacam_num%C
 Bhad_Bhabie,Bhad Bhabie,https://fr.wikipedia.org/wiki/Bhad_Bhabie,recherche,0,240359759,974,1,0
 Bibliotheque_diplomatique_numerique,Bibliothèque diplomatique numérique,https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_diplomatique_num%C3%A9rique,recherche,0,218700347,305,4,0
 Bibliotheque_francophone_numerique,Bibliothèque francophone numérique,https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_francophone_num%C3%A9rique,recherche,0,234480840,823,17,1
-Bibliotheque_municipale,Bibliothèque municipale,https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_municipale,recherche,0,240237911,2649,7,1
+Bibliotheque_municipale,Bibliothèque municipale,https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_municipale,recherche,0,240237911,2649,7,0
 Bibliotheque_numerique,Bibliothèque numérique,https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_num%C3%A9rique,recherche,0,237702467,4326,96,1
 Bibliotheque_numerique_kurde,Bibliothèque numérique kurde,https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_num%C3%A9rique_kurde,recherche,0,164359511,83,5,1
 Bibliotheque_numerique_marocaine,Bibliothèque numérique marocaine,https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_num%C3%A9rique_marocaine,recherche,0,230860538,101,2,0
@@ -491,7 +491,7 @@ CD_G,CD+G,https://fr.wikipedia.org/wiki/CD%2BG,recherche,0,229190693,260,1,0
 CD_ROM,CD-ROM,https://fr.wikipedia.org/wiki/CD-ROM,recherche,0,239946223,1653,16,1
 CEREC_medecine,CEREC (médecine),https://fr.wikipedia.org/wiki/CEREC_%28m%C3%A9decine%29,recherche,0,234529328,563,4,0
 CFAO,CFAO,https://fr.wikipedia.org/wiki/CFAO,recherche,0,230653464,32,3,0
-CG,CG,https://fr.wikipedia.org/wiki/CG,recherche,0,238858340,233,5,1
+CG,CG,https://fr.wikipedia.org/wiki/CG,recherche,0,238858340,233,5,0
 CGI_Informatique,CGI Informatique,https://fr.wikipedia.org/wiki/CGI_Informatique,recherche,0,234529594,470,5,1
 CHIP_ordinateur,CHIP (ordinateur),https://fr.wikipedia.org/wiki/CHIP_%28ordinateur%29,recherche,0,213265212,81,2,0
 CLASS_informatique,CLASS (informatique),https://fr.wikipedia.org/wiki/CLASS_%28informatique%29,recherche,0,219535495,338,1,0
@@ -501,8 +501,8 @@ CURL,CURL,https://fr.wikipedia.org/wiki/CURL,recherche,0,234530413,196,1,0
 Cadre_numerique,Cadre numérique,https://fr.wikipedia.org/wiki/Cadre_num%C3%A9rique,recherche,0,234423686,441,10,1
 Cahier_numerique,Cahier numérique,https://fr.wikipedia.org/wiki/Cahier_num%C3%A9rique,recherche,0,235135480,336,3,0
 CakePHP,CakePHP,https://fr.wikipedia.org/wiki/CakePHP,recherche,0,228185503,250,0,0
-Calcul_numerique,Calcul numérique,https://fr.wikipedia.org/wiki/Calcul_num%C3%A9rique,recherche,0,224949632,949,32,1
-Calcul_numerique_d_une_integrale,Calcul numérique d'une intégrale,https://fr.wikipedia.org/wiki/Calcul_num%C3%A9rique_d%27une_int%C3%A9grale,recherche,0,236911924,5348,11,1
+Calcul_numerique,Calcul numérique,https://fr.wikipedia.org/wiki/Calcul_num%C3%A9rique,recherche,0,224949632,949,32,0
+Calcul_numerique_d_une_integrale,Calcul numérique d'une intégrale,https://fr.wikipedia.org/wiki/Calcul_num%C3%A9rique_d%27une_int%C3%A9grale,recherche,0,236911924,5348,11,0
 Calculatrice_programmable,Calculatrice programmable,https://fr.wikipedia.org/wiki/Calculatrice_programmable,recherche,0,239357624,2049,23,1
 Calligra_Suite,Calligra Suite,https://fr.wikipedia.org/wiki/Calligra_Suite,recherche,0,239791487,185,0,0
 Camgirl,Camgirl,https://fr.wikipedia.org/wiki/Camgirl,recherche,0,240211411,952,3,0
@@ -521,8 +521,8 @@ Cargo_informatique,Cargo (informatique),https://fr.wikipedia.org/wiki/Cargo_%28i
 Cartable_numerique,Cartable numérique,https://fr.wikipedia.org/wiki/Cartable_num%C3%A9rique,recherche,0,234489254,117,5,1
 Carte_d_extension,Carte d'extension,https://fr.wikipedia.org/wiki/Carte_d%27extension,recherche,0,239944828,230,5,1
 Carte_mere,Carte mère,https://fr.wikipedia.org/wiki/Carte_m%C3%A8re,recherche,0,240098146,3175,27,1
-Carte_nationale_d_identite_en_France,Carte nationale d'identité en France,https://fr.wikipedia.org/wiki/Carte_nationale_d%27identit%C3%A9_en_France,recherche,0,240433454,4309,10,1
-Cartographie,Cartographie,https://fr.wikipedia.org/wiki/Cartographie,recherche,0,240500917,3892,20,1
+Carte_nationale_d_identite_en_France,Carte nationale d'identité en France,https://fr.wikipedia.org/wiki/Carte_nationale_d%27identit%C3%A9_en_France,recherche,0,240433454,4309,10,0
+Cartographie,Cartographie,https://fr.wikipedia.org/wiki/Cartographie,recherche,0,240500917,3892,20,0
 Cartouche_informatique,Cartouche informatique,https://fr.wikipedia.org/wiki/Cartouche_informatique,recherche,0,236557825,290,13,1
 Casino_virtuel,Casino virtuel,https://fr.wikipedia.org/wiki/Casino_virtuel,recherche,0,240542219,978,4,0
 Cassandra_base_de_donnees,Cassandra (base de données),https://fr.wikipedia.org/wiki/Cassandra_%28base_de_donn%C3%A9es%29,recherche,0,234558444,462,2,0
@@ -542,7 +542,7 @@ Certificat_informatique_et_internet,Certificat informatique et internet,https://
 Certificat_electronique,Certificat électronique,https://fr.wikipedia.org/wiki/Certificat_%C3%A9lectronique,recherche,0,230511037,2027,13,1
 Chargeur_informatique,Chargeur (informatique),https://fr.wikipedia.org/wiki/Chargeur_%28informatique%29,recherche,0,240481134,202,1,0
 Charles_Babbage,Charles Babbage,https://fr.wikipedia.org/wiki/Charles_Babbage,recherche,0,240545827,1539,4,0
-Charles_Conrad_Abbott,Charles Conrad Abbott,https://fr.wikipedia.org/wiki/Charles_Conrad_Abbott,recherche,0,238513627,563,15,1
+Charles_Conrad_Abbott,Charles Conrad Abbott,https://fr.wikipedia.org/wiki/Charles_Conrad_Abbott,recherche,0,238513627,563,15,0
 Chat_espace_virtuel,Chat (espace virtuel),https://fr.wikipedia.org/wiki/Chat_%28espace_virtuel%29,recherche,0,240272179,1219,9,1
 ChatGPT,ChatGPT,https://fr.wikipedia.org/wiki/ChatGPT,recherche,0,240480891,8229,21,1
 Chaine_numerique,Chaîne numérique,https://fr.wikipedia.org/wiki/Cha%C3%AEne_num%C3%A9rique,recherche,0,149766200,380,4,0
@@ -621,7 +621,7 @@ Conception_assistee_par_ordinateur_pour_l_electron,Conception assistée par ordi
 Conception_et_fabrication_assistees_par_ordinateur,Conception et fabrication assistées par ordinateur,https://fr.wikipedia.org/wiki/Conception_et_fabrication_assist%C3%A9es_par_ordinateur,recherche,0,214923455,150,6,1
 Conception_mecanique_assistee_par_ordinateur,Conception mécanique assistée par ordinateur,https://fr.wikipedia.org/wiki/Conception_m%C3%A9canique_assist%C3%A9e_par_ordinateur,recherche,0,208467571,822,5,1
 Concurrent_versions_system,Concurrent versions system,https://fr.wikipedia.org/wiki/Concurrent_versions_system,recherche,0,234417503,250,0,0
-Conditionnement_analyse_numerique,Conditionnement (analyse numérique),https://fr.wikipedia.org/wiki/Conditionnement_%28analyse_num%C3%A9rique%29,recherche,0,226241578,1147,6,1
+Conditionnement_analyse_numerique,Conditionnement (analyse numérique),https://fr.wikipedia.org/wiki/Conditionnement_%28analyse_num%C3%A9rique%29,recherche,0,226241578,1147,6,0
 Conduite_analysee_par_ordinateur,Conduite analysée par ordinateur,https://fr.wikipedia.org/wiki/Conduite_analys%C3%A9e_par_ordinateur,recherche,0,192209274,702,3,0
 Confidentialite_numerique,Confidentialité numérique,https://fr.wikipedia.org/wiki/Confidentialit%C3%A9_num%C3%A9rique,recherche,0,233059108,745,10,1
 Configuration_informatique,Configuration (informatique),https://fr.wikipedia.org/wiki/Configuration_%28informatique%29,recherche,0,226831496,553,8,1
@@ -679,12 +679,12 @@ Deep_Thought_ordinateur_d_echecs,Deep Thought (ordinateur d'échecs),https://fr.
 Deezer,Deezer,https://fr.wikipedia.org/wiki/Deezer,recherche,0,240213737,5402,6,1
 Defense_Advanced_Research_Projects_Agency,Defense Advanced Research Projects Agency,https://fr.wikipedia.org/wiki/Defense_Advanced_Research_Projects_Agency,recherche,0,237828127,1790,9,1
 Dell,Dell,https://fr.wikipedia.org/wiki/Dell,recherche,0,234835673,1882,20,1
-Demi_groupe_numerique,Demi-groupe numérique,https://fr.wikipedia.org/wiki/Demi-groupe_num%C3%A9rique,recherche,0,240349534,1879,26,1
+Demi_groupe_numerique,Demi-groupe numérique,https://fr.wikipedia.org/wiki/Demi-groupe_num%C3%A9rique,recherche,0,240349534,1879,26,0
 Demon_Internet,Demon Internet,https://fr.wikipedia.org/wiki/Demon_Internet,recherche,0,231981148,234,4,0
 Deno_logiciel,Deno (logiciel),https://fr.wikipedia.org/wiki/Deno_%28logiciel%29,recherche,0,222564632,62,0,0
-Densite_numerique,Densité numérique,https://fr.wikipedia.org/wiki/Densit%C3%A9_num%C3%A9rique,recherche,0,197393145,439,7,1
+Densite_numerique,Densité numérique,https://fr.wikipedia.org/wiki/Densit%C3%A9_num%C3%A9rique,recherche,0,197393145,439,7,0
 Design_numerique,Design numérique,https://fr.wikipedia.org/wiki/Design_num%C3%A9rique,recherche,0,238632579,959,23,1
-Dessin_anime,Dessin animé,https://fr.wikipedia.org/wiki/Dessin_anim%C3%A9,recherche,0,240169910,2330,22,1
+Dessin_anime,Dessin animé,https://fr.wikipedia.org/wiki/Dessin_anim%C3%A9,recherche,0,240169910,2330,22,0
 Dessin_artistique_sur_ordinateur,Dessin artistique sur ordinateur,https://fr.wikipedia.org/wiki/Dessin_artistique_sur_ordinateur,recherche,0,237826197,250,12,1
 Dessin_assiste_par_ordinateur,Dessin assisté par ordinateur,https://fr.wikipedia.org/wiki/Dessin_assist%C3%A9_par_ordinateur,recherche,0,237556223,394,8,1
 Deuil_la_Barre,Deuil-la-Barre,https://fr.wikipedia.org/wiki/Deuil-la-Barre,recherche,0,240376011,4310,5,0
@@ -692,13 +692,13 @@ Devise_en_or_numerique,Devise en or numérique,https://fr.wikipedia.org/wiki/Dev
 Dharma_informatique,Dharma (informatique),https://fr.wikipedia.org/wiki/Dharma_%28informatique%29,recherche,0,236554090,51,1,0
 Dia_logiciel,Dia (logiciel),https://fr.wikipedia.org/wiki/Dia_%28logiciel%29,recherche,0,237300378,227,1,0
 Dick_pic,Dick pic,https://fr.wikipedia.org/wiki/Dick_pic,recherche,0,240008983,1245,3,0
-Dictionnaire_historique_de_la_Suisse,Dictionnaire historique de la Suisse,https://fr.wikipedia.org/wiki/Dictionnaire_historique_de_la_Suisse,recherche,0,239087356,2592,7,1
+Dictionnaire_historique_de_la_Suisse,Dictionnaire historique de la Suisse,https://fr.wikipedia.org/wiki/Dictionnaire_historique_de_la_Suisse,recherche,0,239087356,2592,7,0
 Dictionnaire_numerique,Dictionnaire numérique,https://fr.wikipedia.org/wiki/Dictionnaire_num%C3%A9rique,recherche,0,231295491,1537,24,1
 Diff,Diff,https://fr.wikipedia.org/wiki/Diff,recherche,0,236636617,267,0,0
 Diffusion_en_direct_sur_Internet,Diffusion en direct sur Internet,https://fr.wikipedia.org/wiki/Diffusion_en_direct_sur_Internet,recherche,0,239012134,677,6,1
 Diffusion_numerique,Diffusion numérique,https://fr.wikipedia.org/wiki/Diffusion_num%C3%A9rique,recherche,0,155209281,356,1,0
 DigiKam,DigiKam,https://fr.wikipedia.org/wiki/DigiKam,recherche,0,230413954,111,0,0
-Digital,Digital,https://fr.wikipedia.org/wiki/Digital,recherche,0,240430449,408,9,1
+Digital,Digital,https://fr.wikipedia.org/wiki/Digital,recherche,0,240430449,408,9,0
 Digital_Audio_Broadcasting,Digital Audio Broadcasting,https://fr.wikipedia.org/wiki/Digital_Audio_Broadcasting,recherche,0,240024892,3333,21,1
 Digital_Equipment_Corporation,Digital Equipment Corporation,https://fr.wikipedia.org/wiki/Digital_Equipment_Corporation,recherche,0,239420413,838,19,1
 Digital_Object_Identifier,Digital Object Identifier,https://fr.wikipedia.org/wiki/Digital_Object_Identifier,recherche,0,239102558,645,4,0
@@ -756,7 +756,7 @@ Depannage_informatique,Dépannage informatique,https://fr.wikipedia.org/wiki/D%C
 Departement_d_informatique_et_de_recherche_operati,Département d'informatique et de recherche opérationnelle de l'Université de Montréal,https://fr.wikipedia.org/wiki/D%C3%A9partement_d%27informatique_et_de_recherche_op%C3%A9rationnelle_de_l%27Universit%C3%A9_de_Montr%C3%A9al,recherche,0,235681779,455,21,1
 Dependance_a_Internet,Dépendance à Internet,https://fr.wikipedia.org/wiki/D%C3%A9pendance_%C3%A0_Internet,recherche,0,238657841,7136,116,1
 Deploiement_du_DAB_en_France,Déploiement du DAB+ en France,https://fr.wikipedia.org/wiki/D%C3%A9ploiement_du_DAB%2B_en_France,recherche,0,240426355,4146,25,1
-Derivation_numerique,Dérivation numérique,https://fr.wikipedia.org/wiki/D%C3%A9rivation_num%C3%A9rique,recherche,0,223590303,1839,11,1
+Derivation_numerique,Dérivation numérique,https://fr.wikipedia.org/wiki/D%C3%A9rivation_num%C3%A9rique,recherche,0,223590303,1839,11,0
 Desinformation,Désinformation,https://fr.wikipedia.org/wiki/D%C3%A9sinformation,recherche,0,240346589,3925,17,1
 Desintoxication_numerique,Désintoxication numérique,https://fr.wikipedia.org/wiki/D%C3%A9sintoxication_num%C3%A9rique,recherche,0,239908078,2264,55,1
 Determination_des_surfaces_cachees,Détermination des surfaces cachées,https://fr.wikipedia.org/wiki/D%C3%A9termination_des_surfaces_cach%C3%A9es,recherche,0,236590021,518,3,0
@@ -791,7 +791,7 @@ English_Electric,English Electric,https://fr.wikipedia.org/wiki/English_Electric
 Enigmail,Enigmail,https://fr.wikipedia.org/wiki/Enigmail,recherche,0,234927335,120,1,0
 Enlightenment_logiciel,Enlightenment (logiciel),https://fr.wikipedia.org/wiki/Enlightenment_%28logiciel%29,recherche,0,240324373,1538,2,0
 Enregistrement_sonore,Enregistrement sonore,https://fr.wikipedia.org/wiki/Enregistrement_sonore,recherche,0,234927987,4554,23,1
-Enregistreur_lecteur_de_bande_magnetique,Enregistreur-lecteur de bande magnétique,https://fr.wikipedia.org/wiki/Enregistreur-lecteur_de_bande_magn%C3%A9tique,recherche,0,237089599,1082,5,1
+Enregistreur_lecteur_de_bande_magnetique,Enregistreur-lecteur de bande magnétique,https://fr.wikipedia.org/wiki/Enregistreur-lecteur_de_bande_magn%C3%A9tique,recherche,0,237089599,1082,5,0
 Enseignement_assiste_par_ordinateur,Enseignement assisté par ordinateur,https://fr.wikipedia.org/wiki/Enseignement_assist%C3%A9_par_ordinateur,recherche,0,234172778,334,4,0
 Enseignement_des_langues_assiste_par_ordinateur,Enseignement des langues assisté par ordinateur,https://fr.wikipedia.org/wiki/Enseignement_des_langues_assist%C3%A9_par_ordinateur,recherche,0,229120131,212,5,1
 Enseignement_numerique,Enseignement numérique,https://fr.wikipedia.org/wiki/Enseignement_num%C3%A9rique,recherche,0,239245176,191,10,1
@@ -855,7 +855,7 @@ Filae,Filae,https://fr.wikipedia.org/wiki/Filae,recherche,0,239828569,1900,3,0
 File_Roller,File Roller,https://fr.wikipedia.org/wiki/File_Roller,recherche,0,237440992,200,0,0
 File_Transfer_Protocol,File Transfer Protocol,https://fr.wikipedia.org/wiki/File_Transfer_Protocol,recherche,0,229406508,1763,5,1
 FileZilla,FileZilla,https://fr.wikipedia.org/wiki/FileZilla,recherche,0,237245185,653,1,0
-Film_cinema,Film (cinéma),https://fr.wikipedia.org/wiki/Film_%28cin%C3%A9ma%29,recherche,0,239356730,760,5,1
+Film_cinema,Film (cinéma),https://fr.wikipedia.org/wiki/Film_%28cin%C3%A9ma%29,recherche,0,239356730,760,5,0
 Film_pornographique,Film pornographique,https://fr.wikipedia.org/wiki/Film_pornographique,recherche,0,239868923,5647,8,0
 Filtrage_d_Internet,Filtrage d'Internet,https://fr.wikipedia.org/wiki/Filtrage_d%27Internet,recherche,0,227289715,800,8,1
 Filtre_informatique,Filtre (informatique),https://fr.wikipedia.org/wiki/Filtre_%28informatique%29,recherche,0,240306583,296,1,0
@@ -876,11 +876,11 @@ Fluxbox,Fluxbox,https://fr.wikipedia.org/wiki/Fluxbox,recherche,0,236614731,221,
 Fnac,Fnac,https://fr.wikipedia.org/wiki/Fnac,recherche,0,240134614,3856,3,0
 Focus_informatique,Focus (informatique),https://fr.wikipedia.org/wiki/Focus_%28informatique%29,recherche,0,211804356,196,1,0
 Focus_numerique,Focus numérique,https://fr.wikipedia.org/wiki/Focus_num%C3%A9rique,recherche,0,238854297,343,16,1
-Fonction_numerique,Fonction numérique,https://fr.wikipedia.org/wiki/Fonction_num%C3%A9rique,recherche,0,229271067,832,6,1
+Fonction_numerique,Fonction numérique,https://fr.wikipedia.org/wiki/Fonction_num%C3%A9rique,recherche,0,229271067,832,6,0
 Fondation_Linux,Fondation Linux,https://fr.wikipedia.org/wiki/Fondation_Linux,recherche,0,239774725,383,0,0
 Fondation_internet_nouvelle_generation,Fondation internet nouvelle génération,https://fr.wikipedia.org/wiki/Fondation_internet_nouvelle_g%C3%A9n%C3%A9ration,recherche,0,235249761,1880,19,1
 Forge_informatique,Forge (informatique),https://fr.wikipedia.org/wiki/Forge_%28informatique%29,recherche,0,225761101,771,5,1
-Format_35_mm,Format 35 mm,https://fr.wikipedia.org/wiki/Format_35_mm,recherche,0,239461581,1327,5,1
+Format_35_mm,Format 35 mm,https://fr.wikipedia.org/wiki/Format_35_mm,recherche,0,239461581,1327,5,0
 Formateur_en_informatique,Formateur en informatique,https://fr.wikipedia.org/wiki/Formateur_en_informatique,recherche,0,238341798,57,3,0
 Forum_des_droits_sur_l_internet,Forum des droits sur l'internet,https://fr.wikipedia.org/wiki/Forum_des_droits_sur_l%27internet,recherche,0,239086810,4211,60,1
 Fossil_logiciel,Fossil (logiciel),https://fr.wikipedia.org/wiki/Fossil_%28logiciel%29,recherche,0,219295025,270,1,0
@@ -956,7 +956,7 @@ GanttProject,GanttProject,https://fr.wikipedia.org/wiki/GanttProject,recherche,0
 Gael_Duval,Gaël Duval,https://fr.wikipedia.org/wiki/Ga%C3%ABl_Duval,recherche,0,240142502,329,5,1
 Geary_logiciel,Geary (logiciel),https://fr.wikipedia.org/wiki/Geary_%28logiciel%29,recherche,0,222758967,107,1,0
 Gecko_moteur_de_rendu,Gecko (moteur de rendu),https://fr.wikipedia.org/wiki/Gecko_%28moteur_de_rendu%29,recherche,0,240363958,845,1,0
-Gematria,Gematria,https://fr.wikipedia.org/wiki/Gematria,recherche,0,236882712,1127,8,1
+Gematria,Gematria,https://fr.wikipedia.org/wiki/Gematria,recherche,0,236882712,1127,8,0
 GendBuntu,GendBuntu,https://fr.wikipedia.org/wiki/GendBuntu,recherche,0,240271082,618,10,1
 Geneanet,Geneanet,https://fr.wikipedia.org/wiki/Geneanet,recherche,0,239610082,1517,4,0
 Genera,Genera,https://fr.wikipedia.org/wiki/Genera,recherche,0,230284060,84,1,0
@@ -992,7 +992,7 @@ Googlebook,Googlebook,https://fr.wikipedia.org/wiki/Googlebook,recherche,0,24040
 Goto_informatique,Goto (informatique),https://fr.wikipedia.org/wiki/Goto_%28informatique%29,recherche,0,238837932,1328,1,0
 Goulot_d_etranglement_informatique,Goulot d'étranglement (informatique),https://fr.wikipedia.org/wiki/Goulot_d%27%C3%A9tranglement_%28informatique%29,recherche,0,228787456,174,1,0
 Gouvernance_d_Internet,Gouvernance d'Internet,https://fr.wikipedia.org/wiki/Gouvernance_d%27Internet,recherche,0,236863960,1232,40,1
-Gouvernement_Lecornu_II,Gouvernement Lecornu II,https://fr.wikipedia.org/wiki/Gouvernement_Lecornu_II,recherche,0,240459125,4036,24,1
+Gouvernement_Lecornu_II,Gouvernement Lecornu II,https://fr.wikipedia.org/wiki/Gouvernement_Lecornu_II,recherche,0,240459125,4036,24,0
 Gpg4win,Gpg4win,https://fr.wikipedia.org/wiki/Gpg4win,recherche,0,237245224,160,0,0
 GrafX2,GrafX2,https://fr.wikipedia.org/wiki/GrafX2,recherche,0,230414003,890,5,1
 Grande_Ecole_du_numerique,Grande École du numérique,https://fr.wikipedia.org/wiki/Grande_%C3%89cole_du_num%C3%A9rique,recherche,0,235071746,595,20,1
@@ -1006,9 +1006,9 @@ Grep,Grep,https://fr.wikipedia.org/wiki/Grep,recherche,0,208238505,1007,2,0
 Grille_informatique,Grille informatique,https://fr.wikipedia.org/wiki/Grille_informatique,recherche,0,238037855,818,22,1
 Groupe_informatique,Groupe (informatique),https://fr.wikipedia.org/wiki/Groupe_%28informatique%29,recherche,0,184651205,130,1,0
 Groupe_Bayard,Groupe Bayard,https://fr.wikipedia.org/wiki/Groupe_Bayard,recherche,0,239525700,2357,2,0
-Groupe_Canal,Groupe Canal+,https://fr.wikipedia.org/wiki/Groupe_Canal%2B,recherche,0,240279939,3792,8,1
+Groupe_Canal,Groupe Canal+,https://fr.wikipedia.org/wiki/Groupe_Canal%2B,recherche,0,240279939,3792,8,0
 Groupe_SeLoger,Groupe SeLoger,https://fr.wikipedia.org/wiki/Groupe_SeLoger,recherche,0,239603057,876,11,1
-Groupe_TF1,Groupe TF1,https://fr.wikipedia.org/wiki/Groupe_TF1,recherche,0,240521416,4747,17,1
+Groupe_TF1,Groupe TF1,https://fr.wikipedia.org/wiki/Groupe_TF1,recherche,0,240521416,4747,17,0
 Groupe_d_utilisateurs_de_logiciels_libres,Groupe d'utilisateurs de logiciels libres,https://fr.wikipedia.org/wiki/Groupe_d%27utilisateurs_de_logiciels_libres,recherche,0,240195194,1081,7,1
 Grunt_informatique,Grunt (informatique),https://fr.wikipedia.org/wiki/Grunt_%28informatique%29,recherche,0,232045363,14,0,0
 Gregoire_chanteur,Grégoire (chanteur),https://fr.wikipedia.org/wiki/Gr%C3%A9goire_%28chanteur%29,recherche,0,239217880,1649,1,0
@@ -1017,7 +1017,7 @@ Gwenview,Gwenview,https://fr.wikipedia.org/wiki/Gwenview,recherche,0,237825895,1
 Gwyneth_Paltrow,Gwyneth Paltrow,https://fr.wikipedia.org/wiki/Gwyneth_Paltrow,recherche,0,240463028,3672,4,0
 Gzip,Gzip,https://fr.wikipedia.org/wiki/Gzip,recherche,0,240497003,366,1,0
 Genie_informatique,Génie informatique,https://fr.wikipedia.org/wiki/G%C3%A9nie_informatique,recherche,0,237127077,258,17,1
-Genealogie,Généalogie,https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9alogie,recherche,0,237959127,6808,21,1
+Genealogie,Généalogie,https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9alogie,recherche,0,237959127,6808,21,0
 Generation_informatique,Génération (informatique),https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9ration_%28informatique%29,recherche,0,202630204,76,1,0
 Generation_Z,Génération Z,https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9ration_Z,recherche,0,240359729,1187,20,1
 H2_base_de_donnees,H2 (base de données),https://fr.wikipedia.org/wiki/H2_%28base_de_donn%C3%A9es%29,recherche,0,219343729,373,0,0
@@ -1134,7 +1134,7 @@ Informatique_naturelle,Informatique naturelle,https://fr.wikipedia.org/wiki/Info
 Informatique_theorique,Informatique théorique,https://fr.wikipedia.org/wiki/Informatique_th%C3%A9orique,recherche,0,235743850,1686,37,1
 Informatisation,Informatisation,https://fr.wikipedia.org/wiki/Informatisation,recherche,0,228833337,230,6,1
 InfraNum,InfraNum,https://fr.wikipedia.org/wiki/InfraNum,recherche,0,235154431,201,0,0
-Inferiorite_numerique,Infériorité numérique,https://fr.wikipedia.org/wiki/Inf%C3%A9riorit%C3%A9_num%C3%A9rique,recherche,0,236953997,178,8,1
+Inferiorite_numerique,Infériorité numérique,https://fr.wikipedia.org/wiki/Inf%C3%A9riorit%C3%A9_num%C3%A9rique,recherche,0,236953997,178,8,0
 Ingres_base_de_donnees,Ingres (base de données),https://fr.wikipedia.org/wiki/Ingres_%28base_de_donn%C3%A9es%29,recherche,0,187759247,161,1,0
 Ingenierie_numerique,Ingénierie numérique,https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_num%C3%A9rique,recherche,0,180119830,84,8,1
 Injecteur_informatique,Injecteur (informatique),https://fr.wikipedia.org/wiki/Injecteur_%28informatique%29,recherche,0,233943488,78,2,0
@@ -1161,7 +1161,7 @@ Interface_de_programmation,Interface de programmation,https://fr.wikipedia.org/w
 Interface_en_ligne_de_commande,Interface en ligne de commande,https://fr.wikipedia.org/wiki/Interface_en_ligne_de_commande,recherche,0,234913960,2159,17,1
 Interface_graphique,Interface graphique,https://fr.wikipedia.org/wiki/Interface_graphique,recherche,0,240097706,1472,17,1
 Interface_web,Interface web,https://fr.wikipedia.org/wiki/Interface_web,recherche,0,212735440,110,4,0
-International_Standard_Book_Number,International Standard Book Number,https://fr.wikipedia.org/wiki/International_Standard_Book_Number,recherche,0,239630720,2241,5,1
+International_Standard_Book_Number,International Standard Book Number,https://fr.wikipedia.org/wiki/International_Standard_Book_Number,recherche,0,239630720,2241,5,0
 Internationalisation_informatique,Internationalisation (informatique),https://fr.wikipedia.org/wiki/Internationalisation_%28informatique%29,recherche,0,239018189,1999,3,0
 Internet_Arcade,Internet Arcade,https://fr.wikipedia.org/wiki/Internet_Arcade,recherche,0,215553737,98,3,0
 Internet_Architecture_Board,Internet Architecture Board,https://fr.wikipedia.org/wiki/Internet_Architecture_Board,recherche,0,231228701,237,9,1
@@ -1220,7 +1220,7 @@ Internet_en_Turquie,Internet en Turquie,https://fr.wikipedia.org/wiki/Internet_e
 Internet_industriel_des_objets,Internet industriel des objets,https://fr.wikipedia.org/wiki/Internet_industriel_des_objets,recherche,0,240434768,2722,46,1
 Internet_par_satellite,Internet par satellite,https://fr.wikipedia.org/wiki/Internet_par_satellite,recherche,0,235160559,1454,16,1
 Internet_a_Taiwan,Internet à Taïwan,https://fr.wikipedia.org/wiki/Internet_%C3%A0_Ta%C3%AFwan,recherche,0,180104020,279,3,0
-Internet,Internet+,https://fr.wikipedia.org/wiki/Internet%2B,recherche,0,235160458,848,16,1
+Internet_2,Internet+,https://fr.wikipedia.org/wiki/Internet%2B,recherche,0,235160458,848,16,1
 Internet_org,Internet.org,https://fr.wikipedia.org/wiki/Internet.org,recherche,0,237316913,666,12,1
 Interoperabilite_en_informatique,Interopérabilité en informatique,https://fr.wikipedia.org/wiki/Interop%C3%A9rabilit%C3%A9_en_informatique,recherche,0,239959093,4542,33,1
 Interpolation_numerique,Interpolation numérique,https://fr.wikipedia.org/wiki/Interpolation_num%C3%A9rique,recherche,0,232765502,1020,3,0
@@ -1296,15 +1296,15 @@ Kumbia_PHP_Framework,Kumbia PHP Framework,https://fr.wikipedia.org/wiki/Kumbia_P
 Kunihiko_Fukushima,Kunihiko Fukushima,https://fr.wikipedia.org/wiki/Kunihiko_Fukushima,recherche,0,237577038,443,5,1
 Kyan_Khojandi,Kyan Khojandi,https://fr.wikipedia.org/wiki/Kyan_Khojandi,recherche,0,240327269,1896,2,0
 Kylix_informatique,Kylix (informatique),https://fr.wikipedia.org/wiki/Kylix_%28informatique%29,recherche,0,239613914,185,0,0
-L_Opinion_quotidien_francais,L'Opinion (quotidien français),https://fr.wikipedia.org/wiki/L%27Opinion_%28quotidien_fran%C3%A7ais%29,recherche,0,237233752,1395,10,1
+L_Opinion_quotidien_francais,L'Opinion (quotidien français),https://fr.wikipedia.org/wiki/L%27Opinion_%28quotidien_fran%C3%A7ais%29,recherche,0,237233752,1395,10,0
 L_Ordinateur_de_poche,L'Ordinateur de poche,https://fr.wikipedia.org/wiki/L%27Ordinateur_de_poche,recherche,0,233390813,432,11,1
 L_Ordinateur_des_pompes_funebres,L'Ordinateur des pompes funèbres,https://fr.wikipedia.org/wiki/L%27Ordinateur_des_pompes_fun%C3%A8bres,recherche,0,238389047,411,6,1
 L_Ordinateur_en_folie,L'Ordinateur en folie,https://fr.wikipedia.org/wiki/L%27Ordinateur_en_folie,recherche,0,215518230,1184,14,1
 L_Ordinateur_individuel,L'Ordinateur individuel,https://fr.wikipedia.org/wiki/L%27Ordinateur_individuel,recherche,0,240441447,135,3,0
 L_Ordinatueur,L'Ordinatueur,https://fr.wikipedia.org/wiki/L%27Ordinatueur,recherche,0,236457273,547,9,1
-L_Equipe,L'Équipe,https://fr.wikipedia.org/wiki/L%27%C3%89quipe,recherche,0,240480284,3344,8,1
+L_Equipe,L'Équipe,https://fr.wikipedia.org/wiki/L%27%C3%89quipe,recherche,0,240480284,3344,8,0
 LAMA_informatique,LAMA (informatique),https://fr.wikipedia.org/wiki/LAMA_%28informatique%29,recherche,0,155188584,38,1,0
-LCI,LCI,https://fr.wikipedia.org/wiki/LCI,recherche,0,240476819,3790,11,1
+LCI,LCI,https://fr.wikipedia.org/wiki/LCI,recherche,0,240476819,3790,11,0
 LGBT_sur_Internet,LGBT sur Internet,https://fr.wikipedia.org/wiki/LGBT_sur_Internet,recherche,0,236459715,326,6,1
 LOL,LOL,https://fr.wikipedia.org/wiki/LOL,recherche,0,237778812,949,5,1
 LV2_plugin,LV2 (plugin),https://fr.wikipedia.org/wiki/LV2_%28plugin%29,recherche,0,231083897,161,1,0
@@ -1312,7 +1312,7 @@ LXQt,LXQt,https://fr.wikipedia.org/wiki/LXQt,recherche,0,232343262,116,1,0
 La_Chanson_du_dimanche,La Chanson du dimanche,https://fr.wikipedia.org/wiki/La_Chanson_du_dimanche,recherche,0,239927991,1505,4,0
 La_Femme_qui_ne_supportait_pas_les_ordinateurs,La Femme qui ne supportait pas les ordinateurs,https://fr.wikipedia.org/wiki/La_Femme_qui_ne_supportait_pas_les_ordinateurs,recherche,0,233182057,343,4,0
 La_Galaxie_Internet,La Galaxie Internet,https://fr.wikipedia.org/wiki/La_Galaxie_Internet,recherche,0,234281109,350,15,1
-La_Presse_Montreal,La Presse (Montréal),https://fr.wikipedia.org/wiki/La_Presse_%28Montr%C3%A9al%29,recherche,0,235295313,2206,6,1
+La_Presse_Montreal,La Presse (Montréal),https://fr.wikipedia.org/wiki/La_Presse_%28Montr%C3%A9al%29,recherche,0,235295313,2206,6,0
 La_Revelation_des_Pyramides,La Révélation des Pyramides,https://fr.wikipedia.org/wiki/La_R%C3%A9v%C3%A9lation_des_Pyramides,recherche,0,236185884,1355,2,0
 La_grande_question_sur_la_vie_l_Univers_et_le_rest,"La grande question sur la vie, l'Univers et le reste",https://fr.wikipedia.org/wiki/La_grande_question_sur_la_vie%2C_l%27Univers_et_le_reste,recherche,0,240128531,3032,16,1
 LaSuite,LaSuite,https://fr.wikipedia.org/wiki/LaSuite,recherche,0,239801583,340,6,1
@@ -1327,7 +1327,7 @@ Launchpad,Launchpad,https://fr.wikipedia.org/wiki/Launchpad,recherche,0,23942126
 Laurence_Devillers,Laurence Devillers,https://fr.wikipedia.org/wiki/Laurence_Devillers,recherche,0,240550739,976,13,1
 Laurence_Rossignol,Laurence Rossignol,https://fr.wikipedia.org/wiki/Laurence_Rossignol,recherche,0,240513866,2257,4,0
 Laetitia_Eido,Laëtitia Eïdo,https://fr.wikipedia.org/wiki/La%C3%ABtitia_E%C3%AFdo,recherche,0,240528521,1214,0,0
-Le_Canard_enchaine,Le Canard enchaîné,https://fr.wikipedia.org/wiki/Le_Canard_encha%C3%AEn%C3%A9,recherche,0,239485331,6791,17,1
+Le_Canard_enchaine,Le Canard enchaîné,https://fr.wikipedia.org/wiki/Le_Canard_encha%C3%AEn%C3%A9,recherche,0,239485331,6791,17,0
 Le_Cube_numerique,Le Cube numérique,https://fr.wikipedia.org/wiki/Le_Cube_num%C3%A9rique,recherche,0,235316125,132,2,0
 Le_Donjon_de_Naheulbeuk,Le Donjon de Naheulbeuk,https://fr.wikipedia.org/wiki/Le_Donjon_de_Naheulbeuk,recherche,0,238719027,7421,4,0
 Le_Grand_Ordinateur,Le Grand Ordinateur,https://fr.wikipedia.org/wiki/Le_Grand_Ordinateur,recherche,0,234489345,372,8,1
@@ -1339,7 +1339,7 @@ Les_Internettes,Les Internettes,https://fr.wikipedia.org/wiki/Les_Internettes,re
 Les_Numeriques,Les Numériques,https://fr.wikipedia.org/wiki/Les_Num%C3%A9riques,recherche,0,235332314,573,13,1
 Les_Puces_informatiques,Les Puces informatiques,https://fr.wikipedia.org/wiki/Les_Puces_informatiques,recherche,0,235332751,464,16,1
 Les_Shadoks,Les Shadoks,https://fr.wikipedia.org/wiki/Les_Shadoks,recherche,0,238980136,6559,6,0
-Les_Echos,Les Échos,https://fr.wikipedia.org/wiki/Les_%C3%89chos,recherche,0,239526174,2974,7,1
+Les_Echos,Les Échos,https://fr.wikipedia.org/wiki/Les_%C3%89chos,recherche,0,239526174,2974,7,0
 LevelDB,LevelDB,https://fr.wikipedia.org/wiki/LevelDB,recherche,0,199001710,17,0,0
 Lexis_Numerique,Lexis Numérique,https://fr.wikipedia.org/wiki/Lexis_Num%C3%A9rique,recherche,0,239911854,711,3,0
 Liberte,Liberté,https://fr.wikipedia.org/wiki/Libert%C3%A9,recherche,0,240428322,3983,5,0
@@ -1382,7 +1382,7 @@ Liste_de_personnalites_decedees_liees_au_Covid_19,Liste de personnalités décé
 Liste_de_produits_IBM,Liste de produits IBM,https://fr.wikipedia.org/wiki/Liste_de_produits_IBM,recherche,0,233357016,578,6,1
 Liste_de_revues_informatiques_sur_papier,Liste de revues informatiques sur papier,https://fr.wikipedia.org/wiki/Liste_de_revues_informatiques_sur_papier,recherche,0,233636535,410,15,1
 Liste_de_recompenses_de_cinema,Liste de récompenses de cinéma,https://fr.wikipedia.org/wiki/Liste_de_r%C3%A9compenses_de_cin%C3%A9ma,recherche,0,240018638,7106,2,0
-Liste_de_sigles_de_cinq_caracteres,Liste de sigles de cinq caractères,https://fr.wikipedia.org/wiki/Liste_de_sigles_de_cinq_caract%C3%A8res,recherche,0,240428914,7934,29,1
+Liste_de_sigles_de_cinq_caracteres,Liste de sigles de cinq caractères,https://fr.wikipedia.org/wiki/Liste_de_sigles_de_cinq_caract%C3%A8res,recherche,0,240428914,7934,29,0
 Liste_de_systemes_d_exploitation,Liste de systèmes d'exploitation,https://fr.wikipedia.org/wiki/Liste_de_syst%C3%A8mes_d%27exploitation,recherche,0,239113936,2356,15,1
 Liste_de_systemes_d_exploitation_libres,Liste de systèmes d'exploitation libres,https://fr.wikipedia.org/wiki/Liste_de_syst%C3%A8mes_d%27exploitation_libres,recherche,0,238675870,668,1,0
 Liste_de_termes_d_argot_Internet,Liste de termes d'argot Internet,https://fr.wikipedia.org/wiki/Liste_de_termes_d%27argot_Internet,recherche,0,239586861,3699,13,1
@@ -1410,7 +1410,7 @@ Loi_pour_la_confiance_dans_l_economie_numerique,Loi pour la confiance dans l'éc
 Loi_pour_une_Republique_numerique,Loi pour une République numérique,https://fr.wikipedia.org/wiki/Loi_pour_une_R%C3%A9publique_num%C3%A9rique,recherche,0,239786301,1178,26,1
 Lorem_ipsum,Lorem ipsum,https://fr.wikipedia.org/wiki/Lorem_ipsum,recherche,0,240077666,2612,2,0
 Lucene,Lucene,https://fr.wikipedia.org/wiki/Lucene,recherche,0,235004164,1123,1,0
-Luka_Rocco_Magnotta,Luka Rocco Magnotta,https://fr.wikipedia.org/wiki/Luka_Rocco_Magnotta,recherche,0,240369714,3557,11,1
+Luka_Rocco_Magnotta,Luka Rocco Magnotta,https://fr.wikipedia.org/wiki/Luka_Rocco_Magnotta,recherche,0,240369714,3557,11,0
 Luminance_HDR,Luminance HDR,https://fr.wikipedia.org/wiki/Luminance_HDR,recherche,0,179074278,118,2,0
 Lydia_paiement_sur_internet,Lydia (paiement sur internet),https://fr.wikipedia.org/wiki/Lydia_%28paiement_sur_internet%29,recherche,0,239916539,906,1,0
 Lynk_Co,Lynk & Co,https://fr.wikipedia.org/wiki/Lynk_%26_Co,recherche,0,235608243,961,2,0
@@ -1426,7 +1426,7 @@ MPlayer,MPlayer,https://fr.wikipedia.org/wiki/MPlayer,recherche,0,235432507,682,
 MSN,MSN,https://fr.wikipedia.org/wiki/MSN,recherche,0,236511199,991,13,1
 MacBook_Neo,MacBook Neo,https://fr.wikipedia.org/wiki/MacBook_Neo,recherche,0,238805799,251,3,0
 MacOS,MacOS,https://fr.wikipedia.org/wiki/MacOS,recherche,0,240531072,4872,21,1
-Machine,Machine,https://fr.wikipedia.org/wiki/Machine,recherche,0,234437706,1329,7,1
+Machine,Machine,https://fr.wikipedia.org/wiki/Machine,recherche,0,234437706,1329,7,0
 Machine_IAS,Machine IAS,https://fr.wikipedia.org/wiki/Machine_IAS,recherche,0,229324943,538,14,1
 Machine_de_Turing,Machine de Turing,https://fr.wikipedia.org/wiki/Machine_de_Turing,recherche,0,240242059,2058,6,1
 Machine_zombie,Machine zombie,https://fr.wikipedia.org/wiki/Machine_zombie,recherche,0,212587628,626,10,1
@@ -1435,7 +1435,7 @@ Macintosh,Macintosh,https://fr.wikipedia.org/wiki/Macintosh,recherche,0,24022015
 Macintosh_Portable,Macintosh Portable,https://fr.wikipedia.org/wiki/Macintosh_Portable,recherche,0,240373516,298,6,1
 Magnetoscope_numerique,Magnétoscope numérique,https://fr.wikipedia.org/wiki/Magn%C3%A9toscope_num%C3%A9rique,recherche,0,238168846,2171,34,1
 Mainteneur,Mainteneur,https://fr.wikipedia.org/wiki/Mainteneur,recherche,0,240442133,359,5,1
-Maison_d_edition,Maison d'édition,https://fr.wikipedia.org/wiki/Maison_d%27%C3%A9dition,recherche,0,238844307,3022,11,1
+Maison_d_edition,Maison d'édition,https://fr.wikipedia.org/wiki/Maison_d%27%C3%A9dition,recherche,0,238844307,3022,11,0
 Maman_sur_ordinateur,Maman sur ordinateur,https://fr.wikipedia.org/wiki/Maman_sur_ordinateur,recherche,0,235205366,251,3,0
 Manhwa,Manhwa,https://fr.wikipedia.org/wiki/Manhwa,recherche,0,236694372,3422,4,0
 Manifeste_GNU,Manifeste GNU,https://fr.wikipedia.org/wiki/Manifeste_GNU,recherche,0,238739394,407,2,0
@@ -1453,7 +1453,7 @@ Mark_Alexandre_Doumba,Mark Alexandre Doumba,https://fr.wikipedia.org/wiki/Mark_A
 Mark_Shuttleworth,Mark Shuttleworth,https://fr.wikipedia.org/wiki/Mark_Shuttleworth,recherche,0,238422928,596,1,0
 Marketing_electronique,Marketing électronique,https://fr.wikipedia.org/wiki/Marketing_%C3%A9lectronique,recherche,0,240449837,1195,23,1
 Maroc_Digital_2030,Maroc Digital 2030,https://fr.wikipedia.org/wiki/Maroc_Digital_2030,recherche,0,238705155,2500,33,1
-Masse_volumique,Masse volumique,https://fr.wikipedia.org/wiki/Masse_volumique,recherche,0,239848087,1600,5,1
+Masse_volumique,Masse volumique,https://fr.wikipedia.org/wiki/Masse_volumique,recherche,0,239848087,1600,5,0
 Massive_open_online_course,Massive open online course,https://fr.wikipedia.org/wiki/Massive_open_online_course,recherche,0,239829153,3740,17,1
 Master_en_informatique,Master en informatique,https://fr.wikipedia.org/wiki/Master_en_informatique,recherche,0,223623356,16,2,0
 Match_com,Match.com,https://fr.wikipedia.org/wiki/Match.com,recherche,0,236860770,52,1,0
@@ -1492,7 +1492,7 @@ Mindset_ordinateur,Mindset (ordinateur),https://fr.wikipedia.org/wiki/Mindset_%2
 Mini_ordinateur,Mini-ordinateur,https://fr.wikipedia.org/wiki/Mini-ordinateur,recherche,0,239894822,645,24,1
 Miniature_informatique,Miniature (informatique),https://fr.wikipedia.org/wiki/Miniature_%28informatique%29,recherche,0,231884672,575,2,0
 Miniaturisation,Miniaturisation,https://fr.wikipedia.org/wiki/Miniaturisation,recherche,0,214141283,524,10,1
-Ministere_de_l_Economie_et_des_Finances_France,Ministère de l'Économie et des Finances (France),https://fr.wikipedia.org/wiki/Minist%C3%A8re_de_l%27%C3%89conomie_et_des_Finances_%28France%29,recherche,0,240487060,2519,9,1
+Ministere_de_l_Economie_et_des_Finances_France,Ministère de l'Économie et des Finances (France),https://fr.wikipedia.org/wiki/Minist%C3%A8re_de_l%27%C3%89conomie_et_des_Finances_%28France%29,recherche,0,240487060,2519,9,0
 Ministere_de_l_Economie_numerique_des_Postes_et_Te,"Ministère de l'Économie numérique, des Postes et Télécommunications (République centrafricaine)",https://fr.wikipedia.org/wiki/Minist%C3%A8re_de_l%27%C3%89conomie_num%C3%A9rique%2C_des_Postes_et_T%C3%A9l%C3%A9communications_%28R%C3%A9publique_centrafricaine%29,recherche,0,239023161,157,4,0
 Ministere_de_la_Communication_de_l_Economie_numeri,"Ministère de la Communication, de l'Économie numérique et de l'Innovation",https://fr.wikipedia.org/wiki/Minist%C3%A8re_de_la_Communication%2C_de_l%27%C3%89conomie_num%C3%A9rique_et_de_l%27Innovation,recherche,0,238833476,15,1,0
 Ministere_de_la_Cybersecurite_et_du_Numerique,Ministère de la Cybersécurité et du Numérique,https://fr.wikipedia.org/wiki/Minist%C3%A8re_de_la_Cybers%C3%A9curit%C3%A9_et_du_Num%C3%A9rique,recherche,0,235470367,188,7,1
@@ -1566,7 +1566,7 @@ Methodes_de_refroidissement_pour_ordinateur,Méthodes de refroidissement pour or
 Methodes_de_saisie_et_d_encodage_du_chinois,Méthodes de saisie et d'encodage du chinois,https://fr.wikipedia.org/wiki/M%C3%A9thodes_de_saisie_et_d%27encodage_du_chinois,recherche,0,239188899,1033,2,0
 N26_banque,N26 (banque),https://fr.wikipedia.org/wiki/N26_%28banque%29,recherche,0,239112568,1030,4,0
 NFT,NFT,https://fr.wikipedia.org/wiki/NFT,recherche,0,237901553,4633,20,1
-NRJ_12,NRJ 12,https://fr.wikipedia.org/wiki/NRJ_12,recherche,0,240539527,1706,6,1
+NRJ_12,NRJ 12,https://fr.wikipedia.org/wiki/NRJ_12,recherche,0,240539527,1706,6,0
 NUM,NUM,https://fr.wikipedia.org/wiki/NUM,recherche,0,207391758,91,0,0
 NUT_format_conteneur,NUT (format conteneur),https://fr.wikipedia.org/wiki/NUT_%28format_conteneur%29,recherche,0,171038302,56,0,0
 Nano_informatique,Nano-informatique,https://fr.wikipedia.org/wiki/Nano-informatique,recherche,0,176478063,1347,16,1
@@ -1601,9 +1601,9 @@ Notepad,Notepad++,https://fr.wikipedia.org/wiki/Notepad%2B%2B,recherche,0,236477
 NumPy,NumPy,https://fr.wikipedia.org/wiki/NumPy,recherche,0,235578491,769,2,0
 NumWorks,NumWorks,https://fr.wikipedia.org/wiki/NumWorks,recherche,0,239780994,459,3,0
 Numeum,Numeum,https://fr.wikipedia.org/wiki/Numeum,recherche,0,237605719,584,23,1
-Numeration,Numération,https://fr.wikipedia.org/wiki/Num%C3%A9ration,recherche,0,238113192,1811,5,1
-Numeration_Suzhou,Numération Suzhou,https://fr.wikipedia.org/wiki/Num%C3%A9ration_Suzhou,recherche,0,212594087,1231,5,1
-Numeration_abjad,Numération abjad,https://fr.wikipedia.org/wiki/Num%C3%A9ration_abjad,recherche,0,223005562,987,5,1
+Numeration,Numération,https://fr.wikipedia.org/wiki/Num%C3%A9ration,recherche,0,238113192,1811,5,0
+Numeration_Suzhou,Numération Suzhou,https://fr.wikipedia.org/wiki/Num%C3%A9ration_Suzhou,recherche,0,212594087,1231,5,0
+Numeration_abjad,Numération abjad,https://fr.wikipedia.org/wiki/Num%C3%A9ration_abjad,recherche,0,223005562,987,5,0
 Numeration_brahmi,Numération brahmi,https://fr.wikipedia.org/wiki/Num%C3%A9ration_brahmi,recherche,0,195641488,141,3,0
 Numeration_chinoise,Numération chinoise,https://fr.wikipedia.org/wiki/Num%C3%A9ration_chinoise,recherche,0,236513035,333,0,0
 Numeration_coreenne,Numération coréenne,https://fr.wikipedia.org/wiki/Num%C3%A9ration_cor%C3%A9enne,recherche,0,233771815,464,1,0
@@ -1611,7 +1611,7 @@ Numeration_gotique,Numération gotique,https://fr.wikipedia.org/wiki/Num%C3%A9ra
 Numeration_grecque,Numération grecque,https://fr.wikipedia.org/wiki/Num%C3%A9ration_grecque,recherche,0,239933204,1461,1,0
 Numeration_hebraique,Numération hébraïque,https://fr.wikipedia.org/wiki/Num%C3%A9ration_h%C3%A9bra%C3%AFque,recherche,0,237951561,648,2,0
 Numeration_maya,Numération maya,https://fr.wikipedia.org/wiki/Num%C3%A9ration_maya,recherche,0,235578576,2385,1,0
-Numeration_mesopotamienne,Numération mésopotamienne,https://fr.wikipedia.org/wiki/Num%C3%A9ration_m%C3%A9sopotamienne,recherche,0,239147420,2567,9,1
+Numeration_mesopotamienne,Numération mésopotamienne,https://fr.wikipedia.org/wiki/Num%C3%A9ration_m%C3%A9sopotamienne,recherche,0,239147420,2567,9,0
 Numeration_romaine,Numération romaine,https://fr.wikipedia.org/wiki/Num%C3%A9ration_romaine,recherche,0,240515478,3061,0,0
 Numeration_tchouvache,Numération tchouvache,https://fr.wikipedia.org/wiki/Num%C3%A9ration_tchouvache,recherche,0,232878963,87,0,0
 Numerique,Numérique,https://fr.wikipedia.org/wiki/Num%C3%A9rique,recherche,0,240062070,2142,92,1
@@ -1688,8 +1688,8 @@ Organisation_europeenne_pour_la_recherche_nucleair,Organisation européenne pour
 Orgue_numerique,Orgue numérique,https://fr.wikipedia.org/wiki/Orgue_num%C3%A9rique,recherche,0,238384719,3365,43,1
 Oric,Oric,https://fr.wikipedia.org/wiki/Oric,recherche,0,239751390,5027,38,1
 Orthanc_logiciel,Orthanc (logiciel),https://fr.wikipedia.org/wiki/Orthanc_%28logiciel%29,recherche,0,238661285,201,1,0
-Outre_mer_La_Premiere,Outre-mer La Première,https://fr.wikipedia.org/wiki/Outre-mer_La_Premi%C3%A8re,recherche,0,240303343,2911,6,1
-Ouverture_numerique,Ouverture numérique,https://fr.wikipedia.org/wiki/Ouverture_num%C3%A9rique,recherche,0,221058326,378,8,1
+Outre_mer_La_Premiere,Outre-mer La Première,https://fr.wikipedia.org/wiki/Outre-mer_La_Premi%C3%A8re,recherche,0,240303343,2911,6,0
+Ouverture_numerique,Ouverture numérique,https://fr.wikipedia.org/wiki/Ouverture_num%C3%A9rique,recherche,0,221058326,378,8,0
 Oui_FM,Oüi FM,https://fr.wikipedia.org/wiki/O%C3%BCi_FM,recherche,0,239692454,3285,6,0
 PC_88,PC-88,https://fr.wikipedia.org/wiki/PC-88,recherche,0,218688390,281,3,0
 PCI_informatique,PCI (informatique),https://fr.wikipedia.org/wiki/PCI_%28informatique%29,recherche,0,239944162,783,4,0
@@ -1709,7 +1709,7 @@ Partition_informatique,Partition (informatique),https://fr.wikipedia.org/wiki/Pa
 Pasqal,Pasqal,https://fr.wikipedia.org/wiki/Pasqal,recherche,0,239745855,821,10,1
 Passage_informatique_a_l_an_2000,Passage informatique à l'an 2000,https://fr.wikipedia.org/wiki/Passage_informatique_%C3%A0_l%27an_2000,recherche,0,239470421,4397,55,1
 Passerelles_numeriques,Passerelles numériques,https://fr.wikipedia.org/wiki/Passerelles_num%C3%A9riques,recherche,0,239607622,1104,26,1
-Pastafarisme,Pastafarisme,https://fr.wikipedia.org/wiki/Pastafarisme,recherche,0,240488577,4459,9,1
+Pastafarisme,Pastafarisme,https://fr.wikipedia.org/wiki/Pastafarisme,recherche,0,240488577,4459,9,0
 Paste_Unix,Paste (Unix),https://fr.wikipedia.org/wiki/Paste_%28Unix%29,recherche,0,239670931,28,0,0
 Patch_Unix,Patch (Unix),https://fr.wikipedia.org/wiki/Patch_%28Unix%29,recherche,0,189461278,22,0,0
 Patch_informatique,Patch (informatique),https://fr.wikipedia.org/wiki/Patch_%28informatique%29,recherche,0,229108981,408,0,0
@@ -1733,7 +1733,7 @@ Phabricator,Phabricator,https://fr.wikipedia.org/wiki/Phabricator,recherche,0,23
 Phalcon_framework,Phalcon (framework),https://fr.wikipedia.org/wiki/Phalcon_%28framework%29,recherche,0,236111262,347,0,0
 Phar_informatique,Phar (informatique),https://fr.wikipedia.org/wiki/Phar_%28informatique%29,recherche,0,240320991,66,0,0
 Photogrammetrie_numerique,Photogrammétrie numérique,https://fr.wikipedia.org/wiki/Photogramm%C3%A9trie_num%C3%A9rique,recherche,0,240046569,548,7,1
-Photographie,Photographie,https://fr.wikipedia.org/wiki/Photographie,recherche,0,239303189,4745,10,1
+Photographie,Photographie,https://fr.wikipedia.org/wiki/Photographie,recherche,0,239303189,4745,10,0
 Photographie_numerique,Photographie numérique,https://fr.wikipedia.org/wiki/Photographie_num%C3%A9rique,recherche,0,236125173,1988,29,1
 Phusion_Passenger,Phusion Passenger,https://fr.wikipedia.org/wiki/Phusion_Passenger,recherche,0,237319137,36,1,0
 Physique_numerique,Physique numérique,https://fr.wikipedia.org/wiki/Physique_num%C3%A9rique,recherche,0,229467383,416,13,1
@@ -1752,7 +1752,7 @@ Pipp_n,Pipp!n,https://fr.wikipedia.org/wiki/Pipp%21n,recherche,0,240160092,335,5
 Piraterie,Piraterie,https://fr.wikipedia.org/wiki/Piraterie,recherche,0,239224109,4346,4,0
 Piscine_informatique,Piscine (informatique),https://fr.wikipedia.org/wiki/Piscine_%28informatique%29,recherche,0,219110336,341,4,0
 Pitivi,Pitivi,https://fr.wikipedia.org/wiki/Pitivi,recherche,0,228572582,839,2,0
-Pixar_Animation_Studios,Pixar Animation Studios,https://fr.wikipedia.org/wiki/Pixar_Animation_Studios,recherche,0,239025702,5963,13,1
+Pixar_Animation_Studios,Pixar Animation Studios,https://fr.wikipedia.org/wiki/Pixar_Animation_Studios,recherche,0,239025702,5963,13,0
 Piege_sur_Internet,Piège sur Internet,https://fr.wikipedia.org/wiki/Pi%C3%A8ge_sur_Internet,recherche,0,120067679,43,3,0
 Plan_logiciel,Plan (logiciel),https://fr.wikipedia.org/wiki/Plan_%28logiciel%29,recherche,0,188880222,33,1,0
 Plan_Ordinateur_Portable,Plan Ordinateur Portable,https://fr.wikipedia.org/wiki/Plan_Ordinateur_Portable,recherche,0,214463151,177,7,1
@@ -1846,7 +1846,7 @@ Quite_Universal_Circuit_Simulator,Quite Universal Circuit Simulator,https://fr.w
 R_langage,R (langage),https://fr.wikipedia.org/wiki/R_%28langage%29,recherche,0,239699909,1589,2,0
 R2E,R2E,https://fr.wikipedia.org/wiki/R2E,recherche,0,240267084,550,6,1
 RAID_informatique,RAID (informatique),https://fr.wikipedia.org/wiki/RAID_%28informatique%29,recherche,0,240348326,3895,2,0
-RMC_BFM_entreprise,RMC BFM (entreprise),https://fr.wikipedia.org/wiki/RMC_BFM_%28entreprise%29,recherche,0,240523177,3154,7,1
+RMC_BFM_entreprise,RMC BFM (entreprise),https://fr.wikipedia.org/wiki/RMC_BFM_%28entreprise%29,recherche,0,240523177,3154,7,0
 RMC_Sport,RMC Sport,https://fr.wikipedia.org/wiki/RMC_Sport,recherche,0,240534321,3374,3,0
 RT_chaine_de_television,RT (chaîne de télévision),https://fr.wikipedia.org/wiki/RT_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29,recherche,0,236270061,3779,5,0
 RT_Thread,RT-Thread,https://fr.wikipedia.org/wiki/RT-Thread,recherche,0,235971396,61,0,0
@@ -1929,7 +1929,7 @@ Reseau_de_diffusion_de_contenu,Réseau de diffusion de contenu,https://fr.wikipe
 Reseau_de_neurones_artificiels,Réseau de neurones artificiels,https://fr.wikipedia.org/wiki/R%C3%A9seau_de_neurones_artificiels,recherche,0,240213220,5117,5,1
 Reseau_numerique_a_integration_de_services,Réseau numérique à intégration de services,https://fr.wikipedia.org/wiki/R%C3%A9seau_num%C3%A9rique_%C3%A0_int%C3%A9gration_de_services,recherche,0,239337824,1425,10,1
 Reseau_prive,Réseau privé,https://fr.wikipedia.org/wiki/R%C3%A9seau_priv%C3%A9,recherche,0,223346616,414,8,1
-Resolution_numerique_des_equations_differentielles,Résolution numérique des équations différentielles,https://fr.wikipedia.org/wiki/R%C3%A9solution_num%C3%A9rique_des_%C3%A9quations_diff%C3%A9rentielles,recherche,0,224378732,1028,11,1
+Resolution_numerique_des_equations_differentielles,Résolution numérique des équations différentielles,https://fr.wikipedia.org/wiki/R%C3%A9solution_num%C3%A9rique_des_%C3%A9quations_diff%C3%A9rentielles,recherche,0,224378732,1028,11,0
 Reversibilite_informatique,Réversibilité (informatique),https://fr.wikipedia.org/wiki/R%C3%A9versibilit%C3%A9_%28informatique%29,recherche,0,207259506,411,8,1
 Revolutions_album,Révolutions (album),https://fr.wikipedia.org/wiki/R%C3%A9volutions_%28album%29,recherche,0,226299215,255,3,0
 Reecriture_informatique,Réécriture (informatique),https://fr.wikipedia.org/wiki/R%C3%A9%C3%A9criture_%28informatique%29,recherche,0,230978649,2196,2,0
@@ -2014,7 +2014,7 @@ SoftBank,SoftBank,https://fr.wikipedia.org/wiki/SoftBank,recherche,0,239611674,1
 Solar_ordinateur,Solar (ordinateur),https://fr.wikipedia.org/wiki/Solar_%28ordinateur%29,recherche,0,238385737,1350,10,1
 SolidWorks,SolidWorks,https://fr.wikipedia.org/wiki/SolidWorks,recherche,0,240373160,2198,7,1
 Solidaires_Informatique,Solidaires Informatique,https://fr.wikipedia.org/wiki/Solidaires_Informatique,recherche,0,239997005,298,9,1
-Somme_numerique,Somme numérique,https://fr.wikipedia.org/wiki/Somme_num%C3%A9rique,recherche,0,233195393,303,8,1
+Somme_numerique,Somme numérique,https://fr.wikipedia.org/wiki/Somme_num%C3%A9rique,recherche,0,233195393,303,8,0
 Son_numerique,Son numérique,https://fr.wikipedia.org/wiki/Son_num%C3%A9rique,recherche,0,213146422,13,3,0
 Son_numerique_musique,Son numérique (musique),https://fr.wikipedia.org/wiki/Son_num%C3%A9rique_%28musique%29,recherche,0,228665435,1590,32,1
 Sondage_d_opinion,Sondage d'opinion,https://fr.wikipedia.org/wiki/Sondage_d%27opinion,recherche,0,240227245,4948,6,0
@@ -2033,17 +2033,17 @@ Sperry_Univac,Sperry Univac,https://fr.wikipedia.org/wiki/Sperry_Univac,recherch
 Spring_framework,Spring (framework),https://fr.wikipedia.org/wiki/Spring_%28framework%29,recherche,0,239624026,625,2,0
 Squeezie,Squeezie,https://fr.wikipedia.org/wiki/Squeezie,recherche,0,240539706,2664,4,0
 Squid_logiciel,Squid (logiciel),https://fr.wikipedia.org/wiki/Squid_%28logiciel%29,recherche,0,238634767,181,1,0
-Stabilite_numerique,Stabilité numérique,https://fr.wikipedia.org/wiki/Stabilit%C3%A9_num%C3%A9rique,recherche,0,224595330,808,8,1
+Stabilite_numerique,Stabilité numérique,https://fr.wikipedia.org/wiki/Stabilit%C3%A9_num%C3%A9rique,recherche,0,224595330,808,8,0
 Standard_Internet,Standard Internet,https://fr.wikipedia.org/wiki/Standard_Internet,recherche,0,239468398,218,9,1
 StarOffice,StarOffice,https://fr.wikipedia.org/wiki/StarOffice,recherche,0,239125571,284,0,0
 Station_audionumerique,Station audionumérique,https://fr.wikipedia.org/wiki/Station_audionum%C3%A9rique,recherche,0,233927713,898,22,1
 Station_d_accueil,Station d'accueil,https://fr.wikipedia.org/wiki/Station_d%27accueil,recherche,0,159874206,93,5,1
 Station_de_travail,Station de travail,https://fr.wikipedia.org/wiki/Station_de_travail,recherche,0,240484124,926,18,1
-Statistiques_du_hockey_sur_glace,Statistiques du hockey sur glace,https://fr.wikipedia.org/wiki/Statistiques_du_hockey_sur_glace,recherche,0,220459848,939,9,1
+Statistiques_du_hockey_sur_glace,Statistiques du hockey sur glace,https://fr.wikipedia.org/wiki/Statistiques_du_hockey_sur_glace,recherche,0,220459848,939,9,0
 Stellarium,Stellarium,https://fr.wikipedia.org/wiki/Stellarium,recherche,0,235526510,528,2,0
 Stepping_informatique,Stepping (informatique),https://fr.wikipedia.org/wiki/Stepping_%28informatique%29,recherche,0,238523368,81,1,0
 Steve_Jobs,Steve Jobs,https://fr.wikipedia.org/wiki/Steve_Jobs,recherche,0,240544758,12718,49,1
-Steve_Lacy_musicien,Steve Lacy (musicien),https://fr.wikipedia.org/wiki/Steve_Lacy_%28musicien%29,recherche,0,237891472,474,5,1
+Steve_Lacy_musicien,Steve Lacy (musicien),https://fr.wikipedia.org/wiki/Steve_Lacy_%28musicien%29,recherche,0,237891472,474,5,0
 Steve_Wozniak,Steve Wozniak,https://fr.wikipedia.org/wiki/Steve_Wozniak,recherche,0,240265637,1676,13,1
 Strategie_numerique,Stratégie numérique,https://fr.wikipedia.org/wiki/Strat%C3%A9gie_num%C3%A9rique,recherche,0,239497307,82,4,0
 Stress_numerique,Stress numérique,https://fr.wikipedia.org/wiki/Stress_num%C3%A9rique,recherche,0,226324251,1826,32,1
@@ -2062,7 +2062,7 @@ Super_Champion,Super Champion,https://fr.wikipedia.org/wiki/Super_Champion,reche
 Superordinateur,Superordinateur,https://fr.wikipedia.org/wiki/Superordinateur,recherche,0,240361550,1828,21,1
 Supervision_informatique,Supervision (informatique),https://fr.wikipedia.org/wiki/Supervision_%28informatique%29,recherche,0,240059251,2488,21,1
 Suprematie_quantique,Suprématie quantique,https://fr.wikipedia.org/wiki/Supr%C3%A9matie_quantique,recherche,0,236719792,577,4,0
-Superiorite_numerique,Supériorité numérique,https://fr.wikipedia.org/wiki/Sup%C3%A9riorit%C3%A9_num%C3%A9rique,recherche,0,233139716,237,8,1
+Superiorite_numerique,Supériorité numérique,https://fr.wikipedia.org/wiki/Sup%C3%A9riorit%C3%A9_num%C3%A9rique,recherche,0,233139716,237,8,0
 Surveillance_informatique,Surveillance (informatique),https://fr.wikipedia.org/wiki/Surveillance_%28informatique%29,recherche,0,236611436,479,5,1
 Sweet_Home_3D,Sweet Home 3D,https://fr.wikipedia.org/wiki/Sweet_Home_3D,recherche,0,228855042,324,1,0
 Swfdec,Swfdec,https://fr.wikipedia.org/wiki/Swfdec,recherche,0,225800028,119,2,0
@@ -2073,7 +2073,7 @@ Synesthesie,Synesthésie,https://fr.wikipedia.org/wiki/Synesth%C3%A9sie,recherch
 Syntaxe,Syntaxe,https://fr.wikipedia.org/wiki/Syntaxe,recherche,0,239243311,685,3,0
 Synthetiseur,Synthétiseur,https://fr.wikipedia.org/wiki/Synth%C3%A9tiseur,recherche,0,239785230,2443,19,1
 Systeme_binaire,Système binaire,https://fr.wikipedia.org/wiki/Syst%C3%A8me_binaire,recherche,0,237502873,2719,12,1
-Systeme_de_numeration,Système de numération,https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_num%C3%A9ration,recherche,0,236433308,4379,9,1
+Systeme_de_numeration,Système de numération,https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_num%C3%A9ration,recherche,0,236433308,4379,9,0
 Systeme_ordine,Système ordiné,https://fr.wikipedia.org/wiki/Syst%C3%A8me_ordin%C3%A9,recherche,0,175541598,93,1,0
 Securite_Internet,Sécurité Internet,https://fr.wikipedia.org/wiki/S%C3%A9curit%C3%A9_Internet,recherche,0,239913889,273,7,1
 Selection_informatique,Sélection (informatique),https://fr.wikipedia.org/wiki/S%C3%A9lection_%28informatique%29,recherche,0,223092449,493,1,0
@@ -2099,12 +2099,12 @@ Tas_informatique,Tas (informatique),https://fr.wikipedia.org/wiki/Tas_%28informa
 Tatouage_numerique,Tatouage numérique,https://fr.wikipedia.org/wiki/Tatouage_num%C3%A9rique,recherche,0,236043150,1616,21,1
 Taxe_sur_les_services_numeriques,Taxe sur les services numériques,https://fr.wikipedia.org/wiki/Taxe_sur_les_services_num%C3%A9riques,recherche,0,233621049,144,6,1
 Taxonomie_de_Flynn,Taxonomie de Flynn,https://fr.wikipedia.org/wiki/Taxonomie_de_Flynn,recherche,0,206555550,301,5,1
-Taxonomie_numerique,Taxonomie numérique,https://fr.wikipedia.org/wiki/Taxonomie_num%C3%A9rique,recherche,0,174830549,288,9,1
+Taxonomie_numerique,Taxonomie numérique,https://fr.wikipedia.org/wiki/Taxonomie_num%C3%A9rique,recherche,0,174830549,288,9,0
 Technicien_d_assistance_en_informatique,Technicien d'assistance en informatique,https://fr.wikipedia.org/wiki/Technicien_d%27assistance_en_informatique,recherche,0,240403289,665,25,1
 Technicien_en_informatique,Technicien en informatique,https://fr.wikipedia.org/wiki/Technicien_en_informatique,recherche,0,239855441,431,11,1
 Technologie_de_l_information,Technologie de l'information,https://fr.wikipedia.org/wiki/Technologie_de_l%27information,recherche,0,238718637,83,0,0
 Technologie_de_systemes_ordines,Technologie de systèmes ordinés,https://fr.wikipedia.org/wiki/Technologie_de_syst%C3%A8mes_ordin%C3%A9s,recherche,0,228194945,971,22,1
-Technologies_de_l_information_et_de_la_communicati,Technologies de l'information et de la communication pour l'enseignement,https://fr.wikipedia.org/wiki/Technologies_de_l%27information_et_de_la_communication_pour_l%27enseignement,recherche,0,240035437,3093,79,1
+Technologies_de_l_information_et_de_la_communicati_2,Technologies de l'information et de la communication pour l'enseignement,https://fr.wikipedia.org/wiki/Technologies_de_l%27information_et_de_la_communication_pour_l%27enseignement,recherche,0,240035437,3093,79,1
 Telegram_EP_de_Werenoi,Telegram (EP de Werenoi),https://fr.wikipedia.org/wiki/Telegram_%28EP_de_Werenoi%29,recherche,0,240312137,153,1,0
 Tellico,Tellico,https://fr.wikipedia.org/wiki/Tellico,recherche,0,224023238,173,3,0
 Temple_de_la_renommee_d_Internet,Temple de la renommée d'Internet,https://fr.wikipedia.org/wiki/Temple_de_la_renomm%C3%A9e_d%27Internet,recherche,0,239216207,424,14,1
@@ -2118,7 +2118,7 @@ The_Internet_groupe,The Internet (groupe),https://fr.wikipedia.org/wiki/The_Inte
 The_Million_Dollar_Homepage,The Million Dollar Homepage,https://fr.wikipedia.org/wiki/The_Million_Dollar_Homepage,recherche,0,239019436,2431,7,1
 The_Pirate_Bay,The Pirate Bay,https://fr.wikipedia.org/wiki/The_Pirate_Bay,recherche,0,239953640,3861,11,1
 The_Shift_Project,The Shift Project,https://fr.wikipedia.org/wiki/The_Shift_Project,recherche,0,240207852,2707,11,1
-The_Walt_Disney_Company,The Walt Disney Company,https://fr.wikipedia.org/wiki/The_Walt_Disney_Company,recherche,0,239340985,19476,42,1
+The_Walt_Disney_Company,The Walt Disney Company,https://fr.wikipedia.org/wiki/The_Walt_Disney_Company,recherche,0,239340985,19476,42,0
 Thomas_Eugene_Kurtz,Thomas Eugene Kurtz,https://fr.wikipedia.org/wiki/Thomas_Eugene_Kurtz,recherche,0,224832493,380,8,1
 Thomson_TO7,Thomson TO7,https://fr.wikipedia.org/wiki/Thomson_TO7,recherche,0,238164457,628,8,1
 Thread_informatique,Thread (informatique),https://fr.wikipedia.org/wiki/Thread_%28informatique%29,recherche,0,235193184,1880,0,0
@@ -2134,12 +2134,12 @@ TightVNC,TightVNC,https://fr.wikipedia.org/wiki/TightVNC,recherche,0,239092819,2
 Time_Unix,Time (Unix),https://fr.wikipedia.org/wiki/Time_%28Unix%29,recherche,0,225551012,106,0,0
 Timeout_informatique,Timeout (informatique),https://fr.wikipedia.org/wiki/Timeout_%28informatique%29,recherche,0,239845816,203,1,0
 TinyOS,TinyOS,https://fr.wikipedia.org/wiki/TinyOS,recherche,0,219476983,1467,0,0
-Tiret,Tiret,https://fr.wikipedia.org/wiki/Tiret,recherche,0,240331644,2087,11,1
+Tiret,Tiret,https://fr.wikipedia.org/wiki/Tiret,recherche,0,240331644,2087,11,0
 Tireuse_numerique,Tireuse numérique,https://fr.wikipedia.org/wiki/Tireuse_num%C3%A9rique,recherche,0,205045783,196,4,0
 Titan_ordinateur,Titan (ordinateur),https://fr.wikipedia.org/wiki/Titan_%28ordinateur%29,recherche,0,228174123,196,3,0
 Tizen,Tizen,https://fr.wikipedia.org/wiki/Tizen,recherche,0,240485098,455,1,0
 Toki_pona,Toki pona,https://fr.wikipedia.org/wiki/Toki_pona,recherche,0,239788737,1391,1,0
-Tomodensitometrie,Tomodensitométrie,https://fr.wikipedia.org/wiki/Tomodensitom%C3%A9trie,recherche,0,239960243,2708,11,1
+Tomodensitometrie,Tomodensitométrie,https://fr.wikipedia.org/wiki/Tomodensitom%C3%A9trie,recherche,0,239960243,2708,11,0
 Topologie_numerique,Topologie numérique,https://fr.wikipedia.org/wiki/Topologie_num%C3%A9rique,recherche,0,227539296,342,5,1
 Torque_informatique,Torque (informatique),https://fr.wikipedia.org/wiki/Torque_%28informatique%29,recherche,0,211723993,29,0,0
 Toshiba_Libretto,Toshiba Libretto,https://fr.wikipedia.org/wiki/Toshiba_Libretto,recherche,0,230924103,47,2,0
@@ -2173,7 +2173,7 @@ Travail_numerique,Travail numérique,https://fr.wikipedia.org/wiki/Travail_num%C
 Tracage_numerique_des_contacts,Traçage numérique des contacts,https://fr.wikipedia.org/wiki/Tra%C3%A7age_num%C3%A9rique_des_contacts,recherche,0,234896431,1797,11,1
 Trie_informatique,Trie (informatique),https://fr.wikipedia.org/wiki/Trie_%28informatique%29,recherche,0,231670176,473,1,0
 Trim_informatique,Trim (informatique),https://fr.wikipedia.org/wiki/Trim_%28informatique%29,recherche,0,240042529,940,2,0
-Trois_dimensions,Trois dimensions,https://fr.wikipedia.org/wiki/Trois_dimensions,recherche,0,235106184,752,7,1
+Trois_dimensions,Trois dimensions,https://fr.wikipedia.org/wiki/Trois_dimensions,recherche,0,235106184,752,7,0
 Troll_Internet,Troll (Internet),https://fr.wikipedia.org/wiki/Troll_%28Internet%29,recherche,0,239967523,5169,26,1
 TrueNas,TrueNas,https://fr.wikipedia.org/wiki/TrueNas,recherche,0,236103710,460,0,0
 Trunk_informatique,Trunk (informatique),https://fr.wikipedia.org/wiki/Trunk_%28informatique%29,recherche,0,176011519,37,1,0
@@ -2187,11 +2187,11 @@ Twitch,Twitch,https://fr.wikipedia.org/wiki/Twitch,recherche,0,240180491,3200,3,
 Type_informatique,Type (informatique),https://fr.wikipedia.org/wiki/Type_%28informatique%29,recherche,0,229476600,697,1,0
 Tache_informatique,Tâche (informatique),https://fr.wikipedia.org/wiki/T%C3%A2che_%28informatique%29,recherche,0,224773023,485,2,0
 Telechargement,Téléchargement,https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9chargement,recherche,0,239657739,1135,13,1
-Telechargement_homonymie,Téléchargement (homonymie),https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9chargement_%28homonymie%29,recherche,0,191521921,153,10,1
+Telechargement_homonymie,Téléchargement (homonymie),https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9chargement_%28homonymie%29,recherche,0,191521921,153,10,0
 Teletravail,Télétravail,https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9travail,recherche,0,239688531,7699,23,1
 Televiseur,Téléviseur,https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9viseur,recherche,0,240008270,6070,29,1
 Televiseur_connecte,Téléviseur connecté,https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9viseur_connect%C3%A9,recherche,0,239719622,1825,19,1
-Television,Télévision,https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9vision,recherche,0,240204085,6077,16,1
+Television,Télévision,https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9vision,recherche,0,240204085,6077,16,0
 Television_couleur,Télévision couleur,https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9vision_couleur,recherche,0,239453959,2764,2,0
 Television_en_France,Télévision en France,https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9vision_en_France,recherche,0,239224462,5038,9,0
 Television_numerique,Télévision numérique,https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9vision_num%C3%A9rique,recherche,0,233381465,309,7,1
@@ -2278,7 +2278,7 @@ Wi_Fi,Wi-Fi,https://fr.wikipedia.org/wiki/Wi-Fi,recherche,0,240164332,3738,20,1
 Wiki,Wiki,https://fr.wikipedia.org/wiki/Wiki,recherche,0,240496932,953,4,0
 Wikipedia_en_francais,Wikipédia en français,https://fr.wikipedia.org/wiki/Wikip%C3%A9dia_en_fran%C3%A7ais,recherche,0,239919416,3394,7,1
 William_Henry_Hudson,William Henry Hudson,https://fr.wikipedia.org/wiki/William_Henry_Hudson,recherche,0,226884804,693,0,0
-William_Phillips_economiste,William Phillips (économiste),https://fr.wikipedia.org/wiki/William_Phillips_%28%C3%A9conomiste%29,recherche,0,230924866,733,6,1
+William_Phillips_economiste,William Phillips (économiste),https://fr.wikipedia.org/wiki/William_Phillips_%28%C3%A9conomiste%29,recherche,0,230924866,733,6,0
 Windows_10,Windows 10,https://fr.wikipedia.org/wiki/Windows_10,recherche,0,240450249,9602,45,1
 Windows_Home_Server,Windows Home Server,https://fr.wikipedia.org/wiki/Windows_Home_Server,recherche,0,238926700,2421,37,1
 Windows_To_Go,Windows To Go,https://fr.wikipedia.org/wiki/Windows_To_Go,recherche,0,240311631,730,14,1
@@ -2345,7 +2345,7 @@ Editeur_d_image_vectorielle,Éditeur d'image vectorielle,https://fr.wikipedia.or
 Edition_numerique,Édition numérique,https://fr.wikipedia.org/wiki/%C3%89dition_num%C3%A9rique,recherche,0,239871958,6107,128,1
 Edition_numerique_professionnelle,Édition numérique professionnelle,https://fr.wikipedia.org/wiki/%C3%89dition_num%C3%A9rique_professionnelle,recherche,0,229135592,748,8,1
 Egalite_et_Reconciliation,Égalité et Réconciliation,https://fr.wikipedia.org/wiki/%C3%89galit%C3%A9_et_R%C3%A9conciliation,recherche,0,240311736,7799,10,0
-Election_presidentielle_francaise_de_2007,Élection présidentielle française de 2007,https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007,recherche,0,240401068,10494,24,1
+Election_presidentielle_francaise_de_2007,Élection présidentielle française de 2007,https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007,recherche,0,240401068,10494,24,0
 Electronique_technique,Électronique (technique),https://fr.wikipedia.org/wiki/%C3%89lectronique_%28technique%29,recherche,0,239803656,4464,23,1
 Electronique_numerique,Électronique numérique,https://fr.wikipedia.org/wiki/%C3%89lectronique_num%C3%A9rique,recherche,0,236557277,463,12,1
 Emulation,Émulation,https://fr.wikipedia.org/wiki/%C3%89mulation,recherche,0,215130778,1218,14,1

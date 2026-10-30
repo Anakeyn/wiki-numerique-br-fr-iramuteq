@@ -157,7 +157,6 @@ XXvet_kantved,XXvet_kantved,recherche,0,urzhiataer,br,290,br,XXvet kantved,oui
 Yezhoniezh,Yezhoniezh,recherche,0,urzhiataer,br,464,br,Yezhoniezh,oui
 Histoire_des_ordinateurs,Histoire_des_ordinateurs,recherche,0,ordinateur,fr,7899,fr,Histoire des ordinateurs,non
 Internet,Internet,recherche,0,internet,fr,5195,fr,Internet,oui
-Internet,Internet,recherche,0,internet,fr,5195,fr,Internet+,oui
 Logiciel_libre,Logiciel_libre,recherche,0,logiciel_libre,fr,5521,fr,Logiciel libre,oui
 Adresse_IP,Adresse_IP,recherche,0,internet,fr,2641,fr,Adresse IP,oui
 Application_informatique,Application_informatique,recherche,0,ordinateur,fr,5497,fr,Application (informatique),non
@@ -184,7 +183,6 @@ Analyste_informatique,Analyste_informatique,recherche,0,informatique,fr,548,fr,A
 Animation_2D_numerique,Animation_2D_numerique,recherche,0,numerique,fr,417,fr,Animation 2D numérique,non
 Appareil_informatique,Appareil_informatique,recherche,0,informatique,fr,1424,fr,Appareil informatique,non
 Application_mobile,Application_mobile,recherche,0,numerique,fr,1222,fr,Application mobile,non
-Arthur_C_Clarke,Arthur_C_Clarke,recherche,0,ordinateur,fr,2064,fr,Arthur C. Clarke,oui
 BIOS_informatique,BIOS_informatique,recherche,0,ordinateur,fr,1789,fr,BIOS (informatique),oui
 Base_de_donnees,Base_de_donnees,recherche,0,informatique,fr,4855,fr,Base de données,oui
 Berkeley_Open_Infrastructure_for_Network_Computing,Berkeley_Open_Infrastructure_for_Network_Computing,recherche,0,ordinateur,fr,1103,fr,Berkeley Open Infrastructure for Network Computing,non
@@ -224,7 +222,6 @@ Logiciel_malveillant,Logiciel_malveillant,recherche,0,informatique,fr,4093,fr,Lo
 Login_informatique,Login_informatique,recherche,0,ordinateur,fr,781,fr,Login (informatique),non
 Loi_informatique_et_libertes,Loi_informatique_et_libertes,recherche,0,informatique,fr,4549,fr,Loi informatique et libertés,non
 Machine_outil_a_commande_numerique,Machine_outil_a_commande_numerique,recherche,0,numerique,fr,1959,fr,Machine-outil à commande numérique,non
-Mathematiques,Mathematiques,recherche,0,informatique,fr,7463,fr,Mathématiques,oui
 Messagerie_instantanee,Messagerie_instantanee,recherche,0,internet,fr,1679,fr,Messagerie instantanée,non
 Michael_Dell,Michael_Dell,recherche,0,informatique,fr,786,fr,Michael Dell,non
 Micro_informatique,Micro_informatique,recherche,0,ordinateur,fr,904,fr,Micro-informatique,non
@@ -243,7 +240,6 @@ Processus_informatique,Processus_informatique,recherche,0,ordinateur,fr,952,fr,P
 Programmation_informatique,Programmation_informatique,recherche,0,informatique,fr,3240,fr,Programmation informatique,non
 Proxy,Proxy,recherche,0,internet,fr,1367,fr,Proxy,non
 Peripherique_informatique,Peripherique_informatique,recherche,0,ordinateur,fr,670,fr,Périphérique informatique,oui
-Radio_television_belge_de_la_Communaute_francaise,Radio_television_belge_de_la_Communaute_francaise,recherche,0,numerique,fr,4020,fr,Radio-télévision belge de la Communauté française,non
 Reglement_general_sur_la_protection_des_donnees,Reglement_general_sur_la_protection_des_donnees,recherche,0,informatique,fr,4767,fr,Règlement général sur la protection des données,non
 Reseau_prive_virtuel,Reseau_prive_virtuel,recherche,0,ordinateur,fr,1435,fr,Réseau privé virtuel,non
 Reseau_social_Internet,Reseau_social_Internet,recherche,0,internet,fr,15375,fr,Réseau social (Internet),non
@@ -257,7 +253,6 @@ Systeme_d_exploitation,Systeme_d_exploitation,recherche,0,ordinateur,fr,9305,fr,
 Systeme_hexadecimal,Systeme_hexadecimal,recherche,0,informatique,fr,859,fr,Système hexadécimal,oui
 Tablette_tactile,Tablette_tactile,recherche,0,ordinateur,fr,2402,fr,Tablette tactile,non
 Technologies_de_l_information_et_de_la_communication,Technologies_de_l_information_et_de_la_communicati,recherche,0,internet,fr,8137,fr,Technologies de l'information et de la communication,non
-Technologies_de_l_information_et_de_la_communication,Technologies_de_l_information_et_de_la_communicati,recherche,0,internet,fr,8137,fr,Technologies de l'information et de la communication pour l'enseignement,non
 Terminal_informatique,Terminal_informatique,recherche,0,ordinateur,fr,756,fr,Terminal (informatique),non
 Thierry_Breton,Thierry_Breton,recherche,0,numerique,fr,5693,fr,Thierry Breton,non
 Tor_reseau,Tor_reseau,recherche,0,internet,fr,3232,fr,Tor (réseau),non
@@ -298,7 +293,6 @@ fr,fr,recherche,0,internet,fr,1179,fr,.fr,oui
 4chan,4chan,recherche,0,internet,fr,1664,fr,4chan,non
 5G,5G,recherche,0,numerique,fr,8938,fr,5G,non
 A_Michael_Noll,A_Michael_Noll,recherche,0,numerique,fr,799,fr,A. Michael Noll,non
-AO,AO,recherche,0,ordinateur,fr,291,fr,AO,non
 AR24,AR24,recherche,0,numerique,fr,438,fr,AR24,non
 ARIANE_autorite_francaise,ARIANE_autorite_francaise,recherche,0,numerique,fr,506,fr,ARIANE (autorité française),non
 ARPANET,ARPANET,recherche,0,ordinateur,fr,1553,fr,ARPANET,non
@@ -324,10 +318,8 @@ Agriculture_numerique,Agriculture_numerique,recherche,0,numerique,fr,6511,fr,Agr
 Alain_Kiyindou,Alain_Kiyindou,recherche,0,numerique,fr,413,fr,Alain Kiyindou,non
 Alan_Turing,Alan_Turing,recherche,0,ordinateur,fr,5784,fr,Alan Turing,oui
 Alexa_Internet,Alexa_Internet,recherche,0,internet,fr,999,fr,Alexa Internet,non
-Alfa_Mist,Alfa_Mist,recherche,0,numerique,fr,303,fr,Alfa Mist,non
 Algorithme,Algorithme,recherche,0,numerique,fr,2779,fr,Algorithme,oui
 Algorithme_quantique,Algorithme_quantique,recherche,0,ordinateur,fr,3066,fr,Algorithme quantique,non
-Algebre_lineaire_numerique,Algebre_lineaire_numerique,recherche,0,numerique,fr,2440,fr,Algèbre linéaire numérique,non
 Alice_Bob,Alice_Bob,recherche,0,ordinateur,fr,411,fr,Alice & Bob,non
 Alice_ordinateur,Alice_ordinateur,recherche,0,ordinateur,fr,459,fr,Alice (ordinateur),non
 Alice_Recoque,Alice_Recoque,recherche,0,informatique,fr,3616,fr,Alice Recoque,non
@@ -344,7 +336,6 @@ Ambros_P_Speiser,Ambros_P_Speiser,recherche,0,ordinateur,fr,425,fr,Ambros P. Spe
 Amiga,Amiga,recherche,0,ordinateur,fr,6754,fr,Amiga,oui
 Amstrad_CPC,Amstrad_CPC,recherche,0,ordinateur,fr,2035,fr,Amstrad CPC,non
 Amenagement_numerique,Amenagement_numerique,recherche,0,numerique,fr,1250,fr,Aménagement numérique,non
-Analyse_numerique,Analyse_numerique,recherche,0,numerique,fr,1903,fr,Analyse numérique,non
 Android,Android,recherche,0,ordinateur,fr,9318,fr,Android,oui
 Andre_Truong_Trong_Thi,Andre_Truong_Trong_Thi,recherche,0,ordinateur,fr,1104,fr,André Truong Trong Thi,non
 Animation_audiovisuel,Animation_audiovisuel,recherche,0,logiciel_libre,fr,2046,fr,Animation (audiovisuel),oui
@@ -360,7 +351,6 @@ Appareil_mobile,Appareil_mobile,recherche,0,ordinateur,fr,751,fr,Appareil mobile
 Appareil_photographique_numerique,Appareil_photographique_numerique,recherche,0,numerique,fr,4998,fr,Appareil photographique numérique,non
 Appareil_photographique_reflex_numerique,Appareil_photographique_reflex_numerique,recherche,0,numerique,fr,12126,fr,Appareil photographique reflex numérique,non
 Apple,Apple,recherche,0,ordinateur,fr,13316,fr,Apple,oui
-Apple_homonymie,Apple_homonymie,recherche,0,ordinateur,fr,309,fr,Apple (homonymie),non
 Apple_I,Apple_I,recherche,0,ordinateur,fr,662,fr,Apple I,non
 Apple_TV_appareil,Apple_TV_appareil,recherche,0,ordinateur,fr,1118,fr,Apple TV (appareil),non
 Application_numerique,Application_numerique,recherche,0,numerique,fr,1229,fr,Application numérique,non
@@ -404,13 +394,11 @@ Baptiste_Detombe,Baptiste_Detombe,recherche,0,numerique,fr,462,fr,Baptiste Detom
 BarCamp,BarCamp,recherche,0,internet,fr,817,fr,BarCamp,non
 Bell_Internet,Bell_Internet,recherche,0,internet,fr,753,fr,Bell Internet,non
 Belle_Delphine,Belle_Delphine,recherche,0,internet,fr,2700,fr,Belle Delphine,non
-Benjamin_auteur_chinois,Benjamin_auteur_chinois,recherche,0,ordinateur,fr,911,fr,Benjamin (auteur chinois),non
 Benoit_Thieulin,Benoit_Thieulin,recherche,0,numerique,fr,606,fr,Benoît Thieulin,non
 Berkeley_Software_Distribution,Berkeley_Software_Distribution,recherche,0,informatique,fr,979,fr,Berkeley Software Distribution,non
 Bernard_Marti,Bernard_Marti,recherche,0,numerique,fr,374,fr,Bernard Marti,non
 Betacam_numerique,Betacam_numerique,recherche,0,numerique,fr,2297,fr,Betacam numérique,non
 Bibliotheque_francophone_numerique,Bibliotheque_francophone_numerique,recherche,0,numerique,fr,809,fr,Bibliothèque francophone numérique,non
-Bibliotheque_municipale,Bibliotheque_municipale,recherche,0,internet,fr,2683,fr,Bibliothèque municipale,non
 Bibliotheque_numerique,Bibliotheque_numerique,recherche,0,numerique,fr,4280,fr,Bibliothèque numérique,non
 Bibliotheque_numerique_kurde,Bibliotheque_numerique_kurde,recherche,0,numerique,fr,85,fr,Bibliothèque numérique kurde,non
 Bibliotheque_numerique_mondiale,Bibliotheque_numerique_mondiale,recherche,0,numerique,fr,997,fr,Bibliothèque numérique mondiale,non
@@ -444,11 +432,8 @@ Byte,Byte,recherche,0,informatique,fr,872,fr,Byte,non
 CAPTCHA,CAPTCHA,recherche,0,ordinateur,fr,2526,fr,CAPTCHA,non
 CATIA,CATIA,recherche,0,ordinateur,fr,1215,fr,CATIA,non
 CD_ROM,CD_ROM,recherche,0,ordinateur,fr,1680,fr,CD-ROM,non
-CG,CG,recherche,0,internet,fr,222,fr,CG,non
 CGI_Informatique,CGI_Informatique,recherche,0,informatique,fr,469,fr,CGI Informatique,non
 Cadre_numerique,Cadre_numerique,recherche,0,numerique,fr,431,fr,Cadre numérique,non
-Calcul_numerique,Calcul_numerique,recherche,0,numerique,fr,942,fr,Calcul numérique,non
-Calcul_numerique_d_une_integrale,Calcul_numerique_d_une_integrale,recherche,0,numerique,fr,5169,fr,Calcul numérique d'une intégrale,non
 Calculatrice_programmable,Calculatrice_programmable,recherche,0,ordinateur,fr,2079,fr,Calculatrice programmable,non
 Campus_Region_du_numerique,Campus_Region_du_numerique,recherche,0,numerique,fr,721,fr,Campus Région du numérique,non
 Campus_numerique_francophone,Campus_numerique_francophone,recherche,0,numerique,fr,1498,fr,Campus numérique francophone,non
@@ -459,8 +444,6 @@ Caractere_informatique,Caractere_informatique,recherche,0,informatique,fr,677,fr
 Cartable_numerique,Cartable_numerique,recherche,0,numerique,fr,116,fr,Cartable numérique,non
 Carte_d_extension,Carte_d_extension,recherche,0,informatique,fr,221,fr,Carte d'extension,non
 Carte_mere,Carte_mere,recherche,0,ordinateur,fr,3088,fr,Carte mère,oui
-Carte_nationale_d_identite_en_France,Carte_nationale_d_identite_en_France,recherche,0,numerique,fr,4267,fr,Carte nationale d'identité en France,non
-Cartographie,Cartographie,recherche,0,numerique,fr,3850,fr,Cartographie,oui
 Cartouche_informatique,Cartouche_informatique,recherche,0,ordinateur,fr,298,fr,Cartouche informatique,non
 Cegid,Cegid,recherche,0,informatique,fr,1144,fr,Cegid,non
 Censure_d_Internet,Censure_d_Internet,recherche,0,internet,fr,3180,fr,Censure d'Internet,non
@@ -473,7 +456,6 @@ Centre_mondial_informatique_et_ressource_humaine,Centre_mondial_informatique_et_
 Centre_multimedia,Centre_multimedia,recherche,0,ordinateur,fr,502,fr,Centre multimédia,non
 Certificat_informatique_et_internet,Certificat_informatique_et_internet,recherche,0,numerique,fr,676,fr,Certificat informatique et internet,non
 Certificat_electronique,Certificat_electronique,recherche,0,numerique,fr,2018,fr,Certificat électronique,non
-Charles_Conrad_Abbott,Charles_Conrad_Abbott,recherche,0,numerique,fr,543,fr,Charles Conrad Abbott,non
 Chat_espace_virtuel,Chat_espace_virtuel,recherche,0,internet,fr,1207,fr,Chat (espace virtuel),non
 ChatGPT,ChatGPT,recherche,0,informatique,fr,8183,fr,ChatGPT,oui
 Chiffrement_RSA,Chiffrement_RSA,recherche,0,ordinateur,fr,3385,fr,Chiffrement RSA,non
@@ -516,7 +498,6 @@ Conception_assistee_par_ordinateur,Conception_assistee_par_ordinateur,recherche,
 Conception_assistee_par_ordinateur_pour_l_electronique,Conception_assistee_par_ordinateur_pour_l_electron,recherche,0,ordinateur,fr,1325,fr,Conception assistée par ordinateur pour l'électronique,non
 Conception_et_fabrication_assistees_par_ordinateur,Conception_et_fabrication_assistees_par_ordinateur,recherche,0,ordinateur,fr,153,fr,Conception et fabrication assistées par ordinateur,non
 Conception_mecanique_assistee_par_ordinateur,Conception_mecanique_assistee_par_ordinateur,recherche,0,ordinateur,fr,826,fr,Conception mécanique assistée par ordinateur,non
-Conditionnement_analyse_numerique,Conditionnement_analyse_numerique,recherche,0,numerique,fr,1077,fr,Conditionnement (analyse numérique),non
 Confidentialite_numerique,Confidentialite_numerique,recherche,0,numerique,fr,744,fr,Confidentialité numérique,non
 Configuration_informatique,Configuration_informatique,recherche,0,informatique,fr,555,fr,Configuration (informatique),non
 Conseil_de_l_intelligence_artificielle_et_du_numerique,Conseil_de_l_intelligence_artificielle_et_du_numer,recherche,0,numerique,fr,1050,fr,Conseil de l'intelligence artificielle et du numérique,non
@@ -547,16 +528,11 @@ Deep_Thought_ordinateur_d_echecs,Deep_Thought_ordinateur_d_echecs,recherche,0,or
 Deezer,Deezer,recherche,0,ordinateur,fr,5364,fr,Deezer,non
 Defense_Advanced_Research_Projects_Agency,Defense_Advanced_Research_Projects_Agency,recherche,0,informatique,fr,1772,fr,Defense Advanced Research Projects Agency,non
 Dell,Dell,recherche,0,ordinateur,fr,1910,fr,Dell,non
-Demi_groupe_numerique,Demi_groupe_numerique,recherche,0,numerique,fr,1892,fr,Demi-groupe numérique,non
-Densite_numerique,Densite_numerique,recherche,0,numerique,fr,445,fr,Densité numérique,non
 Design_numerique,Design_numerique,recherche,0,numerique,fr,965,fr,Design numérique,non
-Dessin_anime,Dessin_anime,recherche,0,numerique,fr,2330,fr,Dessin animé,non
 Dessin_artistique_sur_ordinateur,Dessin_artistique_sur_ordinateur,recherche,0,ordinateur,fr,245,fr,Dessin artistique sur ordinateur,non
 Dessin_assiste_par_ordinateur,Dessin_assiste_par_ordinateur,recherche,0,informatique,fr,396,fr,Dessin assisté par ordinateur,non
-Dictionnaire_historique_de_la_Suisse,Dictionnaire_historique_de_la_Suisse,recherche,0,informatique,fr,2702,fr,Dictionnaire historique de la Suisse,non
 Dictionnaire_numerique,Dictionnaire_numerique,recherche,0,numerique,fr,1525,fr,Dictionnaire numérique,non
 Diffusion_en_direct_sur_Internet,Diffusion_en_direct_sur_Internet,recherche,0,internet,fr,684,fr,Diffusion en direct sur Internet,non
-Digital,Digital,recherche,0,numerique,fr,389,fr,Digital,non
 Digital_Audio_Broadcasting,Digital_Audio_Broadcasting,recherche,0,numerique,fr,3306,fr,Digital Audio Broadcasting,non
 Digital_Equipment_Corporation,Digital_Equipment_Corporation,recherche,0,ordinateur,fr,854,fr,Digital Equipment Corporation,non
 Digital_Operational_Resilience_Act,Digital_Operational_Resilience_Act,recherche,0,numerique,fr,2251,fr,Digital Operational Resilience Act,non
@@ -593,7 +569,6 @@ Depannage_informatique,Depannage_informatique,recherche,0,informatique,fr,565,fr
 Departement_d_informatique_et_de_recherche_operationnelle_de,Departement_d_informatique_et_de_recherche_operati,recherche,0,informatique,fr,418,fr,Département d'informatique et de recherche opérationnelle de l'Université de Montréal,non
 Dependance_a_Internet,Dependance_a_Internet,recherche,0,internet,fr,7053,fr,Dépendance à Internet,non
 Deploiement_du_DAB_en_France,Deploiement_du_DAB_en_France,recherche,0,numerique,fr,4113,fr,Déploiement du DAB+ en France,non
-Derivation_numerique,Derivation_numerique,recherche,0,numerique,fr,1785,fr,Dérivation numérique,non
 Desinformation,Desinformation,recherche,0,numerique,fr,3856,fr,Désinformation,non
 Desintoxication_numerique,Desintoxication_numerique,recherche,0,numerique,fr,2242,fr,Désintoxication numérique,non
 Developpeur,Developpeur,recherche,0,informatique,fr,536,fr,Développeur,non
@@ -611,7 +586,6 @@ Encyclopdia_Universalis,Encyclopdia_Universalis,recherche,0,numerique,fr,1248,fr
 Encyclopedie_d_histoire_numerique_de_l_Europe,Encyclopedie_d_histoire_numerique_de_l_Europe,recherche,0,numerique,fr,3228,fr,Encyclopédie d'histoire numérique de l'Europe,non
 Enfant_du_numerique,Enfant_du_numerique,recherche,0,numerique,fr,2352,fr,Enfant du numérique,non
 Enregistrement_sonore,Enregistrement_sonore,recherche,0,numerique,fr,4532,fr,Enregistrement sonore,non
-Enregistreur_lecteur_de_bande_magnetique,Enregistreur_lecteur_de_bande_magnetique,recherche,0,ordinateur,fr,1077,fr,Enregistreur-lecteur de bande magnétique,non
 Enseignement_des_langues_assiste_par_ordinateur,Enseignement_des_langues_assiste_par_ordinateur,recherche,0,informatique,fr,211,fr,Enseignement des langues assisté par ordinateur,non
 Enseignement_numerique,Enseignement_numerique,recherche,0,numerique,fr,187,fr,Enseignement numérique,non
 Entreprise_numerique,Entreprise_numerique,recherche,0,numerique,fr,771,fr,Entreprise numérique,non
@@ -644,7 +618,6 @@ Fibre_optique,Fibre_optique,recherche,0,informatique,fr,7227,fr,Fibre optique,no
 Fichier_informatique,Fichier_informatique,recherche,0,ordinateur,fr,2475,fr,Fichier informatique,oui
 Fichiers_Internet_temporaires_d_Internet_Explorer,Fichiers_Internet_temporaires_d_Internet_Explorer,recherche,0,internet,fr,656,fr,Fichiers Internet temporaires d'Internet Explorer,non
 File_Transfer_Protocol,File_Transfer_Protocol,recherche,0,ordinateur,fr,1783,fr,File Transfer Protocol,non
-Film_cinema,Film_cinema,recherche,0,numerique,fr,721,fr,Film (cinéma),oui
 Filtrage_d_Internet,Filtrage_d_Internet,recherche,0,internet,fr,781,fr,Filtrage d'Internet,non
 Filtre_medias_numeriques,Filtre_medias_numeriques,recherche,0,numerique,fr,596,fr,Filtre (médias numériques),non
 Filtre_numerique,Filtre_numerique,recherche,0,numerique,fr,796,fr,Filtre numérique,non
@@ -653,10 +626,8 @@ Fiscalite_du_numerique,Fiscalite_du_numerique,recherche,0,numerique,fr,1186,fr,F
 Fleur_Pellerin,Fleur_Pellerin,recherche,0,numerique,fr,2017,fr,Fleur Pellerin,non
 Flood_Internet,Flood_Internet,recherche,0,internet,fr,763,fr,Flood (Internet),non
 Focus_numerique,Focus_numerique,recherche,0,numerique,fr,340,fr,Focus numérique,non
-Fonction_numerique,Fonction_numerique,recherche,0,numerique,fr,825,fr,Fonction numérique,non
 Fondation_internet_nouvelle_generation,Fondation_internet_nouvelle_generation,recherche,0,internet,fr,1830,fr,Fondation internet nouvelle génération,non
 Forge_informatique,Forge_informatique,recherche,0,informatique,fr,757,fr,Forge (informatique),non
-Format_35_mm,Format_35_mm,recherche,0,numerique,fr,1315,fr,Format 35 mm,non
 Forum_des_droits_sur_l_internet,Forum_des_droits_sur_l_internet,recherche,0,internet,fr,4125,fr,Forum des droits sur l'internet,non
 Fragmentation_informatique,Fragmentation_informatique,recherche,0,informatique,fr,1158,fr,Fragmentation (informatique),non
 Fraisage,Fraisage,recherche,0,numerique,fr,796,fr,Fraisage,non
@@ -678,7 +649,6 @@ GNU,GNU,recherche,0,logiciel_libre,fr,1567,fr,GNU,non
 GNU_Screen,GNU_Screen,recherche,0,ordinateur,fr,439,fr,GNU Screen,non
 Gallica,Gallica,recherche,0,numerique,fr,3008,fr,Gallica,non
 Gael_Duval,Gael_Duval,recherche,0,numerique,fr,323,fr,Gaël Duval,non
-Gematria,Gematria,recherche,0,numerique,fr,1086,fr,Gematria,non
 GendBuntu,GendBuntu,recherche,0,ordinateur,fr,619,fr,GendBuntu,non
 Genese_des_jeux_sur_ordinateur_central,Genese_des_jeux_sur_ordinateur_central,recherche,0,ordinateur,fr,2827,fr,Genèse des jeux sur ordinateur central,non
 Gerald_Jay_Sussman,Gerald_Jay_Sussman,recherche,0,ordinateur,fr,488,fr,Gerald Jay Sussman,non
@@ -698,7 +668,6 @@ Google_Ateliers_numeriques,Google_Ateliers_numeriques,recherche,0,numerique,fr,1
 Google_Desktop,Google_Desktop,recherche,0,ordinateur,fr,530,fr,Google Desktop,non
 Googlebook,Googlebook,recherche,0,ordinateur,fr,1191,fr,Googlebook,non
 Gouvernance_d_Internet,Gouvernance_d_Internet,recherche,0,internet,fr,1235,fr,Gouvernance d'Internet,non
-Gouvernement_Lecornu_II,Gouvernement_Lecornu_II,recherche,0,numerique,fr,4052,fr,Gouvernement Lecornu II,non
 GrafX2,GrafX2,recherche,0,logiciel_libre,fr,879,fr,GrafX2,non
 Grande_Ecole_du_numerique,Grande_Ecole_du_numerique,recherche,0,numerique,fr,592,fr,Grande École du numérique,non
 Graphics_Interchange_Format,Graphics_Interchange_Format,recherche,0,internet,fr,1702,fr,Graphics Interchange Format,non
@@ -706,12 +675,9 @@ Grappe_de_serveurs,Grappe_de_serveurs,recherche,0,ordinateur,fr,959,fr,Grappe de
 Grbl,Grbl,recherche,0,ordinateur,fr,208,fr,Grbl,non
 Gregory_Chelli,Gregory_Chelli,recherche,0,internet,fr,2402,fr,Gregory Chelli,non
 Grille_informatique,Grille_informatique,recherche,0,informatique,fr,784,fr,Grille informatique,non
-Groupe_Canal,Groupe_Canal,recherche,0,internet,fr,3791,fr,Groupe Canal+,non
 Groupe_SeLoger,Groupe_SeLoger,recherche,0,internet,fr,894,fr,Groupe SeLoger,non
-Groupe_TF1,Groupe_TF1,recherche,0,numerique,fr,4672,fr,Groupe TF1,non
 Groupe_d_utilisateurs_de_logiciels_libres,Groupe_d_utilisateurs_de_logiciels_libres,recherche,0,ordinateur,fr,1090,fr,Groupe d'utilisateurs de logiciels libres,non
 Genie_informatique,Genie_informatique,recherche,0,informatique,fr,255,fr,Génie informatique,non
-Genealogie,Genealogie,recherche,0,internet,fr,6763,fr,Généalogie,oui
 Generation_Z,Generation_Z,recherche,0,numerique,fr,1164,fr,Génération Z,non
 HP_110,HP_110,recherche,0,ordinateur,fr,270,fr,HP 110,non
 HP_Pavilion_ordinateur,HP_Pavilion_ordinateur,recherche,0,ordinateur,fr,367,fr,HP Pavilion (ordinateur),non
@@ -791,7 +757,6 @@ Informatique_medicale,Informatique_medicale,recherche,0,informatique,fr,1323,fr,
 Informatique_naturelle,Informatique_naturelle,recherche,0,informatique,fr,1353,fr,Informatique naturelle,non
 Informatique_theorique,Informatique_theorique,recherche,0,informatique,fr,1665,fr,Informatique théorique,non
 Informatisation,Informatisation,recherche,0,informatique,fr,228,fr,Informatisation,non
-Inferiorite_numerique,Inferiorite_numerique,recherche,0,numerique,fr,180,fr,Infériorité numérique,non
 Ingenierie_numerique,Ingenierie_numerique,recherche,0,numerique,fr,85,fr,Ingénierie numérique,non
 Installation_informatique,Installation_informatique,recherche,0,ordinateur,fr,1616,fr,Installation (informatique),non
 Institut_d_electronique_et_d_informatique_Gaspard_Monge,Institut_d_electronique_et_d_informatique_Gaspard_,recherche,0,informatique,fr,769,fr,Institut d'électronique et d'informatique Gaspard-Monge,non
@@ -810,7 +775,6 @@ Interface_informatique,Interface_informatique,recherche,0,informatique,fr,1174,f
 Interface_de_programmation,Interface_de_programmation,recherche,0,informatique,fr,1456,fr,Interface de programmation,non
 Interface_en_ligne_de_commande,Interface_en_ligne_de_commande,recherche,0,ordinateur,fr,2064,fr,Interface en ligne de commande,non
 Interface_graphique,Interface_graphique,recherche,0,ordinateur,fr,1456,fr,Interface graphique,non
-International_Standard_Book_Number,International_Standard_Book_Number,recherche,0,numerique,fr,2265,fr,International Standard Book Number,oui
 Internet_Architecture_Board,Internet_Architecture_Board,recherche,0,internet,fr,238,fr,Internet Architecture Board,non
 Internet_Brands,Internet_Brands,recherche,0,internet,fr,206,fr,Internet Brands,non
 Internet_Control_Message_Protocol,Internet_Control_Message_Protocol,recherche,0,ordinateur,fr,723,fr,Internet Control Message Protocol,non
@@ -848,8 +812,7 @@ Internet_en_Suisse,Internet_en_Suisse,recherche,0,internet,fr,744,fr,Internet en
 Internet_en_Turquie,Internet_en_Turquie,recherche,0,internet,fr,1246,fr,Internet en Turquie,non
 Internet_industriel_des_objets,Internet_industriel_des_objets,recherche,0,internet,fr,2721,fr,Internet industriel des objets,non
 Internet_par_satellite,Internet_par_satellite,recherche,0,internet,fr,1466,fr,Internet par satellite,non
-Internet,Internet,recherche,0,internet,fr,846,fr,Internet,non
-Internet,Internet,recherche,0,internet,fr,846,fr,Internet+,non
+Internet,Internet_2,recherche,0,internet,fr,846,fr,Internet+,non
 Internet_org,Internet_org,recherche,0,internet,fr,667,fr,Internet.org,non
 Interoperabilite_en_informatique,Interoperabilite_en_informatique,recherche,0,informatique,fr,4506,fr,Interopérabilité en informatique,non
 Interprete_informatique,Interprete_informatique,recherche,0,informatique,fr,1533,fr,Interprète (informatique),non
@@ -872,17 +835,13 @@ Kodak,Kodak,recherche,0,numerique,fr,2176,fr,Kodak,non
 Konrad_Zuse,Konrad_Zuse,recherche,0,ordinateur,fr,1028,fr,Konrad Zuse,non
 Krita,Krita,recherche,0,numerique,fr,1197,fr,Krita,non
 Kunihiko_Fukushima,Kunihiko_Fukushima,recherche,0,ordinateur,fr,448,fr,Kunihiko Fukushima,non
-L_Opinion_quotidien_francais,L_Opinion_quotidien_francais,recherche,0,internet,fr,1367,fr,L'Opinion (quotidien français),non
 L_Ordinateur_de_poche,L_Ordinateur_de_poche,recherche,0,ordinateur,fr,446,fr,L'Ordinateur de poche,non
 L_Ordinateur_des_pompes_funebres,L_Ordinateur_des_pompes_funebres,recherche,0,ordinateur,fr,392,fr,L'Ordinateur des pompes funèbres,non
 L_Ordinateur_en_folie,L_Ordinateur_en_folie,recherche,0,ordinateur,fr,1124,fr,L'Ordinateur en folie,non
 L_Ordinatueur,L_Ordinatueur,recherche,0,ordinateur,fr,543,fr,L'Ordinatueur,non
-L_Equipe,L_Equipe,recherche,0,numerique,fr,3277,fr,L'Équipe,non
-LCI,LCI,recherche,0,internet,fr,3756,fr,LCI,non
 LGBT_sur_Internet,LGBT_sur_Internet,recherche,0,internet,fr,331,fr,LGBT sur Internet,non
 LOL,LOL,recherche,0,internet,fr,810,fr,LOL,non
 La_Galaxie_Internet,La_Galaxie_Internet,recherche,0,internet,fr,348,fr,La Galaxie Internet,non
-La_Presse_Montreal,La_Presse_Montreal,recherche,0,numerique,fr,2207,fr,La Presse (Montréal),non
 La_grande_question_sur_la_vie_l_Univers_et_le_reste,La_grande_question_sur_la_vie_l_Univers_et_le_rest,recherche,0,ordinateur,fr,2885,fr,"La grande question sur la vie, l'Univers et le reste",non
 LaSuite,LaSuite,recherche,0,numerique,fr,339,fr,LaSuite,non
 Laboratoire_interdisciplinaire_des_sciences_du_numerique,Laboratoire_interdisciplinaire_des_sciences_du_num,recherche,0,informatique,fr,495,fr,Laboratoire interdisciplinaire des sciences du numérique,non
@@ -890,14 +849,12 @@ Laboratoire_lorrain_de_recherche_en_informatique_et_ses_appl,Laboratoire_lorrain
 Langage_SMS,Langage_SMS,recherche,0,internet,fr,2293,fr,Langage SMS,non
 Langage_informatique,Langage_informatique,recherche,0,informatique,fr,487,fr,Langage informatique,non
 Laurence_Devillers,Laurence_Devillers,recherche,0,numerique,fr,995,fr,Laurence Devillers,non
-Le_Canard_enchaine,Le_Canard_enchaine,recherche,0,numerique,fr,6616,fr,Le Canard enchaîné,oui
 Le_Grand_Ordinateur,Le_Grand_Ordinateur,recherche,0,informatique,fr,361,fr,Le Grand Ordinateur,non
 Le_Monde_informatique,Le_Monde_informatique,recherche,0,informatique,fr,391,fr,Le Monde informatique,non
 Learning_management_system,Learning_management_system,recherche,0,internet,fr,2956,fr,Learning management system,non
 Les_Internettes,Les_Internettes,recherche,0,internet,fr,521,fr,Les Internettes,non
 Les_Numeriques,Les_Numeriques,recherche,0,numerique,fr,563,fr,Les Numériques,non
 Les_Puces_informatiques,Les_Puces_informatiques,recherche,0,informatique,fr,461,fr,Les Puces informatiques,non
-Les_Echos,Les_Echos,recherche,0,numerique,fr,2950,fr,Les Échos,non
 Libertes_sur_Internet,Libertes_sur_Internet,recherche,0,internet,fr,2121,fr,Libertés sur Internet,non
 Librairie_numerique,Librairie_numerique,recherche,0,numerique,fr,175,fr,Librairie numérique,non
 Licence_CeCILL,Licence_CeCILL,recherche,0,logiciel_libre,fr,848,fr,Licence CeCILL,non
@@ -915,7 +872,6 @@ Liste_de_fournisseurs_d_acces_a_Internet_pour_particuliers,Liste_de_fournisseurs
 Liste_de_memes,Liste_de_memes,recherche,0,internet,fr,7753,fr,Liste de mèmes,oui
 Liste_de_produits_IBM,Liste_de_produits_IBM,recherche,0,ordinateur,fr,569,fr,Liste de produits IBM,non
 Liste_de_revues_informatiques_sur_papier,Liste_de_revues_informatiques_sur_papier,recherche,0,informatique,fr,405,fr,Liste de revues informatiques sur papier,non
-Liste_de_sigles_de_cinq_caracteres,Liste_de_sigles_de_cinq_caracteres,recherche,0,informatique,fr,7447,fr,Liste de sigles de cinq caractères,non
 Liste_de_systemes_d_exploitation,Liste_de_systemes_d_exploitation,recherche,0,ordinateur,fr,2277,fr,Liste de systèmes d'exploitation,non
 Liste_de_termes_d_argot_Internet,Liste_de_termes_d_argot_Internet,recherche,0,informatique,fr,3120,fr,Liste de termes d'argot Internet,non
 Liste_des_Territoires_Villes_et_Villages_Internet,Liste_des_Territoires_Villes_et_Villages_Internet,recherche,0,internet,fr,328,fr,"Liste des Territoires, Villes et Villages Internet",non
@@ -933,12 +889,10 @@ Loi_favorisant_la_diffusion_et_la_protection_de_la_creation_,Loi_favorisant_la_d
 Loi_informatique,Loi_informatique,recherche,0,informatique,fr,87,fr,Loi informatique,non
 Loi_pour_la_confiance_dans_l_economie_numerique,Loi_pour_la_confiance_dans_l_economie_numerique,recherche,0,internet,fr,2057,fr,Loi pour la confiance dans l'économie numérique,non
 Loi_pour_une_Republique_numerique,Loi_pour_une_Republique_numerique,recherche,0,numerique,fr,1164,fr,Loi pour une République numérique,non
-Luka_Rocco_Magnotta,Luka_Rocco_Magnotta,recherche,0,internet,fr,3548,fr,Luka Rocco Magnotta,non
 M_1_ordinateur_electronique,M_1_ordinateur_electronique,recherche,0,ordinateur,fr,825,fr,M-1 (ordinateur électronique),non
 MP3,MP3,recherche,0,numerique,fr,5447,fr,MP3,non
 MSN,MSN,recherche,0,internet,fr,1001,fr,MSN,non
 MacOS,MacOS,recherche,0,ordinateur,fr,4868,fr,MacOS,oui
-Machine,Machine,recherche,0,informatique,fr,1289,fr,Machine,oui
 Machine_IAS,Machine_IAS,recherche,0,ordinateur,fr,529,fr,Machine IAS,non
 Machine_de_Turing,Machine_de_Turing,recherche,0,ordinateur,fr,1997,fr,Machine de Turing,non
 Machine_zombie,Machine_zombie,recherche,0,ordinateur,fr,633,fr,Machine zombie,non
@@ -947,7 +901,6 @@ Macintosh,Macintosh,recherche,0,ordinateur,fr,7874,fr,Macintosh,oui
 Macintosh_Portable,Macintosh_Portable,recherche,0,ordinateur,fr,295,fr,Macintosh Portable,non
 Magnetoscope_numerique,Magnetoscope_numerique,recherche,0,numerique,fr,2125,fr,Magnétoscope numérique,non
 Mainteneur,Mainteneur,recherche,0,informatique,fr,343,fr,Mainteneur,non
-Maison_d_edition,Maison_d_edition,recherche,0,numerique,fr,3005,fr,Maison d'édition,oui
 Manuel_numerique,Manuel_numerique,recherche,0,numerique,fr,247,fr,Manuel numérique,non
 Maquette_numerique,Maquette_numerique,recherche,0,numerique,fr,2818,fr,Maquette numérique,non
 Maquette_numerique_d_aspect,Maquette_numerique_d_aspect,recherche,0,numerique,fr,189,fr,Maquette numérique d'aspect,non
@@ -956,7 +909,6 @@ Marche_unique_numerique,Marche_unique_numerique,recherche,0,numerique,fr,138,fr,
 Mark_Alexandre_Doumba,Mark_Alexandre_Doumba,recherche,0,numerique,fr,728,fr,Mark Alexandre Doumba,non
 Marketing_electronique,Marketing_electronique,recherche,0,numerique,fr,1185,fr,Marketing électronique,non
 Maroc_Digital_2030,Maroc_Digital_2030,recherche,0,numerique,fr,2488,fr,Maroc Digital 2030,non
-Masse_volumique,Masse_volumique,recherche,0,numerique,fr,1631,fr,Masse volumique,non
 Massive_open_online_course,Massive_open_online_course,recherche,0,numerique,fr,3682,fr,Massive open online course,non
 Mathematiques_informatique,Mathematiques_informatique,recherche,0,informatique,fr,519,fr,Mathématiques-informatique,non
 Materiel_informatique,Materiel_informatique,recherche,0,informatique,fr,2654,fr,Matériel informatique,oui
@@ -971,7 +923,6 @@ Microsoft_Windows,Microsoft_Windows,recherche,0,ordinateur,fr,3981,fr,Microsoft 
 Migration_informatique,Migration_informatique,recherche,0,informatique,fr,655,fr,Migration (informatique),non
 Mini_ordinateur,Mini_ordinateur,recherche,0,ordinateur,fr,679,fr,Mini-ordinateur,non
 Miniaturisation,Miniaturisation,recherche,0,ordinateur,fr,497,fr,Miniaturisation,non
-Ministere_de_l_Economie_et_des_Finances_France,Ministere_de_l_Economie_et_des_Finances_France,recherche,0,numerique,fr,2462,fr,Ministère de l'Économie et des Finances (France),non
 Ministere_de_la_Cybersecurite_et_du_Numerique,Ministere_de_la_Cybersecurite_et_du_Numerique,recherche,0,numerique,fr,188,fr,Ministère de la Cybersécurité et du Numérique,non
 Ministere_de_la_Transition_numerique_et_de_la_Reforme_de_lad,Ministere_de_la_Transition_numerique_et_de_la_Refo,recherche,0,numerique,fr,342,fr,Ministère de la Transition numérique et de la Réforme de l’administration,non
 Ministere_de_la_transformation_numerique_et_de_la_modernisat,Ministere_de_la_transformation_numerique_et_de_la_,recherche,0,numerique,fr,383,fr,Ministère de la transformation numérique et de la modernisation de l'administration,non
@@ -1017,7 +968,6 @@ Metavers,Metavers,recherche,0,numerique,fr,4294,fr,Métavers,non
 Methode_formelle_informatique,Methode_formelle_informatique,recherche,0,informatique,fr,1805,fr,Méthode formelle (informatique),non
 Methodes_de_refroidissement_pour_ordinateur,Methodes_de_refroidissement_pour_ordinateur,recherche,0,ordinateur,fr,1801,fr,Méthodes de refroidissement pour ordinateur,non
 NFT,NFT,recherche,0,numerique,fr,4572,fr,NFT,non
-NRJ_12,NRJ_12,recherche,0,numerique,fr,1706,fr,NRJ 12,non
 Nano_informatique,Nano_informatique,recherche,0,informatique,fr,1357,fr,Nano-informatique,non
 Nano_ordinateur,Nano_ordinateur,recherche,0,ordinateur,fr,361,fr,Nano-ordinateur,non
 Nanoreseau,Nanoreseau,recherche,0,ordinateur,fr,650,fr,Nanoréseau,non
@@ -1037,10 +987,6 @@ Nomadisme_numerique,Nomadisme_numerique,recherche,0,numerique,fr,1038,fr,Nomadis
 Norman_Thavaud,Norman_Thavaud,recherche,0,internet,fr,2619,fr,Norman Thavaud,non
 Norton_Internet_Security,Norton_Internet_Security,recherche,0,internet,fr,367,fr,Norton Internet Security,non
 Numeum,Numeum,recherche,0,numerique,fr,586,fr,Numeum,non
-Numeration,Numeration,recherche,0,informatique,fr,1790,fr,Numération,non
-Numeration_Suzhou,Numeration_Suzhou,recherche,0,numerique,fr,1191,fr,Numération Suzhou,non
-Numeration_abjad,Numeration_abjad,recherche,0,numerique,fr,978,fr,Numération abjad,oui
-Numeration_mesopotamienne,Numeration_mesopotamienne,recherche,0,numerique,fr,2581,fr,Numération mésopotamienne,non
 Numerique,Numerique,recherche,0,numerique,fr,2058,fr,Numérique,non
 Numerisation,Numerisation,recherche,0,numerique,fr,2309,fr,Numérisation,non
 Numerisation_de_l_enseignement,Numerisation_de_l_enseignement,recherche,0,numerique,fr,175,fr,Numérisation de l'enseignement,non
@@ -1079,8 +1025,6 @@ Ordinateur_a_programme_enregistre,Ordinateur_a_programme_enregistre,recherche,0,
 Organisation_europeenne_pour_la_recherche_nucleaire,Organisation_europeenne_pour_la_recherche_nucleair,recherche,0,informatique,fr,6368,fr,Organisation européenne pour la recherche nucléaire,non
 Orgue_numerique,Orgue_numerique,recherche,0,numerique,fr,3344,fr,Orgue numérique,non
 Oric,Oric,recherche,0,ordinateur,fr,5053,fr,Oric,non
-Outre_mer_La_Premiere,Outre_mer_La_Premiere,recherche,0,numerique,fr,3006,fr,Outre-mer La Première,non
-Ouverture_numerique,Ouverture_numerique,recherche,0,numerique,fr,369,fr,Ouverture numérique,non
 PLL_numerique,PLL_numerique,recherche,0,numerique,fr,219,fr,PLL numérique,non
 Paiement_sur_Internet,Paiement_sur_Internet,recherche,0,internet,fr,1365,fr,Paiement sur Internet,non
 Pare_feu_informatique,Pare_feu_informatique,recherche,0,informatique,fr,1643,fr,Pare-feu (informatique),non
@@ -1090,7 +1034,6 @@ Partition_informatique,Partition_informatique,recherche,0,ordinateur,fr,2269,fr,
 Pasqal,Pasqal,recherche,0,informatique,fr,824,fr,Pasqal,non
 Passage_informatique_a_l_an_2000,Passage_informatique_a_l_an_2000,recherche,0,informatique,fr,4396,fr,Passage informatique à l'an 2000,non
 Passerelles_numeriques,Passerelles_numeriques,recherche,0,numerique,fr,1088,fr,Passerelles numériques,non
-Pastafarisme,Pastafarisme,recherche,0,internet,fr,4340,fr,Pastafarisme,oui
 Patrimoine_numerique,Patrimoine_numerique,recherche,0,numerique,fr,574,fr,Patrimoine numérique,non
 Pauline_et_l_Ordinateur,Pauline_et_l_Ordinateur,recherche,0,ordinateur,fr,439,fr,Pauline et l'Ordinateur,non
 Pave_numerique,Pave_numerique,recherche,0,numerique,fr,410,fr,Pavé numérique,non
@@ -1098,14 +1041,12 @@ Peinture_cache_numerique,Peinture_cache_numerique,recherche,0,numerique,fr,192,f
 Perception_artificielle,Perception_artificielle,recherche,0,ordinateur,fr,403,fr,Perception artificielle,non
 Peur_d_Internet,Peur_d_Internet,recherche,0,internet,fr,268,fr,Peur d'Internet,non
 Photogrammetrie_numerique,Photogrammetrie_numerique,recherche,0,numerique,fr,554,fr,Photogrammétrie numérique,non
-Photographie,Photographie,recherche,0,numerique,fr,4660,fr,Photographie,oui
 Photographie_numerique,Photographie_numerique,recherche,0,numerique,fr,1968,fr,Photographie numérique,non
 Physique_numerique,Physique_numerique,recherche,0,numerique,fr,413,fr,Physique numérique,non
 Physique_numerique_theorique,Physique_numerique_theorique,recherche,0,numerique,fr,1524,fr,Physique numérique (théorique),non
 Pia_Waugh,Pia_Waugh,recherche,0,logiciel_libre,fr,194,fr,Pia Waugh,non
 Piano_numerique,Piano_numerique,recherche,0,numerique,fr,922,fr,Piano numérique,non
 Pipp_n,Pipp_n,recherche,0,ordinateur,fr,342,fr,Pipp!n,non
-Pixar_Animation_Studios,Pixar_Animation_Studios,recherche,0,ordinateur,fr,5922,fr,Pixar Animation Studios,oui
 Plan_Ordinateur_Portable,Plan_Ordinateur_Portable,recherche,0,ordinateur,fr,179,fr,Plan Ordinateur Portable,non
 Plan_informatique_pour_tous,Plan_informatique_pour_tous,recherche,0,informatique,fr,781,fr,Plan informatique pour tous,non
 Plantage,Plantage,recherche,0,ordinateur,fr,723,fr,Plantage,non
@@ -1143,7 +1084,6 @@ Pole_d_expertise_de_la_regulation_numerique,Pole_d_expertise_de_la_regulation_nu
 QIX_informatique,QIX_informatique,recherche,0,internet,fr,221,fr,QIX (informatique),non
 Qui_a_peur_du_Grand_Ordinateur,Qui_a_peur_du_Grand_Ordinateur,recherche,0,informatique,fr,550,fr,Qui a peur du Grand Ordinateur ?,non
 R2E,R2E,recherche,0,ordinateur,fr,550,fr,R2E,non
-RMC_BFM_entreprise,RMC_BFM_entreprise,recherche,0,informatique,fr,3093,fr,RMC BFM (entreprise),non
 Radio_numerique,Radio_numerique,recherche,0,numerique,fr,1504,fr,Radio numérique,non
 Radiologie_numerique,Radiologie_numerique,recherche,0,numerique,fr,365,fr,Radiologie numérique,non
 Rakuten,Rakuten,recherche,0,numerique,fr,784,fr,Rakuten,non
@@ -1176,7 +1116,6 @@ Reseau_de_diffusion_de_contenu,Reseau_de_diffusion_de_contenu,recherche,0,intern
 Reseau_de_neurones_artificiels,Reseau_de_neurones_artificiels,recherche,0,informatique,fr,5078,fr,Réseau de neurones artificiels,non
 Reseau_numerique_a_integration_de_services,Reseau_numerique_a_integration_de_services,recherche,0,numerique,fr,1451,fr,Réseau numérique à intégration de services,non
 Reseau_prive,Reseau_prive,recherche,0,internet,fr,446,fr,Réseau privé,non
-Resolution_numerique_des_equations_differentielles,Resolution_numerique_des_equations_differentielles,recherche,0,numerique,fr,1018,fr,Résolution numérique des équations différentielles,non
 Reversibilite_informatique,Reversibilite_informatique,recherche,0,informatique,fr,408,fr,Réversibilité (informatique),non
 SMT_Goupil,SMT_Goupil,recherche,0,ordinateur,fr,697,fr,SMT Goupil,non
 SSD,SSD,recherche,0,ordinateur,fr,3580,fr,SSD,non
@@ -1214,20 +1153,16 @@ SoftBank,SoftBank,recherche,0,internet,fr,1827,fr,SoftBank,non
 Solar_ordinateur,Solar_ordinateur,recherche,0,ordinateur,fr,1391,fr,Solar (ordinateur),non
 SolidWorks,SolidWorks,recherche,0,numerique,fr,2171,fr,SolidWorks,non
 Solidaires_Informatique,Solidaires_Informatique,recherche,0,informatique,fr,299,fr,Solidaires Informatique,non
-Somme_numerique,Somme_numerique,recherche,0,numerique,fr,292,fr,Somme numérique,non
 Son_numerique_musique,Son_numerique_musique,recherche,0,numerique,fr,1578,fr,Son numérique (musique),non
 Sopra_Steria,Sopra_Steria,recherche,0,informatique,fr,2322,fr,Sopra Steria,non
 Souverainete_numerique,Souverainete_numerique,recherche,0,numerique,fr,3676,fr,Souveraineté numérique,non
 Spam,Spam,recherche,0,internet,fr,4588,fr,Spam,non
 Sperry_Univac,Sperry_Univac,recherche,0,ordinateur,fr,784,fr,Sperry Univac,non
-Stabilite_numerique,Stabilite_numerique,recherche,0,numerique,fr,792,fr,Stabilité numérique,non
 Standard_Internet,Standard_Internet,recherche,0,internet,fr,202,fr,Standard Internet,non
 Station_audionumerique,Station_audionumerique,recherche,0,numerique,fr,899,fr,Station audionumérique,non
 Station_d_accueil,Station_d_accueil,recherche,0,informatique,fr,95,fr,Station d'accueil,non
 Station_de_travail,Station_de_travail,recherche,0,ordinateur,fr,929,fr,Station de travail,non
-Statistiques_du_hockey_sur_glace,Statistiques_du_hockey_sur_glace,recherche,0,numerique,fr,852,fr,Statistiques du hockey sur glace,non
 Steve_Jobs,Steve_Jobs,recherche,0,ordinateur,fr,12456,fr,Steve Jobs,oui
-Steve_Lacy_musicien,Steve_Lacy_musicien,recherche,0,internet,fr,471,fr,Steve Lacy (musicien),non
 Steve_Wozniak,Steve_Wozniak,recherche,0,informatique,fr,1655,fr,Steve Wozniak,non
 Stress_numerique,Stress_numerique,recherche,0,numerique,fr,1721,fr,Stress numérique,non
 Studio_d_animation,Studio_d_animation,recherche,0,ordinateur,fr,759,fr,Studio d'animation,non
@@ -1238,12 +1173,10 @@ Suite_des_protocoles_Internet,Suite_des_protocoles_Internet,recherche,0,internet
 Sun_Microsystems,Sun_Microsystems,recherche,0,informatique,fr,2461,fr,Sun Microsystems,non
 Superordinateur,Superordinateur,recherche,0,ordinateur,fr,1833,fr,Superordinateur,non
 Supervision_informatique,Supervision_informatique,recherche,0,informatique,fr,2473,fr,Supervision (informatique),non
-Superiorite_numerique,Superiorite_numerique,recherche,0,numerique,fr,239,fr,Supériorité numérique,non
 Surveillance_informatique,Surveillance_informatique,recherche,0,informatique,fr,465,fr,Surveillance (informatique),non
 Sylvain_Durif,Sylvain_Durif,recherche,0,internet,fr,888,fr,Sylvain Durif,non
 Synthetiseur,Synthetiseur,recherche,0,numerique,fr,2427,fr,Synthétiseur,non
 Systeme_binaire,Systeme_binaire,recherche,0,ordinateur,fr,2618,fr,Système binaire,oui
-Systeme_de_numeration,Systeme_de_numeration,recherche,0,informatique,fr,4521,fr,Système de numération,non
 Securite_Internet,Securite_Internet,recherche,0,internet,fr,274,fr,Sécurité Internet,non
 Serie_IBM_700_7000,Serie_IBM_700_7000,recherche,0,ordinateur,fr,2107,fr,Série IBM 700/7000,non
 TRS_80,TRS_80,recherche,0,ordinateur,fr,1334,fr,TRS-80,non
@@ -1253,12 +1186,10 @@ Table_numerique,Table_numerique,recherche,0,numerique,fr,462,fr,Table numérique
 Tatouage_numerique,Tatouage_numerique,recherche,0,numerique,fr,1606,fr,Tatouage numérique,non
 Taxe_sur_les_services_numeriques,Taxe_sur_les_services_numeriques,recherche,0,numerique,fr,146,fr,Taxe sur les services numériques,non
 Taxonomie_de_Flynn,Taxonomie_de_Flynn,recherche,0,ordinateur,fr,300,fr,Taxonomie de Flynn,non
-Taxonomie_numerique,Taxonomie_numerique,recherche,0,numerique,fr,282,fr,Taxonomie numérique,non
 Technicien_d_assistance_en_informatique,Technicien_d_assistance_en_informatique,recherche,0,informatique,fr,657,fr,Technicien d'assistance en informatique,non
 Technicien_en_informatique,Technicien_en_informatique,recherche,0,informatique,fr,426,fr,Technicien en informatique,non
 Technologie_de_systemes_ordines,Technologie_de_systemes_ordines,recherche,0,informatique,fr,960,fr,Technologie de systèmes ordinés,non
-Technologies_de_l_information_et_de_la_communication_pour_l_,Technologies_de_l_information_et_de_la_communicati,recherche,0,numerique,fr,3079,fr,Technologies de l'information et de la communication,non
-Technologies_de_l_information_et_de_la_communication_pour_l_,Technologies_de_l_information_et_de_la_communicati,recherche,0,numerique,fr,3079,fr,Technologies de l'information et de la communication pour l'enseignement,non
+Technologies_de_l_information_et_de_la_communication_pour_l_,Technologies_de_l_information_et_de_la_communicati_2,recherche,0,numerique,fr,3079,fr,Technologies de l'information et de la communication pour l'enseignement,non
 Temple_de_la_renommee_d_Internet,Temple_de_la_renommee_d_Internet,recherche,0,internet,fr,419,fr,Temple de la renommée d'Internet,non
 Terminologie_informatique,Terminologie_informatique,recherche,0,informatique,fr,3469,fr,Terminologie informatique,non
 Terrestrial_Digital_Multimedia_Broadcasting,Terrestrial_Digital_Multimedia_Broadcasting,recherche,0,numerique,fr,405,fr,Terrestrial Digital Multimedia Broadcasting,non
@@ -1267,15 +1198,12 @@ Test_de_Turing,Test_de_Turing,recherche,0,ordinateur,fr,3375,fr,Test de Turing,n
 The_Million_Dollar_Homepage,The_Million_Dollar_Homepage,recherche,0,internet,fr,2383,fr,The Million Dollar Homepage,non
 The_Pirate_Bay,The_Pirate_Bay,recherche,0,internet,fr,3838,fr,The Pirate Bay,oui
 The_Shift_Project,The_Shift_Project,recherche,0,numerique,fr,2639,fr,The Shift Project,non
-The_Walt_Disney_Company,The_Walt_Disney_Company,recherche,0,internet,fr,19474,fr,The Walt Disney Company,oui
 Thomas_Eugene_Kurtz,Thomas_Eugene_Kurtz,recherche,0,ordinateur,fr,376,fr,Thomas Eugene Kurtz,non
 Thomson_TO7,Thomson_TO7,recherche,0,ordinateur,fr,619,fr,Thomson TO7,non
 Theorie_de_l_Internet_mort,Theorie_de_l_Internet_mort,recherche,0,internet,fr,251,fr,Théorie de l'Internet mort,non
 Therapie_numerique,Therapie_numerique,recherche,0,numerique,fr,2678,fr,Thérapie numérique,non
 Tiers_de_confiance,Tiers_de_confiance,recherche,0,numerique,fr,1307,fr,Tiers de confiance,non
 TightVNC,TightVNC,recherche,0,ordinateur,fr,260,fr,TightVNC,non
-Tiret,Tiret,recherche,0,numerique,fr,2002,fr,Tiret,oui
-Tomodensitometrie,Tomodensitometrie,recherche,0,ordinateur,fr,2707,fr,Tomodensitométrie,oui
 Topologie_numerique,Topologie_numerique,recherche,0,numerique,fr,334,fr,Topologie numérique,non
 Touches_de_fonction,Touches_de_fonction,recherche,0,ordinateur,fr,1482,fr,Touches de fonction,non
 Trace_numerique,Trace_numerique,recherche,0,numerique,fr,1614,fr,Trace numérique,non
@@ -1293,14 +1221,11 @@ Transport_Layer_Security,Transport_Layer_Security,recherche,0,internet,fr,3115,f
 Traque_sur_Internet_film,Traque_sur_Internet_film,recherche,0,internet,fr,1066,fr,Traque sur Internet (film),non
 Travail_numerique,Travail_numerique,recherche,0,numerique,fr,3969,fr,Travail numérique,non
 Tracage_numerique_des_contacts,Tracage_numerique_des_contacts,recherche,0,numerique,fr,1803,fr,Traçage numérique des contacts,non
-Trois_dimensions,Trois_dimensions,recherche,0,ordinateur,fr,732,fr,Trois dimensions,non
 Troll_Internet,Troll_Internet,recherche,0,internet,fr,5049,fr,Troll (Internet),oui
 Telechargement,Telechargement,recherche,0,internet,fr,1112,fr,Téléchargement,non
-Telechargement_homonymie,Telechargement_homonymie,recherche,0,ordinateur,fr,150,fr,Téléchargement (homonymie),non
 Teletravail,Teletravail,recherche,0,internet,fr,7625,fr,Télétravail,oui
 Televiseur,Televiseur,recherche,0,numerique,fr,6010,fr,Téléviseur,non
 Televiseur_connecte,Televiseur_connecte,recherche,0,internet,fr,1805,fr,Téléviseur connecté,non
-Television,Television,recherche,0,numerique,fr,6045,fr,Télévision,oui
 Television_numerique,Television_numerique,recherche,0,numerique,fr,311,fr,Télévision numérique,non
 Television_numerique_par_satellite,Television_numerique_par_satellite,recherche,0,numerique,fr,1402,fr,Télévision numérique par satellite,non
 Television_numerique_terrestre,Television_numerique_terrestre,recherche,0,numerique,fr,8519,fr,Télévision numérique terrestre,oui
@@ -1349,7 +1274,6 @@ Wau_Holland,Wau_Holland,recherche,0,informatique,fr,429,fr,Wau Holland,non
 Wayback_Machine,Wayback_Machine,recherche,0,internet,fr,921,fr,Wayback Machine,non
 Wi_Fi,Wi_Fi,recherche,0,internet,fr,3768,fr,Wi-Fi,oui
 Wikipedia_en_francais,Wikipedia_en_francais,recherche,0,internet,fr,3321,fr,Wikipédia en français,non
-William_Phillips_economiste,William_Phillips_economiste,recherche,0,ordinateur,fr,734,fr,William Phillips (économiste),non
 Windows_10,Windows_10,recherche,0,ordinateur,fr,9511,fr,Windows 10,non
 Windows_Home_Server,Windows_Home_Server,recherche,0,ordinateur,fr,2370,fr,Windows Home Server,non
 Windows_To_Go,Windows_To_Go,recherche,0,ordinateur,fr,732,fr,Windows To Go,non
@@ -1381,7 +1305,6 @@ Ecran_d_ordinateur,Ecran_d_ordinateur,recherche,0,ordinateur,fr,1961,fr,Écran d
 Ecriture_numerique,Ecriture_numerique,recherche,0,numerique,fr,1403,fr,Écriture numérique,non
 Edition_numerique,Edition_numerique,recherche,0,numerique,fr,6022,fr,Édition numérique,non
 Edition_numerique_professionnelle,Edition_numerique_professionnelle,recherche,0,numerique,fr,736,fr,Édition numérique professionnelle,non
-Election_presidentielle_francaise_de_2007,Election_presidentielle_francaise_de_2007,recherche,0,internet,fr,10389,fr,Élection présidentielle française de 2007,non
 Electronique_technique,Electronique_technique,recherche,0,numerique,fr,4437,fr,Électronique (technique),oui
 Electronique_numerique,Electronique_numerique,recherche,0,numerique,fr,461,fr,Électronique numérique,non
 Emulation,Emulation,recherche,0,ordinateur,fr,1216,fr,Émulation,non

@@ -23,7 +23,7 @@ import pandas as pd
 ICI = Path(__file__).resolve().parent
 CORPUS = {
     "br": ICI / "corpus/br/wikipedia_br_numerique_filtre.txt",
-    "fr": ICI / "corpus/fr/wikipedia_fr_numerique_filtre.txt",
+    "fr": ICI / "corpus/fr/wikipedia_fr_numerique_nettoye.txt",
 }
 PAIRES = {
     "br": ICI / "corpus/paires/wikipedia_br_numerique_filtre_aligne_sur_fr.txt",
