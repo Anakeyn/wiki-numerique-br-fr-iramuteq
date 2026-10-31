@@ -4,25 +4,25 @@
 
 | langue   |   articles |    mots |   mediane |   moyenne |
 |:---------|-----------:|--------:|----------:|----------:|
-| br       |        123 |   78238 |       414 |       636 |
+| br       |        121 |   77951 |       419 |       644 |
 | fr       |       1159 | 2342607 |      1164 |      2021 |
 
 ## Équivalents dans l'autre langue
 
 | langue   |   non |   oui |   total |   % avec équivalent |
 |:---------|------:|------:|--------:|--------------------:|
-| br       |    14 |   109 |     123 |                88.6 |
+| br       |    12 |   109 |     121 |                90.1 |
 | fr       |  1057 |   102 |    1159 |                 8.8 |
-| total    |  1071 |   211 |    1282 |                16.5 |
+| total    |  1069 |   211 |    1280 |                16.5 |
 
 ## Articles par terme de recherche
 
 | langue   | terme          |   articles |
 |:---------|:---------------|-----------:|
-| br       | urzhiataer     |         66 |
+| br       | urzhiataer     |         65 |
 | br       | stlenneg       |         28 |
 | br       | niverel        |         18 |
-| br       | genrouedad     |         10 |
+| br       | genrouedad     |          9 |
 | br       | kenrouedad     |          1 |
 | fr       | numerique      |        334 |
 | fr       | ordinateur     |        308 |
@@ -34,7 +34,7 @@
 
 |               |   count |   median |   mean |
 |:--------------|--------:|---------:|-------:|
-| ('br', 'non') |      14 |      350 |    429 |
+| ('br', 'non') |      12 |      388 |    477 |
 | ('br', 'oui') |     109 |      422 |    663 |
 | ('fr', 'non') |    1057 |      997 |   1752 |
 | ('fr', 'oui') |     102 |     3938 |   4814 |
@@ -61,8 +61,6 @@
 - Raktres Translate (brezhoneg) (387 mots)
 - Porzh a-steud (312 mots)
 - Ardivink (301 mots)
-- Kevreizhenn (197 mots)
 - Imran Awan (104 mots)
 - Rainlendar (101 mots)
 - Ajañs vruderezh (95 mots)
-- Kenstroll (90 mots)

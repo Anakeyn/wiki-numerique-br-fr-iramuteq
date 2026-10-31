@@ -2291,24 +2291,11 @@ a_hend_all hag evel evit_an_holl gartennoù askouezh hag an drobarzhelloù e vez
 Ar sturioù se a ra gant daou bennaenn a oa bet krouet : 1) da lakaat ar c_hartennoù rouedad d'ober gant ur c_homenad roet (IPX pe IP da_skouer) ha 2) evit ur gartenn rouedad roet da vezañ ereet gant meur_a gomenad. An NDIS (Network Device Interface Specification) ha an ODI (Open Data Interface) eo ar pennaennoù se ; an hini gentañ a oa bet danzeet gant Microsoft ha 3Com hag an eil gant Novell hag Apple. Hervez ur reizhad korvoiñ rouedad eo e vez dibabet ur bennaenn pe unan all neuze.
 Ur c_hetal kehentiñ eo e tespiz an NDIS etre al live a_is MAC hag an azasaer rouedad.
 
-**** *art_Kenstroll *id_Kenstroll *cat_recherche *prof_0 *terme_genrouedad *equiv_fr_non *lang_br
-Kenstroll a vod stalioù_levrioù a venn souten ur "sevenadur dishual e Breizh".
-An embregerezhioù a zo perzh deus ar genrouedad se a zo en o zouez ar stal_levrioù Ar Vro e Gwaien, ar stal_levrioù Lenn Ha Dilenn e Gwened, ha Ti Ar Sonerien e Konk Kerne. 
-Ar stal_levrioù penn_da_benn, unan deus ar_re gentañ oa bet er genrouedad, a zo kloz abaoe marvedigezh Marijo Mellouët e 2022. 
-Ar stal_levrioù Gweladenn e Sant Nazer, bet dalc_het gant Annie Leroux, a zo kloz abaoe 2019.
-
 **** *art_Ketal_arveriad *id_Ketal_arveriad *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_oui *lang_br
 Dre ar c_hetal arveriad, pe etrefas implijer, e c_hell unan_bennak implij un urzhiataer, pe un ardivink all.
 Dre vras e ra un etrefas daou dra : lakaat a ra an implijer da c_houzout ar_pezh e fell dezhañ gouzout diwar_benn an ardivnk, ha reiñ a ra dezhañ tu da gemmañ peadra a c_hell bezañ kemmet.
 En etrefas un urzhiataer e vez kavet peurliesañ boutonioù a c_heller klikañ warno gant ul logodenn ha lec_hioù ma c_heller skrivañ gant ur c_hlavier evit lakaat an urzhiataer da ober un_dra_bennak.
 da_skouer, en etrefas Wikipedia e c_heller klikañ war al liamm « Kemmañ » evit degas kemmoù en_ur pennad.
-
-**** *art_Kevreizhenn *id_Kevreizhenn *cat_recherche *prof_0 *terme_urzhiataer *equiv_fr_non *lang_br
-Er matematik, ar gevreizhenn a ya da bourvez un disoc_h, niverel d'an_aliesañ, evit pep teskad, hemañ an domani anezhi. War wel e teu an disoc_h se goude_ma vez graet riñverezhioù niveroniel pe dre sevel rolloù talvoudegezhioù pa vez keweriet muzulioù fizikel pe dre hentennoù all, evel diskoulmadur an ataladoù hag an tremen war ar bevennoù. Galloud a ra ar jedadur (rik pe arnesadek) tont eus distegn un treugennad urzhiataerel (anvet roudennad ivez).
-E matematik ar skolioù e vez strishaet deskadurezh ar c_hevreizhennoù d'ar_re werc_hel aparchant d'an argemmennoù gwerc_hel. Bez eus kalz_a gevreizhennoù lakaet da vezañ anvet ar_re voas (krevreizhenn geouenn, an daouvonad, an argemmvarc_henn hag_all) hag e vez posubl o c_henaozañ dre jedadurioù niveroniezh, kediadurioù ha saveladurioù tamm_ha_tamm.
-Perzhioù a zo aparchant d'ar c_hevreizhennoù (argemmusted, reoliegezh, sammegadusted…).
-Hervez damkaniezh an teskadoù, ar gevreizhenn (pe an arloadur) a zo un daveadur evit liammañ daou deskad ken en_deus pep elfenn an hini kentañ ur c_heñver gant un elfenn eus an eil. 
-Hervez damkaniezh ar rizhoù (urzhiataerezh), ar gevreizhenn a zo deskrivadur an hentenn a zegas an disoc_h diwar an arventennoù, da lavared eo m'eo hi an treol evit he jediñ.
 
 **** *art_Komenad_kehentin *id_Komenad_kehentin *cat_recherche *prof_0 *terme_stlenneg *equiv_fr_oui *lang_br
 An dafar diazez implijet evit ar c_hehentiñ a zo frammet tro_dro da drevnadoù a ro al lank da dreuzkas elfennoù daouredel eus ur poent d'un all. Koulskoude e tenn arver an dafar se ouzh ar gouleviñ (pe ar programmiñ) e daoured : un hentenn pounner ha nann hebleustr.

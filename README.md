@@ -16,8 +16,8 @@ Ce dépôt accompagne l'article de blog du même nom. C'est le dernier d'une sé
 
 | Fichier | Contenu | Articles |
 |---|---|---|
-| `corpus/br/wikipedia_br_numerique_pret.txt` | **Analyse 1** : corpus breton, préparé pour le dictionnaire breton (UTF-8) | 123 |
-| `corpus/br/wikipedia_br_numerique_pret_windows.txt` | Le même, en Windows-1252 | 123 |
+| `corpus/br/wikipedia_br_numerique_pret.txt` | **Analyse 1** : corpus breton, préparé pour le dictionnaire breton (UTF-8) | 121 |
+| `corpus/br/wikipedia_br_numerique_pret_windows.txt` | Le même, en Windows-1252 | 121 |
 | `corpus/paires/wikipedia_fr_aligne_sur_br_numerique_filtre.txt` | **Analyse 2** : versions françaises des articles bretons qui ont un équivalent (même `*id_`) | 109 |
 | `corpus/paires/wikipedia_br_paires_pret.txt` | Les 109 articles bretons correspondants, préparés | 109 |
 | `corpus/fr/wikipedia_fr_numerique_nettoye.txt` | Contexte : échantillon de la Wikipédia française sur le numérique, issu de sa propre recherche | 1 159 |
@@ -52,16 +52,16 @@ En breton, il faut donner les formes mutées (`kenrouedad`, `genrouedad`), car l
 
 Pour comparer les mêmes sujets, le périmètre est défini une seule fois, par la recherche en breton. On récupère ensuite la version française de chaque article breton retenu, avec le mode alignement de wiki2iramuteq (étape 5). Les deux langues ont des lexiques et des dictionnaires différents : une classification de Reinert sur un corpus commun séparerait surtout les langues, pas les thèmes. On fait donc deux analyses séparées, que l'on compare ensuite :
 
-1. **le corpus breton** (123 articles), croisé avec `*equiv_fr` : de quoi parle la Wikipédia bretonne, et ce qu'elle est seule à traiter ;
+1. **le corpus breton** (121 articles), croisé avec `*equiv_fr` : de quoi parle la Wikipédia bretonne, et ce qu'elle est seule à traiter ;
 2. **les versions françaises des 109 articles qui ont un équivalent** : comment la Wikipédia française traite les mêmes sujets.
 
-Le corpus breton des paires est le corpus 1 sans ses 14 articles sans équivalent : une analyse à part n'apporterait presque rien. Il est fourni pour qui voudrait comparer exactement les mêmes articles.
+Le corpus breton des paires est le corpus 1 sans ses 12 articles sans équivalent : une analyse à part n'apporterait presque rien. Il est fourni pour qui voudrait comparer exactement les mêmes articles.
 
 Ce choix a un prix : le périmètre est celui des contributeurs bretons. On ne voit pas, dans les classifications, ce qui intéresse la Wikipédia française et que la bretonne n'a pas. Pour donner cet ordre de grandeur, on garde un corpus français issu de sa propre recherche, utilisé seulement pour les statistiques descriptives de `comparer_corpus.py` (voir plus bas pourquoi il n'est qu'un échantillon).
 
 ### Garder les articles sans équivalent
 
-On ne retire pas les articles bretons qui n'ont pas d'équivalent français : ils montrent ce qui n'intéresse que la Wikipédia bretonne. La variable `*equiv_fr_non` permet de les repérer dans IRaMuTeQ. Il n'y en a que 14 sur 123 (Treiñ e brezhoneg, Raktres Translate (brezhoneg), Skoroù treuzkas, OSI…).
+On ne retire pas les articles bretons qui n'ont pas d'équivalent français : ils montrent ce qui n'intéresse que la Wikipédia bretonne. La variable `*equiv_fr_non` permet de les repérer dans IRaMuTeQ. Il n'y en a que 12 sur 121 (Treiñ e brezhoneg, Raktres Translate (brezhoneg), Skoroù treuzkas, OSI…).
 
 ### Préparer le corpus breton
 
@@ -69,9 +69,9 @@ IRaMuTeQ coupe les mots à l'apostrophe : « c'hoari » deviendrait « c » + «
 
 ### Corriger le dictionnaire avant la classification : la version 3
 
-On a d'abord préparé le corpus avec la version 2 du dictionnaire. Les statistiques textuelles d'IRaMuTeQ ont alors montré, parmi les formes actives les plus fréquentes, des lemmes absurdes pour un corpus sur le numérique : *unaniñ* (unir, 159 occurrences), *kell* (cellule, 135), *barzh* (poète, 127), *touiñ* (jurer, 62). Ils venaient de *unan* (« un »), *c'hell* (« peut »), *e-barzh* (« dedans », coupé au tiret) et *e-touez* (« parmi »). Ces formes auraient pesé sur la classification de Reinert.
+On a d'abord préparé le corpus avec la version 2 du dictionnaire. Les statistiques textuelles d'IRaMuTeQ ont alors montré, parmi les formes actives les plus fréquentes, des lemmes absurdes pour un corpus sur le numérique : *unaniñ* (unir, 158 occurrences), *kell* (cellule, 135), *barzh* (poète, 127), *touiñ* (jurer, 61). Ils venaient de *unan* (« un »), *c'hell* (« peut »), *e-barzh* (« dedans », coupé au tiret) et *e-touez* (« parmi »). Ces formes auraient pesé sur la classification de Reinert.
 
-On les a corrigées dans une version 3 du dictionnaire, [Apertium2iramuteq-bretonV3](https://github.com/Anakeyn/Apertium2iramuteq-bretonV3), qui détaille les corrections. La version 2 reste conforme à son article. Le corpus breton de ce dépôt est préparé avec la version 3 : 1 721 occurrences changent de lecture ; *ober* passe de 563 à 739 occurrences et *gallout* de 346 à 480.
+On les a corrigées dans une version 3 du dictionnaire, [Apertium2iramuteq-bretonV3](https://github.com/Anakeyn/Apertium2iramuteq-bretonV3), qui détaille les corrections. La version 2 reste conforme à son article. Le corpus breton de ce dépôt est préparé avec la version 3 : 1 718 occurrences changent de lecture ; *ober* passe de 562 à 737 occurrences et *gallout* de 346 à 480.
 
 ### Nettoyer le corpus français de contexte : pourquoi pas un seuil plus fort
 
@@ -97,13 +97,14 @@ Les listes complètes figurent dans `corpus/fr/exclure.txt` et `corpus/fr/garder
 
 ### Appliquer les mêmes règles aux deux corpus
 
-Les exclusions manuelles doivent suivre la même règle dans les deux langues. Côté français, on avait écarté *Photographie*, *Télévision*, *Film (cinéma)*, *Dessin animé*, *Cartographie*, *ISBN* ou *Maison d'édition* : le numérique y a sa section, mais ce n'est pas le sujet de l'article. Le premier filtrage breton gardait pourtant leurs équivalents. On a donc repris le corpus breton avec la règle française : **on écarte un article quand son sujet n'est pas le numérique, même s'il lui consacre une section.** Cela fait 33 articles de plus :
+Les exclusions manuelles doivent suivre la même règle dans les deux langues. Côté français, on avait écarté *Photographie*, *Télévision*, *Film (cinéma)*, *Dessin animé*, *Cartographie*, *ISBN* ou *Maison d'édition* : le numérique y a sa section, mais ce n'est pas le sujet de l'article. Le premier filtrage breton gardait pourtant leurs équivalents. On a donc repris le corpus breton avec la règle française : **on écarte un article quand son sujet n'est pas le numérique, même s'il lui consacre une section.** Cela fait 35 articles de plus :
 
 - **les mêmes sujets qu'en français** : Luc'hskeudennerezh et Arz al luc'hskeudennerezh (photographie), Skinwel et TV Breizh (télévision), Sinema, Tresadennoù-bev et Bliverezh (animation), Kartennouriezh et Bannerezh-kartenn (cartographie), ISBN, Embannerezh (édition), Holloueziadur (encyclopédie) et Kazetennerezh (journalisme) ;
-- **« niverel » au sens des nombres** : Lizherenneg hengirillek, où les lettres servent aussi de chiffres ;
+- **les nombres et les mathématiques** : Lizherenneg hengirillek, où les lettres servent aussi de chiffres (« niverel » au sens des nombres), et Kevreizhenn, la fonction mathématique, comme *Fonction numérique* côté français ;
+- **« kenrouedad » au sens de « réseau »** : Kenstroll, réseau de librairies bretonnes ;
 - **des articles qui ne citent le numérique qu'en passant** : les siècles et décennies (Eil milved, IIIe milved, XXvet kantved, Bloavezhioù 2000), les chroniques Genver et Meurzh 2006 e Breizh, la Deiziataer ijinadennoù Mab-den, les préfixes du SI (Kilo-, Mega, Giga, Tera, Rakgerioù unanennoù an SI) et le Hertz, le Go (c'hoari), des langues et la linguistique (Islandeg, Yezhoniezh, Nevezc'her), Joseph Loth et Skiantoù an Ditour hag al Levraouegoù.
 
-Holloueziadur et Kazetennerezh étaient gardés à la main malgré une densité inférieure à 2 ‰ : on les a retirés de `corpus/br/garder.txt`. Les autres sont dans `corpus/br/exclure.txt`. Le corpus breton passe de 156 à 123 articles et de 108 000 à 78 000 mots ; 14 articles n'ont pas d'équivalent français, au lieu de 18.
+Holloueziadur et Kazetennerezh étaient gardés à la main malgré une densité inférieure à 2 ‰ : on les a retirés de `corpus/br/garder.txt`. Les autres sont dans `corpus/br/exclure.txt`. Le corpus breton passe de 156 à 121 articles et de 108 000 à 78 000 mots ; 12 articles n'ont pas d'équivalent français, au lieu de 18.
 
 On garde en revanche, comme en français, ce qui parle de la place du numérique dans la culture : Terminator (robotoù), Skynet, Battlestar Galactica, La Chanson du Dimanche, Scopitone, Matte painting… et l'Agence Bretagne Presse, agence de presse née sur le Web.
 
@@ -170,7 +171,7 @@ python3 wiki2iramuteq.py --lang fr \
     --contact "votre@courriel" --sortie ./brut/num_fr
 ```
 
-**Étape 3 : filtrer le corpus breton** (123 articles sur 190)
+**Étape 3 : filtrer le corpus breton** (121 articles sur 190)
 
 ```bash
 python3 filtrer_corpus.py brut/num_br/wikipedia_br_numerique_metadonnees.csv --min-densite 2 \

@@ -1,6 +1,6 @@
 Source : wikipedia_br_numerique_metadonnees.csv
 Occurrences minimales : 2
 Densité minimale : 2.0 ‰
-Exclusions manuelles : Portugal;Rummad kimiek;Tekla Iconium;Niels Henrik Abel;Esparder gravitadur;Niveradur arabek;Matematik;Liu Cixin;Garmenig Ihuellou;George Byron;Kaier;Starship Troopers;Shrek;Atlas (kartennaoueg);Zaman (kazetenn);Luc'hskeudennerezh;Arz al luc'hskeudennerezh;Skinwel;TV Breizh;Sinema;Tresadennoù-bev;Bliverezh;Kartennouriezh;Bannerezh-kartenn;ISBN;Embannerezh;Lizherenneg hengirillek;Joseph Loth;Islandeg;Yezhoniezh;Nevezc'her;Hertz;Kilo-;Mega;Giga;Tera (rakger);Rakgerioù unanennoù an SI;Genver 2006 e Breizh;Meurzh 2006 e Breizh;Eil milved;IIIe milved;XXvet kantved;Bloavezhioù 2000;Deiziataer ijinadennoù Mab-den;Go (c'hoari);Skiantoù an Ditour hag al Levraouegoù;
+Exclusions manuelles : Portugal;Rummad kimiek;Tekla Iconium;Niels Henrik Abel;Esparder gravitadur;Niveradur arabek;Matematik;Liu Cixin;Garmenig Ihuellou;George Byron;Kaier;Starship Troopers;Shrek;Atlas (kartennaoueg);Zaman (kazetenn);Luc'hskeudennerezh;Arz al luc'hskeudennerezh;Skinwel;TV Breizh;Sinema;Tresadennoù-bev;Bliverezh;Kartennouriezh;Bannerezh-kartenn;ISBN;Embannerezh;Lizherenneg hengirillek;Joseph Loth;Islandeg;Yezhoniezh;Nevezc'her;Hertz;Kilo-;Mega;Giga;Tera (rakger);Rakgerioù unanennoù an SI;Genver 2006 e Breizh;Meurzh 2006 e Breizh;Eil milved;IIIe milved;XXvet kantved;Bloavezhioù 2000;Deiziataer ijinadennoù Mab-den;Go (c'hoari);Skiantoù an Ditour hag al Levraouegoù;Kenstroll;Kevreizhenn;
 Conservations forcées : Treiñ e brezhoneg;Listennad kodoù-statud HTTP;Agence Bretagne Presse;
-Articles gardés : 123 sur 190
+Articles gardés : 121 sur 190
