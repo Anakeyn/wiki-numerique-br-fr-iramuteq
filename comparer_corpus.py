@@ -7,8 +7,8 @@ Le script lit les corpus au format IRaMuTeQ (lignes « **** *variable_modalite �
 et produit, dans le dossier resultats/ :
   * comparaison_corpus.csv      : une ligne par article (langue, longueur, variables) ;
   * comparaison_synthese.md     : les tableaux de synthèse, prêts à copier ;
-  * comparaison_longueurs.png   : longueurs d'articles selon la langue et *equiv_ ;
-  * comparaison_paires.png      : longueur br / longueur fr pour les mêmes articles.
+  * wikipedia-numerique-br-fr-longueurs.png : longueurs d'articles selon la langue et *equiv_ ;
+  * wikipedia-numerique-br-fr-paires.png : longueur br / longueur fr pour les mêmes articles.
 
 Usage :
   python3 comparer_corpus.py
@@ -104,7 +104,7 @@ ax.set_xticks(range(1, 5), [f"{l}\néquivalent {e}" for l, e in groupes])
 ax.set_ylabel("mots par article")
 ax.set_title("Longueur des articles (valeurs extrêmes masquées)")
 fig.tight_layout()
-fig.savefig(SORTIE / "comparaison_longueurs.png", dpi=150)
+fig.savefig(SORTIE / "wikipedia-numerique-br-fr-longueurs.png", dpi=150)
 
 
 # %% 7. Les mêmes sujets dans les deux langues : comparer les paires
@@ -126,7 +126,7 @@ ax.set_xscale("log"); ax.set_yscale("log")
 ax.set_xlabel("mots, version française"); ax.set_ylabel("mots, version bretonne")
 ax.set_title("Mêmes articles, deux langues (diagonale : même longueur)")
 fig.tight_layout()
-fig.savefig(SORTIE / "comparaison_paires.png", dpi=150)
+fig.savefig(SORTIE / "wikipedia-numerique-br-fr-paires.png", dpi=150)
 
 
 # %% 8. Avoir un équivalent n'est pas être dans l'autre corpus

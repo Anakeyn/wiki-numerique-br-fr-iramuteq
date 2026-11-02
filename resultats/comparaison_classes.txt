@@ -1,0 +1,22 @@
+109 paires d'articles
+
+Classes françaises des mêmes articles, selon leur classe bretonne (%)
+              classe_1_fr  classe_2_fr  classe_3_fr  classe_4_fr  non_classes_%  segments_fr
+dominante_br                                                                                
+0                      14            6           54           26             16         2004
+1                      48           19           17           15             12         1069
+2                      18           50           24            8              3         3236
+3                       2           18           70           10              5          723
+4                      56            4            8           33             26         2189
+5                      13           29           27           31             35         3578
+
+Articles : classe bretonne (lignes) x classe française (colonnes)
+dominante_fr   0   1   2   3   4  All
+dominante_br                         
+0              4   4   2   3   1   14
+1              1   4   2   0   0    7
+2              0   4  17   1   1   23
+3              0   0   2   3   0    5
+4              9  13   0   1   4   27
+5             11   1   8   4   9   33
+All           25  26  31  12  15  109
