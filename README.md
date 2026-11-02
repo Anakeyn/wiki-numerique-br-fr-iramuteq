@@ -23,7 +23,9 @@ Ce dépôt accompagne l'article de blog du même nom. C'est le dernier d'une sé
 | `corpus/fr/wikipedia_fr_numerique_nettoye.txt` | Contexte : échantillon de la Wikipédia française sur le numérique, issu de sa propre recherche | 1 159 |
 | `dictionnaire/lexique_br.txt` | Dictionnaire breton pour IRaMuTeQ (version 3), à désigner à l'ouverture du corpus breton | |
 | `resultats/comparaison_synthese.md` | Tableaux de comparaison des deux corpus | |
-| `resultats/comparaison_longueurs.png`, `comparaison_paires.png` | Graphiques | |
+| `resultats/wikipedia-numerique-br-fr-longueurs.png`, `wikipedia-numerique-br-fr-paires.png` | Graphiques de `comparer_corpus.py` : longueurs des articles, comparaison des paires | |
+| `resultats/wikipedia-numerique-br-classes-dendrogramme.png`, `wikipedia-numerique-br-classes-afc.png` | Dendrogramme et AFC de la classification du corpus breton, produits par IRaMuTeQ | 121 |
+| `resultats/wikipedia-numerique-fr-classes-dendrogramme.png`, `wikipedia-numerique-fr-classes-afc.png` | Les mêmes pour les versions françaises des paires | 109 |
 | `resultats/classes_par_article_br.csv` | Classe de Reinert de chaque article breton : nombre de segments par classe, classe dominante (analyse à 12 classes en phase 1) | 121 |
 | `resultats/classes_par_article_fr.csv` | Le même tableau pour les versions françaises des paires | 109 |
 | `resultats/comparaison_classes.txt` | Répartition, dans les classes françaises, des articles de chaque classe bretonne | 109 |
