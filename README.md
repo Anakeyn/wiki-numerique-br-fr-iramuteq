@@ -24,6 +24,9 @@ Ce dépôt accompagne l'article de blog du même nom. C'est le dernier d'une sé
 | `dictionnaire/lexique_br.txt` | Dictionnaire breton pour IRaMuTeQ (version 3), à désigner à l'ouverture du corpus breton | |
 | `resultats/comparaison_synthese.md` | Tableaux de comparaison des deux corpus | |
 | `resultats/comparaison_longueurs.png`, `comparaison_paires.png` | Graphiques | |
+| `resultats/classes_par_article_br.csv` | Classe de Reinert de chaque article breton : nombre de segments par classe, classe dominante (analyse à 12 classes en phase 1) | 121 |
+| `resultats/classes_par_article_fr.csv` | Le même tableau pour les versions françaises des paires | 109 |
+| `resultats/comparaison_classes.txt` | Répartition, dans les classes françaises, des articles de chaque classe bretonne | 109 |
 
 Les corpus bretons non préparés (`*_filtre.txt`) et tous les fichiers de métadonnées (`*_metadonnees.csv` : titre, URL, révision, nombre de mots) sont aussi dans `corpus/`.
 
@@ -137,8 +140,10 @@ Tous les scripts utilisés sont dans le dépôt, pour qu'il se suffise à lui-m�
 | `corriger_identifiants.py` | Ce dépôt | Rend les `*id_` uniques |
 | `preparer_corpus_breton.py` | [Apertium2iramuteq-bretonV3](https://github.com/Anakeyn/Apertium2iramuteq-bretonV3) | Prépare un texte breton pour le dictionnaire IRaMuTeQ ; utilise `dictionnaire/expression_br.txt` |
 | `comparer_corpus.py` | Ce dépôt | Compare les deux corpus et écrit `resultats/` |
+| `classes_par_article.py` | Ce dépôt | Ramène les segments classés par IRaMuTeQ à leurs articles (lit `corpus.db` et `uce.csv`) |
+| `comparer_classes.py` | Ce dépôt | Rapproche les classes bretonnes et françaises des mêmes articles par leur `*id_` |
 
-`wiki2iramuteq.py`, `filtrer_corpus.py`, `corriger_identifiants.py` et `preparer_corpus_breton.py` n'utilisent que la bibliothèque standard de Python. `comparer_corpus.py` a besoin de `pandas`, `matplotlib` et `tabulate` :
+`wiki2iramuteq.py`, `filtrer_corpus.py`, `corriger_identifiants.py` et `preparer_corpus_breton.py` n'utilisent que la bibliothèque standard de Python. `comparer_corpus.py` a besoin de `pandas`, `matplotlib` et `tabulate`, `comparer_classes.py` de `pandas` ; `classes_par_article.py` n'utilise que la bibliothèque standard :
 
 ```bash
 pip install -r requirements.txt
@@ -217,6 +222,25 @@ python3 comparer_corpus.py
 ```
 
 Le script est découpé en neuf blocs `# %%` : chemins et bibliothèques, lecture des corpus, taille, part des articles qui ont un équivalent, articles par terme de recherche, longueurs selon `*equiv_`, comparaison des 109 paires, présence des paires dans le corpus français, écriture de la synthèse. Les résultats vont dans `resultats/`.
+
+**Étape 8 : classer les deux corpus dans IRaMuTeQ, puis rapprocher les classes**
+
+Ouvrez `corpus/br/wikipedia_br_numerique_pret.txt` et `corpus/paires/wikipedia_fr_aligne_sur_br_numerique_filtre.txt` dans IRaMuTeQ (voir plus haut), et lancez sur chacun une classification de Reinert simple sur segments de texte, avec **12 classes en phase 1**. IRaMuTeQ crée un dossier `…_corpus_1` à côté du fichier, et un dossier `…_alceste_N` pour chaque analyse (adaptez le numéro à votre analyse). Ramenez ensuite les segments à leurs articles, puis comparez :
+
+```bash
+python3 classes_par_article.py \
+    corpus/br/wikipedia_br_numerique_pret_corpus_1 \
+    corpus/br/wikipedia_br_numerique_pret_corpus_1/wikipedia_br_numerique_pret_alceste_2 \
+    -o resultats/classes_par_article_br.csv
+python3 classes_par_article.py \
+    corpus/paires/wikipedia_fr_aligne_sur_br_numerique_filtre_corpus_1 \
+    corpus/paires/wikipedia_fr_aligne_sur_br_numerique_filtre_corpus_1/wikipedia_fr_aligne_sur_br_numerique_filtre_alceste_1 \
+    -o resultats/classes_par_article_fr.csv
+python3 comparer_classes.py resultats/classes_par_article_br.csv \
+    resultats/classes_par_article_fr.csv > resultats/comparaison_classes.txt
+```
+
+Les numéros de classes dépendent de l'analyse : ceux des fichiers du dépôt correspondent aux classifications décrites dans l'article.
 
 ## 5. Licences
 
