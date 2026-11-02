@@ -1,8 +1,8 @@
 # wiki-numerique-br-fr-iramuteq
 
-Le numérique vu par les Wikipédia bretonne et française : comparer deux corpus avec [IRaMuTeQ](https://pratinaud.gitpages.huma-num.fr/iramuteq-website/).
+Le numérique vu par Wikipédia en breton et en français : comparer deux corpus avec [IRaMuTeQ](https://pratinaud.gitpages.huma-num.fr/iramuteq-website/).
 
-Ce dépôt accompagne l'article de blog du même nom. C'est le dernier d'une série : il réutilise les corpus constitués avec [wiki2iramuteq](https://github.com/Anakeyn/wiki2iramuteq) et le dictionnaire breton d'[Apertium2iramuteq-bretonV3](https://github.com/Anakeyn/Apertium2iramuteq-bretonV3), dont la version 3 corrige des erreurs révélées par ce corpus.
+Ce dépôt accompagne l'article de blog du même nom : [Le numérique vu par Wikipédia en breton et en français](https://www.anakeyn.com/2026/11/02/le-numerique-vu-par-wikipedia-en-breton-et-en-francais-comparer-deux-corpus-avec-iramuteq/). C'est le dernier d'une série : il réutilise les corpus constitués avec [wiki2iramuteq](https://github.com/Anakeyn/wiki2iramuteq) et le dictionnaire breton d'[Apertium2iramuteq-bretonV3](https://github.com/Anakeyn/Apertium2iramuteq-bretonV3), dont la version 3 corrige des erreurs révélées par ce corpus.
 
 ## Sommaire
 
@@ -10,7 +10,8 @@ Ce dépôt accompagne l'article de blog du même nom. C'est le dernier d'une sé
 2. [Nos choix](#2-nos-choix)
 3. [Les scripts](#3-les-scripts)
 4. [Reproduire les corpus et les résultats](#4-reproduire-les-corpus-et-les-résultats)
-5. [Licences](#5-licences)
+5. [Pour en savoir plus](#5-pour-en-savoir-plus)
+6. [Licences](#6-licences)
 
 ## 1. Fichiers prêts à l'emploi : aucune commande nécessaire
 
@@ -20,7 +21,7 @@ Ce dépôt accompagne l'article de blog du même nom. C'est le dernier d'une sé
 | `corpus/br/wikipedia_br_numerique_pret_windows.txt` | Le même, en Windows-1252 | 121 |
 | `corpus/paires/wikipedia_fr_aligne_sur_br_numerique_filtre.txt` | **Analyse 2** : versions françaises des articles bretons qui ont un équivalent (même `*id_`) | 109 |
 | `corpus/paires/wikipedia_br_paires_pret.txt` | Les 109 articles bretons correspondants, préparés | 109 |
-| `corpus/fr/wikipedia_fr_numerique_nettoye.txt` | Contexte : échantillon de la Wikipédia française sur le numérique, issu de sa propre recherche | 1 159 |
+| `corpus/fr/wikipedia_fr_numerique_nettoye.txt` | Contexte : échantillon de Wikipédia en français sur le numérique, issu de sa propre recherche | 1 159 |
 | `dictionnaire/lexique_br.txt` | Dictionnaire breton pour IRaMuTeQ (version 3), à désigner à l'ouverture du corpus breton | |
 | `resultats/comparaison_synthese.md` | Tableaux de comparaison des deux corpus | |
 | `resultats/wikipedia-numerique-br-fr-longueurs.png`, `wikipedia-numerique-br-fr-paires.png` | Graphiques de `comparer_corpus.py` : longueurs des articles, comparaison des paires | |
@@ -38,13 +39,13 @@ Les corpus bretons non préparés (`*_filtre.txt`) et tous les fichiers de méta
 - Corpus breton : encodage **utf-8** (ou **cp1252** pour la version Windows), langue **autre**, dictionnaire **Autre** en désignant `dictionnaire/lexique_br.txt` (copie de la version 3 d'[Apertium2iramuteq-bretonV3](https://github.com/Anakeyn/Apertium2iramuteq-bretonV3)), et décochez **Utiliser le dictionnaire des expressions** : les expressions sont déjà soudées. Si votre version d'IRaMuTeQ ne propose pas le dictionnaire « Autre », suivez la méthode B du dépôt du dictionnaire. Dans la description du corpus, vérifiez le chemin du lexique et que la ligne des expressions indique 0.
 - Corpus français : encodage **utf-8**, langue **français**.
 
-Dans le corpus breton, la variable `*equiv_fr_oui/non` indique si l'article existe aussi dans la Wikipédia française ; dans le corpus français de contexte, `*equiv_br_oui/non` indique l'inverse. Les versions françaises des paires n'en ont pas besoin : elles ont toutes un équivalent breton, et partagent son `*id_`.
+Dans le corpus breton, la variable `*equiv_fr_oui/non` indique si l'article existe aussi dans Wikipédia en français ; dans le corpus français de contexte, `*equiv_br_oui/non` indique l'inverse. Les versions françaises des paires n'en ont pas besoin : elles ont toutes un équivalent breton, et partagent son `*id_`.
 
 ## 2. Nos choix
 
 ### Partir des corpus déjà constitués
 
-Les corpus ont été extraits le 20 octobre 2026 avec wiki2iramuteq, en **mode recherche** : on garde les articles qui contiennent des termes du numérique, plutôt que ceux d'une catégorie. Les arbres de catégories des deux Wikipédia sont trop différents pour être comparés : la Wikipédia bretonne a peu de catégories, et l'équivalent breton d'une catégorie française est souvent absent ou presque vide.
+Les corpus ont été extraits le 20 octobre 2026 avec wiki2iramuteq, en **mode recherche** : on garde les articles qui contiennent des termes du numérique, plutôt que ceux d'une catégorie. Les arbres de catégories des deux Wikipédia sont trop différents pour être comparés : Wikipédia en breton a peu de catégories, et l'équivalent breton d'une catégorie française est souvent absent ou presque vide.
 
 | | Termes de recherche |
 |---|---|
@@ -57,16 +58,16 @@ En breton, il faut donner les formes mutées (`kenrouedad`, `genrouedad`), car l
 
 Pour comparer les mêmes sujets, le périmètre est défini une seule fois, par la recherche en breton. On récupère ensuite la version française de chaque article breton retenu, avec le mode alignement de wiki2iramuteq (étape 5). Les deux langues ont des lexiques et des dictionnaires différents : une classification de Reinert sur un corpus commun séparerait surtout les langues, pas les thèmes. On fait donc deux analyses séparées, que l'on compare ensuite :
 
-1. **le corpus breton** (121 articles), croisé avec `*equiv_fr` : de quoi parle la Wikipédia bretonne, et ce qu'elle est seule à traiter ;
-2. **les versions françaises des 109 articles qui ont un équivalent** : comment la Wikipédia française traite les mêmes sujets.
+1. **le corpus breton** (121 articles), croisé avec `*equiv_fr` : de quoi parle Wikipédia en breton, et ce qu'il est seul à traiter ;
+2. **les versions françaises des 109 articles qui ont un équivalent** : comment Wikipédia en français traite les mêmes sujets.
 
 Le corpus breton des paires est le corpus 1 sans ses 12 articles sans équivalent : une analyse à part n'apporterait presque rien. Il est fourni pour qui voudrait comparer exactement les mêmes articles.
 
-Ce choix a un prix : le périmètre est celui des contributeurs bretons. On ne voit pas, dans les classifications, ce qui intéresse la Wikipédia française et que la bretonne n'a pas. Pour donner cet ordre de grandeur, on garde un corpus français issu de sa propre recherche, utilisé seulement pour les statistiques descriptives de `comparer_corpus.py` (voir plus bas pourquoi il n'est qu'un échantillon).
+Ce choix a un prix : le périmètre est celui des contributeurs bretons. On ne voit pas, dans les classifications, ce qui intéresse Wikipédia en français et que Wikipédia en breton n'a pas. Pour donner cet ordre de grandeur, on garde un corpus français issu de sa propre recherche, utilisé seulement pour les statistiques descriptives de `comparer_corpus.py` (voir plus bas pourquoi il n'est qu'un échantillon).
 
 ### Garder les articles sans équivalent
 
-On ne retire pas les articles bretons qui n'ont pas d'équivalent français : ils montrent ce qui n'intéresse que la Wikipédia bretonne. La variable `*equiv_fr_non` permet de les repérer dans IRaMuTeQ. Il n'y en a que 12 sur 121 (Treiñ e brezhoneg, Raktres Translate (brezhoneg), Skoroù treuzkas, OSI…).
+On ne retire pas les articles bretons qui n'ont pas d'équivalent français : ils montrent ce qui n'intéresse que Wikipédia en breton. La variable `*equiv_fr_non` permet de les repérer dans IRaMuTeQ. Il n'y en a que 12 sur 121 (Treiñ e brezhoneg, Raktres Translate (brezhoneg), Skoroù treuzkas, OSI…).
 
 ### Préparer le corpus breton
 
@@ -244,6 +245,13 @@ python3 comparer_classes.py resultats/classes_par_article_br.csv \
 
 Les numéros de classes dépendent de l'analyse : ceux des fichiers du dépôt correspondent aux classifications décrites dans l'article.
 
-## 5. Licences
+## 5. Pour en savoir plus
+
+- L'article qui présente cette étude, sa démarche et ses résultats : [Le numérique vu par Wikipédia en breton et en français : comparer deux corpus avec IRaMuTeQ](https://www.anakeyn.com/2026/11/02/le-numerique-vu-par-wikipedia-en-breton-et-en-francais-comparer-deux-corpus-avec-iramuteq/).
+- Les articles précédents de la série « IRaMuTeQ et Wikipédia » sur [anakeyn.com](https://www.anakeyn.com/), notamment [Créer des corpus IRaMuTeQ à partir de Wikipédia avec Python : wiki2iramuteq](https://www.anakeyn.com/2026/10/21/creer-des-corpus-iramuteq-a-partir-de-wikipedia-avec-python-wiki2iramuteq/) et [Correction du dictionnaire de breton d'Apertium vers IRaMuTeQ](https://www.anakeyn.com/2026/10/29/correction-du-dictionnaire-de-breton-dapertium-vers-iramuteq/).
+- Les dépôts associés : [wiki2iramuteq](https://github.com/Anakeyn/wiki2iramuteq) et [Apertium2iramuteq-bretonV3](https://github.com/Anakeyn/Apertium2iramuteq-bretonV3).
+- Le site d'[IRaMuTeQ](https://pratinaud.gitpages.huma-num.fr/iramuteq-website/).
+
+## 6. Licences
 
 Code sous licence GNU GPL v3 (voir `LICENSE`). Textes des corpus issus de Wikipédia, sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) ; la liste des articles et leurs révisions figurent dans les fichiers `*_metadonnees.csv`. Les fichiers `dictionnaire/lexique_br.txt` et `dictionnaire/expression_br.txt`, copiés d'Apertium2iramuteq-bretonV3, sont dérivés d'`apertium-bre`, le module breton d'[Apertium](https://www.apertium.org/), distribué sous licence GNU GPL v3.
